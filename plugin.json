@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "create-my-maps",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "Turn data into colored maps of 458 countries, states, districts and constituencies, and get a link that opens the finished, editable map on createmymaps.com.",
   "author": { "name": "Sarthak Arora", "url": "https://createmymaps.com" },
   "homepage": "https://createmymaps.com",
