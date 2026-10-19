@@ -11,7 +11,7 @@ import argparse, base64, csv, difflib, json, os, re, sys, unicodedata
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 REF = os.path.join(HERE, "..", "references")
-BASE_URL = "https://createmymaps.com/app?utm_source=claude&utm_medium=plugin&utm_campaign=createmap"
+BASE_URL = "https://createmymaps.com/app?utm_source={via}&utm_medium=plugin&utm_campaign=createmap"
 MODES = {"flat": "flat", "color": "flat", "tag": "tag", "category": "tag",
          "number": "number", "gradient": "number", "logic": "logic", "rules": "logic"}
 THEMES = {"default", "midnight", "parchment", "neon", "arctic", "dusk", "moss", "sandstone",
@@ -84,7 +84,7 @@ def number(v, where):
         die(f"{where}: expected a plain number, got {v!r}")
 
 
-def build(spec):
+def build(spec, via="claude"):
     catalog = load_catalog()
     map_id = spec.get("map")
     if map_id not in catalog:
@@ -217,7 +217,7 @@ def build(spec):
     report["filled"] = len(state)
     report["total"] = len(regions)
     report["empty"] = [r["name"] for r in regions if r["id"] not in state]
-    return f"{BASE_URL}#s={enc}", payload, report, regions
+    return BASE_URL.format(via=via) + "#s=" + enc, payload, report, regions
 
 
 def write_csv(path, payload, regions):
@@ -255,9 +255,10 @@ def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("spec", help="path to spec JSON, or - for stdin")
     ap.add_argument("--csv", help="also write an importable CSV here")
+    ap.add_argument("--via", default="claude", help="assistant building the map, for link attribution (claude, chatgpt, ...)")
     a = ap.parse_args()
     spec = json.load(sys.stdin if a.spec == "-" else open(a.spec, encoding="utf-8"))
-    url, payload, rep, regions = build(spec)
+    url, payload, rep, regions = build(spec, re.sub(r"[^a-z0-9-]", "", a.via.lower()) or "claude")
 
     if len(url) <= MAX_URL:
         print("LINK:", url)

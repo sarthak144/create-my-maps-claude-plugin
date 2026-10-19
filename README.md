@@ -1,4 +1,4 @@
-# Create My Maps for Claude
+# Create My Maps for Claude and ChatGPT
 
 Ask Claude for a map and get a link that opens it finished on [createmymaps.com](https://createmymaps.com). For example: "map India's population by state", "color the 2024 US election by winner", or "shade Europe by GDP per capita". You can then edit the map and export it as PNG, SVG or PDF.
 
@@ -9,6 +9,9 @@ Ask Claude for a map and get a link that opens it finished on [createmymaps.com]
 - Titles, legends, labels, source lines and pins.
 
 ## Use it
+
+The same plugin works in Claude (`.claude-plugin/plugin.json`) and ChatGPT (`plugin.json`). Both use the skill in `skills/createmap/`.
+
 
 Install the plugin, then type `/createmap` or just ask Claude for a map in plain words. You can provide your own data, or ask Claude to research or estimate it. Claude picks the right map, matches every name to the exact regions, and replies with a link plus a short note on anything it couldn't match or had to estimate.
 

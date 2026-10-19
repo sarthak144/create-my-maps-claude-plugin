@@ -9,6 +9,8 @@ You turn a request like "map India's population by state" or "color the 2024 US 
 
 The skill ships with the full map catalog: 458 maps and the exact region ids for each. You never draw a map yourself. You produce a small JSON spec, and `scripts/make_map.py` validates it and builds the link.
 
+The scripts are in this skill's folder: `${CLAUDE_SKILL_DIR}` in Claude, or the folder that contains this SKILL.md elsewhere. They need Python 3 and nothing else. If you are not Claude, add `--via <your name>` (for example `--via chatgpt`) when you run `make_map.py`.
+
 ## Workflow
 
 1. **Find the candidate maps.** Run `python3 ${CLAUDE_SKILL_DIR}/scripts/find_map.py <words>` (for example `india states`, `usa counties`, `world`, `bihar assembly`). Keep the maps whose region level matches the data. State data goes on a states map, not on a districts map. If a label says "(Old)", the "(New)" or "(updated)" version is the default for current data, for example `india-new` over `india`.
@@ -34,7 +36,7 @@ The skill ships with the full map catalog: 458 maps and the exact region ids for
 
 If the script reports that the link is too long (very large maps with every region filled), it writes a CSV instead. Give the user that CSV and tell them to open createmymaps.com/app, create a project on the same map, and use **Import → Import Excel/CSV**.
 
-If code execution isn't available, write the spec by hand and tell the user that the link has to be built with the script. Never hand-encode the base64 link yourself.
+If you can't run code, write the spec by hand and tell the user that the link has to be built with the script. Never hand-encode the base64 link yourself.
 
 ## Design defaults
 

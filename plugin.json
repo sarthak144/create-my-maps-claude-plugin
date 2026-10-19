@@ -1,0 +1,31 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "create-my-maps",
+  "version": "0.3.0",
+  "description": "Turn data into colored maps of 458 countries, states, districts and constituencies, and get a link that opens the finished, editable map on createmymaps.com.",
+  "author": { "name": "Sarthak Arora", "url": "https://createmymaps.com" },
+  "homepage": "https://createmymaps.com",
+  "repository": "https://github.com/sarthak144/create-my-maps-claude-plugin",
+  "license": "MIT",
+  "keywords": ["maps", "choropleth", "election map", "data visualization", "geography"],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Create My Maps",
+        "shortDescription": "Turn data into colored maps of countries, states and districts",
+        "longDescription": "Ask for a map in plain words, such as \"map India's population by state\" or \"color the 2024 US election by winner\". The assistant picks the right map from 458 (the world, continents, countries, US states and counties, Indian states and constituencies, and more), matches your data to the exact regions, and returns a link that opens the finished map on createmymaps.com, ready to edit and export as PNG, SVG or PDF.",
+        "developerName": "Sarthak Arora",
+        "category": "Data and Analytics",
+        "websiteURL": "https://createmymaps.com",
+        "defaultPrompt": [
+          "Map India's population by state",
+          "Color a world map by GDP per capita",
+          "Make a US map of the 2024 election results"
+        ],
+        "brandColor": "#2563EB",
+        "composerIcon": "./assets/icon.png",
+        "logo": "./assets/logo.png"
+      }
+    }
+  }
+}
