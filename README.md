@@ -16,7 +16,9 @@ For very large maps where the link would be too long, Claude gives you a CSV ins
 
 ## Data
 
-The skill runs entirely inside Claude. The map catalog and region lists are bundled, so it sends nothing to any server while it works. The map data lives in the link's `#` fragment, which browsers never send to the server. It reaches createmymaps.com only when you open the link, and the app reads it in your browser.
+The plugin itself sends nothing anywhere. The map catalog and region lists are bundled, the scripts run inside Claude's sandbox with no network calls, and the plugin stores no data. Claude's only output is a link.
+
+The map's contents are carried in the link's `#` fragment, which browsers don't send to servers. When you open the link, createmymaps.com builds the map in your browser. From then on, the site's own practices apply as for any visitor: it records anonymous usage analytics (including that the visit came from Claude), and if you export or share a map, it saves a copy of that map on its server.
 
 ## Updating the bundled map data
 
