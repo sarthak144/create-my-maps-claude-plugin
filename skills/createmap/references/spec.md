@@ -84,7 +84,7 @@ Rules are checked from top to bottom and the first match wins, so put the highes
 
 ## Reading the report
 
-`make_map.py` prints `LINK:`, followed by:
+`make_map.py` prints a ready-made `[Open the map](…)` line to paste exactly as printed, followed by:
 
 - **Fuzzy-matched**: names it resolved approximately. Check that they're right. For example, "Georgia" could be the US state or the country.
 - **NOT matched**: names it dropped. Rename them using the region list and run the script again.

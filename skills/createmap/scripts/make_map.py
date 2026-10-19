@@ -7,7 +7,7 @@ Usage:
 
 Standard library only. The spec format is documented in references/spec.md.
 """
-import argparse, base64, csv, difflib, json, os, re, sys, unicodedata
+import argparse, base64, csv, difflib, json, os, re, sys, unicodedata, zlib
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 REF = os.path.join(HERE, "..", "references")
@@ -213,11 +213,14 @@ def build(spec, via="claude"):
         es["pins"] = pins
 
     payload = {"v": 1, "n": str(spec.get("name") or spec.get("title") or info["label"]), "m": map_id, "s": state, "e": es}
-    enc = base64.urlsafe_b64encode(json.dumps(payload, separators=(",", ":"), ensure_ascii=False).encode()).decode().rstrip("=")
+    # #z= = deflate-raw compressed payload; ~4-5x shorter than plain #s= base64
+    z = zlib.compressobj(9, zlib.DEFLATED, -15)
+    raw = json.dumps(payload, separators=(",", ":"), ensure_ascii=False).encode()
+    enc = base64.urlsafe_b64encode(z.compress(raw) + z.flush()).decode().rstrip("=")
     report["filled"] = len(state)
     report["total"] = len(regions)
     report["empty"] = [r["name"] for r in regions if r["id"] not in state]
-    return BASE_URL.format(via=via) + "#s=" + enc, payload, report, regions
+    return BASE_URL.format(via=via) + "#z=" + enc, payload, report, regions
 
 
 def write_csv(path, payload, regions):
@@ -261,7 +264,8 @@ def main():
     url, payload, rep, regions = build(spec, re.sub(r"[^a-z0-9-]", "", a.via.lower()) or "claude")
 
     if len(url) <= MAX_URL:
-        print("LINK:", url)
+        print("PASTE THIS LINE EXACTLY:")
+        print(f"[Open the map]({url})")
     else:
         print(f"LINK: (too long for a link — {len(url)} chars; deliver the CSV instead)")
         if not a.csv:

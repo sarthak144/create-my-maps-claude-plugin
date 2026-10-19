@@ -29,10 +29,10 @@ The scripts are in this skill's folder: `${CLAUDE_SKILL_DIR}` in Claude, or the 
 5. **Write the spec** to a file such as `spec.json`, following `references/spec.md`. In `regions`, key each entry by region name or region id. The script matches names fuzzily, so you don't need to look up ids for well-known regions. For dense maps (hundreds of districts or constituencies), check the exact names first with `find_map.py --regions <map_id>` or by reading `references/regions/<map_id>.csv`.
 6. **Build it:** `python3 ${CLAUDE_SKILL_DIR}/scripts/make_map.py spec.json`. Read the report it prints. If any names show up as unmatched or wrongly fuzzy-matched, fix those keys in the spec and run the script again.
 7. **Deliver:**
-   - Give the link as a clickable markdown link, for example `[Open the map](https://createmymaps.com/app#s=...)`.
+   - The script prints a line starting `[Open the map](`. Copy that whole line into your reply exactly as printed, character for character. Don't retype the link, don't reorder its parameters, and don't add spaces or line breaks inside it: one wrong character breaks the map. Never show the link as a bare URL; it must stay a clickable "Open the map" link.
    - Add one or two lines on what the map shows and the data source or year.
    - Briefly list any regions left blank and any values you estimated.
-   - Don't paste the spec or the raw link text into the reply.
+   - Don't paste the spec into the reply.
 
 If the script reports that the link is too long (very large maps with every region filled), it writes a CSV instead. Give the user that CSV and tell them to open createmymaps.com/app, create a project on the same map, and use **Import → Import Excel/CSV**.
 
