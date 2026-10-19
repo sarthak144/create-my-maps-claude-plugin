@@ -1,0 +1,32 @@
+id,name,center_x,center_y
+IR-32,Alborz,229.8,164.4
+IR-15,Kerman,438.6,440.7
+IR-13,Sistan and Baluchestan,577.1,470.5
+IR-31,North Khorasan,441.6,100.7
+IR-30,Razavi Khorasan,499.3,188.6
+IR-29,South Khorasan,524.3,311.4
+IR-16,Kordestan,96.8,177.7
+IR-19,Gilan,186.6,98.4
+IR-17,Kermanshah,90.9,225.9
+IR-01,East Azarbaijan,93.7,78.6
+IR-02,West Azarbaijan,56.5,81.7
+IR-28,Qazvin,192.8,156.8
+IR-11,Zanjan,145.3,145.5
+IR-24,Hamadan,154.7,208.8
+IR-26,Qom,236.1,217.6
+IR-22,Markazi,201.7,220.5
+IR-03,Ardebil,125.9,58.3
+IR-23,Hormozgan,405.4,513.2
+IR-05,Ilam,95.0,282.3
+IR-20,Lorestan,149.3,265.9
+IR-10,Khuzestan,169.3,345.0
+IR-08,Chahar Mahall and Bakhtiari,220.9,330.5
+IR-25,Yazd,390.0,304.1
+IR-07,Tehran,268.4,183.1
+IR-12,Semnan,353.3,168.3
+IR-21,Mazandaran,277.9,146.2
+IR-27,Golestan,372.4,107.2
+IR-14,Fars,307.2,426.0
+IR-04,Esfahan,284.9,298.5
+IR-06,Bushehr,254.1,451.4
+IR-18,Kohgiluyeh and Buyer Ahmad,229.9,372.5

@@ -1,0 +1,20 @@
+id,name,center_x,center_y
+ES-CE,Ceuta,218.3,807.2
+ES-ML,Melilla,361.5,815.2
+ES-CN,Canarias,642.7,826.0
+ES-VC,Valenciana,601.4,364.4
+ES-PV,País Vasco,473.9,69.1
+ES-IB,Islas Baleares,801.3,362.0
+ES-NC,Navarra,533.7,98.3
+ES-MC,Murcia,539.1,463.5
+ES-MD,Madrid,398.9,269.0
+ES-RI,La Rioja,485.1,126.0
+ES-GA,Galicia,142.0,82.5
+ES-EX,Extremadura,259.8,372.8
+ES-CT,Cataluña,738.8,173.7
+ES-CM,Castilla-La Mancha,439.1,335.7
+ES-CL,Castilla y León,361.8,175.6
+ES-CB,Cantabria,387.7,54.9
+ES-AS,Asturias,274.8,43.6
+ES-AR,Aragón,589.2,198.1
+ES-AN,Andalucía,352.4,516.4

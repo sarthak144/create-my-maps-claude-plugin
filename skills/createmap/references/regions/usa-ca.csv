@@ -1,0 +1,59 @@
+id,name,center_x,center_y
+Del Norte,Del Norte,12.5,6.7
+Siskiyou,Siskiyou,23.7,11.8
+Imperial,Imperial,68.0,136.5
+Riverside,Riverside,63.1,126.5
+San Diego,San Diego,53.4,133.4
+Orange,Orange,44.6,123.5
+Los Angeles,Los Angeles,41.1,119.5
+Ventura,Ventura,33.1,109.8
+Santa Barbara,Santa Barbara,24.4,107.2
+San Luis Obispo,San Luis Obispo,22.9,95.6
+Kern,Kern,38.8,99.9
+San Bernardino,San Bernardino,64.4,111.3
+Inyo,Inyo,58.8,87.2
+Tulare,Tulare,40.9,88.9
+Kings,Kings,30.4,87.9
+Madera,Madera,35.2,73.1
+Fresno,Fresno,35.0,79.9
+Monterey,Monterey,18.5,81.7
+San Benito,San Benito,19.9,78.3
+Merced,Merced,25.9,71.9
+Santa Cruz,Santa Cruz,13.0,69.8
+San Mateo,San Mateo,11.1,64.4
+Alameda,Alameda,15.9,62.3
+Santa Clara,Santa Clara,16.2,68.8
+Stanislaus,Stanislaus,24.7,65.5
+Mariposa,Mariposa,35.9,69.4
+Tuolumne,Tuolumne,35.6,63.1
+Mono,Mono,47.3,65.4
+Alpine,Alpine,39.0,56.0
+Calaveras,Calaveras,31.5,60.1
+Amador,Amador,31.6,56.3
+San Joaquin,San Joaquin,22.6,61.2
+Contra Costa,Contra Costa,16.0,59.2
+El Dorado,El Dorado,33.0,52.2
+Sacramento,Sacramento,22.2,54.2
+Solano,Solano,16.7,54.6
+San Franciso,San Franciso,10.6,60.0
+Marin,Marin,9.2,55.2
+Napa,Napa,14.3,50.9
+Sonoma,Sonoma,8.5,49.8
+Yolo,Yolo,18.9,50.4
+Placer,Placer,31.5,48.3
+Nevada,Nevada,33.2,45.2
+Sierra,Sierra,35.5,42.0
+Yuba,Yuba,27.1,43.8
+Sutter,Sutter,22.7,46.1
+Colusa,Colusa,17.4,42.9
+Lake,Lake,12.5,42.0
+Butte,Butte,25.8,37.8
+Glenn,Glenn,17.8,37.1
+Plumas,Plumas,34.3,35.1
+Tehama,Tehama,21.6,31.0
+Mendocino,Mendocino,8.4,36.3
+Humboldt,Humboldt,7.8,19.0
+Trinity,Trinity,15.5,22.7
+Shasta,Shasta,23.6,23.1
+Lassen,Lassen,38.2,30.8
+Modoc,Modoc,40.2,16.4

@@ -1,0 +1,23 @@
+id,name,center_x,center_y
+FR-A,Alsace,512.1,181.6
+FR-B,Aquitaine,192.3,420.8
+FR-C,Auvergne,335.4,335.7
+FR-D,Bourgogne,373.0,241.1
+FR-E,Bretagne,78.7,192.3
+FR-F,Centre,265.4,218.5
+FR-G,Champagne-Ardenne,391.7,142.0
+FR-H,Corse,575.0,538.3
+FR-I,Franche-Comté,456.7,249.8
+FR-J,Île-de-France,303.3,155.1
+FR-K,Languedoc-Roussillon,335.0,455.0
+FR-L,Limousin,266.6,337.0
+FR-M,Lorraine,459.4,152.2
+FR-N,Midi-Pyrénées,264.2,446.1
+FR-O,Nord-Pas-de-Calais,319.4,36.8
+FR-P,Basse-Normandie,179.2,137.3
+FR-Q,Haute-Normandie,238.2,111.3
+FR-R,Pays de la Loire,165.2,232.6
+FR-S,Picardie,316.3,96.6
+FR-T,Poitou-Charentes,192.1,310.4
+FR-U,Provence-Alpes-Côte d'Azur,447.2,431.0
+FR-V,Rhône-Alpes,425.1,358.4

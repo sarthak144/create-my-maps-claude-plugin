@@ -1,0 +1,642 @@
+id,name,center_x,center_y
+IN-D-28-01,Adilabad,286.3,466.5
+IN-D-09-15,Agra,267.8,269.1
+IN-D-24-07,Ahmadabad,117.6,379.1
+IN-D-27-26,Ahmadnagar,177.9,470.0
+IN-D-15-03,Aizawl,642.9,351.1
+IN-D-08-21,Ajmer,178.7,288.3
+IN-D-27-05,Akola,242.8,429.4
+IN-D-32-11,Alappuzha,225.8,715.7
+IN-D-09-12,Aligarh,265.4,248.8
+IN-D-23-48,Alirajpur,172.6,390.6
+IN-D-09-44,Allahabad,364.1,314.5
+IN-D-05-09,Almora,303.7,202.4
+IN-D-08-06,Alwar,230.3,254.7
+IN-D-06-02,Ambala,235.8,186.5
+IN-D-09-47,Ambedkar Nagar,383.1,286.0
+IN-D-27-07,Amravati,252.6,419.4
+IN-D-24-13,Amreli,95.9,414.1
+IN-D-03-15,Amritsar,186.6,149.8
+IN-D-24-15,Anand,131.7,386.6
+IN-D-28-22,Anantapur,254.4,589.5
+IN-D-01-14,Anantnag,197.7,98.4
+IN-D-12-16,Anjaw,742.8,244.6
+IN-D-21-15,Anugul,437.7,420.6
+IN-D-23-44,Anuppur,357.2,371.6
+IN-D-10-07,Araria,502.1,289.6
+IN-D-33-15,Ariyalur,295.4,673.4
+IN-D-23-42,Ashoknagar,261.1,331.4
+IN-D-09-31,Auraiya,302.1,279.7
+IN-D-10-33,Aurangabad,426.1,326.6
+IN-D-27-19,Aurangabad,194.3,448.1
+IN-D-09-60,Azamgarh,393.5,295.1
+IN-D-01-02,Badgam,179.4,96.6
+IN-D-29-02,Bagalkot,204.9,542.9
+IN-D-05-08,Bageshwar,310.3,194.8
+IN-D-09-08,Baghpat,246.9,219.2
+IN-D-09-49,Bahraich,350.6,252.4
+IN-D-18-25,Baksa,602.1,280.0
+IN-D-23-40,Balaghat,322.3,401.6
+IN-D-21-24,Balangir,395.8,433.1
+IN-D-21-08,Baleshwar,490.8,413.8
+IN-D-09-62,Ballia,420.6,299.5
+IN-D-09-51,Balrampur,375.9,259.6
+IN-D-24-02,Banas Kantha,115.5,340.1
+IN-D-09-39,Banda,329.5,310.5
+IN-D-01-09,Bandipore,185.6,78.3
+IN-D-29-29,Bangalore Rural,253.5,628.3
+IN-D-29-18,Bangalore,253.6,627.9
+IN-D-10-23,Banka,488.4,326.0
+IN-D-19-13,Bankura,497.6,369.1
+IN-D-08-27,Banswara,171.9,359.9
+IN-D-09-45,Bara Banki,348.6,272.5
+IN-D-21-01,Bargarh,398.3,417.3
+IN-D-01-08,Baramula,173.4,89.9
+IN-D-08-30,Baran,234.2,323.8
+IN-D-19-09,Barddhaman,508.1,362.1
+IN-D-09-19,Bareilly,299.2,234.1
+IN-D-08-17,Barmer,98.3,306.9
+IN-D-03-20,Barnala,200.5,184.8
+IN-D-18-04,Barpeta,593.9,286.8
+IN-D-23-24,Barwani,188.7,404.3
+IN-D-22-15,Bastar,360.1,462.7
+IN-D-09-54,Basti,381.1,275.0
+IN-D-03-12,Bathinda,188.1,190.3
+IN-D-21-22,Bauda,421.4,432.3
+IN-D-10-20,Begusarai,470.5,308.7
+IN-D-29-01,Belgaum,182.4,546.3
+IN-D-29-11,Bellary,224.0,570.6
+IN-D-23-30,Betul,258.6,401.0
+IN-D-21-09,Bhadrak,483.4,423.6
+IN-D-10-22,Bhagalpur,495.1,314.6
+IN-D-27-10,Bhandara,309.1,420.1
+IN-D-08-07,Bharatpur,247.0,264.4
+IN-D-24-21,Bharuch,137.2,402.1
+IN-D-24-14,Bhavnagar,108.8,406.1
+IN-D-08-24,Bhilwara,181.3,309.3
+IN-D-23-03,Bhind,281.4,287.4
+IN-D-06-13,Bhiwani,212.6,226.9
+IN-D-10-29,Bhojpur,431.0,310.3
+IN-D-23-27,Bhopal,249.3,360.0
+IN-D-27-27,Bid,207.8,475.5
+IN-D-29-04,Bidar,243.3,498.7
+IN-D-22-18,Bijapur,333.8,479.9
+IN-D-29-03,Bijapur,210.8,529.5
+IN-D-09-03,Bijnor,275.9,209.7
+IN-D-08-03,Bikaner,140.5,242.5
+IN-D-22-07,Bilaspur,365.1,387.4
+IN-D-02-08,Bilaspur,230.3,159.1
+IN-D-19-08,Birbhum,506.9,345.4
+IN-D-14-04,Bishnupur,665.5,334.3
+IN-D-20-10,Bokaro,467.9,354.9
+IN-D-18-20,Bongaigaon,584.7,287.3
+IN-D-09-18,Budaun,287.0,243.9
+IN-D-09-11,Bulandshahr,265.8,235.7
+IN-D-27-04,Buldana,223.0,434.4
+IN-D-08-23,Bundi,208.2,310.6
+IN-D-23-50,Burhanpur,222.8,414.8
+IN-D-10-30,Buxar,418.8,308.9
+IN-D-18-17,Cachar,641.0,327.9
+IN-D-07-06,Central,244.4,229.3
+IN-D-02-01,Chamba,222.1,126.3
+IN-D-05-02,Chamoli,304.8,182.1
+IN-D-05-10,Champawat,316.5,212.8
+IN-D-15-04,Champhai,650.9,358.7
+IN-D-29-24,Chamrajnagar,241.2,653.2
+IN-D-09-65,Chandauli,398.3,318.6
+IN-D-14-09,Chandel,672.5,341.3
+IN-D-04-01,Chandigarh,233.1,176.1
+IN-D-27-13,Chandrapur,299.8,446.4
+IN-D-12-09,Changlang,731.5,264.1
+IN-D-20-02,Chatra,439.4,344.4
+IN-D-33-02,Chennai,321.4,624.8
+IN-D-23-08,Chhatarpur,307.6,327.7
+IN-D-23-38,Chhindwara,285.3,394.4
+IN-D-29-28,Chikkaballapura,258.8,611.5
+IN-D-29-16,Chikmagalur,206.4,616.2
+IN-D-18-21,Chirang,585.6,279.8
+IN-D-29-12,Chitradurga,226.8,593.3
+IN-D-09-40,Chitrakoot,343.6,316.0
+IN-D-08-28,Chittaurgarh,187.1,328.7
+IN-D-28-23,Chittoor,291.1,618.6
+IN-D-14-03,Churachandpur,656.1,340.1
+IN-D-08-04,Churu,182.1,240.3
+IN-D-33-31,Coimbatore,238.3,681.9
+IN-D-33-16,Cuddalore,298.3,663.8
+IN-D-28-20,Y.S.R.,282.1,588.9
+IN-D-21-12,Cuttack,458.4,440.3
+IN-D-26-01,Dadra & Nagar Haveli,138.8,443.5
+IN-D-22-17,Dakshin Bastar Dantewada,351.7,485.1
+IN-D-19-05,Dakshin Dinajpur,533.3,312.0
+IN-D-29-21,Dakshina Kannada,192.3,624.8
+IN-D-25-02,Daman,133.4,438.1
+IN-D-23-11,Damoh,302.4,352.3
+IN-D-10-13,Darbhanga,468.4,292.3
+IN-D-19-01,Darjiling,529.3,275.1
+IN-D-18-26,Darrang,621.3,285.2
+IN-D-99-99,Data Not Available,188.2,69.8
+IN-D-23-05,Datia,277.8,298.4
+IN-D-29-13,Davanagere,212.5,591.8
+IN-D-21-04,Debagarh,438.1,412.3
+IN-D-05-05,Dehradun,262.9,183.1
+IN-D-20-05,Deoghar,486.8,338.6
+IN-D-09-59,Deoria,412.4,285.6
+IN-D-23-20,Dewas,226.4,377.4
+IN-D-16-03,Dhalai,618.8,351.5
+IN-D-22-13,Dhamtari,360.4,435.1
+IN-D-20-09,Dhanbad,479.3,351.1
+IN-D-23-21,Dhar,190.4,383.3
+IN-D-33-29,Dharmapuri,269.6,648.2
+IN-D-29-08,Dharwad,191.6,566.1
+IN-D-08-08,Dhaulpur,257.9,279.7
+IN-D-18-09,Dhemaji,692.5,257.1
+IN-D-21-14,Dhenkanal,453.5,427.5
+IN-D-18-02,Dhubri,571.4,298.1
+IN-D-27-02,Dhule,176.1,420.0
+IN-D-12-13,Dibang Valley,719.6,220.9
+IN-D-18-11,Dibrugarh,696.7,260.8
+IN-D-33-11,Dindigul,259.2,691.8
+IN-D-23-36,Dindori,343.0,374.9
+IN-D-25-01,Diu,86.9,430.0
+IN-D-01-16,Doda,205.8,115.3
+IN-D-24-18,Dohad,166.1,374.6
+IN-D-20-17,Dumka,500.3,339.2
+IN-D-08-26,Dungarpur,159.4,355.4
+IN-D-22-10,Durg,349.9,418.3
+IN-D-13-05,Dimapur,664.8,301.4
+IN-D-07-04,East,246.4,229.7
+IN-D-11-04,East,535.6,263.8
+IN-D-17-02,East Garo Hills,583.5,303.6
+IN-D-28-14,East Godavari,367.1,520.8
+IN-D-12-03,East Kameng,642.7,259.7
+IN-D-17-06,East Khasi Hills,613.3,311.9
+IN-D-23-49,East Nimar,229.3,398.5
+IN-D-12-07,East Siang,699.9,241.6
+IN-D-32-08,Ernakulam,226.1,701.5
+IN-D-33-09,Erode,248.4,664.9
+IN-D-09-70,Etah,282.7,257.1
+IN-D-09-30,Etawah,290.8,278.1
+IN-D-09-46,Faizabad,366.1,279.7
+IN-D-06-20,Faridabad,247.7,237.1
+IN-D-03-11,Faridkot,182.1,179.6
+IN-D-09-28,Farrukhabad,300.8,259.9
+IN-D-06-10,Fatehabad,203.1,206.6
+IN-D-03-06,Fatehgarh Sahib,221.9,178.3
+IN-D-09-41,Fatehpur,334.9,300.5
+IN-D-09-16,Firozabad,277.2,266.1
+IN-D-03-09,Firozpur,175.3,180.7
+IN-D-29-07,Gadag,204.8,565.1
+IN-D-21-20,Gajapati,419.6,469.1
+IN-D-01-11,Ganderbal,192.9,85.3
+IN-D-24-06,Gandhinagar,129.1,365.4
+IN-D-08-01,Ganganagar,149.4,208.7
+IN-D-21-19,Ganjam,433.3,458.0
+IN-D-27-12,Garhchiroli,323.1,454.9
+IN-D-20-01,Garhwa,409.0,345.9
+IN-D-05-06,Garhwal,282.4,197.8
+IN-D-09-10,Gautam Buddha Nagar,252.3,235.9
+IN-D-10-34,Gaya,438.1,330.1
+IN-D-09-09,Ghaziabad,256.8,226.8
+IN-D-09-64,Ghazipur,404.1,306.4
+IN-D-20-04,Giridih,470.5,338.6
+IN-D-18-03,Goalpara,584.6,294.8
+IN-D-20-06,Godda,500.1,325.1
+IN-D-18-14,Golaghat,663.8,288.1
+IN-D-09-52,Gonda,367.2,268.2
+IN-D-27-11,Gondiya,321.0,419.6
+IN-D-10-15,Gopalganj,427.0,285.6
+IN-D-09-57,Gorakhpur,400.7,279.1
+IN-D-29-25,Gulbarga,235.7,518.8
+IN-D-20-21,Gumla,429.9,368.5
+IN-D-23-41,Guna,245.7,334.4
+IN-D-28-17,Guntur,316.5,543.0
+IN-D-03-01,Gurdaspur,198.6,141.9
+IN-D-06-18,Gurgaon,237.6,236.3
+IN-D-23-04,Gwalior,271.4,297.5
+IN-D-18-19,Hailakandi,634.8,334.2
+IN-D-02-06,Hamirpur,226.5,152.6
+IN-D-09-37,Hamirpur,311.4,301.9
+IN-D-08-02,Hanumangarh,179.5,210.9
+IN-D-19-15,Haora,520.9,385.2
+IN-D-23-31,Harda,242.4,391.7
+IN-D-09-24,Hardoi,321.6,262.3
+IN-D-05-13,Hardwar,264.9,197.5
+IN-D-29-20,Hassan,215.8,625.7
+IN-D-09-13,Mahamaya Nagar,269.4,257.1
+IN-D-29-10,Haveri,198.8,582.9
+IN-D-20-15,Hazaribagh,454.1,346.8
+IN-D-27-16,Hingoli,241.0,460.3
+IN-D-06-12,Hisar,208.0,214.1
+IN-D-23-32,Hoshangabad,263.0,382.7
+IN-D-03-04,Hoshiarpur,211.1,153.9
+IN-D-19-12,Hugli,518.4,374.7
+IN-D-28-05,Hyderabad,276.0,515.0
+IN-D-32-09,Idukki,239.4,707.4
+IN-D-14-07,Imphal East,669.5,326.5
+IN-D-14-06,Imphal West,649.1,329.2
+IN-D-23-22,Indore,209.2,379.8
+IN-D-23-34,Jabalpur,314.3,367.0
+IN-D-21-11,Jagatsinghapur,477.4,443.9
+IN-D-17-07,Jaintia Hills,629.8,311.9
+IN-D-08-12,Jaipur,203.4,267.1
+IN-D-08-16,Jaisalmer,84.2,270.1
+IN-D-21-13,Jajapur,471.3,426.5
+IN-D-03-03,Jalandhar,201.1,161.9
+IN-D-09-34,Jalaun,300.9,293.6
+IN-D-27-03,Jalgaon,202.8,427.3
+IN-D-27-18,Jalna,215.0,449.6
+IN-D-08-18,Jalor,115.6,316.4
+IN-D-19-02,Jalpaiguri,547.2,280.3
+IN-D-01-21,Jammu,183.1,124.8
+IN-D-24-10,Jamnagar,56.0,389.5
+IN-D-20-18,Jamtara,490.0,347.6
+IN-D-10-36,Jamui,473.1,327.9
+IN-D-22-06,Janjgir-Champa,386.5,398.7
+IN-D-22-03,Jashpur,414.0,378.4
+IN-D-09-63,Jaunpur,381.2,301.5
+IN-D-23-47,Jhabua,177.6,377.3
+IN-D-06-15,Jhajjar,229.3,230.0
+IN-D-08-31,Jhalawar,218.6,339.1
+IN-D-09-35,Jhansi,286.1,308.4
+IN-D-21-02,Jharsuguda,414.3,402.9
+IN-D-08-05,Jhunjhunun,202.3,243.6
+IN-D-08-15,Jodhpur,133.0,277.5
+IN-D-18-13,Jorhat,676.0,276.9
+IN-D-24-12,Junagadh,75.8,418.1
+IN-D-09-06,Jyotiba Phule Nagar,273.3,226.6
+IN-D-24-01,Kachchh,59.8,354.5
+IN-D-10-31,Kaimur (Bhabua),406.7,322.4
+IN-D-06-05,Kaithal,222.3,198.3
+IN-D-21-26,Kalahandi,395.3,453.2
+IN-D-18-22,Kamrup,604.1,292.5
+IN-D-18-23,Kamrup Metropolitan,615.0,294.9
+IN-D-33-03,Kancheepuram,312.9,634.4
+IN-D-21-21,Kandhamal,417.7,445.3
+IN-D-02-02,Kangra,222.0,141.9
+IN-D-22-14,Uttar Bastar Kanker,343.2,445.6
+IN-D-09-29,Kannauj,306.6,271.0
+IN-D-33-28,Kanniyakumari,247.7,745.0
+IN-D-32-02,Kannur,202.2,652.2
+IN-D-09-32,Kanpur Dehat,311.0,284.4
+IN-D-09-33,Kanpur Nagar,321.5,285.2
+IN-D-09-71,Kansiram Nagar,285.6,250.8
+IN-D-03-02,Kapurthala,198.8,159.5
+IN-D-18-15,Karbi Anglong,645.7,294.6
+IN-D-01-04,Kargil,224.8,96.2
+IN-D-18-18,Karimganj,629.9,332.4
+IN-D-28-03,Karimnagar,300.6,486.1
+IN-D-06-06,Karnal,234.8,202.6
+IN-D-33-12,Karur,268.4,681.8
+IN-D-32-01,Kasaragod,191.7,641.0
+IN-D-01-07,Kathua,202.5,129.6
+IN-D-10-10,Katihar,509.1,307.8
+IN-D-23-33,Katni,324.9,354.1
+IN-D-09-43,Kaushambi,352.6,308.1
+IN-D-21-10,Kendrapara,484.5,434.7
+IN-D-21-06,Kendujhar,461.8,408.4
+IN-D-10-21,Khagaria,481.8,309.3
+IN-D-28-10,Khammam,335.3,507.0
+IN-D-24-16,Kheda,138.3,375.2
+IN-D-09-22,Kheri,331.9,240.9
+IN-D-21-17,Khordha,454.9,447.3
+IN-D-20-20,Khunti,449.1,374.4
+IN-D-02-12,Kinnaur,273.9,154.3
+IN-D-13-09,Kiphire,691.2,301.1
+IN-D-10-08,Kishanganj,516.9,290.1
+IN-D-01-18,Kishtwar,216.8,103.1
+IN-D-19-03,Koch Bihar,550.0,290.1
+IN-D-29-22,Kodagu,207.8,642.2
+IN-D-20-03,Kodarma,454.6,335.5
+IN-D-13-10,Kohima,674.0,302.2
+IN-D-18-01,Kokrajhar,572.3,283.3
+IN-D-29-27,Kolar,269.6,621.9
+IN-D-15-02,Kolasib,638.0,341.2
+IN-D-27-34,Kolhapur,167.6,538.5
+IN-D-19-16,Kolkata,526.9,383.5
+IN-D-32-13,Kollam,235.6,729.0
+IN-D-29-06,Koppal,220.8,561.1
+IN-D-21-29,Koraput,385.0,480.9
+IN-D-22-05,Korba,381.9,384.6
+IN-D-22-01,Koriya,370.1,361.6
+IN-D-08-29,Kota,216.1,316.9
+IN-D-32-10,Kottayam,230.6,712.0
+IN-D-32-04,Kozhikode,209.4,665.5
+IN-D-28-16,Krishna,334.8,539.5
+IN-D-33-30,Krishnagiri,266.1,638.7
+IN-D-01-15,Kulgam,183.9,102.3
+IN-D-02-04,Kullu,249.1,147.0
+IN-D-01-01,Kupwara,169.2,78.5
+IN-D-28-21,Kurnool,263.0,562.1
+IN-D-06-04,Kurukshetra,233.1,193.3
+IN-D-12-12,Kurung Kumey,653.8,245.7
+IN-D-09-58,Kushinagar,415.9,272.9
+IN-D-02-03,Lahul & Spiti,252.1,131.3
+IN-D-18-08,Lakhimpur,674.2,266.5
+IN-D-10-25,Lakhisarai,471.0,317.9
+IN-D-09-36,Lalitpur,279.0,329.4
+IN-D-20-14,Latehar,428.5,355.1
+IN-D-27-28,Latur,232.3,490.5
+IN-D-15-07,Lawangtlai,638.5,388.5
+IN-D-01-03,Leh (Ladakh),273.3,88.8
+IN-D-20-11,Lohardaga,433.6,360.4
+IN-D-12-15,Lohit,727.2,246.6
+IN-D-13-08,Longleng,690.7,281.5
+IN-D-12-14,Lower Dibang Valley,718.3,236.9
+IN-D-12-11,Lower Subansiri,668.8,254.5
+IN-D-09-26,Lucknow,337.5,275.3
+IN-D-03-07,Ludhiana,210.0,174.7
+IN-D-15-06,Lunglei,639.0,373.8
+IN-D-10-11,Madhepura,489.3,301.7
+IN-D-10-05,Madhubani,473.5,287.4
+IN-D-33-22,Madurai,263.4,704.1
+IN-D-09-56,Maharajganj,404.6,266.3
+IN-D-22-12,Mahasamund,382.0,418.5
+IN-D-28-07,Mahbubnagar,270.3,536.8
+IN-D-34-03,Mahe,201.8,658.8
+IN-D-06-16,Mahendragarh,216.9,242.1
+IN-D-24-04,Mahesana,122.1,358.0
+IN-D-09-38,Mahoba,307.8,313.1
+IN-D-09-17,Mainpuri,291.6,265.9
+IN-D-32-05,Malappuram,218.3,674.5
+IN-D-19-06,Maldah,521.0,319.2
+IN-D-21-30,Malkangiri,363.8,492.4
+IN-D-15-01,Mamit,631.6,353.3
+IN-D-02-05,Mandi,238.9,152.8
+IN-D-23-37,Mandla,329.6,380.4
+IN-D-23-16,Mandsaur,198.3,340.5
+IN-D-29-19,Mandya,234.5,635.8
+IN-D-03-13,Mansa,200.0,197.9
+IN-D-18-05,Marigaon,626.3,288.9
+IN-D-09-14,Mathura,254.5,255.7
+IN-D-09-61,Mau,405.5,295.4
+IN-D-21-07,Mayurbhanj,478.1,400.0
+IN-D-28-04,Medak,271.4,503.2
+IN-D-09-07,Meerut,258.9,220.2
+IN-D-06-19,Mewat,241.3,245.8
+IN-D-09-68,Mirzapur,381.9,323.4
+IN-D-03-08,Moga,192.1,174.6
+IN-D-13-02,Mokokchung,683.8,284.3
+IN-D-13-01,Mon,696.2,277.6
+IN-D-09-04,Moradabad,281.9,225.0
+IN-D-23-02,Morena,259.9,286.6
+IN-D-03-10,Muktsar,176.3,187.4
+IN-D-27-23,Mumbai,133.6,475.2
+IN-D-27-22,Mumbai Suburban,134.3,470.9
+IN-D-10-24,Munger,480.5,316.1
+IN-D-19-07,Murshidabad,525.3,339.9
+IN-D-09-02,Muzaffarnagar,254.5,208.9
+IN-D-10-14,Muzaffarpur,450.0,292.5
+IN-D-29-23,Mysore,226.8,647.0
+IN-D-21-28,Nabarangapur,374.7,458.1
+IN-D-19-10,Nadia,530.1,358.8
+IN-D-18-06,Nagaon,641.6,291.1
+IN-D-08-14,Nagaur,168.8,269.4
+IN-D-27-09,Nagpur,288.6,419.5
+IN-D-05-11,Nainital,300.0,212.6
+IN-D-10-27,Nalanda,455.7,316.2
+IN-D-18-24,Nalbari,604.3,287.3
+IN-D-28-08,Nalgonda,298.6,522.5
+IN-D-33-08,Namakkal,266.4,669.5
+IN-D-27-15,Nanded,255.4,471.6
+IN-D-27-01,Nandurbar,167.2,410.3
+IN-D-22-16,Narayanpur,342.8,457.4
+IN-D-24-20,Narmada,153.6,404.6
+IN-D-23-35,Narsimhapur,290.6,374.1
+IN-D-27-20,Nashik,165.1,443.0
+IN-D-24-23,Navsari,139.8,427.6
+IN-D-10-35,Nawada,458.9,326.4
+IN-D-21-16,Nayagarh,441.2,442.6
+IN-D-23-15,Neemuch,192.1,330.6
+IN-D-28-19,Sri Potti Sriramulu Nellore,306.5,593.7
+IN-D-07-05,New Delhi,244.5,230.1
+IN-D-28-02,Nizamabad,266.8,485.8
+IN-D-07-02,North,244.1,227.3
+IN-D-11-01,North,531.0,251.9
+IN-D-19-11,North 24 Parganas,536.3,387.8
+IN-D-18-16,Dima Hasao,645.2,311.7
+IN-D-07-03,North East,245.9,227.2
+IN-D-30-01,North Goa,162.3,562.1
+IN-D-16-04,North Tripura,622.9,344.9
+IN-D-07-01,North West,241.1,225.9
+IN-D-21-25,Nuapada,380.9,435.1
+IN-D-27-29,Osmanabad,214.3,495.1
+IN-D-20-08,Pakur,509.4,333.6
+IN-D-32-06,Palakkad,225.4,682.7
+IN-D-20-13,Palamu,421.6,341.6
+IN-D-08-20,Pali,152.1,306.3
+IN-D-06-21,Palwal,246.7,244.1
+IN-D-24-17,Panch Mahals,154.8,375.8
+IN-D-06-01,Panchkula,238.1,177.0
+IN-D-06-07,Panipat,236.3,211.8
+IN-D-23-09,Panna,320.2,335.2
+IN-D-12-04,Papum Pare,663.3,263.3
+IN-D-27-17,Parbhani,230.3,466.3
+IN-D-10-01,Pashchim Champaran,424.3,269.4
+IN-D-19-18,Pashchim Medinipur,498.5,388.8
+IN-D-20-23,Pashchimi Singhbhum,455.2,386.9
+IN-D-24-03,Patan,105.7,352.9
+IN-D-32-12,Pathanamthitta,235.8,720.9
+IN-D-03-14,Patiala,222.9,188.7
+IN-D-10-28,Patna,451.6,309.9
+IN-D-33-14,Perambalur,287.1,670.0
+IN-D-13-11,Peren,661.4,310.3
+IN-D-13-06,Phek,684.4,304.3
+IN-D-09-20,Pilibhit,315.4,232.8
+IN-D-05-07,Pithoragarh,326.0,191.6
+IN-D-24-11,Porbandar,55.0,408.0
+IN-D-28-18,Prakasam,305.1,559.5
+IN-D-08-33,Pratapgarh,179.0,346.6
+IN-D-09-42,Pratapgarh,362.8,299.6
+IN-D-33-20,Pudukkottai,286.0,695.3
+IN-D-01-12,Pulwama,187.7,94.9
+IN-D-01-05,Punch,168.2,101.0
+IN-D-27-25,Pune,168.8,483.1
+IN-D-10-02,Purba Champaran,439.2,280.1
+IN-D-19-19,Purba Medinipur,513.5,396.4
+IN-D-20-12,Purbi Singhbhum,479.6,382.3
+IN-D-21-18,Puri,461.1,452.9
+IN-D-10-09,Purnia,503.6,301.9
+IN-D-19-14,Puruliya,476.6,367.3
+IN-D-09-27,Rae Bareli,344.1,291.1
+IN-D-29-05,Raichur,236.8,548.9
+IN-D-22-04,Raigarh,400.5,396.1
+IN-D-27-24,Raigarh,143.6,486.9
+IN-D-22-11,Raipur,372.4,427.6
+IN-D-23-29,Raisen,266.4,365.8
+IN-D-01-06,Rajouri,172.7,110.5
+IN-D-23-25,Rajgarh,231.6,350.4
+IN-D-24-09,Rajkot,80.4,389.0
+IN-D-22-09,Rajnandgaon,335.4,424.1
+IN-D-08-25,Rajsamand,161.3,312.1
+IN-D-29-30,Ramanagara,247.8,633.6
+IN-D-33-25,Ramanathapuram,282.1,714.8
+IN-D-01-17,Ramban,193.4,109.8
+IN-D-20-16,Ramgarh,455.8,355.2
+IN-D-09-05,Rampur,292.8,225.9
+IN-D-20-19,Ranchi,451.8,364.9
+IN-D-28-06,Rangareddy,266.9,517.8
+IN-D-23-17,Ratlam,190.8,359.9
+IN-D-27-32,Ratnagiri,148.5,517.7
+IN-D-21-27,Rayagada,402.8,462.8
+IN-D-01-20,Reasi,182.8,113.6
+IN-D-23-13,Rewa,357.6,327.9
+IN-D-06-17,Rewari,227.8,240.0
+IN-D-17-05,Ri Bhoi,615.2,299.4
+IN-D-06-14,Rohtak,227.6,222.8
+IN-D-10-32,Rohtas,416.0,323.3
+IN-D-05-03,Rudraprayag,291.8,181.8
+IN-D-03-17,Rupnagar,226.6,167.2
+IN-D-24-05,Sabar Kantha,142.1,352.9
+IN-D-23-10,Sagar,282.0,352.1
+IN-D-09-01,Saharanpur,252.4,195.2
+IN-D-10-12,Saharsa,482.5,300.4
+IN-D-20-07,Sahibganj,511.0,321.0
+IN-D-03-18,Sahibzada Ajit Singh Nagar,232.0,178.3
+IN-D-15-08,Saiha,645.5,388.3
+IN-D-33-07,Salem,270.4,660.9
+IN-D-10-19,Samastipur,466.7,302.0
+IN-D-01-22,Samba,190.6,128.9
+IN-D-21-03,Sambalpur,423.8,409.1
+IN-D-27-35,Sangli,180.1,520.5
+IN-D-03-19,Sangrur,210.3,189.4
+IN-D-09-55,Sant Kabir Nagar,392.0,277.0
+IN-D-09-67,Sant Ravi Das Nagar(Bhadohi),377.3,312.6
+IN-D-20-24,Saraikela-Kharsawan,464.3,377.1
+IN-D-10-17,Saran (Chhapra),437.1,298.3
+IN-D-27-31,Satara,168.3,508.8
+IN-D-23-12,Satna,337.3,332.4
+IN-D-23-28,Sehore,244.8,369.4
+IN-D-14-01,Senapati,672.5,319.1
+IN-D-23-39,Seoni,308.4,390.9
+IN-D-15-05,Serchhip,643.6,365.6
+IN-D-23-43,Shahdol,352.9,355.9
+IN-D-03-05,Shahid Bhagat Singh Nagar,217.3,166.1
+IN-D-09-21,Shahjahanpur,311.3,246.4
+IN-D-23-19,Shajapur,222.8,354.3
+IN-D-10-26,Sheikhpura,462.3,318.4
+IN-D-10-03,Sheohar,449.2,283.0
+IN-D-23-01,Sheopur,240.8,302.9
+IN-D-02-11,Shimla,255.5,163.3
+IN-D-29-14,Shimoga,194.5,599.6
+IN-D-23-06,Shivpuri,257.6,312.2
+IN-D-09-50,Shrawasti,363.7,255.5
+IN-D-01-13,Shupiyan,182.7,100.1
+IN-D-18-12,Sivasagar,693.1,271.1
+IN-D-09-53,Siddharth Nagar,387.8,264.3
+IN-D-23-45,Sidhi,361.8,341.9
+IN-D-08-13,Sikar,198.1,254.2
+IN-D-20-22,Simdega,430.4,383.1
+IN-D-27-33,Sindhudurg,156.6,546.9
+IN-D-23-46,Singrauli,374.7,340.9
+IN-D-02-10,Sirmaur,249.6,176.9
+IN-D-08-19,Sirohi,129.8,326.6
+IN-D-06-11,Sirsa,185.2,204.7
+IN-D-10-04,Sitamarhi,455.7,281.8
+IN-D-09-23,Sitapur,336.9,258.1
+IN-D-33-21,Sivaganga,278.7,703.5
+IN-D-10-16,Siwan,426.6,293.0
+IN-D-02-09,Solan,236.9,167.9
+IN-D-27-30,Solapur,201.3,503.6
+IN-D-21-23,Subarnapur,413.3,427.1
+IN-D-09-69,Sonbhadra,392.1,337.3
+IN-D-06-08,Sonipat,235.1,218.9
+IN-D-18-07,Sonitpur,646.6,276.9
+IN-D-07-09,South,244.6,232.6
+IN-D-11-03,South,528.4,263.2
+IN-D-19-17,South 24 Parganas,528.8,395.9
+IN-D-17-03,South Garo Hills,584.2,312.9
+IN-D-30-02,South Goa,164.2,572.5
+IN-D-16-02,South Tripura,609.3,363.5
+IN-D-07-08,South West,239.4,230.9
+IN-D-28-11,Srikakulam,419.0,483.6
+IN-D-01-10,Srinagar,186.2,89.1
+IN-D-09-48,Sultanpur,368.7,288.3
+IN-D-21-05,Sundargarh,428.2,396.4
+IN-D-10-06,Supaul,486.5,289.3
+IN-D-24-25,Surat,140.7,418.4
+IN-D-24-08,Surendranagar,100.8,376.9
+IN-D-22-02,Surguja,398.5,363.3
+IN-D-14-02,Tamenglong,659.0,322.4
+IN-D-03-16,Tarn Taran,185.3,161.0
+IN-D-12-01,Tawang,620.0,254.1
+IN-D-05-04,Tehri Garhwal,276.5,182.9
+IN-D-27-21,Thane,142.8,458.6
+IN-D-33-19,Thanjavur,294.2,685.9
+IN-D-24-22,The Dangs,155.1,427.8
+IN-D-33-10,The Nilgiris,229.3,665.9
+IN-D-33-23,Theni,250.2,706.1
+IN-D-33-01,Thiruvallur,310.4,619.9
+IN-D-32-14,Thiruvananthapuram,238.3,738.8
+IN-D-33-18,Thiruvarur,302.9,686.2
+IN-D-33-26,Thoothukkudi,264.9,732.0
+IN-D-14-05,Thoubal,670.5,334.8
+IN-D-32-07,Thrissur,224.4,690.5
+IN-D-23-07,Tikamgarh,286.9,321.8
+IN-D-18-10,Tinsukia,711.8,255.8
+IN-D-12-10,Tirap,707.2,272.1
+IN-D-33-13,Tiruchirappalli,279.1,681.2
+IN-D-33-27,Tirunelveli,253.1,733.7
+IN-D-33-32,Tiruppur,250.8,682.6
+IN-D-33-05,Tiruvannamalai,294.6,641.0
+IN-D-08-22,Tonk,206.3,293.2
+IN-D-13-07,Tuensang,692.7,291.8
+IN-D-29-17,Tumkur,237.1,612.6
+IN-D-08-32,Udaipur,155.6,335.5
+IN-D-18-27,Udalguri,621.2,278.4
+IN-D-01-19,Udhampur,197.8,121.2
+IN-D-05-12,Udham Singh Nagar,301.0,219.2
+IN-D-29-15,Udupi,185.3,614.2
+IN-D-23-18,Ujjain,205.6,365.1
+IN-D-14-08,Ukhrul,681.5,319.6
+IN-D-23-14,Umaria,338.9,356.1
+IN-D-02-07,Una,218.6,154.6
+IN-D-09-25,Unnao,329.0,281.8
+IN-D-12-08,Upper Siang,690.9,226.4
+IN-D-12-05,Upper Subansiri,667.9,239.6
+IN-D-19-04,Uttar Dinajpur,522.4,299.5
+IN-D-29-09,Uttara Kannada,177.3,582.5
+IN-D-05-01,Uttarkashi,278.9,170.2
+IN-D-24-19,Vadodara,151.6,389.9
+IN-D-10-18,Vaishali,451.0,302.6
+IN-D-24-24,Valsad,139.9,437.8
+IN-D-09-66,Varanasi,389.6,312.4
+IN-D-33-04,Vellore,292.1,633.3
+IN-D-23-26,Vidisha,258.6,351.0
+IN-D-33-06,Viluppuram,297.6,652.5
+IN-D-33-24,Virudunagar,274.9,717.0
+IN-D-28-13,Visakhapatnam,383.0,502.0
+IN-D-28-12,Vizianagaram,401.6,487.1
+IN-D-28-09,Warangal,308.9,500.4
+IN-D-27-08,Wardha,280.4,427.8
+IN-D-27-06,Washim,242.7,440.9
+IN-D-32-03,Wayanad,216.2,659.1
+IN-D-07-07,West,240.6,228.9
+IN-D-11-02,West,523.0,261.6
+IN-D-17-01,West Garo Hills,572.2,307.1
+IN-D-28-15,West Godavari,349.6,527.4
+IN-D-12-02,West Kameng,631.4,262.5
+IN-D-17-04,West Khasi Hills,601.7,308.6
+IN-D-23-23,West Nimar,206.4,398.9
+IN-D-12-06,West Siang,682.3,238.0
+IN-D-16-01,West Tripura,606.3,353.4
+IN-D-13-04,Wokha,674.9,290.1
+IN-D-29-26,Yadgir,235.9,535.8
+IN-D-27-14,Yavatmal,269.8,447.1
+IN-D-13-03,Zunheboto,683.9,295.8
+IN-D-22-08,Kabeerdham,345.4,395.1
+IN-D-06-03,Yamunanagar,247.3,189.3
+IN-D-06-09,Jind,222.2,208.7
+IN-D-08-11,Dausa,229.1,276.0
+IN-D-08-09,Karauli,237.4,283.1
+IN-D-08-10,Sawai Madhopur,225.7,290.6
+IN-D-10-38,Arwal,433.5,317.1
+IN-D-10-37,Jehanabad,442.9,317.9
+IN-D-33-17,Nagappattinam,307.3,681.3
+IN-D-34-04,Karaikal,309.6,679.4
+IN-D-34-02,Puducherry,308.4,654.0
+IN-D-34-01,Yanam,372.1,531.6
+IN-D-24-26,Tapi,156.7,418.6
+IN-D-35-01,Nicobar,653.6,753.3
+IN-D-35-03,South Andaman,646.2,666.7
+IN-D-35-02,North & Middle Andaman,656.9,629.6
+IN-D-31-01,Lakshadweep,135.4,694.2

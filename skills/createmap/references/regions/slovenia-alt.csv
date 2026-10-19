@@ -1,0 +1,213 @@
+id,name,center_x,center_y
+SI-073,Metlika,575.3,696.1
+SI-001,Ajdovščina,165.7,583.6
+SI-213,Ankaran,107.7,726.9
+SI-195,Apače,744.4,247.8
+SI-002,Beltinci,848.8,283.9
+SI-148,Benedikt,750.4,281.1
+SI-149,Bistrica ob Sotli,680.8,520.6
+SI-003,Bled,206.9,396.1
+SI-150,Bloke,337.5,637.2
+SI-004,Bohinj,172.1,416.1
+SI-005,Borovnica,298.5,584.1
+SI-006,Bovec,72.3,392.7
+SI-151,Braslovče,492.6,425.5
+SI-007,Brda,53.3,539.1
+SI-008,Brezovica,313.5,568.3
+SI-009,Brežice,666.4,572.8
+SI-152,Cankova,789.4,229.5
+SI-011,Celje,567.9,436.5
+SI-012,Cerklje na Gorenjskem,337.1,436.4
+SI-013,Cerknica,299.4,632.4
+SI-014,Cerkno,179.8,492.6
+SI-153,Cerkvenjak,764.9,304.7
+SI-196,Cirkulane,780.2,397.6
+SI-018,Destrnik,746.3,339.8
+SI-019,Divača,191.0,680.0
+SI-154,Dobje,603.4,488.2
+SI-020,Dobrepolje,406.1,627.5
+SI-155,Dobrna,551.8,394.2
+SI-021,Dobrova-Polhov Gradec,280.2,520.4
+SI-156,Dobrovnik,886.1,265.2
+SI-022,Dol pri Ljubljani,386.4,504.4
+SI-157,Dolenjske Toplice,496.3,668.1
+SI-023,Domžale,373.7,481.4
+SI-024,Dornava,777.9,350.4
+SI-025,Dravograd,491.4,291.0
+SI-026,Duplek,712.2,326.6
+SI-027,Gorenja vas-Poljane,222.8,499.3
+SI-028,Gori?nica,786.7,372.0
+SI-207,Gorje,177.1,376.2
+SI-029,Gornja Radgona,770.1,271.5
+SI-030,Gornji Grad,420.7,418.7
+SI-031,Gornji Petrovci,841.2,200.7
+SI-158,Grad,810.5,202.7
+SI-032,Grosuplje,385.6,569.9
+SI-159,Hajdina,731.5,365.2
+SI-161,Hodoš,877.8,186.6
+SI-162,Horjul,272.1,537.6
+SI-160,Hoče–Slivnica,669.9,334.9
+SI-034,Hrastnik,520.9,488.1
+SI-035,Hrpelje-Kozina,186.2,732.8
+SI-036,Idrija,186.3,553.0
+SI-037,Ig,340.8,574.6
+SI-038,Ilirska Bistrica,274.5,726.7
+SI-039,Ivančna Gorica,429.0,587.1
+SI-040,Izola,83.2,755.1
+SI-041,Jesenice,207.1,354.0
+SI-163,Jezersko,330.2,379.7
+SI-042,Juršinci,774.8,337.9
+SI-043,Kamnik,404.2,427.8
+SI-044,Kanal,82.1,509.9
+SI-045,Kidričevo,705.9,374.8
+SI-046,Kobarid,53.6,441.5
+SI-047,Kobilje,898.6,252.0
+SI-049,Komen,112.2,623.4
+SI-164,Komenda,347.6,457.0
+SI-050,Koper,137.3,751.9
+SI-197,Kostanjevica na Krki,610.1,614.0
+SI-165,Kostel,446.8,759.7
+SI-051,Kozje,649.6,518.2
+SI-048,Kočevje,455.7,703.8
+SI-052,Kranj,273.5,436.8
+SI-053,Kranjska Gora,139.8,352.1
+SI-166,Križevci,818.3,301.6
+SI-054,Krško,619.0,569.1
+SI-055,Kungota,663.7,269.3
+SI-056,Kuzma,810.8,183.0
+SI-057,Laško,556.8,491.0
+SI-058,Lenart,725.6,307.1
+SI-059,Lendava,917.6,306.9
+SI-060,Litija,456.0,524.7
+SI-061,Ljubljana,359.6,520.3
+SI-062,Ljubno,436.1,388.2
+SI-063,Ljutomer,823.8,321.0
+SI-208,Log-Dragomer,297.2,540.4
+SI-064,Logatec,245.8,570.7
+SI-167,Lovrenc na Pohorju,598.6,320.0
+SI-065,Loška Dolina,327.6,689.6
+SI-066,Loški Potok,375.8,690.4
+SI-068,Lukovica,416.5,470.9
+SI-067,Luče,402.3,392.5
+SI-069,Majšperk,704.8,410.3
+SI-198,Makole,685.5,411.6
+SI-070,Maribor,676.3,301.6
+SI-168,Markovci,765.4,377.7
+SI-071,Medvode,304.8,488.2
+SI-072,Mengeš,350.9,475.9
+SI-074,Mežica,442.5,321.8
+SI-169,Miklavž na Dravskem Polju,694.8,335.6
+SI-075,Miren-Kostanjevica,80.9,606.1
+SI-212,Mirna,501.2,569.1
+SI-170,Mirna Peč,508.8,608.5
+SI-076,Mislinja,551.4,353.5
+SI-199,Mokronog-Trebelno,532.6,578.9
+SI-078,Moravske Toplice,864.1,239.2
+SI-077,Moravče,412.9,489.5
+SI-079,Mozirje,468.8,394.9
+SI-080,Murska Sobota,832.2,265.8
+SI-081,Muta,524.7,276.1
+SI-082,Naklo,275.3,422.5
+SI-083,Nazarje,458.2,422.9
+SI-084,Nova Gorica,108.2,558.4
+SI-085,Novo Mesto,545.2,639.9
+SI-086,Odranci,864.0,293.7
+SI-171,Oplotnica,617.2,378.5
+SI-087,Ormož,825.0,356.9
+SI-088,Osilnica,406.7,738.0
+SI-089,Pesnica,695.1,279.6
+SI-090,Piran,78.1,762.6
+SI-091,Pivka,261.1,679.2
+SI-172,Podlehnik,741.9,410.5
+SI-093,Podvelka,591.3,294.6
+SI-092,Podčetrtek,657.5,487.6
+SI-200,Poljčane,662.7,415.2
+SI-173,Polzela,509.3,415.7
+SI-094,Postojna,241.0,635.8
+SI-174,Prebold,511.9,451.0
+SI-095,Preddvor,323.0,406.6
+SI-175,Prevalje,451.5,306.7
+SI-096,Ptuj,740.6,355.9
+SI-097,Puconci,820.6,219.9
+SI-100,Radenci,797.7,278.5
+SI-099,Radeče,529.3,520.5
+SI-101,Radlje ob Dravi,558.0,291.5
+SI-102,Radovljica,243.1,397.5
+SI-103,Ravne na Koroškem,469.1,309.6
+SI-176,Razkrižje,864.5,322.4
+SI-098,Rače–Fram,673.3,353.3
+SI-201,Renče–Vogrsko,88.2,591.0
+SI-209,Rečica ob Savinji,455.3,403.1
+SI-104,Ribnica,395.1,662.1
+SI-177,Ribnica na Pohorju,560.7,318.5
+SI-107,Rogatec,703.9,443.9
+SI-106,Rogaška Slatina,676.3,443.8
+SI-105,Rogašovci,789.6,201.4
+SI-108,Ruše,627.1,322.2
+SI-178,Selnica ob Dravi,626.5,289.8
+SI-109,Semič,529.3,694.8
+SI-110,Sevnica,560.4,542.3
+SI-111,Sežana,142.6,663.1
+SI-112,Slovenj Gradec,506.3,333.8
+SI-113,Slovenska Bistrica,636.2,370.6
+SI-114,Slovenske Konjice,619.7,406.3
+SI-179,Sodražica,369.3,651.0
+SI-180,Solčava,382.6,372.5
+SI-202,Središče ob Dravi,858.8,370.0
+SI-115,Starše,711.5,345.6
+SI-203,Straža,510.5,642.5
+SI-204,Sveta Trojica v Slovenskih Goricah,750.3,301.6
+SI-181,Sveta Ana,734.5,263.8
+SI-182,Sveti Andraž v Slovenskih Goricah,770.6,322.7
+SI-116,Sveti Jurij ob Ščavnici,790.1,303.9
+SI-210,Sveti Jurij v Slovenskih Goricah,720.9,281.5
+SI-205,Sveti Tomaž,801.1,340.8
+SI-184,Tabor,486.6,449.2
+SI-010,Tišina,806.6,262.1
+SI-128,Tolmin,130.7,484.1
+SI-129,Trbovlje,497.6,487.1
+SI-130,Trebnje,479.4,585.4
+SI-185,Trnovska Vas,748.8,319.3
+SI-186,Trzin,350.5,491.2
+SI-131,Tržič,286.8,382.3
+SI-132,Turnišče,876.5,280.8
+SI-133,Velenje,524.3,384.8
+SI-187,Velika Polana,889.9,296.7
+SI-134,Velike Lašče,361.9,610.2
+SI-188,Veržej,831.0,294.6
+SI-135,Videm,746.8,398.5
+SI-136,Vipava,180.4,622.6
+SI-137,Vitanje,571.2,371.4
+SI-138,Vodice,334.7,472.7
+SI-139,Vojnik,575.7,410.9
+SI-189,Vransko,468.5,445.5
+SI-140,Vrhnika,271.4,568.5
+SI-141,Vuzenica,531.6,302.5
+SI-142,Zagorje ob Savi,468.9,490.8
+SI-143,Zavrč,796.0,389.5
+SI-144,Zreče,593.4,370.9
+SI-015,Črenšovci,869.2,303.9
+SI-016,Črna na Koroškem,430.7,345.8
+SI-017,Črnomelj,549.5,748.9
+SI-033,Šalovci,855.0,190.0
+SI-183,Šempeter-Vrtojba,81.5,581.3
+SI-118,Šentilj,696.8,257.1
+SI-119,Šentjernej,582.3,621.0
+SI-120,Šentjur,613.2,464.9
+SI-211,Šentrupert,512.2,552.6
+SI-117,Šenčur,313.6,443.1
+SI-121,Škocjan,569.9,583.0
+SI-122,Škofja Loka,269.1,473.5
+SI-123,Škofljica,357.0,564.6
+SI-124,Šmarje pri Jelšah,638.8,452.8
+SI-206,Šmarješke Toplice,558.5,594.3
+SI-125,Šmartno ob Paki,492.9,399.8
+SI-194,Šmartno pri Litiji,435.6,538.7
+SI-126,Šoštanj,480.0,372.8
+SI-127,Štore,579.5,460.9
+SI-190,Žalec,532.2,433.8
+SI-146,Železniki,220.9,452.2
+SI-191,Žetale,725.2,422.1
+SI-147,Žiri,218.1,527.1
+SI-192,Žirovnica,239.1,371.2
+SI-193,Žužemberk,466.6,628.6

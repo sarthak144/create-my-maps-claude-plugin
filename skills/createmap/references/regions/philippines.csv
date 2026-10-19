@@ -1,0 +1,82 @@
+id,name,center_x,center_y
+PH-SUR,Surigao del Sur,665.9,911.7
+PH-TAR,Tarlac,257.3,405.3
+PH-TAW,Tawi-Tawi,187.2,1120.4
+PH-ZMB,Zambales,234.9,422.9
+PH-ZAN,Zamboanga del Norte,421.0,967.8
+PH-ZSI,Zamboanga Sibugay,404.2,1005.9
+PH-ABR,Abra,280.7,250.9
+PH-AGN,Agusan del Norte,621.2,885.5
+PH-AGS,Agusan del Sur,644.0,920.3
+PH-AKL,Aklan,383.3,694.1
+PH-ALB,Albay,494.9,575.4
+PH-ANT,Antique,356.1,723.2
+PH-APA,Apayao,310.7,211.6
+PH-AUR,Aurora,351.9,387.4
+PH-BAN,Bataan,254.0,469.8
+PH-BTN,Batanes,361.5,22.2
+PH-BTG,Batangas,296.9,528.9
+PH-BEN,Benguet,272.9,327.2
+PH-BIL,Biliran,546.3,695.4
+PH-BOH,Bohol,525.5,825.2
+PH-BUK,Bukidnon,583.7,963.3
+PH-BUL,Bulacan,296.4,446.6
+PH-CAG,Cagayan,342.7,176.4
+PH-CAN,Camarines Norte,418.8,507.5
+PH-CAS,Camarines Sur,459.5,542.6
+PH-CAM,Camiguin,565.6,877.5
+PH-CAP,Capiz,415.2,714.8
+PH-CAT,Catanduanes,529.6,534.2
+PH-CAV,Cavite,284.4,498.8
+PH-CEB,Cebu,508.3,789.9
+PH-COM,Compostela Valley,657.4,997.0
+PH-DAV,Davao del Norte,629.3,1003.7
+PH-DAS,Davao del Sur,615.5,1068.3
+PH-DAO,Davao Oriental,678.4,1026.4
+PH-DIN,Dinagat Islands,628.4,804.4
+PH-EAS,Eastern Samar,625.1,703.3
+PH-GUI,Guimaras,411.8,773.6
+PH-IFU,Ifugao,312.5,306.3
+PH-ILN,Ilocos Norte,274.0,204.4
+PH-ILS,Ilocos Sur,266.6,272.6
+PH-ILI,Iloilo,417.9,738.7
+PH-ISA,Isabela,363.2,296.3
+PH-KAL,Kalinga,316.9,261.4
+PH-LUN,La Union,254.1,327.0
+PH-LAG,Laguna,318.8,499.6
+PH-LAN,Lanao del Norte,520.4,961.9
+PH-LAS,Lanao del Sur,535.9,976.8
+PH-LEY,Leyte,565.5,751.8
+PH_MG,Maguindanao,547.7,1025.2
+PH-MAD,Marinduque,366.7,565.7
+PH-MAS,Masbate,477.0,635.9
+PH-MNL,Metropolitan Manila,297.3,477.5
+PH-MSC,Misamis Occidental,492.1,938.1
+PH-MSR,Misamis Oriental,567.8,914.5
+PH-MOU,Mountain Province,307.5,289.0
+PH-NEC,Negros Occidental,438.7,800.7
+PH-NER,Negros Oriental,438.9,836.5
+PH-NCO,Cotabato,572.9,1021.5
+PH-NSA,Northern Samar,565.0,637.7
+PH-NUE,Nueva Ecija,295.1,396.3
+PH-NUV,Nueva Vizcaya,303.8,350.1
+PH-MDC,Mindoro Occidental,268.9,592.3
+PH-MDR,Mindoro Oriental,308.4,604.7
+PH-PLW,Palawan,150.8,810.9
+PH-PAM,Pampanga,271.8,443.1
+PH-PAN,Pangasinan,247.3,367.9
+PH-QUE,Quezon,369.2,505.5
+PH-QUI,Quirino,347.3,348.6
+PH-RIZ,Rizal,316.0,475.5
+PH-ROM,Romblon,381.9,631.8
+PH-WSA,Samar,566.0,690.1
+PH-SAR,Sarangani,581.9,1113.8
+PH-SIG,Siquijor,482.6,875.4
+PH-SOR,Sorsogon,501.6,607.2
+PH-SCO,South Cotabato,569.7,1086.4
+PH-SLE,Southern Leyte,587.9,796.6
+PH-SUK,Sultan Kudarat,557.3,1072.9
+PH-SLU,Sulu,290.8,1113.0
+PH-SUN,Surigao del Norte,642.5,838.8
+PH-BAS,Basilan,364.0,1071.3
+PH-ZAS,Zamboanga del Sur,462.0,977.8

@@ -1,0 +1,459 @@
+map_id,label,category,regions,width,height,origin_x,origin_y
+afghanistan,Afghanistan,Asia,34,964,735.32,-2,112.34
+africa,Africa,World & Continents,60,341.2,297.9,349.9,302.5
+albania,Albania,Europe,12,433.56,964,263.22,-2
+algeria,Algeria,Africa,58,963.47,964,-1.73,-2
+american-samoa,American Samoa,Oceania,5,791.91,964,84.05,-2
+americas,Americas,Regions & Blocs,61,1317.8,856.8,-141.3,-112.7
+andaman-nicobar-pc,Andaman & Nicobar — Parliamentary,India,1,260.3,820,0,0
+andhra-pradesh-ac,Andhra Pradesh — Assembly,India,294,820,781,0,0
+andhra-pradesh-pc,Andhra Pradesh — Parliamentary,India,42,820,752.3,0,0
+andorra,Andorra,Europe,7,792,646.81,0,0
+angola,Angola,Africa,18,612.39,684.89,0,0
+anguilla,Anguilla,Central America,20,964,888.1,-2,35.95
+antigua-barbuda,Antigua & Barbuda,Central America,8,799.16,964,80.42,-2
+apac,APAC,Regions & Blocs,65,1315.7,792.6,-140.2,-41.2
+argentina,Argentina,South America,24,361.55,792.58,0,0
+armenia,Armenia,Asia,11,792.57,802.4,0,0
+aruba,Aruba,Central America,1,881.39,964,39.31,-2
+arunachal-pradesh,Arunachal Pradesh,Asia,58,1032,509,0,0
+arunachal-pradesh-ac,Arunachal Pradesh — Assembly,India,60,820,482.6,0,0
+arunachal-pradesh-pc,Arunachal Pradesh — Parliamentary,India,2,820,407.4,0,0
+asia,Asia,World & Continents,51,461.5,288,485.3,253.8
+assam-ac,Assam — Assembly,India,126,820,621,0,0
+assam-pc,Assam — Parliamentary,India,14,820,506.8,0,0
+australia,Australia,Oceania,8,442.49,415.55,0,0
+austria,Austria,Europe,9,612.94,313.55,0,0
+azerbaijan,Azerbaijan,Asia,77,774.02,612.39,0,0
+bahamas,Bahamas,Central America,32,662.04,594.42,0,0
+bahrain,Bahrain,Asia,5,460.01,612.49,0,0
+balkans,Balkans,Regions & Blocs,11,83,63.2,496.7,293.6
+bangladesh,Bangladesh,Asia,7,437.81,601.16,0,0
+bangladesh-updated,Bangladesh (updated),Asia,8,699.18,964,130.41,-2
+barbados,Barbados,Central America,11,749.03,964,105.48,-2
+belarus,Belarus,Europe,7,709.61,612.52,0,0
+belgium,Belgium,Europe,11,752.17,611.37,0,0
+belize,Belize,Central America,6,614.13,964,172.93,-2
+benelux,Benelux,Regions & Blocs,3,43.7,58.2,468.4,264.3
+benin,Benin,Africa,12,475.18,964,242.41,-2
+bermuda,Bermuda,North America,11,964,683.79,-2,138.11
+bhutan,Bhutan,Asia,20,792.44,404.41,0,0
+bihar-ac,Bihar — Assembly,India,243,820,601,0,0
+bihar-pc,Bihar — Parliamentary,India,40,820,535.9,0,0
+bolivia,Bolivia,South America,9,612.67,692.76,0,0
+bonaire-sint-eustatius-saba,"Bonaire, St. Eustatius & Saba",Central America,3,918.59,964,20.7,-2
+bosnia-herzegovina-1,Bosnia & Herzegovina,Europe,18,612.57,588.49,0,0
+bosnia-herzegovina-2,Bosnia & Herzegovina 2,Europe,3,612.59,588.53,0,0
+bosnia-herzegovina-cantons,Bosnia & Herzegovina — Cantons,Europe,12,964,930.18,-2,14.91
+botswana,Botswana,Africa,9,612.62,643.13,0,0
+botswana-updated,Botswana (updated),Africa,10,913.49,964,23.26,-2
+brazil,Brazil,South America,27,612.52,639.04,0,0
+brics,BRICS,Regions & Blocs,9,649.6,639.3,226.4,-23.5
+british-indian-ocean-territory,British Indian Ocean Territory,Asia,1,547.08,964,206.46,-2
+british-virgin-islands,British Virgin Islands,Central America,1,964,778.16,-2,90.92
+brunei-darussalam,Brunei,Asia,4,972.26,792.52,0,0
+bulgaria,Bulgaria,Europe,28,612.54,396.55,0,0
+burkina-faso,Burkina Faso,Africa,13,1086.39,792.14,0,0
+burundi,Burundi,Africa,17,612.74,711.89,0,0
+burundi-updated,Burundi (updated),Africa,18,824.42,964,67.79,-2
+cambodia,Cambodia,Asia,25,654.54,600.53,0,0
+cameroon,Cameroon,Africa,10,792.53,1159.09,0,0
+canada,Canada,North America,13,792.48,1030.84,0,0
+cape-verde,Cape Verde,Africa,22,859.94,792.58,0,0
+caribbean,Caribbean,Regions & Blocs,27,120.5,95.5,216.3,362.1
+caucasus,Caucasus,Regions & Blocs,3,46.8,53.2,584.8,312.8
+cayman-islands,Cayman Islands,Central America,3,964,299.72,-2,330.14
+central-african-republic,CAR,Africa,17,1174.91,792.64,0,0
+central-asia,Central Asia,Regions & Blocs,5,114.9,97.8,633.3,278.9
+chad,Chad,Africa,22,503.78,792.55,0,0
+chad-updated,Chad (updated),Africa,23,610.24,964,174.88,-2
+chandigarh-pc,Chandigarh — Parliamentary,India,1,820,728.7,0,0
+channel-islands,Channel Islands,Europe,27,803.86,964,78.07,-2
+chhattisgarh-ac,Chhattisgarh — Assembly,India,90,495,820,0,0
+chhattisgarh-pc,Chhattisgarh — Parliamentary,India,11,541.5,820,0,0
+chile,Chile,South America,16,612.54,708.72,0,0
+chile-2,Chile 2,South America,16,132.31,707.46,0,0
+china,China,Asia,34,774.04,569.65,0,0
+cis,Former Soviet Union / CIS,Regions & Blocs,15,260.6,409.7,504.5,3
+cocos-keeling,Cocos Keeling,Oceania,1,277.55,964,341.22,-2
+colombia,Colombia,South America,33,612.82,693.68,0,0
+colombia-muni,Colombia — Municipalities,South America,1065,710.13,964,124.94,-2
+comoros,Comoros,Africa,3,964,796.49,-2,81.75
+congo,Congo,Africa,12,612.58,712,0,0
+congo-dr,Democratic Republic of Congo,Africa,11,612.58,604.71,0,0
+congo-dr-alt,Democratic Republic of Congo (26 regions),Africa,26,964,957.22,-2,1.39
+continents,Continents,World & Continents,7,964,924.64,-2,17.68
+continents-russia-asia,Continents (Russia in Asia),World & Continents,7,964,964,-2,-2
+continents-russia-europe,Continents (Russia in Europe),World & Continents,7,964,924.64,-2,17.68
+costa-rica,Costa Rica,Central America,8,648.3,612.99,0,0
+croatia,Croatia,Europe,21,612.49,599.41,0,0
+cuba,Cuba,Central America,16,774.26,264.94,0,0
+cuba-updated,Cuba (updated),Central America,17,964,332.1,-2,313.95
+curacao,Curaçao,Central America,1,964,782.31,-2,88.85
+cyprus,Cyprus,Europe,6,607.74,360.27,0,0
+cyprus-north-cyprus,Cyprus (with N. Cyprus),Europe,13,964,576.2,-2,191.9
+cyprus-updated,Cyprus (updated),Europe,8,964,576.2,-2,191.9
+czech-republic,Czech Republic,Europe,14,612.46,350.62,0,0
+dach,DACH,Regions & Blocs,3,70.5,81.3,475.1,254.9
+dadra-nagar-haveli-pc,Dadra & Nagar Haveli — Parliamentary,India,1,800.7,820,0,0
+daman-diu-pc,Daman & Diu — Parliamentary,India,1,820,166.9,0,0
+delhi-ac,Delhi — Assembly,India,70,789.3,820,0,0
+delhi-pc,Delhi — Parliamentary,India,7,820,779.2,0,0
+denmark,Denmark,Europe,5,980.47,792.63,0,0
+djibouti,Djibouti,Africa,6,612.41,678.79,0,0
+dominica,Dominica,Central America,10,515.99,964,222,-2
+dominican-republic,Dominican Republic,Central America,32,792.71,556.42,0,0
+dominican-republic-muni,Dominican Republic — Municipalities,Central America,161,964,682.02,-2,138.99
+east-africa,East Africa,Regions & Blocs,18,138,193,529.6,385
+east-asia,East Asia,Regions & Blocs,8,159.2,174.2,752.7,266.9
+eastern-europe,Eastern Europe,Regions & Blocs,18,183,386.5,480.3,5.7
+ecuador,Ecuador,South America,24,792.76,307.77,0,0
+egypt,Egypt,Africa,29,548.58,498.87,0,0
+el-salvador,El Salvador,Central America,14,792.89,431.66,0,0
+emea,EMEA,Regions & Blocs,127,341.2,670.5,349.9,-27.1
+equatorial-guinea,Equatorial Guinea,Africa,8,964,886.55,-2,36.73
+eritrea,Eritrea,Africa,6,964,842.41,-2,58.8
+estonia,Estonia,Europe,15,611.58,393.71,0,0
+eswatini,Eswatini,Africa,4,727.13,964,116.43,-2
+ethiopia,Ethiopia,Africa,11,798.72,620.47,0,0
+europe,Europe,World & Continents,52,299.7,429.6,377.1,0.7
+falkland-islands,Falkland Islands,South America,1,964,595.44,-2,182.28
+faroeIslands,Faroe Islands,Europe,6,529.11,792.96,0,0
+fiji-east,Fiji (East),Oceania,2,327.68,964,316.16,-2
+fiji-west,Fiji (West),Oceania,5,540.91,964,209.54,-2
+finland,Finland,Europe,19,387.89,786.98,0,0
+france,France,Europe,22,596.42,584.54,0,0
+france-departments,France Departments,Europe,96,612.38,584.36,0,0
+france-departments-2,France — Departments (alt),Europe,101,760.34,964,99.83,-2
+france-new,France Regions,Europe,13,596.42,584.54,0,0
+french-guiana,French Guiana,South America,2,779.95,964,90.03,-2
+french-polynesia,French Polynesia,Oceania,5,924.24,964,17.88,-2
+g20,G20,Regions & Blocs,19,1078.2,705.6,-60.2,-82.1
+g7,G7,Regions & Blocs,7,1078.2,443.5,-60.2,-51.9
+gabon,Gabon,Africa,9,886.89,964,36.56,-2
+gambia,Gambia,Africa,8,964,252.26,-2,353.87
+georgia,Georgia,Europe,12,792.51,401.4,0,0
+georgia-south-ossetia,Georgia (with S. Ossetia),Europe,13,964,491.69,-2,234.16
+germany,Germany,Europe,16,585.51,792.67,0,0
+ghana,Ghana,Africa,16,662.04,964,148.98,-2
+goa-ac,Goa — Assembly,India,40,610,820,0,0
+goa-pc,Goa — Parliamentary,India,2,541.3,820,0,0
+greece,Greece,Europe,14,918.79,792.43,0,0
+greenland,Greenland,North America,6,658.91,964,150.55,-2
+grenada,Grenada,Central America,7,712.74,964,123.63,-2
+guadeloupe,Guadeloupe,Central America,2,964,846.85,-2,56.57
+guam,Guam,Oceania,19,756.1,964,101.95,-2
+guatemala,Guatemala,Central America,22,563.42,594.59,0,0
+guinea,Guinea,Africa,8,1224.76,911.37,0,0
+guinea-bissau,Guinea-Bissau,Africa,9,964,564.07,-2,197.96
+gujarat-ac,Gujarat — Assembly,India,182,820,688,0,0
+gujarat-pc,Gujarat — Parliamentary,India,26,820,600,0,0
+gulf,Gulf States (GCC),Regions & Blocs,6,74.6,61,581.9,353.2
+guyana,Guyana,South America,10,641.25,964,159.37,-2
+haiti,Haiti,Central America,10,774.57,593.52,0,0
+haryana-ac,Haryana — Assembly,India,90,689.7,820,0,0
+haryana-pc,Haryana — Parliamentary,India,10,784.7,820,0,0
+himachal-pradesh-ac,Himachal Pradesh — Assembly,India,68,820,802.9,0,0
+himachal-pradesh-pc,Himachal Pradesh — Parliamentary,India,4,820,696.2,0,0
+honduras,Honduras,Central America,18,710.28,521.52,0,0
+hong-kong,Hong Kong,Asia,18,612.52,444.2,0,0
+hungary,Hungary,Europe,40,612.71,377.71,0,0
+hungary-alt,Hungary (20 regions),Europe,20,964,597.26,-2,181.37
+iceland,Iceland,Europe,18,612.71,419.48,0,0
+india,India — States (Old),India,36,611.86,695.7,0,0
+india-2019,India — States (2019),India,37,849.87,964,55.07,-2
+india-2020,India — States (2020),India,36,849.87,964,55.07,-2
+india-2023,India — States (2023),India,36,849.87,964,55.07,-2
+india-assembly,India — Assembly Constituencies (All),India,4182,800,791.7,0,0
+india-districts,India — Districts (2011),India,641,772.2,800,0,0
+india-new,India — States (New),India,36,906.2,1036.5,53.8,39.2
+india-parliamentary,India — Parliamentary Constituencies (All),India,543,774.7,800,0,0
+indonesia,Indonesia,Asia,38,792.55,316.66,0,0
+iran,Iran,Asia,31,654.51,593.71,0,0
+iraq,Iraq,Asia,18,584.23,594.15,0,0
+iraq-updated,Iraq (updated),Asia,19,938.11,964,10.94,-2
+ireland,Ireland,Europe,27,605.68,775.4,0,0
+ireland-provinces,Ireland — Provinces,Europe,4,751.69,964,104.15,-2
+israel,Israel,Europe,8,294.63,792.6,0,0
+israel-palestine,Israel Palestine,Middle East,23,358.72,964,300.64,-2
+italy,Italy,Europe,24,610.31,792.59,0,0
+italy-provinces,Italy — Provinces,Europe,108,742.12,964,108.94,-2
+ivory-coast,Ivory Coast,Africa,19,799.06,842.07,0,0
+ivory-coast-alt,Ivory Coast (14 regions),Africa,14,914.83,964,22.59,-2
+jamaica,Jamaica,Central America,14,763.75,302.27,0,0
+jammu-kashmir-ac,Jammu & Kashmir — Assembly,India,76,820,623,0,0
+jammu-kashmir-pc,Jammu & Kashmir — Parliamentary,India,6,820,511.2,0,0
+japan,Japan,Asia,47,437.33,516.02,0,0
+jharkhand-ac,Jharkhand — Assembly,India,81,820,674,0,0
+jharkhand-pc,Jharkhand — Parliamentary,India,14,820,609,0,0
+jordan,Jordan,Middle East,12,858.27,964,50.86,-2
+karnataka-ac,Karnataka — Assembly,India,224,529,820,0,0
+karnataka-pc,Karnataka — Parliamentary,India,28,545.9,820,0,0
+kazakhstan,Kazakhstan,Asia,15,792.55,434.92,0,0
+kazakhstan-2023,Kazakhstan (2023),Asia,20,964,531.97,-2,214.01
+kenya,Kenya,Africa,47,457.63,580.54,0,0
+kerala-ac,Kerala — Assembly,India,140,455,820,0,0
+kerala-pc,Kerala — Parliamentary,India,20,472,820,0,0
+kosovo,Kosovo,Europe,7,612.56,696.99,0,0
+kuwait,Kuwait,Middle East,6,964,914.65,-2,22.68
+kyrgyzstan,Kyrgyzstan,Asia,7,792.38,389.39,0,0
+kyrgyzstan-alt,Kyrgyzstan (13 regions),Asia,13,964,475.69,-2,242.16
+lakshadweep-pc,Lakshadweep — Parliamentary,India,1,471.1,820,0,0
+laos,Laos,Asia,17,493.32,589.43,0,0
+latin-america,Latin America,Regions & Blocs,40,205,354,163.6,332.1
+latvia,Latvia,Europe,119,1224.44,742.57,0,0
+latvia-2021,Latvia (2021),Europe,43,964,586.21,-2,186.9
+lebanon,Lebanon,Middle East,8,743.93,964,108.04,-2
+lesotho,Lesotho,Africa,10,964,954.97,-2,2.52
+liberia,Liberia,Africa,15,929.18,964,15.41,-2
+libya,Libya,Africa,22,964,937.82,-2,11.09
+liechtenstein,Liechtenstein,Europe,11,397.85,792.7,0,0
+lithuania,Lithuania,Europe,10,786.78,595.55,0,0
+luxembourg,Luxembourg,Europe,3,553.38,792.63,0,0
+luxembourg-alt,Luxembourg (12 regions),Europe,12,674.07,964,142.96,-2
+macedonia,North Macedonia,Europe,86,774.92,600.5,0,0
+macedonia-alt,North Macedonia (71 regions),Europe,71,964,765.26,-2,97.37
+madagascar-province,Madagascar — Provinces,Africa,6,487.24,964,236.38,-2
+madagascar-region,Madagascar — Regions,Africa,22,487.24,964,236.38,-2
+madhya-pradesh-ac,Madhya Pradesh — Assembly,India,230,820,591,0,0
+madhya-pradesh-pc,Madhya Pradesh — Parliamentary,India,29,820,548.7,0,0
+maharashtra-ac,Maharashtra — Assembly,India,288,820,678,0,0
+maharashtra-pc,Maharashtra — Parliamentary,India,48,820,641.5,0,0
+malawi,Malawi,Africa,28,394.08,964,282.96,-2
+malaysia,Malaysia,Asia,15,792.5,262.18,0,0
+malaysia-updated,Malaysia (updated),Asia,17,964,323.31,-2,318.34
+maldives,Maldives,Asia,21,123.7,964,418.15,-2
+maldives-islands,Maldives — Islands,Asia,21,137.94,964,411.03,-2
+mali,Mali,Africa,9,650.36,612.33,0,0
+mali-updated,Mali (updated),Africa,10,964,913.69,-2,23.15
+malta,Malta,Europe,5,916.64,792.53,0,0
+manipur-ac,Manipur — Assembly,India,60,663.2,820,0,0
+manipur-pc,Manipur — Parliamentary,India,2,774.9,820,0,0
+martinique,Martinique,Central America,4,799.21,964,80.39,-2
+mauritania,Mauritania,Africa,13,873.44,964,43.28,-2
+mauritius,Mauritius,Africa,9,640.8,964,159.6,-2
+mea,MEA,Regions & Blocs,75,341.2,321.6,349.9,281.5
+meghalaya-ac,Meghalaya — Assembly,India,60,820,338.3,0,0
+meghalaya-pc,Meghalaya — Parliamentary,India,2,820,301.1,0,0
+mena,MENA,Regions & Blocs,26,276.1,213.2,403.7,294
+mexico,Mexico,North America,32,792.42,497.54,0,0
+middle-east,Middle East,Regions & Blocs,17,631.7,145.8,465.6,301.8
+mizoram-ac,Mizoram — Assembly,India,40,369.2,820,0,0
+mizoram-pc,Mizoram — Parliamentary,India,1,380.8,820,0,0
+moldova,Moldova,Europe,37,612.56,768.87,0,0
+mongolia,Mongolia,Asia,22,964,467.95,-2,246.02
+montenegro,Montenegro,Europe,22,612.5,735.39,0,0
+montenegro-updated,Montenegro (updated),Europe,24,789.19,964,85.4,-2
+montserrat,Montserrat,Central America,3,606.98,964,176.51,-2
+morocco,Morocco,Africa,16,612.51,654.53,0,0
+mozambique,Mozambique,Africa,11,799.38,1306.05,0,0
+myanmar,Myanmar,Asia,14,265.8,588.87,0,0
+myanmar-updated,Myanmar (updated),Asia,15,436.84,964,261.58,-2
+nagaland-ac,Nagaland — Assembly,India,60,667.4,820,0,0
+nagaland-pc,Nagaland — Parliamentary,India,1,820,788.9,0,0
+namibia,Namibia,Africa,14,612,588.47,0,0
+nepal,Nepal,Asia,14,800.37,454.29,0,0
+nepal-2020,Nepal (2020),Asia,7,964,558.77,-2,200.61
+netherlands,Netherlands,Europe,12,612.54,723.62,0,0
+new-zealand,New Zealand,Oceania,17,701.42,988.42,0,0
+nicaragua,Nicaragua,Central America,17,594.97,529.08,0,0
+nicaragua-updated,Nicaragua (updated),Central America,19,964,862.96,-2,48.52
+niger,Niger,Africa,8,964,758.35,-2,100.83
+nigeria,Nigeria,Africa,37,744.24,599.93,0,0
+nordic,Nordic Countries,Regions & Blocs,5,201.4,173.9,393,140.2
+north-africa,North Africa,Regions & Blocs,8,195.4,101.2,413,325.2
+north-america,North America,World & Continents,47,1317.8,640.8,-141.3,-87.8
+north-america-map,North America,Regions & Blocs,3,299.9,524.7,29.6,-61.2
+north-korea,North Korea,Asia,12,825.02,964,67.49,-2
+northern-mariana,Northern Mariana,Oceania,4,174.13,964,392.94,-2
+norway,Norway,Europe,19,607.34,722.37,0,0
+norway-2020,Norway (2020),Europe,11,810.13,964,74.94,-2
+oceania,Oceania,World & Continents,32,1315.7,344.9,-140.2,354.8
+odisha-ac,Odisha — Assembly,India,147,820,712,0,0
+odisha-pc,Odisha — Parliamentary,India,21,820,644.2,0,0
+oman,Oman,Asia,17,461.53,604.99,0,0
+oman-alt,Oman (12 regions),Asia,12,721.74,964,119.13,-2
+pakistan,Pakistan,Asia,8,656.17,600.27,0,0
+palestine,Palestine,Asia,17,294.62,792.61,0,0
+panama,Panama,Central America,12,763.66,318.02,0,0
+panama-updated,Panama (updated),Central America,13,964,405.07,-2,277.46
+paraguay,Paraguay,South America,18,552.07,594.59,0,0
+peru,Peru,South America,27,542.77,792,0,0
+philippines,Philippines,Asia,81,702.39,1209.44,0,0
+philippines-updated,Philippines (updated),Asia,82,560.62,964,199.69,-2
+poland,Poland,Europe,16,612.76,577.23,0,0
+portugal,Portugal,Europe,20,792.61,387.41,0,0
+portugal-regions,Portugal Regions,Europe,7,792.36,470.57,0,0
+puducherry-ac,Puducherry — Assembly,India,30,820,741.8,0,0
+puducherry-pc,Puducherry — Parliamentary,India,1,820,717.6,0,0
+puerto-rico,Puerto Rico,Central America,79,795.58,179.68,0,0
+punjab-ac,Punjab — Assembly,India,117,722,820,0,0
+punjab-pc,Punjab — Parliamentary,India,13,820,802.4,0,0
+qatar,Qatar,Asia,7,290.83,613.03,0,0
+qatar-updated,Qatar (updated),Asia,8,462.58,964,248.71,-2
+rajasthan-ac,Rajasthan — Assembly,India,200,820,745,0,0
+rajasthan-pc,Rajasthan — Parliamentary,India,25,820,671,0,0
+romania,Romania,Europe,42,612.36,432.29,0,0
+russia,Russia,Asia,83,1224.45,760.62,0,0
+russia-crimea,Russia (with Crimea),Asia,84,964,286.87,-2,336.56
+rwanda,Rwanda,Africa,5,682.26,594.53,0,0
+saint-helena,Saint Helena,Africa,10,236.56,964,361.72,-2
+saint-lucia,Saint Lucia,Central America,11,482.41,964,238.8,-2
+saint-vincent,Saint Vincent,Central America,6,407.33,964,276.33,-2
+samoa,Samoa,Oceania,11,964,452.1,-2,253.95
+san-marino,San Marino,Europe,9,993.56,1224.53,0,0
+sao-tome-principe,São Tomé & Príncipe,Africa,7,564.42,964,197.79,-2
+saudi-arabia,Saudi Arabia,Asia,13,730.14,600.4,0,0
+sea,Southeast Asia,Regions & Blocs,11,132.1,162.1,725.6,365.2
+senegal,Senegal,Africa,14,964,709.14,-2,125.43
+serbia,Serbia,Europe,30,544.16,792.53,0,0
+serbia-no-kosovo,Serbia (excl. Kosovo),Europe,25,732.15,964,113.93,-2
+serbia-without-kosovo,Serbia (excl. Kosovo),Europe,25,544.16,712.31,0,0
+seychelles,Seychelles,Africa,26,964,628.69,-2,165.65
+sierra-leone,Sierra Leone,Africa,4,799.02,823.36,0,0
+sierra-leone-updated,Sierra Leone (updated),Africa,5,935.63,964,12.18,-2
+sikkim-ac,Sikkim — Assembly,India,32,624.6,820,0,0
+sikkim-pc,Sikkim — Parliamentary,India,1,720.4,820,0,0
+singapore,Singapore,Asia,5,800.49,496.71,0,0
+slovakia,Slovakia,Europe,8,612.69,304.03,0,0
+slovenia,Slovenia,Europe,12,612.85,397.89,0,0
+slovenia-alt,Slovenia (212 regions),Europe,212,964,630.04,-2,164.98
+slovenia-regions,Slovenia — Regions,Europe,12,964,630.04,-2,164.98
+solomon-islands,Solomon Islands,Oceania,10,964,383.34,-2,288.33
+somalia,Somalia,Africa,18,734.26,964,112.87,-2
+south-africa-2,South Africa 2,Africa,10,426.46,374.54,0,0
+south-america,South America,World & Continents,14,125.2,299.8,234.2,380
+south-asia,South Asia,Regions & Blocs,8,113.3,169.6,653.1,316.3
+south-korea,South Korea,Asia,17,524.24,630.59,0,0
+south-sudan,South Sudan,Africa,10,964,723.16,-2,118.42
+south-sudan-2015,South Sudan (2015),Africa,32,964,723.16,-2,118.42
+south_africa,South Africa,Africa,10,559.72,792.6,0,0
+southern-africa,Southern Africa,Regions & Blocs,13,172,172.1,476.7,413.8
+spain,Spain,Europe,17,612.91,543.62,0,0
+spain-2,Spain (alt),Europe,19,837.07,964,61.46,-2
+spain-provinces,Spain Provinces,Europe,52,418.45,468.64,0,0
+spain-provinces-2,Spain — Provinces (alt),Europe,52,910.27,964,24.86,-2
+sri-lanka,Sri Lanka,Asia,25,449.69,792.55,0,0
+st-barthelemy,St. Barthélemy,Central America,1,964,648.44,-2,155.78
+st-kitts-nevis,St. Kitts & Nevis,Central America,14,921.64,964,19.18,-2
+st-pierre-miquelon,St. Pierre & Miquelon,North America,2,467.12,964,246.44,-2
+sub-saharan-africa,Sub-Saharan Africa,Regions & Blocs,51,341.2,247.2,349.9,347.4
+sudan,Sudan,Africa,18,683.3,616.13,0,0
+suriname,Suriname,South America,10,939.35,964,10.32,-2
+svalbard,Svalbard,Europe,2,964,887.44,-2,36.28
+sweden,Sweden,Europe,21,345.62,792.52,0,0
+switzerland,Switzerland,Europe,27,1224.4,783.07,0,0
+syria,Syria,Asia,14,659.12,600.53,0,0
+taiwan,Taiwan,Asia,4,437.39,555.17,0,0
+taiwan-alt,Taiwan (22 regions),Asia,22,757.28,964,101.36,-2
+tajikistan,Tajikistan,Asia,4,792.5,572.03,0,0
+tajikistan-updated,Tajikistan (updated),Asia,5,964,699.62,-2,130.19
+tamil-nadu-ac,Tamil Nadu — Assembly,India,234,613,820,0,0
+tamil-nadu-pc,Tamil Nadu — Parliamentary,India,39,621,820,0,0
+tanzania,Tanzania,Africa,31,964,963.79,-2,-1.89
+thailand,Thailand,Asia,78,559.57,1024.76,0,0
+thailand-updated,Thailand (updated),Asia,79,524.82,964,217.59,-2
+timor-leste,Timor-Leste,Asia,14,964,548.8,-2,205.6
+togo,Togo,Africa,5,371.23,964,294.39,-2
+trinidad-tobago,Trinidad & Tobago,Central America,15,964,925.83,-2,17.08
+tripura-ac,Tripura — Assembly,India,60,544.5,820,0,0
+tripura-pc,Tripura — Parliamentary,India,2,625.8,820,0,0
+tunisia,Tunisia,Africa,24,460,964,250,-2
+turkey,Turkey,Europe,81,792.6,334.56,0,0
+turkmenistan,Turkmenistan,Asia,6,964,669.99,-2,145.01
+turks-caicos,Turks Caicos,Central America,6,964,582.74,-2,188.63
+uganda,Uganda,Africa,112,568.54,593.64,0,0
+uganda-alt,Uganda (135 regions),Africa,135,915.65,964,22.17,-2
+uganda-regions,Uganda — Regions,Africa,7,960.96,964,-0.48,-2
+uk-countries,UK — Countries,Europe,8,576.06,964,191.97,-2
+ukraine,Ukraine,Europe,27,612.47,408.02,0,0
+un-regions,UN Regions,World & Continents,22,964,624.64,-2,167.68
+united-arab-emirates,United Arab Emirates,Asia,10,760.14,612.53,0,0
+united-kingdom-counties,UK Counties,Europe,42,770.4,1214.06,0,0
+united_kingdom,United Kingdom,Europe,16,628.09,1051.48,0,0
+uruguay,Uruguay,South America,19,547.24,594.43,0,0
+us-virgin-islands,US Virgin Islands,Central America,1,964,364.71,-2,297.65
+usa,USA,USA,51,593.38,318.29,0,0
+usa-ak,Alaska,USA States,27,146.2,96.2,0,0
+usa-al,Alabama,USA States,67,41.51,65.8,0,0
+usa-albers,USA (Albers),USA,51,964,733.56,-2,113.22
+usa-all-counties,USA All Counties,USA,3141,555.22,351.67,0,0
+usa-ar,Arkansas,USA States,75,53.35,48.87,0,0
+usa-az,Arizona,USA States,15,72.77,84.22,0,0
+usa-ca,California,USA States,58,85.42,143.5,0,0
+usa-canada,USA + Canada,USA,65,1000,1000,0,0
+usa-co,Colorado,USA States,64,76.57,60.91,0,0
+usa-ct,Connecticut,USA States,8,19.55,19.53,0,0
+usa-de,Delaware,USA States,3,12.85,19.82,0,0
+usa-fl,Florida,USA States,67,96.4,82.38,0,0
+usa-full,USA Full,USA,51,1047.47,792.55,0,0
+usa-ga,Georgia,USA States,159,58.82,62.16,0,0
+usa-hi,Hawaii,USA States,5,69.74,42.68,0,0
+usa-ia,Iowa,USA States,99,64.63,43.68,0,0
+usa-id,Idaho,USA States,44,64.18,101.83,0,0
+usa-il,Illinois,USA States,102,42,76,0,0
+usa-in,Indiana,USA States,92,34.6,57.5,0,0
+usa-ks,Kansas,USA States,105,79.01,45.07,0,0
+usa-ky,Kentucky,USA States,120,78.98,42.53,0,0
+usa-la,Louisiana,USA States,64,61,54.96,0,0
+usa-ma,Massachusetts,USA States,14,38.73,22.26,0,0
+usa-md,Maryland,USA States,24,49.57,25.6,0,0
+usa-me,Maine,USA States,16,39.91,63.54,0,0
+usa-mi,Michigan,USA States,83,80.61,84.46,0,0
+usa-mn,Minnesota,USA States,87,71.55,79.77,0,0
+usa-mo,Missouri,USA States,115,70.39,62.16,0,0
+usa-ms,Mississippi,USA States,82,39.51,66.33,0,0
+usa-mt,Montana,USA States,56,109.78,71.49,0,0
+usa-nc,North Carolina,USA States,100,93.5,42.98,0,0
+usa-nd,North Dakota,USA States,53,70.5,45.31,0,0
+usa-ne,Nebraska,USA States,93,88.76,45.28,0,0
+usa-nh,New Hampshire,USA States,10,18.97,37.6,0,0
+usa-nj,New Jersey,USA States,22,15.8,33.45,0,0
+usa-nm,New Mexico,USA States,33,75.67,77.09,0,0
+usa-nv,Nevada,USA States,17,69.11,103.62,0,0
+usa-ny,New York,USA States,61,78.49,60.44,0,0
+usa-oh,Ohio,USA States,88,45.03,50.89,0,0
+usa-ok,Oklahoma,USA States,77,91.52,49.27,0,0
+usa-or,Oregon,USA States,36,85.4,72.61,0,0
+usa-pa,Pennsylvania,USA States,67,61.67,40.62,0,0
+usa-ri,Rhode Island,USA States,5,10.1,11.75,0,0
+usa-sc,South Carolina,USA States,46,55.24,42.69,0,0
+usa-sd,South Dakota,USA States,66,75.68,50.85,0,0
+usa-territories,USA + Territories,USA,58,964,698.5,-2,130.75
+usa-territories-2,USA + Territories (alt),USA,61,964,562.3,-2,198.85
+usa-tn,Tennessee,USA States,95,90.4,33.44,0,0
+usa-tx,Texas,USA States,254,146.02,143.85,0,0
+usa-ut,Utah,USA States,29,61.69,77.18,0,0
+usa-va,Virginia,USA States,134,84.47,48.33,0,0
+usa-vt,Vermont,USA States,14,19.52,35.58,0,0
+usa-wa,Washington,USA States,39,71.5,53.97,0,0
+usa-wdc,Washington DC,USA States,1,4.36,4.68,0,0
+usa-wi,Wisconsin,USA States,72,56.99,60.43,0,0
+usa-wv,West Virginia,USA States,55,49.15,49.05,0,0
+usa-wy,Wyoming,USA States,23,74.65,62.49,0,0
+uttar-pradesh-ac,Uttar Pradesh — Assembly,India,403,820,780,0,0
+uttar-pradesh-pc,Uttar Pradesh — Parliamentary,India,80,820,712,0,0
+uttarakhand-ac,Uttarakhand — Assembly,India,70,820,756,0,0
+uttarakhand-pc,Uttarakhand — Parliamentary,India,5,820,654.2,0,0
+uzbekistan,Uzbekistan,Asia,16,792.49,516.88,0,0
+vatican,Vatican,Europe,1,964,753.92,-2,103.04
+venezuela,Venezuela,South America,28,600.57,527.15,0,0
+vietnam,Vietnam,Asia,64,381.08,800.62,0,0
+vietnam-with-islands,Vietnam + Islands,Asia,65,811.57,871.66,0,0
+west-africa,West Africa,Regions & Blocs,16,185.5,105.2,367.9,363.8
+west-bengal-ac,West Bengal — Assembly,India,294,511,820,0,0
+west-bengal-pc,West Bengal — Parliamentary,India,42,585.2,820,0,0
+world,World Map,World & Continents,256,1009.67,665.96,0,0
+world-china,World (China-centric),World & Continents,254,964,924.64,-2,17.68
+world-great-lakes,World (Great Lakes),World & Continents,257,964,924.64,-2,17.68
+world-india,World (India-centric),World & Continents,257,964,924.64,-2,17.68
+world-morocco,World (Morocco view),World & Continents,256,964,924.64,-2,17.68
+world-outline,World — Outline,World & Continents,1,964,625.18,-2,167.41
+world-russia,World (Russia-centric),World & Continents,257,964,924.64,-2,17.68
+world-time-zone-areas,World — Time Zone Areas,World & Continents,40,964,924.64,-2,17.68
+world-time-zones,World — Time Zones,World & Continents,41,964,964,-2,-2
+world-updated,World Map (updated),World & Continents,257,964,924.64,-2,17.68
+yemen,Yemen,Middle East,21,792.78,442.75,0,0
+yemen-updated,Yemen (updated),Middle East,22,964,543.47,-2,208.26
+zambia,Zambia,Africa,10,697.97,600.56,0,0
+zimbabwe,Zimbabwe,Africa,10,654.64,600,0,0

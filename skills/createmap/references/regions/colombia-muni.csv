@@ -1,0 +1,1066 @@
+id,name,center_x,center_y
+CO-VD-SR,Santa Rosalía,650.7,519.6
+--,Santa Rita,765.5,546.0
+CO-VD-VD,San Jose de Ocune,686.0,591.0
+CO-VD-PC,Puerto Carreño,780.3,485.4
+CO-VD-LP,La Primavera,710.7,503.2
+CO-VD-CU,Cumaribo,690.3,540.4
+CO-VP-YA,Yavaraté,702.8,723.4
+CO-VP-TA,Taraira,691.7,793.7
+CO-VP-PP,Papunahua,661.1,686.8
+CO-VP-PC,Pacoa,636.3,752.8
+CO-VP-MI,Mitú,664.2,716.2
+CO-VP-CA,Carurú,619.2,708.2
+CO-VC-ZA,Zarzal,398.6,553.9
+CO-VC-YU,Yumbo,376.5,592.2
+CO-VC-YO,Yotoco,382.8,575.9
+CO-VC-VI,Vijes,379.3,583.7
+CO-VC-VE,Versalles,386.9,542.6
+CO-VC-UL,Ulloa,411.2,538.6
+CO-VC-TU,Tuluá,401.3,569.4
+CO-VC-TR,Trujillo,383.9,562.0
+CO-VC-TO,Toro,395.8,542.3
+CO-VC-SE,Sevilla,407.5,561.1
+CO-VC-CL,Santiago de Cali,373.6,599.1
+CO-VC-SP,San Pedro,390.8,570.7
+CO-VC-RO,Roldanillo,391.4,551.4
+CO-VC-RI,Riofrío,383.2,567.2
+CO-VC-RE,Restrepo,375.7,581.9
+CO-VC-PR,Pradera,393.6,600.0
+CO-VC-PA,Palmira,390.7,591.3
+CO-VC-OB,Obando,403.3,544.6
+CO-VC-LV,La Victoria,403.2,549.2
+CO-VC-LU,La Unión de Sucre,395.2,546.5
+CO-VC-LC,La Cumbre,373.8,587.0
+CO-VC-JA,Jamundí,371.0,608.9
+CO-VC-BU,Guadalajara de Buga,396.9,577.6
+CO-VC-GU,Guacarí,388.0,582.6
+CO-VC-GI,Ginebra,392.4,583.6
+CO-VC-FL,Florida,391.6,605.0
+CO-VC-ED,El Dovio,384.8,548.2
+CO-VC-ET,El Cerrito,391.9,586.1
+CO-VC-EC,El Cairo,387.9,535.1
+CO-VC-EA,El Águila,396.7,528.9
+CO-VC-DA,Dagua,367.1,590.0
+CO-VC-CR,Cartago,403.6,538.7
+CO-VC-CA,Candelaria,382.6,601.0
+CO-VC-CM,Calima,370.1,572.7
+CO-VC-CC,Caicedonia,409.3,556.7
+CO-VC-BG,Bugalagrande,396.0,562.3
+CO-VC-BV,Buenaventura,253.2,591.1
+CO-VC-BO,Bolívar,384.0,555.9
+CO-VC-AG,Argelia,391.3,537.7
+CO-VC-AN,Ansermanuevo,398.3,534.6
+CO-VC-AD,Andalucía,396.0,565.7
+CO-VC-AL,Alcalá,411.3,540.7
+CO-TO-VR,Villarrica,465.6,580.3
+CO-TO-VH,Villahermosa,440.3,526.9
+CO-TO-VE,Venadillo,452.4,538.8
+CO-TO-VS,Valle de San Juan,440.5,563.3
+CO-TO-SU,Suárez,457.5,567.8
+CO-TO-SI,Santa Isabel,439.2,537.4
+CO-TO-MA,San Sebastian de Mariquita,452.4,514.8
+CO-TO-SL,San Luís,442.4,566.3
+CO-TO-SA,San Antonio,426.2,573.4
+CO-TO-SD,Saldaña,448.7,576.9
+CO-TO-RR,Rovira,430.9,560.7
+CO-TO-RC,Roncesvalles,422.4,565.3
+CO-TO-RI,Rioblanco,409.6,601.3
+CO-TO-PU,Purificación,454.4,578.3
+CO-TO-PR,Prado,455.2,584.6
+CO-TO-PL,Planadas,409.9,610.8
+CO-TO-PI,Piedras,452.1,548.6
+CO-TO-OR,Ortega,436.4,574.6
+CO-TO-NA,Natagaima,443.1,594.2
+CO-TO-MU,Murillo,435.5,533.0
+CO-TO-ME,Melgar,464.4,563.3
+CO-TO-LI,Líbano,444.4,531.8
+CO-TO-LE,Lérida,452.5,531.3
+CO-TO-IC,Icononzo,469.9,566.5
+CO-TO-IB,Ibagué,436.2,550.0
+CO-TO-HO,Honda,458.1,516.6
+CO-TO-HE,Herveo,437.4,522.0
+CO-TO-GU,Guamo,450.7,568.6
+CO-TO-FR,Fresno,445.5,516.0
+CO-TO-FL,Flandes,455.4,560.9
+CO-TO-FA,Falán,448.9,521.0
+CO-TO-ES,Espinal,452.4,564.6
+CO-TO-DO,Dolores,458.9,589.2
+CO-TO-CU,Cunday,463.8,573.3
+CO-TO-CY,Coyaima,441.2,584.0
+CO-TO-CL,Coello,451.9,555.4
+CO-TO-CH,Chaparral,420.0,584.7
+CO-TO-CB,Casabianca,439.2,524.2
+CO-TO-CA,Carmen de Apicalá,461.3,566.1
+CO-TO-CJ,Cajamarca,425.2,550.8
+CO-TO-AT,Ataco,424.1,600.2
+CO-TO-AR,Armero,454.4,524.6
+CO-TO-AN,Anzoátegui,438.6,542.9
+CO-TO-AM,Ambalema,457.0,533.1
+CO-TO-AV,Alvarado,449.5,544.8
+CO-TO-AJ,Alpujarra,452.1,600.9
+CO-SU-TV,Toluviejo,428.4,310.0
+CO-SU-TO,Tolú,422.2,310.5
+CO-SU-SU,Sucre,462.1,343.8
+CO-SU-SL,Sincelejo,429.1,319.3
+CO-SU-SI,Sincé,447.4,322.0
+CO-SU-SP,San Pedro,448.1,314.0
+CO-SU-SO,San Onofre,421.0,292.5
+CO-SU-SM,San Marcos,441.7,354.8
+CO-SU-SJ,San Juan de Betulia,440.4,320.4
+CO-SU-SB,San Benito Abad,448.7,344.9
+CO-SU-PA,San Antonio de Palmito,421.8,319.1
+CO-SU-SA,Sampués,432.7,327.1
+CO-SU-OV,Ovejas,441.1,307.9
+CO-SU-MO,Morroa,434.3,315.4
+CO-SU-MA,Majagual,462.8,352.9
+CO-SU-LP,Los Palmitos,440.2,314.4
+CO-SU-LU,La Unión de Sucre,435.2,344.1
+CO-SU-GU,Guarandá,462.4,363.7
+CO-SU-GA,Galeras,451.2,328.5
+CO-SU-CZ,Corozal,439.5,325.6
+CO-SU-CS,Colosó,432.9,309.5
+CO-SU-CH,Chalán,434.1,306.5
+CO-SU-CA,Caimito,444.5,345.0
+CO-SU-BU,Buenavista,451.4,318.7
+CO-ST-ZA,Zapatoca,528.5,437.3
+CO-ST-VN,Villanueva,535.4,444.9
+CO-ST-VT,Vetas,547.1,412.5
+CO-ST-VZ,Vélez,509.3,465.8
+CO-ST-VS,Valle de San José,537.8,456.9
+CO-ST-TO,Tona,545.2,422.2
+CO-ST-SR,Suratá,541.3,405.1
+CO-ST-SU,Sucre,499.6,477.0
+CO-ST-SU-1,Suaita,525.8,472.9
+CO-ST-SO,Socorro,532.0,455.0
+CO-ST-SI,Simacota,513.7,445.6
+CO-ST-SH,Santa Helena del Opón,516.0,458.5
+CO-ST-SB,Santa Bárbara,546.7,432.0
+CO-ST-SV,San Vicente de Chucurí,518.6,435.2
+CO-ST-SM,San Miguel,559.8,450.6
+CO-ST-SJ,San José de Miranda,554.7,448.2
+CO-ST-SQ,San Joaquín,549.7,455.5
+CO-ST-SG,San Gil,537.4,450.6
+CO-ST-SN,San Benito,518.6,472.4
+CO-ST-SA,San Andrés de Cuerquia,551.5,438.9
+CO-ST-ST,Sabana de Torres,516.0,409.1
+CO-ST-RI,Rionegro,523.1,407.6
+CO-ST-PW,Puerto Wilches,507.9,399.0
+CO-ST-PP,Puerto Parra,498.6,444.4
+CO-ST-PN,Puente Nacional,510.8,485.5
+CO-ST-PI,Pinchote,534.8,453.0
+CO-ST-PD,Piedecuesta,543.0,432.2
+CO-ST-PR,Páramo,535.6,456.2
+CO-ST-PS,Palmas del Socorro,530.8,459.4
+CO-ST-PL,Palmar,529.3,453.1
+CO-ST-ON,Onzaga,551.3,460.7
+CO-ST-OI,Oiba,529.7,466.1
+CO-ST-OC,Ocamonte,537.5,460.6
+CO-ST-MO,Molagavita,550.4,447.3
+CO-ST-MG,Mogotes,544.8,453.5
+CO-ST-MZ,Matanza,539.9,414.2
+CO-ST-MA,Málaga,554.7,443.2
+CO-ST-MC,Macaravita,562.0,453.5
+CO-ST-LS,Los Santos,538.3,438.9
+CO-ST-LE,Lebrija,528.6,419.8
+CO-ST-LN,Landázuri,500.3,460.4
+CO-ST-RO,La Paz,514.4,466.5
+CO-ST-LB,La Belleza,494.8,481.5
+CO-ST-JO,Jordán,538.8,443.6
+CO-ST-JM,Jesús María,504.6,483.8
+CO-ST-HA,Hato,525.7,450.7
+CO-ST-GU,Güepsa,515.8,475.5
+CO-ST-GV,Guavatá,510.4,479.9
+CO-ST-GP,Guapotá,528.5,462.0
+CO-ST-GD,Guadalupe,524.4,466.6
+CO-ST-GC,Guaca,550.5,433.4
+CO-ST-GI,Girón,527.3,426.5
+CO-ST-GA,Gámbita,526.6,482.5
+CO-ST-GL,Galán,528.1,445.7
+CO-ST-FL,Floridablanca,539.9,426.4
+CO-ST-EF,Florián,495.8,486.7
+CO-ST-ES,Enciso,558.2,446.3
+CO-ST-EN,Encino,541.4,473.8
+CO-ST-EY,El Playón,534.8,405.1
+CO-ST-EP,El Peñon,498.2,473.3
+CO-ST-EG,El Guacamayo,518.9,465.3
+CO-ST-EC,El Carmen de Chucurí,515.9,443.7
+CO-ST-CU,Curití,542.4,448.3
+CO-ST-CO,Coromoro,543.9,465.8
+CO-ST-CN,Contratación,521.3,462.9
+CO-ST-CF,Confines,533.7,460.2
+CO-ST-CC,Concepción,560.5,439.3
+CO-ST-CI,Cimitarra,488.1,454.1
+CO-ST-CP,Chipatá,513.5,473.6
+CO-ST-CM,Chimá,524.2,459.3
+CO-ST-CH,Charta,544.1,418.0
+CO-ST-CL,Charalá,537.5,469.1
+CO-ST-CR,Cerrito,559.4,434.4
+CO-ST-CE,Cepitá,546.2,442.6
+CO-ST-CS,Carcasí,562.9,446.2
+CO-ST-CJ,Capitanejo,557.7,453.1
+CO-ST-CA,California,544.1,410.2
+CO-ST-CB,Cabrera,531.7,449.7
+CO-ST-BU,Bucaramanga,538.0,422.8
+CO-ST-BO,Bolívar,490.3,474.5
+CO-ST-BE,Betulia,525.6,429.9
+CO-ST-BB,Barrancabermeja,506.0,428.1
+CO-ST-BH,Barichara,532.8,446.6
+CO-ST-BB-2,Barbosa,514.0,479.4
+CO-ST-AR,Aratoca,542.5,442.7
+CO-ST-AL,Albania,502.3,487.4
+CO-ST-AG,Aguada,519.3,469.1
+CO-SA-SA,San Andrés,130.6,171.7
+CO-SA-PR,Providencia,149.0,124.6
+---3,n.a. (1),239.2,39.8
+CO-RI-RI,Santuario,401.6,523.5
+CO-RI-SR,Santa Rosa de Cabal,422.9,531.8
+CO-RI-QU,Quinchía,414.2,509.3
+CO-RI-PR,Pueblo Rico,394.3,515.8
+CO-RI-PE,Pereira,417.1,534.6
+CO-RI-MI,Mistrato,401.0,507.6
+CO-RI-MA,Marsella,412.4,526.8
+CO-RI-LV,La Virginia,407.8,529.2
+CO-RI-LC,La Celia,398.0,525.0
+CO-RI-GU,Guática,409.3,509.3
+CO-RI-DO,Dosquebradas,416.3,533.0
+CO-RI-BE,Belén de Umbría,406.2,515.4
+CO-RI-BA,Balboa,403.2,527.7
+CO-RI-AP,Apía,400.0,519.7
+CO-QD-SA,Salento,425.0,543.4
+CO-QD-QU,Quimbaya,410.3,543.6
+CO-QD-PI,Pijao,415.2,556.6
+CO-QD-MO,Montenegro,410.7,546.9
+CO-QD-LT,La Tebaida,410.8,550.9
+CO-QD-GE,Génova,414.5,560.7
+CO-QD-FI,Filandia,416.4,541.4
+CO-QD-CO,Córdoba,417.5,554.4
+CO-QD-CI,Circasia,416.4,543.3
+CO-QD-CA,Calarcá,416.7,549.4
+CO-QD-BU,Buenavista,413.2,553.5
+CO-QD-AA,Armenia,415.6,547.9
+CO-PU-VG,Villagarzón,367.4,716.9
+CO-PU-VA,Valle del Guamuez,362.3,742.9
+CO-PU-SI,Sibundoy,357.4,702.8
+CO-PU-SG,Santiago,354.3,710.8
+CO-PU-MO,San Miguel de Mocoa,373.8,707.4
+CO-PU-SF,San Francisco,362.9,707.0
+CO-PU-PL,Puerto Leguízamo,449.4,756.5
+CO-PU-PG,Puerto Guzmán,404.7,725.6
+CO-PU-PC,Puerto Caicedo,384.8,727.5
+CO-PU-PA,Puerto Asís,388.1,740.9
+CO-PU-OR,Orito,358.4,727.2
+CO-PU-CL,Colón,354.8,705.7
+CO-NS-VR,Villa del Rosario,567.0,393.9
+CO-NS-VC,Villa Caro,544.1,385.7
+CO-NS-TO,Toledo,575.9,419.2
+CO-NS-TI,Tibú,554.4,348.6
+CO-NS-TE,Teorama,536.8,343.8
+CO-NS-SR,Sardinata,552.5,372.1
+CO-NS-SI,Santo Domingo de Silos,552.8,422.5
+CO-NS-SG,Santiago,556.4,388.1
+CO-NS-CC,San José de Cúcuta,568.2,378.8
+CO-NS-SC,San Cayetano,561.1,390.7
+CO-NS-SX,San Calixto,536.9,361.5
+CO-NS-SZ,Salazar de las Palmas,549.7,392.8
+CO-NS-RA,Ragonvalia,566.3,401.7
+CO-NS-PS,Puerto Santander,570.1,366.7
+CO-NS-PT,Pamplonita,560.4,407.2
+CO-NS-PA,Pamplona,557.7,413.4
+CO-NS-OC,Ocaña,527.1,370.5
+CO-NS-MU,Mutiscua,553.4,415.3
+CO-NS-LO,Lourdes,550.2,384.5
+CO-NS-LS,Los Patios,564.0,395.2
+CO-NS-LB,Labateca,565.3,416.9
+CO-NS-LP,La Playa de Belén,535.0,370.2
+CO-NS-LE,La Esperanza,524.5,397.4
+CO-NS-HE,Herrán,567.1,406.0
+CO-NS-HA,Hacarí,539.0,364.6
+CO-NS-GR,Gramalote,551.3,386.6
+CO-NS-EZ,El Zulia,559.6,377.6
+CO-NS-ET,El Tarra,541.0,350.0
+CO-NS-EC,El Carmen,529.7,344.4
+CO-NS-DU,Durania,558.0,395.3
+CO-NS-CL,Cucutilla,552.1,406.9
+CO-NS-CV,Convención,534.4,342.1
+CO-NS-CT,Chitagá,565.2,427.3
+CO-NS-CH,Chinácota,562.4,403.2
+CO-NS-CA,Cácota,559.1,417.8
+CO-NS-CR,Cáchira,534.1,397.3
+CO-NS-BU,Bucarasica,546.4,378.5
+CO-NS-BO,Bochalema,558.8,400.0
+CO-NS-AR,Arboledas,549.5,401.8
+CO-NS-AB,Abrego,534.8,381.0
+CO-NA-YA,Yacuanquer,334.4,705.2
+CO-NA-TQ,Túquerres,323.7,704.2
+CO-NA-TC,Tumaco,275.0,686.7
+CO-NA-TG,Tangua,336.7,709.1
+CO-NA-TN,Taminango,338.5,684.9
+CO-NA-SY,Sapuyes,322.1,710.4
+CO-NA-SZ,Santa Cruz,318.6,699.3
+CO-NA-SB,Santa Bárbara,311.3,648.8
+CO-NA-SD,Sandoná,333.3,698.2
+CO-NA-SC,San Pedro de Cartago,349.1,687.4
+CO-NA-SP,San Pablo,354.9,681.4
+CO-NA-SL,San Lorenzo,343.4,686.5
+CO-NA-PA,San Juan de Pasto,344.8,712.1
+CO-NA-SB-4,San Bernardo,354.2,687.4
+CO-NA-SM,Samaniego,320.0,693.8
+CO-NA-RO,Roberto Payán,288.6,668.4
+CO-NA-RI,Ricaurte,297.8,702.8
+CO-NA-PP,Pupiales,324.6,715.7
+CO-NA-PU,Puerres,341.2,722.9
+CO-NA-PR,Providencia,325.5,701.0
+CO-NA-PT,Potosí,335.7,724.5
+CO-NA-PC,Policarpa,332.2,677.9
+CO-NA-OS,Ospina,327.4,711.0
+CO-NA-OH,Olaya Herrera,293.3,656.5
+CO-NA-MO,Mosquera,285.8,646.5
+CO-NA-ML,Mallama,314.5,704.5
+CO-NA-MG,Magüí,312.7,669.0
+CO-NA-LO,Los Andes,325.6,685.4
+CO-NA-LI,Linares,329.6,693.8
+CO-NA-LE,Leiva,336.9,665.8
+CO-NA-LU,La Unión de Sucre,348.1,683.9
+CO-NA-LT,La Tola,297.0,648.7
+CO-NA-LL,La Llanada,322.3,688.7
+CO-NA-LF,La Florida,335.9,696.4
+CO-NA-LC,La Cruz,358.5,686.7
+CO-NA-IP,Ipiales,335.8,731.1
+CO-NA-IM,Imués,329.5,709.3
+CO-NA-IL,Iles,328.9,713.1
+CO-NA-GM,Gualmatán,326.6,715.6
+CO-NA-GT,Guaitarilla,329.0,704.6
+CO-NA-GC,Guachucal,318.9,713.2
+CO-NA-FU,Funes,340.8,717.5
+CO-NA-FP,Francisco Pizarro,279.3,660.9
+CO-NA-ET,El Tambo,335.0,689.4
+CO-NA-EL,El Tablón de Gomez,356.0,696.0
+CO-NA-ER,El Rosario,336.4,676.8
+CO-NA-EC,El Charco,312.7,650.8
+CO-NA-CT,Cumbitara,327.3,681.1
+CO-NA-CU,Cumbal,308.0,715.3
+CO-NA-CD,Cuaspud,318.6,718.6
+CO-NA-CO,Córdoba,338.7,724.1
+CO-NA-CN,Contadero,329.5,716.4
+CO-NA-CS,Consacá,333.3,702.5
+CO-NA-CL,Colón,351.4,682.9
+CO-NA-CH,Chachagüí,340.3,692.5
+CO-NA-BU,Buesaco,347.4,697.4
+CO-NA-BL,Belén,352.8,685.4
+CO-NA-BA,Barbacoas,304.0,689.9
+CO-NA-AR,Arboleda,347.6,689.8
+CO-NA-AN,Ancuyá,328.4,700.3
+CO-NA-AD,Aldana,320.5,717.4
+CO-NA-AL,Albán,352.9,689.7
+CO-ME-VH,Vista Hermosa,516.0,631.2
+CO-ME-VV,Villavicencio,521.3,566.3
+CO-ME-SM,San Martín,542.0,593.3
+CO-ME-CB,San Luis de Cubarral,489.9,582.7
+CO-ME-SJ,San Juanito,511.0,551.2
+CO-ME-SA,San Juan de Arama,507.8,608.6
+CO-ME-SC,San Carlos de Guaroa,532.1,581.9
+CO-ME-RE,Restrepo,525.4,559.2
+CO-ME-PR,Puerto Rico,537.7,631.1
+CO-ME-PZ,Puerto López,560.6,569.7
+CO-ME-PL,Puerto Lleras,533.8,606.7
+CO-ME-PG,Puerto Gaitán,602.8,566.8
+CO-ME-PC,Puerto Concordia,560.8,632.6
+CO-ME-ME,Mesetas,490.8,616.5
+CO-ME-MA,Mapiripán,590.9,614.2
+CO-ME-LE,Lejanías,496.3,596.0
+CO-ME-LU,La Uribe,476.6,615.8
+CO-ME-LM,La Macarena,493.3,661.0
+CO-ME-GU,Guamal,498.3,575.6
+CO-ME-GR,Granada,507.6,595.7
+CO-ME-FO,Fuente de Oro,515.3,602.2
+CO-ME-ED,El Dorado,506.2,587.9
+CO-ME-EC,El Castillo,497.9,591.3
+CO-ME-EV,El Calvario,509.2,554.6
+CO-ME-CM,Cumaral,528.8,561.3
+CO-ME-CN,Castilla la Nueva,518.0,581.9
+CO-ME-CA,Cabuyaro,546.3,557.9
+CO-ME-BA,Barranca de Upía,545.8,547.7
+CO-ME-AC,Acacías,507.3,570.4
+CO-MA-TE,Tenerife,462.7,288.4
+CO-MA-SM,Santa Marta (Dist. Esp.),499.2,234.2
+CO-MA-SA,Santa Ana,482.0,311.4
+CO-MA-SZ,San Zenón,479.4,318.1
+CO-MA-SS,San Sebastián de Buenavista,485.6,318.2
+CO-MA-SL,Salamina,461.6,261.9
+CO-MA-RE,Remolino,468.3,256.3
+CO-MA-PV,Pueblo Viejo,478.9,247.4
+CO-MA-PL,Plato,471.9,297.0
+CO-MA-PI,Pivijay,477.7,267.6
+CO-MA-PE,Pedraza,460.6,279.0
+CO-MA-GU,Guamal,489.1,323.3
+CO-MA-FU,Fundación,500.5,267.4
+CO-MA-EP,El Piñón,464.1,271.1
+CO-MA-EB,El Banco,496.0,327.2
+CO-MA-CI,Ciénaga,493.7,245.5
+CO-MA-CH,Chivolo,473.1,282.1
+CO-MA-CE,Cerro de San Antonio,458.1,273.4
+CO-MA-AG,Ariguaní,491.8,292.0
+CO-MA-AC,Aracataca,495.1,255.9
+CO-LG-VN,Villanueva,544.5,258.8
+CO-LG-UM,Urumita,542.4,264.0
+CO-LG-UB,Uribia,602.2,190.6
+CO-LG-SJ,San Juan del Cesar,542.3,250.3
+CO-LG-RI,Riohacha,538.5,229.9
+CO-LG-MN,Manaure,564.8,210.5
+CO-LG-MC,Maicao,575.4,223.3
+CO-LG-FO,Fonseca,549.4,247.2
+CO-LG-EM,El Molino,550.8,258.3
+CO-LG-BA,Barrancas,556.1,241.4
+CO-HU-YA,Yaguará,424.6,636.9
+CO-HU-VV,Villavieja,441.6,606.2
+CO-HU-TI,Timaná,403.7,670.6
+CO-HU-TS,Tesalia,415.7,639.7
+CO-HU-TR,Teruel,413.8,626.9
+CO-HU-TL,Tello,446.4,616.4
+CO-HU-TA,Tarquí,408.6,659.9
+CO-HU-SU,Suaza,410.6,671.7
+CO-HU-SM,Santa María,414.1,621.0
+CO-HU-SA,San Agustín,382.0,672.7
+CO-HU-SB,Saladoblanco,391.8,663.9
+CO-HU-RI,Rivera,439.6,629.5
+CO-HU-PT,Pitalito,394.9,678.7
+CO-HU-PI,Pital,410.5,654.8
+CO-HU-PL,Palestina,396.0,683.4
+CO-HU-PM,Palermo,427.5,625.0
+CO-HU-PC,Paicol,414.1,647.4
+CO-HU-OP,Oporapa,399.9,662.8
+CO-HU-NE,Neiva,433.1,617.7
+CO-HU-NA,Nátaga,409.7,635.9
+CO-HU-LP,La Plata,396.3,650.0
+CO-HU-LA,La Argentina,393.8,657.7
+CO-HU-IS,Isnos,389.7,666.8
+CO-HU-IQ,Iquira,412.3,630.8
+CO-HU-HO,Hobo,426.8,640.1
+CO-HU-GD,Guadalupe,417.1,665.5
+CO-HU-GI,Gigante,423.9,648.0
+CO-HU-GA,Garzón,422.0,657.6
+CO-HU-EL,Elías,403.2,666.8
+CO-HU-CO,Colombia,462.3,598.4
+CO-HU-CA,Campoalegre,433.1,635.6
+CO-HU-BA,Baraya,450.2,611.1
+CO-HU-AM,Altamira,411.5,663.5
+CO-HU-AL,Algeciras,439.5,642.2
+CO-HU-AI,Aipe,430.3,607.5
+CO-HU-AG,Agrado,414.0,652.7
+CO-HU-AC,Acevedo,405.5,680.2
+CO-GV-SJ,San José del Guaviare,587.8,649.8
+CO-GV-MF,Miraflores,586.9,702.9
+CO-GV-ER,El Retorno,616.3,669.3
+CO-GV-CM,Calamar,543.6,692.6
+CO-GN-SF,San Felipe,806.4,661.6
+CO-GN-GN,Puerto Inírida,728.0,620.6
+CO-AT-PC,Puerto Colombia,773.1,645.9
+CO-GN-PA,Pana Pana,725.1,665.5
+CO-GN-LG,La Guadalupe,827.9,693.2
+CO-GN-CA,Cacahual,797.6,601.7
+CO-GN-GN-5,Barranco Minas,707.1,619.7
+CO-CU-ZQ,Zipaquirá,495.6,522.2
+CO-CU-ZC,Zipacón,477.4,536.5
+CO-CU-YA,Yacopí,479.1,495.9
+CO-CU-VI,Viotá,473.0,551.7
+CO-CU-VL,Villeta,473.4,524.2
+CO-CU-VP,Villapinzón,515.5,514.1
+CO-CU-VG,Villagómez,487.4,512.2
+CO-CU-UB,Villa de San Diego de Ubaté,504.0,510.1
+CO-CU-VN,Vianí,469.8,530.3
+CO-CU-VE,Vergara,481.7,519.3
+CO-CU-OS,Venecia,474.6,569.5
+CO-CU-UT,Utica,473.0,516.2
+CO-CU-UN,Une,493.4,555.4
+CO-CU-UQ,Ubaque,497.0,548.1
+CO-CU-UL,Ubalá,520.0,534.5
+CO-CU-TP,Topaipí,481.9,508.0
+CO-CU-TC,Tocancipá,498.8,526.6
+CO-CU-TM,Tocaima,465.2,549.2
+CO-CU-TI,Tibirita,518.5,521.9
+CO-CU-TY,Tibacuy,472.0,557.0
+CO-CU-TJ,Tenjo,489.1,533.0
+CO-CU-TE,Tena,478.6,540.1
+CO-CU-TS,Tausa,498.2,515.6
+CO-CU-TB,Tabio,492.0,527.4
+CO-CU-SU,Sutatausa,502.7,513.6
+CO-CU-SS,Susa,504.1,504.4
+CO-CU-SP,Supatá,485.1,522.2
+CO-CU-SC,Suesca,506.3,518.5
+CO-CU-SQ,Subachoque,487.4,527.9
+CO-CU-SO,Sopó,497.6,530.3
+CO-CU-SH,Soacha,482.4,547.7
+CO-CU-SM,Simijaca,502.7,499.9
+CO-CU-SV,Silvania,478.5,551.9
+CO-CU-SI,Sibaté,483.5,550.7
+CO-CU-SE,Sesquilé,506.3,524.8
+CO-CU-SA,Sasaima,476.5,527.1
+CO-CU-SF,Santafé de Bogotá,484.4,560.4
+CO-CU-SJ,San Juan de Río Seco,464.4,531.9
+CO-CU-SF-6,San Francisco,483.5,527.2
+CO-CU-SC-7,San Cayetano,492.0,509.8
+CO-CU-SB,San Bernardo,480.0,566.0
+CO-CU-ST,San Antonio del Tequendama,479.6,543.8
+CO-CU-RI,Ricaurte,461.2,557.5
+CO-CU-QP,Quipile,469.7,538.5
+CO-CU-QT,Quetame,503.4,557.4
+CO-CU-QN,Quebradanegra,472.2,520.0
+CO-CU-PU,Pulí,464.1,539.3
+CO-CU-PS,Puerto Salgar,469.0,497.2
+CO-CU-PA,Pasca,483.8,558.0
+CO-CU-PB,Paratebueno,533.2,550.1
+CO-CU-PD,Pandi,474.0,564.2
+CO-CU-PM,Paime,487.9,507.0
+CO-CU-PC,Pacho,487.9,517.2
+CO-CU-NO,Nocaima,477.9,522.3
+CO-CU-NM,Nimaima,477.4,518.4
+CO-CU-NI,Nilo,467.0,558.6
+CO-CU-NE,Nemocón,501.2,521.1
+CO-CU-NA,Nariño,457.3,554.0
+CO-CU-MO,Mosquera,485.0,540.2
+CO-CU-ME,Medina,526.0,547.4
+CO-CU-MN,Manta,516.1,526.2
+CO-CU-MD,Madrid,484.4,535.5
+CO-CU-MC,Machetá,513.2,523.3
+CO-CU-LE,Lenguazaque,510.4,510.9
+CO-CU-LV,La Vega,480.0,526.4
+CO-CU-LP,La Peña,476.6,515.2
+CO-CU-LA,La Palma,476.1,508.5
+CO-CU-LM,La Mesa,473.3,542.2
+CO-CU-LC,La Calera,500.4,538.7
+CO-CU-JU,Junín,509.7,539.8
+CO-CU-JE,Jerusalén,463.9,546.1
+CO-CU-GZ,Gutiérrez,493.5,564.5
+CO-CU-GB,Guayabetal,502.8,563.4
+CO-CU-GS,Guayabal de Síquima,473.0,530.4
+CO-CU-GV,Guatavita,504.3,528.4
+CO-CU-GQ,Guataquí,458.9,547.0
+CO-CU-GU,Guasca,502.9,533.3
+CO-CU-GD,Guaduas,466.0,515.2
+CO-CU-GC,Guachetá,510.1,505.8
+CO-CU-GI,Girardot,457.2,555.5
+CO-CU-GM,Gama,515.0,537.9
+CO-CU-GT,Gachetá,511.9,531.3
+CO-CU-GP,Gachancipá,501.5,525.2
+CO-CU-GL,Gachalá,519.5,542.4
+CO-CU-FS,Fusagasugá,476.9,557.8
+CO-CU-FQ,Fúquene,506.1,505.5
+CO-CU-FZ,Funza,486.5,536.8
+CO-CU-FO,Fosca,497.7,557.5
+CO-CU-FM,Fómeque,506.6,546.7
+CO-CU-FA,Facatativá,479.7,533.0
+CO-CU-EP,El Peñon,482.1,513.0
+CO-CU-EC,El Colegio,475.7,545.7
+CO-CU-CU,Cucunubá,506.4,513.7
+CO-CU-CT,Cota,490.1,535.1
+CO-CU-CG,Cogua,496.9,519.9
+CO-CU-CO,Chocontá,512.1,519.6
+CO-CU-CH,Choachí,500.6,545.1
+CO-CU-CE,Chipaque,493.6,552.6
+CO-CU-CI,Chía,493.6,531.5
+CO-CU-CN,Chaguaní,465.0,527.0
+CO-CU-CC,Carmen de Carupa,499.0,508.7
+CO-CU-CQ,Cáqueza,499.1,553.5
+CO-CU-CP,Caparrapí,471.6,507.2
+CO-CU-CJ,Cajicá,494.0,528.3
+CO-CU-CA,Cachipay,473.9,538.3
+CO-CU-CB,Cabrera,474.6,579.2
+CO-CU-BO,Bojacá,480.6,539.0
+CO-CU-BI,Bituima,470.7,532.1
+CO-CU-BE,Beltrán,460.3,538.1
+CO-CU-AR,Arbeláez,478.1,561.2
+CO-CU-AU,Apulo,469.1,546.7
+CO-CU-AN,Anolaima,474.0,534.9
+CO-CU-AP,Anapoima,471.0,545.7
+CO-CU-AL,Albán,474.6,529.8
+CO-CU-AD,Agua de Dios,464.5,554.6
+CO-CO-VA,Valencia,391.5,370.9
+CO-CO-TI,Tierralta,396.3,389.0
+CO-CO-LO,Santa Cruz de Lorica,406.9,326.4
+CO-CO-SP,San Pelayo,407.6,334.9
+CO-CO-SC,San Carlos,416.9,349.2
+CO-CO-SB,San Bernardo del Viento,404.2,318.3
+CO-CO-SH,San Bernardino de Sahagún,430.4,344.7
+CO-CO-SA,San Antero,412.2,317.1
+CO-CO-SS,San Andrés de Sotavento,425.8,327.6
+CO-CO-PU,Purísima,416.2,322.2
+CO-CO-PL,Puerto Libertador,413.4,397.8
+CO-CO-PE,Puerto Escondido,393.3,334.2
+CO-CO-PN,Pueblo Nuevo,430.0,360.5
+CO-CO-PR,Planeta Rica,421.7,366.8
+CO-CO-MR,Montería,403.4,353.2
+CO-CO-ML,Montelíbano,418.8,393.3
+CO-CO-MT,Moñitos,397.6,322.4
+CO-CO-MM,Momil,419.7,323.1
+CO-CO-LC,Los Córdobas,389.6,340.0
+CO-CO-CO,Ciénaga de Oro,420.4,343.6
+CO-CO-CN,Chinú,431.0,334.3
+CO-CO-CM,Chimá,419.2,329.2
+CO-CO-CE,Cereté,409.0,340.2
+CO-CO-CA,Canalete,390.6,347.0
+CO-CO-BU,Buenavista,429.2,373.7
+CO-CO-AY,Ayapel,446.1,371.2
+CO-CH-UN,Unguía,349.9,376.7
+CO-CH-TA,Tadó,378.1,509.3
+CO-CH-SI,Sipí,375.1,549.8
+CO-CH-SJ,San José del Palmar,387.9,528.1
+CO-CH-RI,Riosucio,348.9,412.2
+CO-CH-QU,Quibdó,368.1,478.6
+CO-CH-NU,Nuquí,338.8,489.1
+CO-CH-NO,Novita,374.2,530.8
+CO-CH-LL,Lloró,383.3,493.8
+CO-CH-JU,Juradó,324.0,424.9
+CO-CH-IS,Istmina,366.6,526.4
+CO-CH-CH,El Litoral del San Juan,354.2,551.2
+CO-CH-EC,El Carmen de Atrato,389.0,485.5
+CO-CH-CH-8,El Cantón del San Pablo,367.4,511.2
+CO-CH-CO,Condoto,379.8,519.4
+CO-CH-BO,Bojayá,349.9,453.4
+CO-CH-BB,Bajo Baudó,345.6,524.4
+CO-CH-BS,Bahía Solano,336.8,458.3
+CO-CH-BA,Bagadó,388.5,501.3
+CO-CH-AL,Alto Baudó,352.3,493.1
+CO-CH-AC,Acandí,341.9,361.9
+CO-CE-VA,Valledupar,521.1,270.6
+CO-CE-TA,Tamalameque,507.2,341.4
+CO-CE-SM,San Martín,516.5,382.7
+CO-CE-SD,San Diego,530.0,275.7
+CO-CE-SA,San Alberto,518.4,388.5
+CO-CE-RI,Río de Oro,519.7,373.7
+CO-CE-PE,Pelaya,516.2,345.8
+CO-CE-PA,Pailitas,516.8,337.3
+CO-CE-MA,Manaure,544.7,270.0
+CO-CE-RO,La Paz,531.0,282.1
+CO-CE-LJ,La Jagua de Ibirico,529.3,307.6
+CO-CE-LG,La Gloria,513.8,352.2
+CO-CE-GO,González,524.8,364.3
+CO-CE-GA,Gamarra,509.9,367.8
+CO-CE-EP,El Paso,511.9,302.6
+CO-CE-EC,El Copey,500.2,277.3
+CO-CE-CU,Curumaní,518.6,323.4
+CO-CE-CG,Chiriguaná,520.6,315.8
+CO-CE-CC,Chimichagua,510.3,323.7
+CO-CE-BO,Bosconia,501.2,290.1
+CO-CE-BE,Becerril,531.9,296.0
+CO-CE-AS,Astrea,497.6,312.2
+CO-CE-AC,Agustín Codazzi,530.8,288.8
+CO-CE-AG,Aguachica,513.6,369.8
+CO-CA-TT,Totoró,381.9,644.5
+CO-CA-TR,Toribío,392.8,619.9
+CO-CA-TQ,Timbiquí,328.7,634.7
+CO-CA-TM,Timbío,365.2,648.4
+CO-CA-SU,Suárez,364.1,623.0
+CO-CA-SO,Sotará,371.5,654.8
+CO-CA-SI,Silvia,385.4,635.0
+CO-CA-SN,Santander de Quilichao,378.0,616.2
+CO-CA-SR,Santa Rosa,379.8,693.2
+CO-CA-SS,San Sebastián,366.2,672.2
+CO-CA-RO,Rosas,365.0,653.0
+CO-CA-PU,Puracé,379.8,654.6
+CO-CA-PT,Puerto Tejada,380.9,606.5
+CO-CA-PO,Popayán,372.5,643.9
+CO-CA-PI,Piendamó,374.4,631.6
+CO-CA-PA,Patía,351.5,659.0
+CO-CA-PZ,Páez,399.1,632.6
+CO-CA-PD,Padilla,385.6,609.6
+CO-CA-MS,Morales,365.8,628.0
+CO-CA-MI,Miranda,390.7,608.4
+CO-CA-ME,Mercaderes,345.5,675.0
+CO-CA-LO,López de Micay,342.5,617.6
+CO-CA-LV,La Vega,364.8,662.9
+CO-CA-LS,La Sierra,365.5,656.2
+CO-CA-JA,Jambaló,387.7,625.1
+CO-CA-IN,Inzá,394.9,642.4
+CO-CA-GU,Guapí,323.6,645.0
+CO-CA-FL,Florencia,351.1,679.6
+CO-CA-ET,El Tambo,351.3,640.6
+CO-CA-CO,Corinto,392.7,612.1
+CO-CA-CT,Caloto,384.0,615.0
+CO-CA-CD,Caldonó,377.3,627.5
+CO-CA-CJ,Cajibío,368.7,635.0
+CO-CA-BA,Buenos Aires,368.6,620.4
+CO-CA-BO,Bolívar,355.9,672.7
+CO-CA-BA-9,Balboa,344.0,661.5
+CO-CA-AG,Argelia,341.9,653.4
+CO-CA-AL,Almaguer,360.9,671.1
+CO-CS-YO,Yopal,577.4,514.2
+CO-CS-VN,Villanueva,553.6,549.0
+CO-CS-TR,Trinidad,625.0,509.3
+CO-CS-TN,Tauramena,562.9,538.0
+CO-CS-TM,Támara,578.8,483.8
+CO-CS-SL,San Luis de Palenque,613.6,511.6
+CO-CS-SC,Sácama,580.2,475.4
+CO-CS-SA,Sabanalarga,544.0,537.0
+CO-CS-RE,Recetor,554.2,512.8
+CO-CS-PO,Pore,593.5,492.9
+CO-CS-PA,Paz de Ariporo,639.7,489.6
+CO-CS-OR,Orocué,610.7,530.7
+CO-CS-NU,Nunchía,586.7,499.4
+CO-CS-MO,Monterrey,550.0,532.5
+CO-CS-MA,Maní,582.5,538.7
+CO-CS-LS,La Salina,574.1,470.0
+CO-CS-HA,Hato Corozal,637.7,475.6
+CO-CS-CH,Chámeza,549.3,514.7
+CO-CS-AG,Aguazul,564.3,520.3
+CO-CQ-VP,Valparaíso,415.4,708.3
+CO-CQ-SO,Solano,517.9,748.9
+CO-CQ-SV,San Vicente del Caguán,479.2,672.9
+CO-CQ-SJ,San José del Fragua,394.6,697.3
+CO-CQ-PR,Puerto Rico,442.5,671.0
+CO-CQ-MO,Morelia,412.7,690.0
+CO-CQ-MI,Milán,423.4,705.9
+CO-CQ-LM,La Montañita,430.4,691.9
+CO-CQ-FL,Florencia,420.6,677.6
+CO-CQ-EP,El Paujíl,431.7,686.6
+CO-CQ-ED,El Doncello,440.0,674.0
+CO-CQ-CU,Curillo,399.6,709.5
+CO-CQ-CA,Cartagena del Chairá,475.8,716.7
+CO-CQ-BE,Belén de los Andaquies,404.3,689.3
+CO-CQ-AL,Albania,405.3,700.8
+CO-CL-VB,Viterbo,406.2,522.6
+CO-CL-VM,Villamaría,426.7,528.2
+CO-CL-VC,Victoria,455.3,503.9
+CO-CL-SU,Supía,418.1,503.5
+CO-CL-SA,Samaná,451.1,499.4
+CO-CL-SL,Salamina,429.0,508.2
+CO-CL-RR,Risaralda,411.2,520.0
+CO-CL-RI,Riosucio,413.1,504.1
+CO-CL-PE,Pensilvania,439.9,505.9
+CO-CL-PL,Palestina,417.2,521.4
+CO-CL-PC,Pácora,425.4,500.6
+CO-CL-NE,Neira,424.0,515.5
+CO-CL-MD,Marulanda,435.5,514.4
+CO-CL-MQ,Marquetalia,445.5,510.6
+CO-CL-MM,Marmato,419.3,501.7
+CO-CL-MZ,Manzanares,440.9,513.8
+CO-CL-ML,Manizales,424.4,521.0
+CO-CL-LM,La Merced,421.6,506.4
+CO-CL-LD,La Dorada,461.4,499.7
+CO-CL-FI,Filadelfia,420.4,510.8
+CO-CL-CH,Chinchiná,416.5,524.9
+CO-CL-BE,Belalcázar,409.7,525.0
+CO-CL-AR,Aranzazú,426.1,511.4
+CO-CL-AN,Anserma,412.6,514.7
+CO-CL-AG,Aguadas,426.7,497.1
+CO-BY-ZE,Zetaquirá,535.6,512.3
+CO-BY-VI,Viracachá,530.3,504.3
+CO-BY-LE,Villa de Leyva,518.7,494.3
+CO-BY-VE,Ventaquemada,518.3,507.8
+CO-BY-UM,Umbita,521.1,515.7
+CO-BY-TS,Tutazá,549.2,474.1
+CO-BY-TT,Tuta,534.1,493.3
+CO-BY-TE,Turmequé,518.8,511.6
+CO-BY-TU,Tunungua,498.8,490.8
+CO-BY-TJ,Tunja,524.6,499.7
+CO-BY-TO,Tota,542.7,503.3
+CO-BY-TP,Topagá,550.6,489.5
+CO-BY-TG,Toguí,519.7,481.9
+CO-BY-TC,Toca,534.8,498.2
+CO-BY-TQ,Tipacoque,557.1,457.7
+CO-BY-TI,Tinjacá,510.6,497.7
+CO-BY-TB,Tibasosa,542.7,490.1
+CO-BY-TN,Tibaná,523.6,510.5
+CO-BY-TZ,Tenza,522.0,522.2
+CO-BY-TA,Tasco,555.9,483.4
+CO-BY-SZ,Sutatenza,522.4,524.6
+CO-BY-SU,Sutamarchán,512.7,495.1
+CO-BY-SS,Susacón,554.7,467.7
+CO-BY-SQ,Sotaquirá,530.5,488.0
+CO-BY-SL,Soracá,527.6,502.9
+CO-BY-SR,Sora,520.5,497.0
+CO-BY-SK,Somondoco,522.1,527.6
+CO-BY-SG,Sogamoso,548.6,493.6
+CO-BY-ST,Socotá,564.8,480.4
+CO-BY-SC,Socha,558.1,479.3
+CO-BY-SO,Soatá,556.9,462.7
+CO-BY-SI,Siachoque,532.8,502.0
+CO-BY-SV,Sativasur,555.5,475.1
+CO-BY-SE,Sativanorte,555.3,472.0
+CO-BY-SN,Santana,519.9,474.6
+CO-BY-SF,Santa Sofía,513.8,490.9
+CO-BY-RV,Santa Rosa de Viterbo,543.1,482.2
+CO-BY-SX,Santa María,533.5,534.3
+CO-BY-SP,San Pablo de Borbur,490.3,492.7
+CO-BY-MS,San Miguel de Sema,507.4,499.2
+CO-BY-SM,San Mateo,564.1,458.4
+CO-BY-LG,San Luis de Gaceno,537.0,530.7
+CO-BY-JP,San José de Pare,517.6,477.5
+CO-BY-SD,San Eduardo,540.4,514.4
+CO-BY-SA,Samacá,517.8,503.1
+CO-BY-SH,Sáchica,517.5,498.2
+CO-BY-SB,Saboyá,507.0,491.7
+CO-BY-RO,Rondón,533.3,507.3
+CO-BY-RA,Ráquira,512.6,501.7
+CO-BY-RM,Ramiriquí,528.1,510.9
+CO-BY-QU,Quípama,483.8,497.8
+CO-BY-PB,Puerto Boyacá,474.8,477.1
+CO-BY-PV,Pisba,567.4,491.0
+CO-BY-PE,Pesca,538.8,502.6
+CO-BY-PR,Paz de Río,554.2,476.5
+CO-BY-PY,Paya,572.5,494.3
+CO-BY-PA,Pauna,496.2,492.1
+CO-BY-PQ,Panqueba,568.6,457.7
+CO-BY-PJ,Pajarito,557.4,508.5
+CO-BY-PP,Paipa,534.7,486.0
+CO-BY-PZ,Páez,542.2,521.0
+CO-BY-PC,Pachavita,523.9,518.9
+CO-BY-OT,Otanche,486.3,490.2
+CO-BY-OI,Oicatá,529.4,497.2
+CO-BY-NC,Nuevo Colón,521.1,509.1
+CO-BY-NO,Nobsa,546.1,488.9
+CO-BY-MZ,Muzo,489.0,499.8
+CO-BY-MV,Motavita,523.4,494.4
+CO-BY-MQ,Moniquirá,517.6,483.8
+CO-BY-MI,Monguí,550.8,492.6
+CO-BY-MA,Mongua,557.2,493.1
+CO-BY-MF,Miraflores,533.8,518.4
+CO-BY-MP,Maripí,494.7,497.6
+CO-BY-MC,Macanal,529.0,526.7
+CO-BY-LB,Labranzagrande,562.3,500.0
+CO-BY-LV,La Victoria,484.9,500.9
+CO-BY-LU,La Uvita,564.1,465.7
+CO-BY-LC,La Capilla,521.4,520.4
+CO-BY-JR,Jericó,562.7,471.7
+CO-BY-JN,Jenesano,524.4,507.6
+CO-BY-IZ,Izá,544.6,496.5
+CO-BY-GU,Guicán,578.6,451.9
+CO-BY-GY,Guayatá,519.1,527.9
+CO-BY-GT,Guateque,520.2,524.4
+CO-BY-GM,Guacamayas,565.3,457.5
+CO-BY-GG,Garagoa,527.8,520.7
+CO-BY-GZ,Gámeza,555.7,487.5
+CO-BY-GC,Gachantivá,517.4,490.0
+CO-BY-FL,Floresta,546.0,484.9
+CO-BY-FI,Firavitoba,541.3,493.6
+CO-BY-EE,El Espino,567.5,455.1
+CO-BY-EC,El Cocuy,570.6,461.6
+CO-BY-DU,Duitama,539.5,483.6
+CO-BY-CT,Cuítiva,545.4,498.1
+CO-BY-CC,Cucaita,520.7,500.1
+CO-BY-CU,Cubará,578.9,436.6
+CO-BY-CO,Covarachía,554.4,453.4
+CO-BY-CL,Corrales,549.6,486.6
+CO-BY-CP,Coper,494.3,503.8
+CO-BY-CB,Cómbita,527.3,492.7
+CO-BY-CG,Ciénaga,530.1,507.3
+CO-BY-CH,Chivor,525.6,532.3
+CO-BY-CV,Chivatá,530.3,498.4
+CO-BY-CR,Chitaraque,522.2,478.7
+CO-BY-CA,Chita,569.1,473.4
+CO-BY-CS,Chiscas,570.3,445.9
+CO-BY-CZ,Chíquiza,520.5,495.0
+CO-BY-CQ,Chiquinquirá,505.3,494.7
+CO-BY-CN,Chinavita,526.7,515.7
+CO-BY-CE,Cerinza,544.6,479.6
+CO-BY-CM,Campohermoso,536.5,525.4
+CO-BY-CL-10,Caldas,500.8,498.8
+CO-BY-BZ,Busbanza,548.8,485.8
+CO-BY-BU,Buenavista,497.2,501.9
+CO-BY-BR,Briceño,499.5,493.2
+CO-BY-BY,Boyacá,524.8,505.1
+CO-BY-BO,Boavita,560.8,462.8
+CO-BY-BT,Beteitiva,549.8,482.2
+CO-BY-BB,Berbeo,538.3,515.1
+CO-BY-BL,Belén,548.3,477.4
+CO-BY-AR,Arcabuco,522.1,489.8
+CO-BY-AQ,Aquitania,549.4,505.3
+CO-BY-AL,Almeida,524.2,527.7
+CO-BL-ZA,Zambrano,454.4,298.7
+CO-BL-VN,Villanueva,437.2,266.3
+CO-BL-TN,Turbaná,429.0,276.7
+CO-BL-TC,Turbaco,432.3,270.7
+CO-BL-TA,Talaigua Nuevo,465.5,319.1
+CO-BL-SO,Soplaviento,444.2,270.3
+CO-BL-SI,Simití,497.5,390.3
+CO-BL-SS,Santa Rosa del Sur,481.3,395.4
+CO-BL-SR,Santa Rosa,432.8,265.3
+CO-BL-SC,Santa Catalina,435.1,255.8
+CO-BL-SP,San Pablo,489.3,417.4
+CO-BL-SM,San Martín de Loba,497.0,340.7
+CO-BL-SN,San Juan Nepomuceno,447.2,288.1
+CO-BL-SJ,San Jacinto,443.9,294.9
+CO-BL-SF,San Fernando,478.2,329.8
+CO-BL-SE,San Estanislao de Kostka,439.8,269.7
+CO-BL-RV,Río Viejo,497.9,345.3
+CO-BL-PI,Pinillos,480.9,350.1
+CO-BL-MS,Morales,493.2,360.9
+CO-BL-MC,Montecristo,475.7,385.0
+CO-BL-MP,Mompós,468.6,328.3
+CO-BL-MB,María la Baja,433.0,287.8
+CO-BL-MA,Margarita,484.2,330.8
+CO-BL-MH,Mahates,441.7,278.9
+CO-BL-HL,Hatillo de Loba,490.7,335.5
+CO-BL-EG,El Guamo,452.8,285.4
+CO-BL-EC,El Carmen de Bolívar,441.3,300.4
+CO-BL-CO,Córdoba,454.5,308.6
+CO-BL-CC,Cicuco,463.9,328.8
+CO-BL-BL,Cartagena de Indias,423.6,267.7
+CO-BL-CN,Cantagallo,491.0,419.1
+CO-BL-CM,Calamar,449.1,275.6
+CO-BL-BA,Barranco de Loba,487.4,344.2
+CO-BL-AR,Arjona,431.6,279.3
+CO-BL-AL,Altos del Rosario,485.6,346.9
+CO-BL-AC,Achí,468.8,364.2
+CO-AT-US,Usiacurí,449.8,250.9
+CO-AT-TU,Tubará,449.8,243.5
+CO-AT-SU,Suan,453.5,272.1
+CO-AT-SO,Soledad,459.9,242.9
+CO-AT-ST,Santo Tomás,459.2,251.5
+CO-AT-SL,Santa Lucía,450.4,270.5
+CO-AT-SA,Sabanalarga,451.8,257.0
+CO-AT-SG,Sabanagrande,460.1,248.2
+CO-AT-RE,Repelón,442.3,262.7
+CO-AT-PC-11,Puerto Colombia,452.9,238.1
+CO-AT-PD,Ponedera,458.9,258.5
+CO-AT-PL,Polonuevo,456.6,249.9
+CO-AT-PI,Piojó,442.4,250.7
+CO-AT-PV,Palmar de Varela,459.6,253.1
+CO-AT-MN,Manatí,449.2,264.9
+CO-AT-ML,Malambo,458.8,245.9
+CO-AT-LU,Luruaco,441.6,256.1
+CO-AT-JU,Juan de Acosta,445.0,246.8
+CO-AT-GA,Galapa,455.3,243.2
+CO-AT-CA,Candelaria,454.9,263.4
+CO-AT-CC,Campo de la Cruz,454.4,267.9
+CO-AT-BQ,Barranquilla,464.6,242.8
+CO-AT-BO,Baranoa,453.0,248.9
+CO-AR-TA,Tame,599.8,459.7
+CO-AR-SA,Saravena,596.2,434.3
+CO-AR-PR,Puerto Rondón,630.0,448.1
+CO-AR-FO,Fortul,596.3,448.5
+CO-AR-CN,Cravo Norte,681.8,460.9
+CO-AR-AQ,Arauquita,617.1,432.3
+CO-AR-AC,Arauca,664.0,440.1
+CO-AN-ZA,Zaragoza,456.7,406.0
+CO-AN-YD,Yondó,488.0,432.4
+CO-AN-YB,Yolombó,455.9,445.5
+CO-AN-YR,Yarumal,427.2,429.2
+CO-AN-YL,Yalí,459.3,443.6
+CO-AN-VF,Vigía del Fuerte,372.0,458.1
+CO-AN-VN,Venecia,412.4,479.6
+CO-AN-VG,Vegachí,459.9,436.8
+CO-AN-VP,Valparaíso,418.6,493.0
+CO-AN-VD,Valdivia,431.2,417.7
+CO-AN-UO,Urrao,389.5,462.9
+CO-AN-UM,Uramita,397.3,431.2
+CO-AN-TU,Turbo,366.3,387.8
+CO-AN-TO,Toledo,415.5,429.3
+CO-AN-TI,Titiribí,411.0,473.8
+CO-AN-TA,Tarso,409.5,482.9
+CO-AN-TZ,Tarazá,425.7,406.5
+CO-AN-TM,Támesis,415.8,493.1
+CO-AN-SO,Sopetrán,414.0,452.6
+CO-AN-SS,Sonsón,446.9,491.9
+CO-AN-SE,Segovia,466.4,417.0
+CO-AN-SD,Santo Domingo,442.6,454.6
+CO-AN-SR,Santa Rosa de Osos,429.2,444.4
+CO-AN-AT,Santa Fe de Antioquia,406.0,452.0
+CO-AN-SB,Santa Bárbara,421.5,483.6
+CO-AN-SV,San Vicente,433.8,462.8
+CO-AN-SQ,San Roque,450.8,456.6
+CO-AN-SN,San Rafael,449.6,462.7
+CO-AN-SU,San Pedro de Urabá,387.6,363.1
+CO-AN-SP,San Pedro de los Milagros,422.6,455.5
+CO-AN-SL,San Luis,452.6,476.1
+CO-AN-SX,San Juan de Urabá,378.6,350.0
+CO-AN-SJ,San José de la Montaña,416.7,438.1
+CO-AN-SM,San Jerónimo,415.0,456.0
+CO-AN-SF,San Francisco,450.1,484.0
+CO-AN-SC,San Carlos,453.3,468.4
+CO-AN-SA,San Andrés de Cuerquia,418.0,432.2
+CO-AN-SG,Salgar,401.0,477.4
+CO-AN-ST,Sabaneta,419.9,470.7
+CO-AN-SA-12,Sabanalarga,411.2,433.3
+CO-AN-RI,Rionegro,429.4,470.1
+CO-AN-RT,Retiro,424.7,473.0
+CO-AN-RM,Remedios,470.4,431.0
+CO-AN-PT,Puerto Triunfo,462.5,479.7
+CO-AN-AN,Puerto Nare,462.5,471.4
+CO-AN-PB,Puerto Berrío,470.5,453.9
+CO-AN-PU,Pueblorrico,408.5,486.4
+CO-AN-PQ,Pequé,408.3,427.5
+CO-AN-PL,Peñol,438.0,465.1
+CO-AN-OL,Olaya,412.6,448.6
+CO-AN-NC,Necoclí,370.1,355.6
+CO-AN-NH,Nechí,456.1,382.5
+CO-AN-NA,Nariño,440.0,497.5
+CO-AN-MT,Mutatá,383.4,413.3
+CO-AN-MR,Murindó,367.8,439.2
+CO-AN-MO,Montebello,424.6,481.1
+CO-AN-ME,Medellín,420.5,463.8
+CO-AN-MA,Marinilla,434.6,469.1
+CO-AN-MC,Maceo,462.5,452.2
+CO-AN-LI,Liborina,412.0,442.7
+CO-AN-LU,La Unión de Sucre,432.3,479.2
+CO-AN-LE,La Estrella,418.2,470.2
+CO-AN-LC,La Ceja,428.6,477.5
+CO-AN-JR,Jericó,413.9,488.4
+CO-AN-JA,Jardín,410.5,497.1
+CO-AN-IN,Ituango,405.7,418.5
+CO-AN-II,Itagüí,420.1,468.5
+CO-AN-HI,Hispania,404.9,488.2
+CO-AN-HE,Heliconia,413.0,466.5
+CO-AN-GA,Guatapé,441.7,465.9
+CO-AN-GU,Guarne,428.5,464.3
+CO-AN-GD,Guadalupe,438.1,435.9
+CO-AN-GR,Granada,442.1,471.8
+CO-AN-GP,Gómez Plata,439.6,442.6
+CO-AN-GT,Girardota,427.8,459.4
+CO-AN-GL,Giraldo,404.4,445.2
+CO-AN-FN,Frontino,386.9,442.9
+CO-AN-FD,Fredonia,416.2,483.4
+CO-AN-EN,Envigado,421.9,470.1
+CO-AN-ER,Entrerríos,422.7,448.9
+---13,El Santuario,437.6,471.0
+CO-AN-AN-14,El Carmen de Viboral,437.1,478.3
+CO-AN-EB,El Bagre,466.0,393.3
+CO-AN-EJ,Ebéjico,411.9,461.6
+CO-AN-DM,Don Matías,432.9,453.7
+CO-AN-DA,Dabeiba,390.2,431.9
+CO-AN-CB,Copacabana,425.3,460.0
+CO-AN-CN,Concordia,405.7,474.2
+CO-AN-CC,Concepción,438.3,459.1
+CO-AN-CO,Cocorná,441.4,477.1
+CO-AN-CI,Cisneros,445.2,451.1
+CO-AN-CH,Chigorodó,371.6,398.9
+CO-AN-CU,Caucasia,448.4,391.2
+CO-AN-CR,Carolina del Principe,434.0,441.6
+CO-AN-CP,Carepa,372.2,390.7
+CO-AN-CT,Caramanta,417.6,498.1
+CO-AN-CA,Caracolí,462.0,461.0
+CO-AN-CG,Cañasgordas,400.2,437.4
+CO-AN-CM,Campamento,435.2,426.4
+CO-AN-CL,Caldas,419.6,475.0
+CO-AN-CD,Caicedo,403.4,456.6
+CO-AN-CE,Cáceres,438.5,397.9
+CO-AN-BU,Buriticá,406.2,438.4
+CO-AN-BR,Briceño,422.1,423.8
+CO-AN-BO,Bolívar,400.5,484.3
+CO-AN-BE,Betulia,404.5,468.1
+CO-AN-BN,Betania,401.5,490.3
+CO-AN-BM,Belmira,419.3,446.8
+CO-AN-BL,Bello,421.0,460.0
+CO-AN-BB,Barbosa,433.2,456.5
+CO-AN-AA,Armenia,411.2,468.8
+CO-AN-AG,Argelia,445.5,490.9
+CO-AN-AR,Arboletes,382.4,351.3
+CO-AN-AP,Apartadó,374.7,385.1
+CO-AN-AZ,Anzá,405.9,461.9
+CO-AN-AN-15,Anorí,444.3,421.9
+CO-AN-AS,Angostura,432.2,435.9
+CO-AN-AL,Angelópolis,415.2,470.9
+CO-AN-AD,Andes,403.3,495.2
+CO-AN-AF,Amalfi,448.8,428.6
+CO-AN-AM,Amagá,415.3,475.8
+CO-AN-AJ,Alejandría,445.1,460.6
+CO-AN-AQ,Abriaquí,397.9,447.1
+CO-AN-AB,Abejorral,429.2,486.6
+CO-AM-TA,Tarapacá,650.0,878.4
+CO-AM-PS,Puerto Santander,588.7,781.6
+CO-AM-PN,Puerto Nariño,665.8,928.9
+CO-AM-MI,Mirití-Paraná,653.1,794.7
+CO-AM-LE,Leticia,684.0,937.0
+CO-AM-LP,La Pedrera,638.6,825.5
+CO-AM-LC,La Chorrera,554.5,829.3
+CO-AM-EE,El Encanto,516.4,827.9

@@ -1,0 +1,19 @@
+id,name,center_x,center_y
+GL1,Glacier 1,239.9,254.5
+GL2,Glacier 2,317.7,238.6
+GL3,Glacier 3,127.3,58.1
+GL4,Glacier 4,41.6,238.9
+GL5,Glacier 5,230.2,244.3
+GL6,Glacier 6,368.6,245.1
+GL7,Glacier 7,274.8,389.3
+GL8,Glacier 8,303.4,384.3
+ GL9,Glacier 9,434.6,292.3
+GL10,Glacier10,212.4,274.1
+IS-1,Höfuðborgarsvæði utan Reykjavíkur,160.0,319.4
+IS-2,Suðurnes,129.0,348.8
+IS-3,Vesturland,144.1,227.0
+IS-4,Vestfirðir,98.4,116.2
+IS-5,Norðurland vestra,267.8,150.2
+IS-6,Norðurland eystra,428.9,131.2
+IS-7,Austurland,505.1,227.5
+IS-8,Suðurland,272.6,324.3

@@ -1,0 +1,23 @@
+{
+  "name": "create-my-maps",
+  "displayName": "Create My Maps",
+  "version": "0.3.0",
+  "description": "Turn data into colored maps of 458 countries, states, districts and constituencies. Claude matches your data to the exact regions and returns a link that opens the finished, editable map on createmymaps.com.",
+  "author": {
+    "name": "Sarthak Arora",
+    "url": "https://createmymaps.com"
+  },
+  "homepage": "https://createmymaps.com",
+  "license": "MIT",
+  "keywords": [
+    "maps",
+    "choropleth",
+    "election map",
+    "data visualization",
+    "geography"
+  ],
+  "icon": "./logo.png",
+  "repository": "https://github.com/sarthak144/create-my-maps-claude-plugin",
+  "documentationUrl": "https://github.com/sarthak144/create-my-maps-claude-plugin#readme",
+  "supportUrl": "https://createmymaps.com/contact.html"
+}

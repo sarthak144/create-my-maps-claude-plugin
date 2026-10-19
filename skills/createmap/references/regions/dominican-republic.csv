@@ -1,0 +1,33 @@
+id,name,center_x,center_y
+DO-01,Distrito Nacional,444.7,328.4
+DO-02,Azua,255.9,296.2
+DO-03,Baoruco,150.3,326.4
+DO-04,Barahona,175.3,395.2
+DO-05,Dajabón,87.7,112.3
+DO-06,Duarte,427.7,151.0
+DO-08,El Seibo,633.2,260.2
+DO-09,Espaillat,355.6,96.3
+DO-30,Hato Mayor,558.5,254.1
+DO-10,Independencia,86.8,344.7
+DO-11,La Altagracia,725.6,314.5
+DO-07,La Estrelleta,86.4,217.4
+DO-12,La Romana,649.8,323.3
+DO-13,La Vega,303.1,206.5
+DO-14,María Trinidad Sánchez,434.7,111.8
+DO-28,Monseñor Nouel,341.8,232.0
+DO-15 Monte,Cristi,118.2,48.6
+DO-29,Monte Plata,471.4,249.4
+DO-16,Pedernales,102.6,463.8
+DO-17,Peravia,349.4,358.8
+DO-18,Puerto Plata,260.0,47.3
+DO-19,Hermanas Mirabal,356.8,123.3
+DO-20,Samaná,544.2,169.6
+DO-21,San Cristóbal,390.3,321.1
+DO-31,San José de Ocoa,318.6,301.9
+DO-22,San Juan,160.2,236.0
+DO-23,San Pedro de Macorís,571.9,301.3
+DO-24,Sánchez Ramírez,399.4,209.9
+DO-25,Santiago,237.9,135.9
+DO-26,Santiago Rodríguez,153.5,129.1
+DO-32,Santo Domingo,464.4,309.2
+DO-27,Valverde,211.2,76.7

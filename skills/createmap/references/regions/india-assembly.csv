@@ -1,0 +1,4183 @@
+id,name,center_x,center_y
+IN-AC-13-041,Tizit,722.5,282.4
+IN-AC-13-043,Tapi,722.9,286.6
+IN-AC-13-042,Wakching,718.8,286.6
+IN-AC-13-049,Tamlu,716.0,288.4
+IN-AC-13-021,Tuli,712.6,288.7
+IN-AC-13-044,Phomching,726.3,288.2
+IN-AC-13-046,Mon Town,722.5,288.8
+IN-AC-13-047,Aboi,719.3,290.4
+IN-AC-13-030,Alungtaki,706.7,291.7
+IN-AC-13-045,Tehok,723.3,290.6
+IN-AC-13-050,Longleng,716.3,292.6
+IN-AC-13-022,Arkakong,712.2,291.9
+IN-AC-13-029,Jangpetkong,707.8,293.7
+IN-AC-13-048,Moka,721.7,292.9
+IN-AC-13-040,Bhandari,699.7,299.6
+IN-AC-13-051,Noksen,716.2,294.5
+IN-AC-13-055,Tobu,721.6,295.4
+IN-AC-13-024,Angetyongpang,711.3,295.4
+IN-AC-13-023,Impur,709.2,295.1
+IN-AC-13-056,Noklak,723.1,299.3
+IN-AC-13-028,Koridang,706.3,298.1
+IN-AC-13-052,Longkhim Chare,713.3,298.5
+IN-AC-13-054,Tuensang Sadar-Ii,717.8,299.8
+IN-AC-13-025,Monguya,710.0,298.8
+IN-AC-13-027,Mokokchung Town,709.1,297.5
+IN-AC-13-026,Aonglenden,707.8,297.9
+IN-AC-13-053,Tuensang Sadar-I,716.3,299.1
+IN-AC-13-039,Sanis,701.0,301.3
+IN-AC-13-031,Akuluto,706.5,300.6
+IN-AC-13-033,Suruhuto,711.2,301.4
+IN-AC-13-037,Tyui,703.5,302.6
+IN-AC-13-057,Thonoknyu,722.3,305.4
+IN-AC-13-032,Atoizu,707.1,303.5
+IN-AC-13-058,Shamtorr-Chessore,717.2,303.4
+IN-AC-13-034,Aghunato,712.1,305.6
+IN-AC-13-035,Zunheboto,709.8,304.5
+IN-AC-13-038,Wokha,700.4,304.1
+IN-AC-13-036,Satakha,709.1,308.6
+IN-AC-13-059,Siyuchong-Sitimi,714.3,309.0
+IN-AC-13-060,Pungro-Kiphire,719.0,310.9
+IN-AC-13-013,Pughoboto,702.5,308.8
+IN-AC-13-012,Tseminyu,698.5,307.5
+IN-AC-13-019,Phek,705.8,311.4
+IN-AC-13-001,Dimapur-I,689.3,308.3
+IN-AC-13-011,Northern Angami -Ii,698.7,311.4
+IN-AC-13-002,Dimapur-Ii,687.3,309.4
+IN-AC-13-004,Ghaspani-I,690.5,311.8
+IN-AC-13-003,Dimapur-Iii,685.7,311.9
+IN-AC-13-005,Ghaspani-Ii,692.8,312.1
+IN-AC-13-020,Meluri,712.8,315.4
+IN-AC-13-018,Chazouba,702.6,313.4
+IN-AC-13-008,Western Angami,695.8,314.4
+IN-AC-13-017,Chizami,705.1,316.3
+IN-AC-13-010,Northern Angami - I,699.4,314.5
+IN-AC-13-009,Kohima Town,698.0,315.0
+IN-AC-13-007,Peren,690.0,318.5
+IN-AC-13-014,Southern Angami-I,699.0,316.6
+IN-AC-13-015,Southern Angami-Ii,699.5,317.0
+IN-AC-13-006,Tenning,682.5,320.8
+IN-AC-13-016,Pfutsero,702.1,317.8
+IN-AC-18-126,Sadiya,740.3,259.4
+IN-AC-18-114,Jonai,723.8,262.6
+IN-AC-18-121,Chabua,731.0,263.4
+IN-AC-18-116,Dibrugarh,721.9,264.9
+IN-AC-18-124,Margherita,742.6,268.1
+IN-AC-18-121,Chabua,727.4,264.5
+IN-AC-18-125,Doom Dooma,736.5,264.8
+IN-AC-18-117,Lahowal,723.3,266.6
+IN-AC-18-123,Digboi,737.5,269.1
+IN-AC-18-122,Tinsukia,732.5,269.0
+IN-AC-18-113,Dhemaji,707.5,267.7
+IN-AC-18-118,Duliajan,728.7,270.0
+IN-AC-18-115,Moran,716.2,271.9
+IN-AC-18-111,Lakhimpur,700.0,273.4
+IN-AC-18-119,Tingkhong,723.8,273.1
+IN-AC-18-120,Naharkatia,730.0,273.9
+IN-AC-18-112,Dhakuakhana,706.8,273.3
+IN-AC-18-110,Naoboicha,695.0,274.0
+IN-AC-18-107,Thowra,714.0,276.3
+IN-AC-18-105,Mahmara,719.9,277.8
+IN-AC-18-106,Sonari,725.7,278.1
+IN-AC-18-099,Majuli,702.6,280.6
+IN-AC-18-108,Sibsagar,712.5,279.4
+IN-AC-18-109,Bihpuria,692.2,280.6
+IN-AC-18-103,Amguri,709.9,282.9
+IN-AC-18-104,Nazira,716.5,283.5
+IN-AC-18-102,Teok,705.6,283.8
+IN-AC-18-078,Gohpur,684.9,283.5
+IN-AC-18-074,Rangapara,663.5,282.9
+IN-AC-18-093,Bokakhat,686.2,286.3
+IN-AC-18-077,Behali,677.6,284.4
+IN-AC-18-098,Jorhat,702.0,285.1
+IN-AC-18-101,Mariani,706.7,286.8
+IN-AC-18-097,Dergaon,698.5,287.6
+IN-AC-18-071,Dhekiajuli,655.3,284.4
+IN-AC-18-075,Sootea,669.5,285.0
+IN-AC-18-070,Majbat,648.1,286.2
+IN-AC-18-076,Biswanath,670.0,287.0
+IN-AC-18-069,Udalguri,642.5,286.0
+IN-AC-18-064,Panery,638.8,286.1
+IN-AC-18-096,Khumtai,693.5,290.0
+IN-AC-18-100,Titabar,702.0,291.9
+IN-AC-18-072,Barchalla,656.5,289.4
+IN-AC-18-031,Sidli,603.5,288.0
+IN-AC-18-062,Barama,626.9,288.6
+IN-AC-18-058,Tamulpur,631.7,288.8
+IN-AC-18-073,Tezpur,662.5,289.5
+IN-AC-18-089,Kaliabor,671.0,291.4
+IN-AC-18-056,Kamalpur,635.0,291.9
+IN-AC-18-030,Kokrajhar East,597.0,290.2
+IN-AC-18-041,Bhabanipur,618.8,289.3
+IN-AC-18-063,Chapaguri,621.8,286.9
+IN-AC-18-063,Chapaguri,625.1,288.5
+IN-AC-18-040,Sorbhog,614.5,289.5
+IN-AC-18-017,Bokajan,684.7,299.1
+IN-AC-18-033,Bijni,610.5,287.5
+IN-AC-18-094,Sarupathar,691.8,301.0
+IN-AC-18-095,Golaghat,696.9,296.7
+IN-AC-18-018,Howraghat,672.3,297.5
+IN-AC-18-068,Dalgaon,649.4,292.0
+IN-AC-18-028,Gossaigaon,590.0,292.2
+IN-AC-18-065,Kalaigaon,641.4,291.1
+IN-AC-18-088,Samaguri,665.2,293.5
+IN-AC-18-032,Bongaigaon,604.8,293.1
+IN-AC-18-042,Patacharkuchi,622.0,291.8
+IN-AC-18-085,Rupohihat,661.7,293.6
+IN-AC-18-033,Bijni,609.5,290.9
+IN-AC-18-067,Mangaldoi,644.2,295.3
+IN-AC-18-059,Nalbari,629.8,293.7
+IN-AC-18-083,Dhing,656.5,293.9
+IN-AC-18-057,Rangiya,633.0,293.8
+IN-AC-18-081,Laharighat,650.3,294.9
+IN-AC-18-031,Sidli,601.0,293.2
+IN-AC-18-066,Sipajhar,639.0,296.4
+IN-AC-18-061,Dharmapur,625.4,294.5
+IN-AC-18-084,Batadroba,657.3,295.7
+IN-AC-18-042,Patacharkuchi,623.8,293.2
+IN-AC-18-019,Diphu,679.8,307.0
+IN-AC-18-043,Barpeta,616.8,295.9
+IN-AC-18-086,Nowgong,660.5,297.4
+IN-AC-18-034,Abhayapuri North,609.9,294.9
+IN-AC-18-087,Barhampur,663.6,299.0
+IN-AC-18-029,Kokrajhar West,593.0,294.7
+IN-AC-18-080,Marigaon,653.9,298.1
+IN-AC-18-031,Sidli,600.0,293.9
+IN-AC-18-044,Jania,613.1,296.3
+IN-AC-18-046,Sarukhetri,620.3,296.2
+IN-AC-18-055,Hajo,630.5,299.0
+IN-AC-18-060,Barkhetry,626.5,298.7
+IN-AC-18-051,Jalukbari,634.2,298.8
+IN-AC-18-082,Raha,657.9,302.1
+IN-AC-18-079,Jagiroad,648.5,300.6
+IN-AC-18-035,Abhayapuri South,605.3,298.1
+IN-AC-18-047,Chenga,619.0,299.4
+IN-AC-18-027,Bilasipara East,599.0,298.3
+IN-AC-18-090,Jamunamukh,666.5,303.0
+IN-AC-18-052,Dispur,642.3,302.6
+IN-AC-18-026,Bilasipara West,593.6,300.3
+IN-AC-18-024,Gauripur,588.5,301.1
+IN-AC-18-045,Baghbar,612.4,300.9
+IN-AC-18-025,Golakganj,585.8,300.8
+IN-AC-18-054,Gauhati West,633.6,304.4
+IN-AC-18-053,Gauhati East,635.8,301.8
+IN-AC-18-020,Baithalangso,658.6,309.7
+IN-AC-18-037,Goalpara East,608.4,304.1
+IN-AC-18-091,Hojai,665.5,306.6
+IN-AC-18-049,Chaygaon,624.3,306.9
+IN-AC-18-038,Goalpara West,600.7,303.3
+IN-AC-18-048,Boko,619.3,307.3
+IN-AC-18-050,Palasbari,629.2,305.9
+IN-AC-18-092,Lumding,671.4,309.1
+IN-AC-18-039,Jaleswar,596.3,304.5
+IN-AC-18-036,Dudhnai,612.7,306.1
+IN-AC-18-022,Salmara South,590.5,307.4
+IN-AC-18-023,Dhubri,588.2,306.2
+IN-AC-18-016,Haflong,669.1,321.8
+IN-AC-18-021,Mankachar,588.5,315.6
+IN-AC-18-015,Katigora,658.8,332.8
+IN-AC-18-012,Udharbond,669.1,333.5
+IN-AC-18-014,Barkhola,663.0,333.5
+IN-AC-18-013,Lakhipur,670.5,337.1
+IN-AC-18-003,Karimganj North,650.6,336.8
+IN-AC-18-008,Algapur,658.5,338.9
+IN-AC-18-005,Badarpur,655.6,337.9
+IN-AC-18-004,Karimganj South,652.2,339.9
+IN-AC-18-009,Silchar,663.7,337.6
+IN-AC-18-008,Algapur,661.4,339.3
+IN-AC-18-010,Sonai,665.0,340.1
+IN-AC-18-011,Dholai,666.1,344.3
+IN-AC-18-001,Ratabari,654.2,345.8
+IN-AC-18-002,Patharkandi,650.8,345.9
+IN-AC-18-006,Hailakandi,658.4,342.7
+IN-AC-18-007,Katlicherra,658.6,349.0
+IN-AC-01-000,State boundary,202.9,71.7
+IN-AC-01-000,State boundary,302.1,72.9
+IN-AC-01-047,Nurbra,259.1,76.2
+IN-AC-01-049,Kargil,223.8,83.0
+IN-AC-01-001,Karnah,170.1,82.7
+IN-AC-01-003,Lolab,181.3,78.6
+IN-AC-01-009,Gurez,193.9,80.8
+IN-AC-01-002,Kupwara,175.8,80.3
+IN-AC-01-010,Bandipora,188.4,82.8
+IN-AC-01-004,Handwara,175.9,83.7
+IN-AC-01-005,Langate,174.9,86.3
+IN-AC-01-048,Leh,277.0,110.2
+IN-AC-01-008,Sopore,182.1,86.6
+IN-AC-01-011,Sonawari,185.9,87.6
+IN-AC-01-016,Kangan,200.1,87.6
+IN-AC-01-007,Rafiabad,177.7,87.8
+IN-AC-01-017,Ganderbal,190.6,89.6
+IN-AC-01-050,Zanskar,240.4,105.8
+IN-AC-01-012,Sangrama,182.2,91.0
+IN-AC-01-013,Baramula,179.3,92.0
+IN-AC-01-006,Uri,172.9,93.3
+IN-AC-01-015,Pattan,185.4,91.2
+IN-AC-01-046,Pahalgam,205.4,95.7
+IN-AC-01-051,Kishtwar,224.8,105.5
+IN-AC-01-014,Gulmarg,182.8,94.5
+IN-AC-01-025,Batamaloo,192.8,91.8
+IN-AC-01-025,Batamaloo,189.0,91.7
+IN-AC-01-020,Eidgah,195.8,92.1
+IN-AC-01-019,Zadibal,197.2,92.3
+IN-AC-01-018,Hazratbal,198.3,92.6
+IN-AC-01-023,Amira Kada,191.3,93.0
+IN-AC-01-028,Beerwah,185.5,94.8
+IN-AC-01-025,Batamaloo,190.4,92.5
+IN-AC-01-027,Badgam,189.6,94.5
+IN-AC-01-022,Habba Kada,192.6,92.7
+IN-AC-01-021,Khaniyar,194.8,93.0
+IN-AC-01-023,Amira Kada,190.5,92.6
+IN-AC-01-032,Pampore,196.1,95.9
+IN-AC-01-031,Tral,199.6,96.3
+IN-AC-01-024,Sonawar,194.4,94.4
+IN-AC-01-028,Beerwah,191.2,95.0
+IN-AC-01-026,Chadoora,192.7,96.3
+IN-AC-01-029,Khan Saheb,185.3,99.2
+IN-AC-01-087,Poonch Haveli,176.1,99.9
+IN-AC-01-030,Chrar Shar,187.9,100.2
+IN-AC-01-033,Pulwama,195.3,98.7
+IN-AC-01-034,Rajpora,192.6,99.5
+IN-AC-01-045,Bijbehara,200.3,100.6
+IN-AC-01-085,Suran Kote,179.8,105.2
+IN-AC-01-039,Hom Shali,198.3,102.1
+IN-AC-01-036,Shopian,189.3,102.8
+IN-AC-01-044,Shangus,204.9,102.5
+IN-AC-01-035,Wachi,194.8,103.2
+IN-AC-01-039,Hom Shali,198.8,102.2
+IN-AC-01-039,Hom Shali,197.2,103.0
+IN-AC-01-086,Mendhar,173.8,107.0
+IN-AC-01-040,Anantnag,199.3,102.2
+IN-AC-01-040,Anantnag,200.9,104.4
+IN-AC-01-038,Kulgam,195.8,104.3
+IN-AC-01-043,Kokernag,205.9,107.3
+IN-AC-01-041,Devsar,198.8,105.1
+IN-AC-01-052,Inderwal,217.1,111.2
+IN-AC-01-037,Noorabad,191.4,106.7
+IN-AC-01-040,Anantnag,201.1,103.6
+IN-AC-01-042,Doru,202.9,108.3
+IN-AC-01-083,Rajauri,177.9,111.8
+IN-AC-01-056,Banihal,201.4,110.3
+IN-AC-01-082,Darhal,183.8,111.5
+IN-AC-01-057,Gulabgarh,191.8,112.8
+IN-AC-01-055,Ramban,208.6,115.9
+IN-AC-01-059,Gool-Arnas,192.9,115.7
+IN-AC-01-084,Kala Kote,182.1,116.2
+IN-AC-01-055,Ramban,201.5,116.5
+IN-AC-01-081,Naushehra,179.5,118.8
+IN-AC-01-053,Doda,212.3,119.4
+IN-AC-01-058,Reasi,191.0,121.0
+IN-AC-01-058,Reasi,198.4,120.5
+IN-AC-01-060,Udhampur,200.8,118.3
+IN-AC-01-061,Chenani,205.2,122.3
+IN-AC-01-054,Bhaderwah,219.7,121.6
+IN-AC-01-052,Inderwal,217.5,119.6
+IN-AC-01-079,Akhnoor,187.6,123.8
+IN-AC-01-060,Udhampur,199.6,124.2
+IN-AC-01-080,Chhamb,183.8,125.3
+IN-AC-01-078,Raipur Domana,190.9,125.6
+IN-AC-01-070,Nagrota,196.6,126.5
+IN-AC-01-062,Ram Nagar,206.7,127.4
+IN-AC-01-077,Marh,189.3,128.3
+IN-AC-01-063,Bani,214.8,128.3
+IN-AC-01-073,Jammu West,192.1,128.8
+IN-AC-01-072,Jammu East,192.9,129.1
+IN-AC-01-068,Samba,200.4,132.5
+IN-AC-01-069,Vijaypur,194.1,130.3
+IN-AC-01-071,Gandhi Nagar,191.6,130.7
+IN-AC-01-062,Ram Nagar,200.8,130.3
+IN-AC-01-068,Samba,194.6,130.6
+IN-AC-01-069,Vijaypur,195.9,133.4
+IN-AC-01-062,Ram Nagar,200.9,130.4
+IN-AC-01-066,Billawar,209.7,133.0
+IN-AC-01-076,Suchet Garh,188.6,133.4
+IN-AC-01-074,Bishnah,192.3,133.7
+IN-AC-01-075,Ranbir Singh Pura,190.4,133.0
+IN-AC-01-064,Basohli,215.7,134.4
+IN-AC-01-067,Hira Nagar,201.7,135.4
+IN-AC-01-065,Kathua,209.6,137.2
+IN-AC-01-067,Hira Nagar,203.9,134.6
+IN-AC-01-067,Hira Nagar,204.3,137.7
+IN-AC-32-001,Ma Njeshwar,196.8,655.8
+IN-AC-32-002,Kasaragod,198.7,659.0
+IN-AC-32-003,Udma,200.4,661.0
+IN-AC-32-004,Kanhangad,202.7,663.8
+IN-AC-32-005,Trikaripur,203.3,667.5
+IN-AC-32-006,Payyannur,204.9,669.6
+IN-AC-32-009,Irikkur,210.7,670.2
+IN-AC-32-008,Taliparamba,207.1,672.6
+IN-AC-32-007,Kalliasseri,204.4,672.4
+IN-AC-32-016,Peravoor,216.6,674.6
+IN-AC-32-015,Mattannur,212.3,675.4
+IN-AC-32-010,Azhikode,205.8,675.6
+IN-AC-32-017,Mananthavady (St),221.3,678.2
+IN-AC-32-011,Kannur,207.4,676.8
+IN-AC-32-012,Dharmadam,209.3,677.8
+IN-AC-32-014,Kuthuparamba,213.9,679.9
+IN-AC-32-018,Sulthanbathery (S,229.7,681.3
+IN-AC-32-013,Thalassery,210.3,680.2
+IN-AC-32-022,Nadapuram,215.9,681.1
+IN-AC-32-019,Kalpetta,224.6,684.2
+IN-AC-32-020,Vadakara,211.7,683.3
+IN-AC-32-021,Kuttiadi,214.3,683.9
+IN-AC-32-024,Perambra,216.8,685.2
+IN-AC-32-025,Balusseri (Sc),218.8,686.9
+IN-AC-32-023,Quilandy,214.0,687.5
+IN-AC-32-031,Koduvally,220.4,688.5
+IN-AC-32-032,Thiruvambadi,223.6,689.3
+IN-AC-32-035,Nilambur,231.1,690.1
+IN-AC-32-026,Elathur,217.4,690.1
+IN-AC-32-034,Ernad,225.0,692.8
+IN-AC-32-030,Kunnamangalam,219.8,692.5
+IN-AC-32-027,Kozhikode North,217.6,692.7
+IN-AC-32-028,Kozhikode South,217.7,693.5
+IN-AC-32-033,Kondotty,221.1,695.2
+IN-AC-32-036,Wandoor (Sc),230.4,695.0
+IN-AC-32-029,Beypore,218.3,695.4
+IN-AC-32-054,Mannarkkad,236.9,697.8
+IN-AC-32-037,Manjeri,228.3,697.3
+IN-AC-32-040,Malappuram,225.2,697.4
+IN-AC-32-042,Vallikunnu,219.8,696.9
+IN-AC-32-041,Vengara,221.8,698.3
+IN-AC-32-043,Tirurangadi,220.6,699.3
+IN-AC-32-039,Mankada,226.7,700.4
+IN-AC-32-038,Perinthalmanna,229.3,700.6
+IN-AC-32-046,Kottakkal,224.2,701.5
+IN-AC-32-044,Tanur,220.3,700.8
+IN-AC-32-053,Kongad(Sc),236.3,702.6
+IN-AC-32-045,Tirur,221.6,702.2
+IN-AC-32-052,Ottappalam,233.8,703.5
+IN-AC-32-051,Shornur,231.1,704.2
+IN-AC-32-050,Pattambi,227.7,704.0
+IN-AC-32-055,Malampuzha,240.9,704.5
+IN-AC-32-047,Thavanur,221.8,705.0
+IN-AC-32-049,Thrithala,225.8,705.5
+IN-AC-32-048,Ponnani,222.4,706.5
+IN-AC-32-058,Chittur,243.2,707.1
+IN-AC-32-056,Palakkad,238.8,706.2
+IN-AC-32-061,Chelakkara (Sc),231.1,708.0
+IN-AC-32-057,Tarur (Sc),235.4,708.5
+IN-AC-32-062,Kunnamkulam,226.1,708.6
+IN-AC-32-060,Alathur,237.0,710.7
+IN-AC-32-063,Guruvayoor,223.1,710.7
+IN-AC-32-065,Wadakkanchery,228.4,710.0
+IN-AC-32-059,Nemmara,240.9,712.6
+IN-AC-32-064,Manalur,225.4,711.7
+IN-AC-32-066,Ollur,231.8,712.3
+IN-AC-32-067,Thrissur,228.1,712.3
+IN-AC-32-068,Nattika(Sc),226.7,715.2
+IN-AC-32-071,Puthukkad,233.2,715.0
+IN-AC-32-072,Chalakudy,238.1,717.3
+IN-AC-32-070,Irinjalakuda,228.7,717.0
+IN-AC-32-069,Kaipamangalam,226.7,718.5
+IN-AC-32-088,Devikulam (Sc),249.8,722.0
+IN-AC-32-073,Kodungallur,229.4,719.6
+IN-AC-32-075,Angamaly,235.8,720.2
+IN-AC-32-087,Kothamangalam,245.3,721.7
+IN-AC-32-078,Paravur,228.9,722.6
+IN-AC-32-079,Vypeen,228.6,724.0
+IN-AC-32-076,Aluva,232.8,723.2
+IN-AC-32-074,Perumbavoor,236.7,723.0
+IN-AC-32-077,Kalamassery,230.9,723.8
+IN-AC-32-087,Kothamangalam,241.0,724.0
+IN-AC-32-084,Kunnathunad (Sc),234.6,725.6
+IN-AC-32-082,Ernakulam,230.1,726.0
+IN-AC-32-086,Muvattupuzha,239.4,727.4
+IN-AC-32-083,Thrikkakara,231.1,726.3
+IN-AC-32-090,Thodupuzha,243.8,728.3
+IN-AC-32-089,Udumbanchola,253.3,730.3
+IN-AC-32-081,Thripunithura,231.8,728.3
+IN-AC-32-085,Piravom,235.4,728.9
+IN-AC-32-080,Kochi,229.8,728.9
+IN-AC-32-091,Idukki,247.9,730.5
+IN-AC-32-102,Aroor,231.3,731.5
+IN-AC-32-094,Kaduthuruthy,236.9,732.5
+IN-AC-32-095,Vaikom (Sc),233.9,732.8
+IN-AC-32-093,Pala,242.3,733.8
+IN-AC-32-103,Cherthala,231.6,734.3
+IN-AC-32-092,Peerumade,252.6,739.0
+IN-AC-32-101,Poonjar,245.2,737.5
+IN-AC-32-096,Ettumanoor,235.7,736.0
+IN-AC-32-098,Puthuppally,239.3,737.1
+IN-AC-32-104,Alappuzha,231.7,737.6
+IN-AC-32-097,Kottayam,236.3,737.6
+IN-AC-32-100,Kanjirappally,241.7,738.5
+IN-AC-32-106,Kuttanad,234.1,741.2
+IN-AC-32-099,Changanassery,237.3,740.3
+IN-AC-32-105,Ambalappuzha,232.2,741.7
+IN-AC-32-111,Thiruvalla,238.3,741.8
+IN-AC-32-114,Konni,248.9,745.0
+IN-AC-32-112,Ranni,244.8,742.4
+IN-AC-32-113,Aranmula,241.4,744.3
+IN-AC-32-107,Haripad,234.3,745.9
+IN-AC-32-110,Chengannur,237.9,744.6
+IN-AC-32-109,Mavelikkara (Sc),238.6,747.4
+IN-AC-32-108,Kayamkulam,236.2,747.7
+IN-AC-32-115,Adoor (Sc),241.6,748.3
+IN-AC-32-120,Pathanapuram,246.5,750.5
+IN-AC-32-116,Karunagappally,236.8,750.4
+IN-AC-32-118,Kunnathur (Sc),239.6,750.9
+IN-AC-32-121,Punalur,250.2,753.9
+IN-AC-32-119,Kottarakkara,242.8,752.6
+IN-AC-32-117,Chavara,237.2,752.9
+IN-AC-32-123,Kundara,240.6,754.0
+IN-AC-32-124,Kollam,238.4,754.3
+IN-AC-32-122,Chadayamangalam,246.7,756.2
+IN-AC-32-125,Eravipuram,239.3,755.9
+IN-AC-32-126,Chathannoor,241.6,756.5
+IN-AC-32-127,Varkala,242.7,758.2
+IN-AC-32-131,Vamanapuram,249.9,759.4
+IN-AC-32-128,Attingal (Sc),244.7,759.0
+IN-AC-32-129,Chirayinkeezhu,243.9,761.8
+IN-AC-32-136,Aruvikkara,251.8,762.6
+IN-AC-32-130,Nedumangad,246.9,762.5
+IN-AC-32-132,Kazhakoottam,246.4,764.4
+IN-AC-32-137,Parassala,253.7,766.2
+IN-AC-32-133,Vattiyoorkavu(Sc),248.4,764.6
+IN-AC-32-138,Kattakkada,250.6,765.8
+IN-AC-32-134,Thiruvananthapura,247.8,765.6
+IN-AC-32-135,Nemom,248.1,767.3
+IN-AC-32-140,Neyyattinkara,251.4,768.9
+IN-AC-32-139,Kovalam,249.7,768.6
+IN-AC-33-002,Ponneri (Sc),333.2,637.4
+IN-AC-33-003,Tiruttani,314.3,642.0
+IN-AC-33-004,Thiruvallur,322.6,643.9
+IN-AC-33-001,Gummidipoondi,327.6,637.3
+IN-AC-33-005,Poonamallee (Sc),327.9,643.5
+IN-AC-33-009,Madavaram,332.1,642.1
+IN-AC-33-010,Tiruvottiyur,335.3,642.5
+IN-AC-33-038,Arakkonam (Sc),319.0,645.3
+IN-AC-33-040,Katpadi,306.6,646.0
+IN-AC-33-006,Avadi,329.8,644.2
+IN-AC-33-039,Sholingur,314.2,647.3
+IN-AC-33-012,Perambur,334.4,644.0
+IN-AC-33-011,Dr.Radhakrishnan Naga,335.2,644.0
+IN-AC-33-008,Ambattur,332.1,644.5
+IN-AC-33-013,Kolathur,333.6,644.4
+IN-AC-33-045,Kilvaithinankuppam(Sc,300.1,647.6
+IN-AC-33-017,Royapuram,335.3,644.4
+IN-AC-33-014,Villivakkam,333.4,644.8
+IN-AC-33-015,Thiru-Vi-Ka-Nagar(Sc),334.5,644.7
+IN-AC-33-007,Maduravoyal,331.8,645.7
+IN-AC-33-018,Harbour,335.1,645.3
+IN-AC-33-021,Anna Nagar,333.6,645.3
+IN-AC-33-016,Egmore (Sc),334.3,645.2
+IN-AC-33-046,Gudiyattam (Sc),294.4,649.5
+IN-AC-33-022,Virugampakkam,332.8,645.8
+IN-AC-33-019,Chepauk-Thiruvalliken,334.8,645.8
+IN-AC-33-020,Thousand Lights,334.1,646.1
+IN-AC-33-029,Sriperumbudur (Sc),325.9,649.4
+IN-AC-33-024,Thiyagarayanagar,333.6,646.1
+IN-AC-33-028,Alandur,332.0,647.5
+IN-AC-33-041,Ranipet,309.9,649.0
+IN-AC-33-025,Mylapore,334.6,646.6
+IN-AC-33-023,Saidapet,333.6,647.0
+IN-AC-33-026,Velachery,334.1,647.6
+IN-AC-33-037,Kancheepuram,320.7,650.0
+IN-AC-33-030,Pallavaram,331.4,648.3
+IN-AC-33-027,Shozhinganallur,333.4,649.6
+IN-AC-33-043,Vellore,305.4,649.5
+IN-AC-33-044,Anaikattu,301.3,652.7
+IN-AC-33-031,Tambaram,330.9,649.8
+IN-AC-33-055,Hosur,271.9,654.3
+IN-AC-33-042,Arcot,309.1,653.3
+IN-AC-33-048,Ambur,294.5,653.4
+IN-AC-33-032,Chengalpattu,328.4,653.5
+IN-AC-33-054,Veppanahalli,277.4,656.5
+IN-AC-33-068,Cheyyar,316.9,655.0
+IN-AC-33-033,Thiruporur,330.3,655.2
+IN-AC-33-036,Uthiramerur,322.3,655.4
+IN-AC-33-067,Arani,308.8,656.4
+IN-AC-33-047,Vaniyambadi,292.3,658.0
+IN-AC-33-065,Kalasapakkam,301.9,660.0
+IN-AC-33-056,Thalli,267.9,662.3
+IN-AC-33-066,Polur,307.6,659.5
+IN-AC-33-035,Madurantakam (Sc),323.1,660.3
+IN-AC-33-052,Bargur,284.0,661.5
+IN-AC-33-049,Jolarpet,289.8,658.8
+IN-AC-33-050,Tiruppattur,291.9,661.8
+IN-AC-33-053,Krishnagiri,279.6,661.5
+IN-AC-33-069,Vandavasi (Sc),316.6,661.3
+IN-AC-33-062,Chengam (Sc),296.8,666.1
+IN-AC-33-034,Cheyyur (Sc),326.9,663.2
+IN-AC-33-057,Palacodu,277.3,664.4
+IN-AC-33-051,Uthangarai (Sc),288.2,665.8
+IN-AC-33-070,Vandavasi (Sc),309.7,666.7
+IN-AC-33-064,Kilpennathur,305.3,667.8
+IN-AC-33-071,Mailam,316.0,667.6
+IN-AC-33-058,Pennagaram,272.8,670.7
+IN-AC-33-072,Tindivanam (Sc),322.6,668.6
+IN-AC-33-063,Tiruvannamalai,302.6,669.2
+IN-AC-33-061,Harur (Sc),288.1,673.0
+IN-AC-33-060,Pappireddippatti,282.6,672.2
+IN-AC-33-059,Dharmapuri,277.0,672.4
+IN-AC-33-073,Vanur (Sc),320.5,673.9
+IN-AC-33-075,Vikravandi,313.5,672.8
+IN-AC-33-076,Tirukkoyilur,308.7,674.9
+IN-AC-33-078,Rishivandiyam,302.4,675.8
+IN-AC-33-079,Sankarapuram,296.9,678.0
+IN-AC-33-084,Omalur,277.2,678.1
+IN-AC-33-105,Anthiyur,263.0,682.1
+IN-AC-33-085,Mettur,271.6,679.0
+IN-AC-33-074,Viluppuram,314.8,675.9
+IN-AC-33-083,Yercaud (St),286.1,680.5
+IN-AC-33-077,Ulundurpettai,309.4,680.3
+IN-AC-33-155,Cuddalore,321.0,678.9
+IN-AC-33-107,Bhavanisagar,252.7,685.0
+IN-AC-33-154,Panruti,316.3,678.9
+IN-AC-33-086,Edappadi,271.1,682.5
+IN-AC-33-080,Kallakurichi (Sc),301.1,682.7
+IN-AC-33-082,Attur(Sc),289.4,683.8
+IN-AC-33-109,Gudalur (Sc),235.6,685.9
+IN-AC-33-153,Neyveli,316.2,682.4
+IN-AC-33-088,Salem (West),278.0,681.7
+IN-AC-33-156,Kurinjipadi,318.4,683.3
+IN-AC-33-089,Salem (North),279.1,682.0
+IN-AC-33-087,Sankari,271.7,685.1
+IN-AC-33-104,Bhavani,265.7,685.9
+IN-AC-33-091,Veerapandi,279.4,684.0
+IN-AC-33-081,Gangavalli (Sc),291.8,686.5
+IN-AC-33-090,Salem (South),279.4,683.0
+IN-AC-33-108,Udhagamandalam,240.0,689.5
+IN-AC-33-152,Vriddhachalam,308.3,685.5
+IN-AC-33-110,Coonoor,244.9,688.9
+IN-AC-33-092,Rasipuram (Sc),282.1,686.9
+IN-AC-33-106,Gobichettipalayam,257.9,689.0
+IN-AC-33-151,Tittakudi (Sc),303.9,687.2
+IN-AC-33-157,Bhuvanagiri,314.7,687.4
+IN-AC-33-158,Chidambaram,320.5,688.2
+IN-AC-33-096,Tiruchengodu,273.9,689.5
+IN-AC-33-147,Perambalur (Sc),296.6,692.0
+IN-AC-33-097,Kumarapalayam,269.0,689.8
+IN-AC-33-093,Senthamangalam(St),283.9,693.2
+IN-AC-33-099,Erode (West),267.0,691.3
+IN-AC-33-111,Mettuppalayam,246.6,693.0
+IN-AC-33-159,Kattumannarkoil(Sc),315.0,691.8
+IN-AC-33-103,Perundurai,262.2,693.0
+IN-AC-33-094,Namakkal,279.1,694.1
+IN-AC-33-095,Paramathi-Velur,275.1,693.6
+IN-AC-33-098,Erode (East),267.8,690.7
+IN-AC-33-146,Thuraiyur (Sc),290.6,694.1
+IN-AC-33-150,Jayankondam,311.4,693.8
+IN-AC-33-160,Sirkazhi (Sc),321.1,692.4
+IN-AC-33-148,Kunnam,303.2,693.8
+IN-AC-33-112,Avanashi (Sc),253.4,693.9
+IN-AC-33-113,Tiruppur (North),258.1,694.4
+IN-AC-33-100,Modakkurichi,269.6,695.3
+IN-AC-33-149,Ariyalur,305.3,698.0
+IN-AC-33-117,Kavundampalayam,246.8,697.0
+IN-AC-33-116,Sulur,253.4,700.3
+IN-AC-33-102,Kangayam,265.0,699.0
+IN-AC-33-161,Mayiladuthurai,318.0,695.7
+IN-AC-33-145,Musiri,284.6,698.3
+IN-AC-33-114,Tiruppur (South),258.7,697.2
+IN-AC-33-170,Thiruvidaimarudur,314.0,699.3
+IN-AC-33-115,Palladam,257.5,700.1
+IN-AC-33-162,Poompuhar,319.4,697.9
+IN-AC-33-144,Manachanallur,292.1,700.2
+IN-AC-33-134,Aravakurichi,272.8,703.3
+IN-AC-33-119,Thondamuthur,244.0,700.7
+IN-AC-33-118,Coimbatore(North),247.2,699.2
+IN-AC-33-143,Lalgudi,297.9,700.8
+IN-AC-33-121,Singanallur,249.4,699.7
+IN-AC-33-135,Karur,278.0,700.3
+IN-AC-33-120,Coimbatore(South),248.4,699.8
+IN-AC-33-171,Kumbakonam,311.6,700.5
+IN-AC-33-122,Kinathukadavu,247.6,703.1
+IN-AC-33-172,Papanasam,308.2,703.3
+IN-AC-33-136,Krishnarayapuram(Sc),279.2,706.5
+IN-AC-33-137,Kulithalai,286.5,704.7
+IN-AC-33-101,Dharapuram (Sc),264.3,706.2
+IN-AC-33-123,Pollachi,249.4,706.0
+IN-AC-33-139,Srirangam,290.8,706.3
+IN-AC-33-173,Thiruvaiyaru,301.1,705.4
+IN-AC-33-163,Nagapattinam,320.9,704.3
+IN-AC-33-141,Tiruchirappalli,293.9,704.8
+IN-AC-33-133,Vedasandur,276.7,710.3
+IN-AC-33-125,Udumalaipettai,252.6,708.5
+IN-AC-33-140,Tiruchirappalli,293.4,705.5
+IN-AC-33-142,Thiruverumbur,295.9,706.7
+IN-AC-33-168,Thiruvarur,316.9,706.8
+IN-AC-33-164,Kilvelur (Sc),321.3,708.0
+IN-AC-33-174,Thanjavur,304.5,706.1
+IN-AC-33-167,Mannargudi,312.3,709.1
+IN-AC-33-175,Orathanadu,306.9,709.8
+IN-AC-33-128,Oddanchatram,266.0,711.7
+IN-AC-33-138,Manapparai,285.3,712.4
+IN-AC-33-179,Viralimalai,292.1,712.0
+IN-AC-33-126,Madathukulam,254.9,714.0
+IN-AC-33-124,Valparai (Sc),247.7,714.5
+IN-AC-33-178,Gandharvakottai(Sc),300.4,711.2
+IN-AC-33-166,Thiruthuraipoondi(Sc),316.8,713.8
+IN-AC-33-165,Vedaranyam,321.3,714.8
+IN-AC-33-180,Pudukkottai,300.4,714.4
+IN-AC-33-127,Palani,262.0,717.6
+IN-AC-33-129,Athoor,270.5,716.6
+IN-AC-33-176,Pattukkottai,311.5,715.0
+IN-AC-33-177,Peravurani,307.8,717.7
+IN-AC-33-131,Natham,278.6,719.0
+IN-AC-33-132,Dindigul,275.3,716.1
+IN-AC-33-181,Thirumayam,293.7,718.6
+IN-AC-33-185,Tiruppattur,291.1,720.8
+IN-AC-33-182,Alangudi,301.7,718.4
+IN-AC-33-188,Melur,284.1,723.9
+IN-AC-33-130,Nilakkottai (Sc),270.0,722.3
+IN-AC-33-199,Periyakulam,263.9,723.3
+IN-AC-33-183,Aranthangi,303.8,725.3
+IN-AC-33-200,Bodinayakanur,258.4,726.3
+IN-AC-33-190,Sholavandan(Sc),275.9,724.3
+IN-AC-33-184,Karaikudi,297.4,727.7
+IN-AC-33-198,Andipatti,260.5,731.3
+IN-AC-33-189,Madurai East,280.3,726.9
+IN-AC-33-197,Usilampatti,268.0,730.9
+IN-AC-33-186,Sivaganga,288.4,729.9
+IN-AC-33-194,Madurai West,276.3,727.9
+IN-AC-33-201,Cumbum,256.6,730.6
+IN-AC-33-196,Thirumangalam,272.5,731.5
+IN-AC-33-191,Madurai North,278.5,727.6
+IN-AC-33-195,Thiruparankundram,277.8,730.0
+IN-AC-33-193,Madurai Central,278.0,728.2
+IN-AC-33-192,Madurai South,278.6,728.4
+IN-AC-33-210,Tiruvadanai,299.0,735.7
+IN-AC-33-187,Manamadurai(Sc),287.8,734.0
+IN-AC-33-208,Tiruchuli,280.4,738.5
+IN-AC-33-203,Srivilliputhur(Sc),264.7,737.7
+IN-AC-33-206,Virudhunagar,271.8,738.3
+IN-AC-33-209,Paramakudi (Sc),290.3,739.9
+IN-AC-33-207,Aruppukkottai,275.2,742.0
+IN-AC-33-205,Sivakasi,269.3,740.4
+IN-AC-33-202,Rajapalayam,261.5,741.4
+IN-AC-33-212,Mudhukulathur,287.9,744.8
+IN-AC-33-204,Sattur,268.9,743.3
+IN-AC-33-220,Vasudevanallur(Sc),260.4,745.9
+IN-AC-33-211,Ramanathapuram,302.7,745.2
+IN-AC-33-213,Vilathikulam,278.3,748.7
+IN-AC-33-219,Sankarankovil(Sc),265.4,749.3
+IN-AC-33-218,Kovilpatti,270.5,750.7
+IN-AC-33-221,Kadayanallur,256.6,751.0
+IN-AC-33-222,Tenkasi,260.0,753.1
+IN-AC-33-217,Ottapidaram(Sc),275.4,757.3
+IN-AC-33-224,Tirunelveli,266.9,757.2
+IN-AC-33-223,Alangulam,260.6,756.8
+IN-AC-33-225,Ambasamudram,259.8,760.0
+IN-AC-33-227,Nanguneri,264.9,762.9
+IN-AC-33-214,Thoothukkudi,278.6,758.5
+IN-AC-33-226,Palayamkottai,268.4,759.9
+IN-AC-33-216,Srivaikuntam,274.4,765.0
+IN-AC-33-215,Tiruchendur,276.4,765.3
+IN-AC-33-233,Vilavancode,255.3,767.8
+IN-AC-33-232,Padmanabhapuram,258.1,770.0
+IN-AC-33-229,Kanniyakumari,261.5,771.5
+IN-AC-33-228,Radhapuram,268.6,771.0
+IN-AC-33-234,Killiyoor,253.8,771.5
+IN-AC-33-231,Colachel,257.1,772.9
+IN-AC-33-230,Nagercoil,259.5,774.4
+IN-AC-19-001,Mekliganj (Sc),560.0,297.3
+IN-AC-19-002,Mathabhanga (Sc),569.3,295.6
+IN-AC-19-003,Coochbehar Uttar (Sc),575.2,295.2
+IN-AC-19-004,Coochbehar Dakshin,574.0,299.2
+IN-AC-19-005,Sitalkuchi (Sc),568.5,298.3
+IN-AC-19-006,Sitai (Sc),574.3,303.0
+IN-AC-19-007,Dinhata,578.6,303.9
+IN-AC-19-008,Natabari,579.0,297.8
+IN-AC-19-009,Tufanganj,583.5,297.8
+IN-AC-19-010,Kumargram (St),583.5,290.9
+IN-AC-19-011,Kalchini (St),576.8,287.9
+IN-AC-19-012,Alipurduars,575.9,291.6
+IN-AC-19-013,Falakata (Sc),569.0,290.3
+IN-AC-19-014,Madarihat (St),568.5,286.5
+IN-AC-19-015,Dhupguri (Sc),564.0,288.4
+IN-AC-19-016,Maynaguri (Sc),560.3,290.4
+IN-AC-19-017,Jalpaiguri (Sc),556.8,294.5
+IN-AC-19-018,Rajganj (Sc),552.8,289.4
+IN-AC-19-019,Dabgram-Phulbari,550.3,286.2
+IN-AC-19-020,Mal (St),554.5,285.1
+IN-AC-19-021,Nagrakata (St),562.1,283.6
+IN-AC-19-022,Kalimpong,554.5,278.9
+IN-AC-19-023,Darjeeling,542.0,278.1
+IN-AC-19-024,Kurseong,546.1,281.6
+IN-AC-19-025,Matigara-Naxalbari(Sc),545.8,286.5
+IN-AC-19-026,Siliguri,549.0,287.1
+IN-AC-19-027,Phansidewa (St),544.5,290.8
+IN-AC-19-028,Chopra,547.6,296.5
+IN-AC-19-029,Islampur,543.3,299.6
+IN-AC-19-030,Goalpokhar,539.8,304.6
+IN-AC-19-031,Chakulia,536.2,306.4
+IN-AC-19-032,Karandighi,537.0,310.7
+IN-AC-19-033,Hemtabad (Sc),542.5,313.4
+IN-AC-19-034,Kaliaganj (Sc),545.5,316.0
+IN-AC-19-035,Raiganj,540.8,316.3
+IN-AC-19-036,Itahar,541.8,321.4
+IN-AC-19-037,Kushmandi (Sc),548.8,318.9
+IN-AC-19-038,Kumarganj,556.6,321.1
+IN-AC-19-039,Balurghat,560.9,326.0
+IN-AC-19-040,Tapan(St),557.2,324.8
+IN-AC-19-041,Gangarampur (Sc),551.2,324.3
+IN-AC-19-042,Harirampur,546.4,321.8
+IN-AC-19-043,Habibpur (St),546.5,329.8
+IN-AC-19-044,Gazole (Sc),544.2,326.9
+IN-AC-19-045,Chanchal,537.6,320.6
+IN-AC-19-046,Harischandrapur,534.3,322.1
+IN-AC-19-047,Malatipur,537.9,325.8
+IN-AC-19-048,Ratua,536.1,327.9
+IN-AC-19-049,Manikchak,535.5,329.4
+IN-AC-19-050,Maldaha (Sc),541.0,331.4
+IN-AC-19-051,English Bazar,539.9,334.5
+IN-AC-19-052,Mothabari,537.5,334.1
+IN-AC-19-053,Sujapur,538.6,335.8
+IN-AC-19-054,Baisnabnagar,538.0,338.3
+IN-AC-19-055,Farakka,535.0,338.6
+IN-AC-19-056,Samserganj,536.5,341.6
+IN-AC-19-057,Suti,537.5,343.4
+IN-AC-19-058,Jangipur,538.9,346.4
+IN-AC-19-059,Raghunathganj,541.3,345.8
+IN-AC-19-060,Sagardighi,540.4,350.3
+IN-AC-19-061,Lalgola,545.1,348.3
+IN-AC-19-062,Bhagabangola,547.6,350.7
+IN-AC-19-063,Raninagar,551.6,352.1
+IN-AC-19-064,Murshidabad,546.1,353.3
+IN-AC-19-065,Nabagram (Sc),540.6,354.6
+IN-AC-19-066,Khargram (Sc),536.8,356.5
+IN-AC-19-067,Burwan (Sc),536.1,360.8
+IN-AC-19-068,Kandi,539.5,358.4
+IN-AC-19-069,Bharatpur,540.1,362.9
+IN-AC-19-070,Rejinagar,543.8,362.5
+IN-AC-19-071,Beldanga,543.8,358.5
+IN-AC-19-072,Baharampur,546.4,355.5
+IN-AC-19-073,Hariharpara,548.1,356.9
+IN-AC-19-074,Naoda,547.7,360.8
+IN-AC-19-075,Domkal,552.5,356.9
+IN-AC-19-076,Jalangi,555.0,353.1
+IN-AC-19-077,Karimpur,554.6,358.4
+IN-AC-19-078,Tehatta,552.5,363.4
+IN-AC-19-079,Palashipara,549.5,365.3
+IN-AC-19-080,Kaliganj,544.5,365.8
+IN-AC-19-081,Nakashipara,547.3,368.9
+IN-AC-19-082,Chapra,552.9,370.1
+IN-AC-19-083,Krishnanagar Uttar,552.6,373.8
+IN-AC-19-084,Nabadwip,548.0,374.6
+IN-AC-19-085,Krishnanagar Dakshin,549.8,373.6
+IN-AC-19-086,Santipur,548.6,377.8
+IN-AC-19-087,Ranaghat Uttar Paschim,551.5,378.4
+IN-AC-19-088,Krishnaganj (Sc),555.1,374.1
+IN-AC-19-089,Ranaghat Uttar Purba(Sc),555.1,377.9
+IN-AC-19-090,Ranaghat Dakshin (Sc),553.2,380.7
+IN-AC-19-091,Chakdaha,553.5,383.1
+IN-AC-19-092,Kalyani (Sc),550.1,384.5
+IN-AC-19-093,Haringhata (Sc),553.5,385.4
+IN-AC-19-094,Bagda (Sc),560.2,380.1
+IN-AC-19-095,Bangaon Uttar (Sc),558.3,382.3
+IN-AC-19-096,Bangaon Dakshin (Sc),558.5,384.9
+IN-AC-19-097,Gaighata (Sc),557.9,387.9
+IN-AC-19-098,Swarupnagar,560.6,390.0
+IN-AC-19-099,Baduria,559.0,390.5
+IN-AC-19-100,Habra,555.1,389.6
+IN-AC-19-101,Ashoknagar,553.3,388.8
+IN-AC-19-102,Amdanga,551.1,389.0
+IN-AC-19-103,Bijpur,549.3,386.3
+IN-AC-19-104,Naihati,549.8,386.9
+IN-AC-19-105,Bhatpara,548.0,388.7
+IN-AC-19-106,Jagatdal,549.2,388.6
+IN-AC-19-107,Noapara,547.4,390.1
+IN-AC-19-108,Barrackpur,547.4,391.0
+IN-AC-19-109,Khardaha,548.3,391.9
+IN-AC-19-110,Dum Dum Uttar,548.8,393.4
+IN-AC-19-111,Panihati,548.0,392.6
+IN-AC-19-112,Kamarhati,547.8,393.4
+IN-AC-19-113,Baranagar,547.7,394.0
+IN-AC-19-114,Dum Dum,549.0,394.4
+IN-AC-19-115,Rajarhat New Town,551.0,395.1
+IN-AC-19-116,Bidhannagar,549.1,396.8
+IN-AC-19-117,Rajarhat Gopalpur,548.8,395.2
+IN-AC-19-118,Madhyamgram,550.8,392.4
+IN-AC-19-119,Barasat,551.0,392.4
+IN-AC-19-120,Deganga,554.5,391.9
+IN-AC-19-121,Haroa,554.7,394.7
+IN-AC-19-122,Minakhan (Sc),556.7,397.5
+IN-AC-19-123,Sandeshkhali (St),559.8,401.1
+IN-AC-19-124,Basirhat Dakshin,561.4,394.2
+IN-AC-19-125,Basirhat Uttar,559.0,395.1
+IN-AC-19-126,Hingalganj (Sc),563.3,401.0
+IN-AC-19-127,Gosaba (Sc),561.2,413.0
+IN-AC-19-128,Basanti (Sc),556.5,407.3
+IN-AC-19-129,Kultali (Sc),552.7,414.5
+IN-AC-19-130,Patharpratima,547.5,417.1
+IN-AC-19-131,Kakdwip,544.0,414.7
+IN-AC-19-132,Sagar,540.9,418.1
+IN-AC-19-133,Kulpi,544.0,410.0
+IN-AC-19-134,Raidighi,548.5,411.0
+IN-AC-19-135,Mandirbazar (Sc),546.9,407.9
+IN-AC-19-136,Jaynagar (Sc),550.4,407.1
+IN-AC-19-137,Baruipur Purba(Sc),551.1,403.3
+IN-AC-19-138,Canning Paschim(Sc),553.8,403.9
+IN-AC-19-139,Canning Purba,554.6,400.1
+IN-AC-19-140,Baruipur Paschim,549.3,402.0
+IN-AC-19-141,Magrahat Purba(Sc),547.8,404.3
+IN-AC-19-142,Magrahat Paschim,545.8,404.6
+IN-AC-19-143,Diamond Harbour,542.3,405.2
+IN-AC-19-144,Falta,542.5,402.9
+IN-AC-19-145,Satgachhia,542.9,400.8
+IN-AC-19-146,Bishnupur (Sc),546.1,400.4
+IN-AC-19-147,Sonarpur Dakshin,549.9,399.8
+IN-AC-19-148,Bhangar,552.2,396.5
+IN-AC-19-149,Kasba,548.3,397.5
+IN-AC-19-150,Jadavpur,547.9,398.5
+IN-AC-19-151,Sonarpur Uttar,548.5,399.4
+IN-AC-19-152,Tollyganj,547.2,398.5
+IN-AC-19-153,Behala Purba,546.2,399.0
+IN-AC-19-154,Behala Paschim,545.8,398.3
+IN-AC-19-155,Maheshtala,544.4,397.9
+IN-AC-19-156,Budge Budge,542.5,399.4
+IN-AC-19-157,Metiaburuz,544.7,396.9
+IN-AC-19-158,Kolkata Port,545.6,396.9
+IN-AC-19-159,Bhabanipur,546.7,396.7
+IN-AC-19-160,Rashbehari,547.0,397.5
+IN-AC-19-161,Ballygunge,547.5,396.8
+IN-AC-19-162,Chowrangee,547.2,396.0
+IN-AC-19-163,Entally,547.9,396.5
+IN-AC-19-164,Beleghata,548.0,396.1
+IN-AC-19-165,Jorasanko,547.3,395.8
+IN-AC-19-166,Shyampukur,547.2,395.3
+IN-AC-19-167,Maniktala,548.1,395.6
+IN-AC-19-168,Kashipurbelgachhia,547.8,394.8
+IN-AC-19-169,Bally,546.8,394.3
+IN-AC-19-170,Howrah Uttar,546.8,395.3
+IN-AC-19-171,Howrah Madhya,546.0,396.1
+IN-AC-19-172,Shibpur,545.7,395.3
+IN-AC-19-173,Howrah Dakshin,545.2,395.8
+IN-AC-19-174,Sankrail (Sc),543.1,396.3
+IN-AC-19-175,Panchla,540.9,396.0
+IN-AC-19-176,Uluberia Purba,541.2,398.1
+IN-AC-19-177,Uluberia Uttar (Sc),538.9,396.4
+IN-AC-19-178,Uluberia Dakshin,539.8,400.6
+IN-AC-19-179,Shyampur,538.3,402.9
+IN-AC-19-180,Bagnan,536.5,398.9
+IN-AC-19-181,Amta,535.8,396.4
+IN-AC-19-182,Udaynarayanpur,537.6,393.0
+IN-AC-19-183,Jagatballavpur,541.8,394.1
+IN-AC-19-184,Domjur,545.5,394.4
+IN-AC-19-185,Uttarpara,546.8,392.9
+IN-AC-19-186,Sreerampur,546.3,391.9
+IN-AC-19-187,Champdani,546.6,390.0
+IN-AC-19-188,Singur,544.8,390.1
+IN-AC-19-189,Chandannagar,547.0,388.3
+IN-AC-19-190,Chunchura,547.4,386.6
+IN-AC-19-191,Balagarh (Sc),548.8,382.0
+IN-AC-19-192,Pandua,544.8,382.8
+IN-AC-19-193,Saptagram,546.1,386.2
+IN-AC-19-194,Chanditala,544.3,392.2
+IN-AC-19-195,Jangipara,540.5,391.6
+IN-AC-19-196,Haripal,541.0,389.0
+IN-AC-19-197,Dhanekhali(Sc),541.1,385.3
+IN-AC-19-198,Tarakeswar,538.5,387.9
+IN-AC-19-199,Pursurah,535.3,389.4
+IN-AC-19-200,Arambag (Sc),533.5,388.5
+IN-AC-19-201,Goghat (Sc),528.6,387.4
+IN-AC-19-202,Khanakul,533.5,392.8
+IN-AC-19-203,Tamluk,535.3,402.0
+IN-AC-19-204,Panskura Purba,533.5,399.6
+IN-AC-19-205,Panskura Paschim,531.0,400.5
+IN-AC-19-206,Moyna,532.1,404.0
+IN-AC-19-207,Nandakumar,534.8,405.1
+IN-AC-19-208,Mahisadal,539.0,407.5
+IN-AC-19-209,Haldia (Sc),541.5,407.8
+IN-AC-19-210,Nandigram,537.5,411.1
+IN-AC-19-211,Chandipur,533.2,408.3
+IN-AC-19-212,Patashpur,526.6,410.8
+IN-AC-19-213,Kanthi Uttar,531.5,415.4
+IN-AC-19-214,Bhagabanpur,530.4,410.6
+IN-AC-19-215,Khejuri (Sc),535.5,413.1
+IN-AC-19-216,Kanthi Dakshin,529.8,417.2
+IN-AC-19-217,Ramnagar,526.9,419.3
+IN-AC-19-218,Egra,525.6,415.4
+IN-AC-19-219,Dantan,521.5,413.6
+IN-AC-19-220,Nayagram (St),510.8,409.3
+IN-AC-19-221,Gopiballavpur,513.0,404.1
+IN-AC-19-222,Jhargram,511.8,396.6
+IN-AC-19-223,Keshiary (St),518.0,409.9
+IN-AC-19-224,Kharagpur Sadar,519.5,402.1
+IN-AC-19-225,Narayangarh,521.9,407.9
+IN-AC-19-226,Sabang,527.6,406.1
+IN-AC-19-227,Pingla,525.4,401.9
+IN-AC-19-228,Kharagpur,520.4,401.6
+IN-AC-19-229,Debra,526.9,399.8
+IN-AC-19-230,Daspur,532.0,396.4
+IN-AC-19-231,Ghatal (Sc),530.0,393.6
+IN-AC-19-232,Chandrakona (Sc),526.9,392.4
+IN-AC-19-233,Garbeta,520.8,388.5
+IN-AC-19-234,Salboni,518.9,392.7
+IN-AC-19-235,Keshpur (Sc),523.4,396.1
+IN-AC-19-236,Medinipur,517.3,397.4
+IN-AC-19-237,Binpur (St),505.6,396.6
+IN-AC-19-238,Bandwan (St),496.9,385.9
+IN-AC-19-239,Balarampur,492.2,378.5
+IN-AC-19-240,Baghmundi,486.0,377.3
+IN-AC-19-241,Joypur,488.5,373.3
+IN-AC-19-242,Purulia,496.0,375.9
+IN-AC-19-243,Manbazar (St),501.3,380.5
+IN-AC-19-244,Kashipur,502.9,374.8
+IN-AC-19-245,Para (Sc),499.1,370.1
+IN-AC-19-246,Raghunathpur(Sc),505.0,369.4
+IN-AC-19-247,Saltora (Sc),513.3,371.5
+IN-AC-19-248,Chhatna,508.6,377.8
+IN-AC-19-249,Ranibandh (St),506.1,386.3
+IN-AC-19-250,Raipur (St),510.0,390.7
+IN-AC-19-251,Taldangra,513.4,385.6
+IN-AC-19-252,Bankura,511.9,377.6
+IN-AC-19-253,Barjora,517.3,374.4
+IN-AC-19-254,Onda,515.4,380.5
+IN-AC-19-255,Bishnupur,519.8,382.9
+IN-AC-19-256,Katulpur (Sc),525.0,384.5
+IN-AC-19-257,Indus (Sc),526.6,381.6
+IN-AC-19-258,Sonamukhi (Sc),523.0,376.5
+IN-AC-19-259,Khandaghosh (Sc),530.7,379.8
+IN-AC-19-260,Bardhaman Dakshin,534.2,378.4
+IN-AC-19-261,Raina (Sc),534.0,382.8
+IN-AC-19-262,Jamalpur (Sc),538.8,382.7
+IN-AC-19-263,Monteswar,540.8,375.3
+IN-AC-19-264,Kalna (Sc),545.7,379.5
+IN-AC-19-265,Memari,540.5,379.7
+IN-AC-19-266,Bardhaman Uttar,536.0,377.4
+IN-AC-19-267,Bhatar,535.0,374.0
+IN-AC-19-268,Purbasthali Dakshin,545.2,375.9
+IN-AC-19-269,Purbasthali Uttar,544.7,371.5
+IN-AC-19-270,Katwa,542.5,369.9
+IN-AC-19-271,Ketugram,539.6,366.0
+IN-AC-19-272,Mangalkot,535.9,370.3
+IN-AC-19-273,Ausgram (Sc),528.0,371.6
+IN-AC-19-274,Galsi (Sc),526.7,372.1
+IN-AC-19-275,Pandabeswar,519.0,367.4
+IN-AC-19-276,Durgapur Purba,521.5,370.9
+IN-AC-19-277,Durgapur Paschim,519.1,370.6
+IN-AC-19-278,Raniganj,515.9,368.5
+IN-AC-19-279,Jamuria,514.9,365.5
+IN-AC-19-280,Asansol Dakshin,511.9,368.0
+IN-AC-19-281,Asansol Uttar,510.9,366.0
+IN-AC-19-282,Kulti,507.9,365.6
+IN-AC-19-283,Barabani,509.6,363.9
+IN-AC-19-284,Dubrajpur (Sc),519.5,363.7
+IN-AC-19-285,Suri,522.6,361.3
+IN-AC-19-286,Bolpur,526.0,366.6
+IN-AC-19-287,Nanoor (Sc),532.3,367.1
+IN-AC-19-288,Labpur,531.9,363.5
+IN-AC-19-289,Sainthia (Sc),527.4,360.9
+IN-AC-19-290,Mayureswar,532.0,358.4
+IN-AC-19-291,Rampurhat,529.1,354.8
+IN-AC-19-292,Hansan,535.3,353.0
+IN-AC-19-293,Nalhati,533.4,350.3
+IN-AC-19-294,Murarai,534.8,345.9
+IN-AC-28-008,Boath (St),285.9,475.4
+IN-AC-28-007,Adilabad,293.0,472.1
+IN-AC-28-005,Asifabad (St),305.5,480.5
+IN-AC-28-001,Sirpur,319.1,479.9
+IN-AC-28-006,Khanapur (St),296.8,482.7
+IN-AC-28-010,Mudhole,275.1,487.4
+IN-AC-28-009,Nirmal,285.1,486.2
+IN-AC-28-003,Bellampalle (Sc),316.0,487.2
+IN-AC-28-120,Ichchapuram,448.9,489.8
+IN-AC-28-130,Kurupam (St),421.3,491.9
+IN-AC-28-004,Mancherial,309.2,490.9
+IN-AC-28-021,Jagtial,298.3,492.4
+IN-AC-28-022,Dharmapuri (Sc),305.0,493.9
+IN-AC-28-002,Chennur (Sc),319.1,493.4
+IN-AC-28-020,Koratla,292.4,492.9
+IN-AC-28-011,Armur,280.6,493.9
+IN-AC-28-019,Balkonda,287.6,495.1
+IN-AC-28-121,Palasa,444.5,495.1
+IN-AC-28-129,Palakonda (St),425.5,495.6
+IN-AC-28-012,Bodhan,272.8,495.8
+IN-AC-28-028,Vemulawada,295.0,499.0
+IN-AC-28-024,Manthani,324.4,500.1
+IN-AC-28-023,Ramagundam,312.3,495.9
+IN-AC-28-018,Nizamabad (Rural),283.1,499.8
+IN-AC-28-123,Pathapatnam,435.4,497.8
+IN-AC-28-131,Parvathipuram (Sc),416.9,498.1
+IN-AC-28-027,Choppadandi (Sc),301.6,500.9
+IN-AC-28-132,Salur (St),410.8,501.8
+IN-AC-28-122,Tekkali,439.0,500.6
+IN-AC-28-127,Narasannapeta,434.4,502.0
+IN-AC-28-017,Nizamabad (Urban),277.0,498.9
+IN-AC-28-014,Banswada,272.3,503.2
+IN-AC-28-025,Peddapalle,311.7,501.9
+IN-AC-28-128,Rajam (Sc),424.4,501.8
+IN-AC-28-133,Bobbili,417.1,502.3
+IN-AC-28-119,Bhadrachalam (St),356.4,514.8
+IN-AC-28-013,Jukkal (Sc),268.9,506.6
+IN-AC-28-109,Mulug (St),334.1,511.9
+IN-AC-28-125,Amadalavalasa,428.6,504.6
+IN-AC-28-029,Sircilla,293.5,505.9
+IN-AC-28-015,Yellareddy,279.3,508.5
+IN-AC-28-026,Karimnagar,304.5,503.9
+IN-AC-28-147,Araku Valley (St),401.1,509.2
+IN-AC-28-108,Bhupalpalle,323.5,508.1
+IN-AC-28-016,Kamareddy,286.8,508.1
+IN-AC-28-030,Manakondur (Sc),304.6,507.2
+IN-AC-28-135,Gajapathinagaram,413.8,509.5
+IN-AC-28-031,Huzurabad,313.8,508.6
+IN-AC-28-126,Etcherla,426.6,509.1
+IN-AC-28-124,Srikakulam,432.9,507.7
+IN-AC-28-035,Narayankhed,269.3,513.8
+IN-AC-28-134,Cheepurupalle,421.0,508.1
+IN-AC-28-032,Husnabad,309.0,512.5
+IN-AC-28-033,Siddipet,298.3,512.5
+IN-AC-28-041,Dubbak,290.6,515.1
+IN-AC-28-104,Parkal,320.2,514.9
+IN-AC-28-034,Medak,282.7,514.5
+IN-AC-28-136,Nellimarla,420.3,513.6
+IN-AC-28-138,Srungavarapukota,410.8,515.0
+IN-AC-28-137,Vizianagaram,416.5,513.0
+IN-AC-28-107,Waradhanapet (Sc),317.7,518.2
+IN-AC-28-110,Pinapaka (St),344.4,519.6
+IN-AC-28-148,Paderu (St),390.2,519.7
+IN-AC-28-146,Madugula,404.0,517.0
+IN-AC-28-103,Narsampet,324.6,518.5
+IN-AC-28-036,Andole (Sc),273.0,520.3
+IN-AC-28-099,Ghanpur (Station) (Sc),310.1,520.9
+IN-AC-28-042,Gajwel,293.5,519.8
+IN-AC-28-139,Bhimili,415.7,519.0
+IN-AC-28-098,Jangoan,302.6,520.0
+IN-AC-28-037,Narsapur,282.3,520.6
+IN-AC-28-105,Warangal West,316.4,516.4
+IN-AC-28-038,Zahirabad (Sc),265.3,523.0
+IN-AC-28-106,Warangal East,317.4,517.1
+IN-AC-28-172,Rampachodavaram(St),378.1,526.0
+IN-AC-28-102,Mahabubabad (St),325.8,523.9
+IN-AC-28-145,Chodavaram,401.5,522.2
+IN-AC-28-150,Pendurthi,410.3,523.8
+IN-AC-28-117,Kothagudem,346.1,526.0
+IN-AC-28-097,Alair,301.9,526.8
+IN-AC-28-040,Patancheru,282.9,526.9
+IN-AC-28-100,Palakurthi,313.9,525.8
+IN-AC-28-039,Sangareddy,276.1,526.8
+IN-AC-28-149,Anakapalle,405.1,524.5
+IN-AC-28-111,Yellandu (St),336.4,527.6
+IN-AC-28-142,Visakhapatnam North,413.0,523.4
+IN-AC-28-043,Medchal,290.1,528.1
+IN-AC-28-153,Narsipatnam,395.2,526.3
+IN-AC-28-140,Visakhapatnam East,414.4,523.5
+IN-AC-28-143,Visakhapatnam West,412.7,524.0
+IN-AC-28-144,Gajuwaka,410.5,524.4
+IN-AC-28-141,Visakhapatnam South,414.0,524.3
+IN-AC-28-055,Vicarabad (Sc),270.7,531.0
+IN-AC-28-151,Yelamanchili,404.1,528.0
+IN-AC-28-045,Quthbullapur,286.0,528.2
+IN-AC-28-094,Bhongir,300.0,530.5
+IN-AC-28-152,Payakaraopet (Sc),398.8,530.9
+IN-AC-28-118,Aswaraopeta (St),354.9,531.8
+IN-AC-28-101,Dornakal (St),325.4,530.4
+IN-AC-28-044,Malkajgiri,288.8,529.4
+IN-AC-28-115,Wyra (St),339.0,533.7
+IN-AC-28-053,Chevella (Sc),280.2,534.5
+IN-AC-28-052,Serilingampally,283.5,530.5
+IN-AC-28-046,Kukatpalle,286.1,530.0
+IN-AC-28-096,Thungathurthi (Sc),314.4,532.3
+IN-AC-28-154,Tuni,391.8,533.2
+IN-AC-28-047,Uppal,290.5,531.3
+IN-AC-28-071,Secunderabad Cantt. (Sc,288.4,530.3
+IN-AC-28-056,Tandur,263.7,534.8
+IN-AC-28-062,Sanathnagar,286.2,531.3
+IN-AC-28-070,Secunderabad,288.8,531.0
+IN-AC-28-059,Amberpet,289.0,531.5
+IN-AC-28-186,Polavaram (St),363.1,536.2
+IN-AC-28-061,Jubilee Hills,287.1,531.3
+IN-AC-28-057,Musheerabad,288.2,531.4
+IN-AC-28-155,Prathipadu,386.6,533.4
+IN-AC-28-051,Rajendranagar,284.9,535.3
+IN-AC-28-063,Nampally,287.0,532.0
+IN-AC-28-060,Khairatabad,288.0,532.2
+IN-AC-28-064,Karwan,285.9,532.2
+IN-AC-28-058,Malakpet,288.6,532.7
+IN-AC-28-065,Goshamahal,287.4,532.8
+IN-AC-28-048,Ibrahimpatnam,293.4,538.0
+IN-AC-28-069,Bahadurpura,287.3,533.0
+IN-AC-28-113,Palair,327.6,537.5
+IN-AC-28-066,Charminar,288.5,532.9
+IN-AC-28-112,Khammam,334.4,534.4
+IN-AC-28-095,Nakrekal (Sc),309.1,536.0
+IN-AC-28-049,Lal Bahadur Nagar,289.7,533.3
+IN-AC-28-068,Yakutpura,288.0,533.4
+IN-AC-28-093,Munugode,300.1,540.8
+IN-AC-28-067,Chandrayangutta,288.1,533.9
+IN-AC-28-054,Pargi,272.8,540.1
+IN-AC-28-050,Maheswaram,287.2,538.4
+IN-AC-28-091,Suryapet,318.5,538.0
+IN-AC-28-116,Sathupalle (Sc),345.0,537.2
+IN-AC-28-090,Kodad,324.9,539.3
+IN-AC-28-171,Jaggampeta,379.9,537.4
+IN-AC-28-072,Kodangal,265.4,542.2
+IN-AC-28-084,Shadnagar,279.6,541.1
+IN-AC-28-168,Rajanagaram,375.3,539.8
+IN-AC-28-114,Madhira (Sc),335.9,542.1
+IN-AC-28-156,Pithapuram,388.0,538.7
+IN-AC-28-187,Chintalapudi (Sc),357.6,541.3
+IN-AC-28-185,Gopalapuram (Sc),364.9,541.9
+IN-AC-28-092,Nalgonda,309.4,541.5
+IN-AC-28-158,Peddapuram,384.4,540.6
+IN-AC-28-173,Kovvur (Sc),371.1,541.2
+IN-AC-28-188,Tiruvuru (Sc),343.4,542.1
+IN-AC-28-088,Miryalaguda,316.3,545.6
+IN-AC-28-159,Anaparthy,381.8,543.3
+IN-AC-28-169,Rajahmundry City,374.3,542.0
+IN-AC-28-189,Nuzvid,350.5,546.3
+IN-AC-28-157,Kakinada Rural,385.2,543.8
+IN-AC-28-083,Kalwakurthy,290.0,548.3
+IN-AC-28-203,Jaggayyapeta,332.1,544.5
+IN-AC-28-075,Jadcherla,280.6,546.8
+IN-AC-28-089,Huzurnagar,323.6,546.8
+IN-AC-28-086,Devarakonda (St),300.6,551.0
+IN-AC-28-170,Rajahmundry Rural,375.7,544.6
+IN-AC-28-166,Kothapeta,376.3,547.0
+IN-AC-28-087,Nagarjuna Sagar,309.3,548.3
+IN-AC-28-162,Mummidivaram,385.9,548.8
+IN-AC-28-073,Narayanpet,266.6,549.3
+IN-AC-28-201,Mylavaram,343.9,548.5
+IN-AC-28-167,Mandapeta,379.1,546.9
+IN-AC-28-181,Tadepalligudem,368.0,546.8
+IN-AC-28-160,Kakinada City,386.6,543.8
+IN-AC-28-174,Nidadavole,371.4,547.3
+IN-AC-28-074,Mahbubnagar,273.1,548.6
+IN-AC-28-183,Denduluru,356.6,549.2
+IN-AC-28-182,Ungutur,364.5,548.4
+IN-AC-28-202,Nandigama (Sc),336.2,549.4
+IN-AC-28-161,Ramachandrapuram,383.0,548.4
+IN-AC-28-204,Pedakurapadu,332.1,552.3
+IN-AC-28-180,Tanuku,371.1,550.0
+IN-AC-28-082,Achampet (Sc),296.5,558.4
+IN-AC-28-081,Nagarkurnool,282.9,554.8
+IN-AC-28-077,Makthal,264.1,556.3
+IN-AC-28-076,Devarkadra,273.5,555.8
+IN-AC-28-184,Eluru,358.4,551.1
+IN-AC-28-219,Gurajala,321.4,554.3
+IN-AC-28-190,Gannavaram,348.3,553.5
+IN-AC-28-165,Gannavaram (Sc),379.4,552.8
+IN-AC-28-192,Kaikalur,359.8,554.5
+IN-AC-28-175,Achanta,373.3,552.9
+IN-AC-28-179,Undi,366.3,553.9
+IN-AC-28-078,Wanaparthy,277.8,560.1
+IN-AC-28-220,Macherla,314.4,558.1
+IN-AC-28-178,Bhimavaram,368.1,555.3
+IN-AC-28-163,Amalapuram (Sc),382.0,555.3
+IN-AC-28-205,Tadikonda (Sc),336.6,557.7
+IN-AC-28-176,Palacole,373.5,555.3
+IN-AC-28-199,Vijayawada Central,344.9,554.6
+IN-AC-28-191,Gudivada,355.1,557.4
+IN-AC-28-198,Vijayawada West,343.9,554.6
+IN-AC-28-164,Razole (Sc),376.0,557.2
+IN-AC-28-196,Pamarru (Sc),351.0,558.8
+IN-AC-28-197,Penamaluru,348.4,556.9
+IN-AC-28-200,Vijayawada East,344.9,555.2
+IN-AC-28-206,Mangalagiri,343.8,557.7
+IN-AC-28-217,Sattenapalle,328.6,558.5
+IN-AC-28-177,Narasapuram,370.4,558.0
+IN-AC-28-193,Pedana,361.1,560.5
+IN-AC-28-085,Kollapur,284.4,564.3
+IN-AC-28-079,Gadwal,267.5,564.0
+IN-AC-28-218,Vinukonda,320.5,565.8
+IN-AC-28-214,Guntur East,339.9,560.5
+IN-AC-28-207,Ponnur,341.4,563.8
+IN-AC-28-210,Tenali,345.4,561.0
+IN-AC-28-213,Guntur West,338.1,560.7
+IN-AC-28-216,Narasaraopet,327.3,562.6
+IN-AC-28-221,Yerragondapalem (Sc),306.3,569.0
+IN-AC-28-212,Prathipadu (Sc),337.1,564.8
+IN-AC-28-215,Chilakaluripet,332.8,564.4
+IN-AC-28-194,Machilipatnam,357.1,564.9
+IN-AC-28-208,Vemuru (Sc),346.6,564.9
+IN-AC-28-080,Alampur (Sc),272.1,568.3
+IN-AC-28-195,Avanigadda,353.5,569.5
+IN-AC-28-254,Srisailam,293.1,574.6
+IN-AC-28-224,Addanki,327.9,570.8
+IN-AC-28-255,Nandikotkur (Sc),285.9,572.0
+IN-AC-28-209,Repalle,347.5,571.0
+IN-AC-28-000,State boundary,355.8,567.8
+IN-AC-28-223,Parchur,333.5,573.1
+IN-AC-28-211,Bapatla,341.3,570.6
+IN-AC-28-264,Mantralayam,255.3,573.5
+IN-AC-28-222,Darsi,318.1,573.6
+IN-AC-28-263,Yemmiganur,263.4,574.4
+IN-AC-28-225,Chirala,336.6,572.7
+IN-AC-28-262,Kodumur (Sc),270.0,575.5
+IN-AC-28-256,Kurnool,277.1,573.5
+IN-AC-28-257,Panyam,279.9,579.0
+IN-AC-28-230,Markapuram,313.5,577.4
+IN-AC-28-265,Adoni,254.8,577.9
+IN-AC-28-231,Giddalur,301.2,582.0
+IN-AC-28-226,Santhanuthalapadu (Sc),327.4,578.9
+IN-AC-28-266,Alur,258.2,584.4
+IN-AC-28-261,Pattikonda,267.9,583.9
+IN-AC-28-260,Dhone,273.1,585.8
+IN-AC-28-229,Kondapi (Sc),323.8,584.2
+IN-AC-28-227,Ongole,330.6,582.3
+IN-AC-28-258,Nandyal,286.5,583.6
+IN-AC-28-232,Kanigiri,311.7,586.9
+IN-AC-28-259,Banaganapalle,279.1,588.6
+IN-AC-28-253,Allagadda,289.1,590.4
+IN-AC-28-228,Kandukur,323.9,590.5
+IN-AC-28-269,Guntakal,263.3,593.3
+IN-AC-28-243,Badvel (Sc),302.9,600.6
+IN-AC-28-268,Uravakonda,255.6,598.3
+IN-AC-28-270,Tadpatri,271.6,595.0
+IN-AC-28-267,Rayadurg,248.7,599.9
+IN-AC-28-242,Udayagiri,315.3,597.0
+IN-AC-28-250,Jammalamadugu,283.8,600.1
+IN-AC-28-252,Mydukur,296.2,600.1
+IN-AC-28-233,Kavali,327.0,600.0
+IN-AC-28-251,Proddatur,290.4,599.8
+IN-AC-28-271,Singanamala (Sc),269.4,601.9
+IN-AC-28-234,Atmakur,315.0,604.5
+IN-AC-28-272,Anantapur Urban,264.1,603.0
+IN-AC-28-274,Raptadu,263.9,609.4
+IN-AC-28-248,Pulivendla,284.6,610.0
+IN-AC-28-273,Kalyandurg,251.8,609.9
+IN-AC-28-279,Dharmavaram,273.2,609.8
+IN-AC-28-249,Kamalapuram,292.3,608.8
+IN-AC-28-235,Kovur,328.1,606.4
+IN-AC-28-238,Sarvepalli,324.9,611.5
+IN-AC-28-241,Venkatagiri,316.1,616.0
+IN-AC-28-245,Kadapa,297.3,609.1
+IN-AC-28-236,Nellore City,323.9,609.2
+IN-AC-28-244,Rajampet,301.9,615.9
+IN-AC-28-237,Nellore Rural,327.3,610.1
+IN-AC-28-278,Puttaparthi,272.4,618.7
+IN-AC-28-246,Kodur (Sc),306.9,620.0
+IN-AC-28-280,Kadiri,282.1,619.7
+IN-AC-28-247,Rayachoti,293.4,619.4
+IN-AC-28-277,Penukonda,265.1,620.6
+IN-AC-28-000,State boundary,329.4,615.1
+IN-AC-28-275,Madakasira (Sc),253.3,622.0
+IN-AC-28-239,Gudur (Sc),327.5,620.3
+IN-AC-28-240,Sullurpeta (Sc),327.6,627.5
+IN-AC-28-281,Thamballapalle,283.9,626.9
+IN-AC-28-276,Hindupur,265.8,626.0
+IN-AC-28-282,Pileru,296.0,627.9
+IN-AC-28-287,Srikalahasti,316.9,628.0
+IN-AC-28-285,Chandragiri,307.2,630.1
+IN-AC-28-288,Satyavedu (Sc),322.4,631.3
+IN-AC-28-286,Tirupati,310.6,629.5
+IN-AC-28-284,Punganur,296.6,634.5
+IN-AC-28-283,Madanapalle,289.7,634.4
+IN-AC-28-289,Nagari,317.5,636.9
+IN-AC-28-292,Puthalapattu (Sc),300.6,640.6
+IN-AC-28-290,Gangadhara Nellore (Sc),309.4,639.6
+IN-AC-28-293,Palamaner,291.9,643.6
+IN-AC-28-291,Chittoor,304.6,643.5
+IN-AC-28-294,Kuppam,286.0,653.0
+IN-AC-12-041,Anini,746.3,229.3
+IN-AC-12-034,Tuting-Yinkgkiong,716.1,229.7
+IN-AC-12-033,Mechuka,701.8,235.3
+IN-AC-12-032,Rumgong,713.5,240.1
+IN-AC-12-040,Mariyang-Geku,728.1,241.9
+IN-AC-12-042,Dambuk,739.5,245.8
+IN-AC-12-043,Roing,748.8,245.4
+IN-AC-12-022,Nacho,685.5,240.8
+IN-AC-12-045,Hauyuliang,769.9,252.4
+IN-AC-12-035,Pangin,720.1,245.9
+IN-AC-12-044,Tezu,754.8,251.3
+IN-AC-12-023,Taliha,699.1,245.6
+IN-AC-12-027,Liromoba,709.8,247.3
+IN-AC-12-039,Mebo,732.7,251.0
+IN-AC-12-021,Koloriang,672.9,251.1
+IN-AC-12-030,Along West,714.5,249.5
+IN-AC-12-020,Tali,688.5,251.1
+IN-AC-12-038,Pasighat East,729.1,250.9
+IN-AC-12-031,Along East,717.6,249.9
+IN-AC-12-024,Daporijo,696.5,250.7
+IN-AC-12-026,Damporijo,705.6,253.8
+IN-AC-12-029,Basar,714.1,254.3
+IN-AC-12-037,Pasighat West,728.7,255.1
+IN-AC-12-036,Nari-Koyu,721.0,256.0
+IN-AC-12-046,Chowkham,756.3,261.1
+IN-AC-12-025,Raga,699.6,255.5
+IN-AC-12-047,Namsai,746.5,260.4
+IN-AC-12-019,Nyapin,679.7,258.3
+IN-AC-12-025,Raga,698.4,260.8
+IN-AC-12-018,Palin,689.0,258.4
+IN-AC-12-028,Likabali,709.9,260.7
+IN-AC-12-049,Bordumsa-Diyum,755.7,265.8
+IN-AC-12-008,Bameng,664.8,260.9
+IN-AC-12-050,Miao,765.1,270.0
+IN-AC-12-009,Chayangtajo,671.9,262.2
+IN-AC-12-048,Lekang,746.3,263.8
+IN-AC-12-003,Mukto,646.7,262.3
+IN-AC-12-016,Yachuli,688.9,265.8
+IN-AC-12-001,Lumla,635.1,262.3
+IN-AC-12-004,Dirang,649.2,266.0
+IN-AC-12-007,Bomdila,658.5,267.7
+IN-AC-12-002,Tawang,639.7,262.0
+IN-AC-12-017,Ziro-Hapoli,693.5,264.9
+IN-AC-12-051,Nampong,751.1,272.6
+IN-AC-12-015,Sagalee,684.5,269.0
+IN-AC-12-014,Doimukh,688.0,273.5
+IN-AC-12-053,Changlang North,741.9,275.9
+IN-AC-12-010,Seppa East,671.5,269.3
+IN-AC-12-052,Changlang South,743.8,278.1
+IN-AC-12-011,Seppa West,669.4,273.0
+IN-AC-12-054,Namsang,735.0,275.6
+IN-AC-12-006,Thrizino-Buragaon,659.8,274.5
+IN-AC-12-012,Pakke-Kasang,668.8,276.1
+IN-AC-12-055,Khonsa East,737.4,279.3
+IN-AC-12-058,Kanubari,729.4,279.8
+IN-AC-12-057,Borduria- Bagapani,733.8,279.9
+IN-AC-12-013,Itanagar,686.1,276.5
+IN-AC-12-005,Kalaktang,649.4,277.5
+IN-AC-12-056,Khonsa West,735.5,282.3
+IN-AC-12-059,Longding-Pumao,729.9,283.8
+IN-AC-12-060,Pongchou-Wakka,731.4,285.9
+IN-AC-10-002,Ramnagar (Sc),441.6,272.1
+IN-AC-10-001,Valmiki Nagar,435.5,277.4
+IN-AC-10-009,Sikta,449.4,277.4
+IN-AC-10-004,Bagaha,438.0,276.9
+IN-AC-10-003,Narkatiaganj,444.7,277.1
+IN-AC-10-005,Lauriya,443.5,281.6
+IN-AC-10-010,Raxaul,454.9,281.8
+IN-AC-10-007,Chanpatia,447.8,282.9
+IN-AC-10-011,Sugauli,453.1,284.5
+IN-AC-10-012,Narkatia,458.1,285.9
+IN-AC-10-025,Parihar,475.6,285.9
+IN-AC-10-021,Dhaka,463.3,286.5
+IN-AC-10-006,Nautan,444.6,286.9
+IN-AC-10-008,Bettiah,448.8,286.0
+IN-AC-10-024,Bathnaha (Sc),471.6,287.6
+IN-AC-10-019,Motihari,457.9,288.4
+IN-AC-10-020,Chiraia,462.2,289.1
+IN-AC-10-023,Riga,469.3,288.8
+IN-AC-10-013,Harsidhi (Sc),452.6,289.9
+IN-AC-10-014,Govindganj,448.6,291.0
+IN-AC-10-033,Khajauli,487.6,291.8
+IN-AC-10-031,Harlakhi,482.6,291.6
+IN-AC-10-026,Sursand,477.6,291.5
+IN-AC-10-022,Sheohar,466.6,292.8
+IN-AC-10-028,Sitamarhi,472.6,291.1
+IN-AC-10-053,Thakurganj,537.4,295.7
+IN-AC-10-034,Babubarhi,492.4,292.6
+IN-AC-10-046,Narpatganj,515.2,297.9
+IN-AC-10-027,Bajpatti,476.3,293.8
+IN-AC-10-018,Madhuban,462.3,292.8
+IN-AC-10-102,Kuchaikote,439.9,291.3
+IN-AC-10-103,Bhorey (Sc),434.2,292.6
+IN-AC-10-101,Gopalganj,443.2,292.9
+IN-AC-10-040,Laukaha,499.7,294.1
+IN-AC-10-045,Chhatapur,510.6,297.1
+IN-AC-10-016,Kalyanpur,456.9,294.3
+IN-AC-10-030,Belsand,469.9,293.6
+IN-AC-10-032,Benipatti,483.6,294.0
+IN-AC-10-017,Pipra,461.4,294.7
+IN-AC-10-054,Kishanganj,540.8,298.1
+IN-AC-10-015,Kesaria,455.1,295.4
+IN-AC-10-029,Runnisaidpur,472.3,295.9
+IN-AC-10-052,Bahadurganj,532.0,297.7
+IN-AC-10-051,Sikti,524.6,297.2
+IN-AC-10-041,Nirmali,505.6,297.0
+IN-AC-10-104,Hathua,439.9,295.2
+IN-AC-10-100,Barauli,446.6,295.5
+IN-AC-10-037,Rajnagar (Sc),491.5,296.3
+IN-AC-10-048,Forbesganj,519.5,298.6
+IN-AC-10-087,Jale,478.9,298.1
+IN-AC-10-099,Baikunthpur,452.6,297.1
+IN-AC-10-039,Phulparas,497.4,300.0
+IN-AC-10-035,Bisfi,484.0,296.7
+IN-AC-10-044,Triveniganj (Sc),510.3,300.4
+IN-AC-10-089,Aurai,474.3,298.3
+IN-AC-10-049,Araria,524.0,301.8
+IN-AC-10-036,Madhubani,487.9,298.6
+IN-AC-10-038,Jhanjharpur,493.1,300.2
+IN-AC-10-090,Minapur,468.6,299.3
+IN-AC-10-042,Pipra,504.1,301.2
+IN-AC-10-105,Siwan,441.7,298.4
+IN-AC-10-110,Barharia,444.8,299.4
+IN-AC-10-106,Ziradei,438.2,299.4
+IN-AC-10-043,Supaul,499.7,302.0
+IN-AC-10-086,Keoti,481.6,300.4
+IN-AC-10-096,Baruraj,462.2,299.4
+IN-AC-10-098,Sahebganj,458.1,301.7
+IN-AC-10-050,Jokihat,527.3,303.0
+IN-AC-10-111,Goriakothi,449.6,299.7
+IN-AC-10-091,Bochaha (Sc),471.1,301.9
+IN-AC-10-082,Darbhanga Rural,487.8,301.1
+IN-AC-10-088,Gaighat,475.9,302.6
+IN-AC-10-095,Kanti,466.3,302.1
+IN-AC-10-083,Darbhanga,482.0,301.7
+IN-AC-10-081,Alinagar,492.2,303.3
+IN-AC-10-047,Raniganj (Sc),518.0,304.4
+IN-AC-10-107,Darauli (Sc),436.9,303.0
+IN-AC-10-116,Taraiya,455.3,303.4
+IN-AC-10-108,Raghunathpur,440.6,303.8
+IN-AC-10-115,Baniapur,452.4,303.9
+IN-AC-10-056,Amour,530.3,305.8
+IN-AC-10-085,Bahadurpur,482.3,303.3
+IN-AC-10-080,Benipur,488.0,305.1
+IN-AC-10-112,Maharajganj,448.4,303.0
+IN-AC-10-097,Paroo,462.9,304.1
+IN-AC-10-073,Madhepura,505.8,306.7
+IN-AC-10-094,Muzaffarpur,468.7,302.8
+IN-AC-10-072,Singheshwar (Sc),509.7,305.6
+IN-AC-10-109,Daraundha,444.6,305.4
+IN-AC-10-084,Hayaghat,484.7,305.6
+IN-AC-10-093,Kurhani,468.6,305.4
+IN-AC-10-077,Mahishi,497.9,306.9
+IN-AC-10-131,Kalyanpur (Sc),479.1,306.4
+IN-AC-10-079,Gaura Bauram,492.2,306.8
+IN-AC-10-092,Sakra (Sc),473.1,306.1
+IN-AC-10-113,Ekma,446.9,306.1
+IN-AC-10-058,Kasba,523.8,308.8
+IN-AC-10-059,Banmankhi (Sc),515.6,309.5
+IN-AC-10-125,Vaishali,465.4,308.8
+IN-AC-10-120,Amnour,458.4,307.9
+IN-AC-10-057,Baisi,529.8,310.8
+IN-AC-10-114,Manjhi,448.9,308.2
+IN-AC-10-132,Warisnagar,483.4,309.2
+IN-AC-10-117,Marhaura,454.4,308.0
+IN-AC-10-133,Samastipur,479.6,309.1
+IN-AC-10-071,Bihariganj,510.1,311.4
+IN-AC-10-061,Dhamdaha,518.8,312.0
+IN-AC-10-075,Saharsa,501.7,310.0
+IN-AC-10-065,Balrampur,536.0,314.4
+IN-AC-10-126,Mahua,470.0,310.2
+IN-AC-10-139,Rosera (Sc),488.1,310.6
+IN-AC-10-124,Lalganj,465.1,309.8
+IN-AC-10-130,Patepur (Sc),473.1,310.4
+IN-AC-10-078,Kusheshwar Asthan (Sc),493.1,310.1
+IN-AC-10-121,Parsa,460.4,310.1
+IN-AC-10-135,Morwa,475.7,312.5
+IN-AC-10-076,Simri Bakhtiarpur,499.1,312.9
+IN-AC-10-074,Sonbarsha (Sc),504.6,312.6
+IN-AC-10-062,Purnia,526.0,312.8
+IN-AC-10-119,Garkha (Sc),455.4,311.7
+IN-AC-10-140,Hasanpur,491.5,313.0
+IN-AC-10-134,Ujiarpur,481.1,313.0
+IN-AC-10-118,Chapra,451.1,311.9
+IN-AC-10-060,Rupauli,515.1,316.0
+IN-AC-10-136,Sarairanjan,478.8,313.6
+IN-AC-10-064,Kadwa,531.1,315.0
+IN-AC-10-138,Bibhutipur,483.3,313.7
+IN-AC-10-127,Raja Pakar (Sc),469.6,314.4
+IN-AC-10-141,Cheria Bariarpur,488.0,315.0
+IN-AC-10-123,Hajipur,465.8,314.1
+IN-AC-10-122,Sonepur,460.3,313.6
+IN-AC-10-129,Mahnar,472.3,314.9
+IN-AC-10-069,Korha (Sc),522.1,315.9
+IN-AC-10-063,Katihar,527.1,316.8
+IN-AC-10-148,Alauli (Sc),495.7,316.4
+IN-AC-10-147,Bakhri (Sc),491.6,316.9
+IN-AC-10-199,Brahampur,439.9,317.7
+IN-AC-10-066,Pranpur,532.3,318.3
+IN-AC-10-186,Danapur,460.1,315.1
+IN-AC-10-193,Barhara,450.4,315.0
+IN-AC-10-070,Alamnagar,510.1,317.3
+IN-AC-10-187,Maner,456.4,315.9
+IN-AC-10-128,Raghopur,468.4,316.3
+IN-AC-10-198,Shahpur,444.0,315.8
+IN-AC-10-200,Buxar,435.1,315.4
+IN-AC-10-150,Beldaur,503.9,318.1
+IN-AC-10-142,Bachhwara,483.0,316.9
+IN-AC-10-137,Mohiuddinnagar,475.9,317.6
+IN-AC-10-181,Digha,461.6,315.8
+IN-AC-10-149,Khagaria,499.0,318.5
+IN-AC-10-068,Barari,521.5,319.6
+IN-AC-10-194,Arrah,449.6,316.8
+IN-AC-10-182,Bankipur,463.7,316.0
+IN-AC-10-184,Patna Sahib,464.1,316.6
+IN-AC-10-183,Kumhrar,462.5,316.6
+IN-AC-10-192,Sandesh,449.9,319.8
+IN-AC-10-185,Fatuha,465.1,319.1
+IN-AC-10-146,Begusarai,489.3,319.4
+IN-AC-10-188,Phulwari (Sc),461.3,318.9
+IN-AC-10-201,Dumraon,435.0,319.4
+IN-AC-10-067,Manihari (St),529.4,322.9
+IN-AC-10-153,Gopalpur,515.5,322.3
+IN-AC-10-191,Bikram,456.1,319.7
+IN-AC-10-202,Rajpur (Sc),431.2,321.1
+IN-AC-10-143,Teghra,484.4,320.2
+IN-AC-10-178,Mokama,482.6,321.4
+IN-AC-10-197,Jagdishpur,444.2,321.0
+IN-AC-10-179,Barh,477.0,321.1
+IN-AC-10-152,Bihpur,509.6,322.1
+IN-AC-10-145,Sahebpur Kamal,495.0,321.9
+IN-AC-10-165,Munger,498.2,323.1
+IN-AC-10-180,Bakhtiarpur,470.3,320.0
+IN-AC-10-151,Parbatta,504.4,322.6
+IN-AC-10-144,Matihani,489.1,322.7
+IN-AC-10-154,Pirpainti (Sc),521.8,324.4
+IN-AC-10-195,Agiaon (Sc),447.9,322.1
+IN-AC-10-177,Harnaut,471.1,322.5
+IN-AC-10-189,Masaurhi (Sc),460.1,322.9
+IN-AC-10-175,Hilsa,467.0,324.5
+IN-AC-10-190,Paliganj,454.1,324.0
+IN-AC-10-166,Jamalpur,498.1,326.3
+IN-AC-10-203,Ramgarh,423.5,324.8
+IN-AC-10-171,Asthawan,478.5,327.0
+IN-AC-10-168,Lakhisarai,486.1,328.2
+IN-AC-10-210,Dinara,437.1,325.5
+IN-AC-10-158,Nathnagar,511.9,326.9
+IN-AC-10-172,Biharsharif,474.0,325.4
+IN-AC-10-155,Kahalgaon,515.5,327.8
+IN-AC-10-157,Sultanganj,506.1,327.1
+IN-AC-10-167,Suryagarha,491.5,328.4
+IN-AC-10-156,Bhagalpur,510.6,325.6
+IN-AC-10-196,Tarari,445.7,325.8
+IN-AC-10-176,Nalanda,469.5,328.4
+IN-AC-10-216,Jehanabad,457.1,327.2
+IN-AC-10-217,Ghosi,461.9,327.9
+IN-AC-10-214,Arwal,448.1,327.1
+IN-AC-10-174,Islampur,465.6,328.3
+IN-AC-10-170,Barbigha,478.5,327.4
+IN-AC-10-209,Kargahar,431.1,328.9
+IN-AC-10-213,Karakat,440.6,327.6
+IN-AC-10-204,Mohania (Sc),424.5,328.4
+IN-AC-10-215,Kurtha,452.7,328.1
+IN-AC-10-169,Sheikhpura,482.0,329.3
+IN-AC-10-164,Tarapur,500.0,330.1
+IN-AC-10-173,Rajgir (Sc),472.2,329.7
+IN-AC-10-218,Makhdumpur (Sc),459.0,329.4
+IN-AC-10-206,Chainpur,421.1,335.5
+IN-AC-10-241,Jamui,492.4,333.4
+IN-AC-10-159,Amarpur,506.3,331.6
+IN-AC-10-160,Dhauraiya (Sc),512.6,332.7
+IN-AC-10-205,Bhabua,423.8,332.9
+IN-AC-10-211,Nokha,438.9,330.3
+IN-AC-10-239,Warsaliganj,477.4,332.4
+IN-AC-10-220,Obra,443.5,332.5
+IN-AC-10-219,Goh,448.9,332.7
+IN-AC-10-163,Belhar,503.3,337.4
+IN-AC-10-242,Jhajha,496.5,336.0
+IN-AC-10-233,Atri,464.6,333.5
+IN-AC-10-231,Tikari,453.5,333.6
+IN-AC-10-232,Belaganj,458.6,334.9
+IN-AC-10-212,Dehri,437.6,333.6
+IN-AC-10-240,Sikandra (Sc),486.1,335.9
+IN-AC-10-237,Nawada,472.1,333.9
+IN-AC-10-161,Banka,509.9,335.7
+IN-AC-10-207,Chenari (Sc),427.0,338.3
+IN-AC-10-208,Sasaram,433.8,335.3
+IN-AC-10-221,Nabinagar,437.5,338.5
+IN-AC-10-238,Gobindpur,480.3,337.3
+IN-AC-10-162,Katoria (St),508.5,339.6
+IN-AC-10-236,Hisua,471.0,337.6
+IN-AC-10-234,Wazirganj,463.1,337.7
+IN-AC-10-224,Rafiganj,448.4,340.0
+IN-AC-10-223,Aurangabad,443.6,339.9
+IN-AC-10-225,Gurua,453.4,339.4
+IN-AC-10-235,Rajauli (Sc),471.4,340.6
+IN-AC-10-230,Gaya Town,458.7,337.8
+IN-AC-10-243,Chakai,494.9,343.3
+IN-AC-10-229,Bodh Gaya (Sc),463.6,342.2
+IN-AC-10-228,Barachatti (Sc),460.4,343.6
+IN-AC-10-222,Kutumba (Sc),439.5,342.7
+IN-AC-10-226,Sherghati,453.4,344.4
+IN-AC-10-227,Imamganj (Sc),446.5,346.9
+IN-AC-10-055,Kochadhaman,533.5,303.6
+IN-AC-22-007,Ramanujganj (St),419.4,364.7
+IN-AC-22-006,Pratappur (St),408.1,368.7
+IN-AC-22-001,Bharatpur-Sonhat (S,383.3,370.4
+IN-AC-22-005,Bhatgaon,403.1,371.6
+IN-AC-22-008,Samri (St),423.2,374.4
+IN-AC-22-003,Baikunthpur,395.2,379.8
+IN-AC-22-004,Premnagar,401.2,383.1
+IN-AC-22-009,Lundra (St),413.6,384.9
+IN-AC-22-002,Manendragarh,387.9,382.1
+IN-AC-22-012,Jashpur (St),431.4,384.3
+IN-AC-22-010,Ambikapur,407.1,387.4
+IN-AC-22-024,Marwahi (St),380.4,389.3
+IN-AC-22-011,Sitapur (St),417.3,388.4
+IN-AC-22-023,Pali-Tanakhar (St),393.0,394.1
+IN-AC-22-013,Kunkuri (St),433.1,394.8
+IN-AC-22-014,Pathalgaon (St),424.3,394.2
+IN-AC-22-025,Kota,379.1,397.6
+IN-AC-22-020,Rampur (St),402.8,400.6
+IN-AC-22-026,Lormi,372.8,400.6
+IN-AC-22-015,Lailunga (St),419.9,405.5
+IN-AC-22-022,Katghora,394.7,401.1
+IN-AC-22-072,Kawardha,357.3,408.3
+IN-AC-22-021,Korba,398.9,401.5
+IN-AC-22-031,Beltara,385.9,405.8
+IN-AC-22-032,Masturi (Sc),388.6,410.4
+IN-AC-22-028,Takhatpur,378.4,407.4
+IN-AC-22-033,Akaltara,393.1,408.7
+IN-AC-22-019,Dharamjaigarh (St),412.6,399.8
+IN-AC-22-018,Kharsia,411.1,412.2
+IN-AC-22-027,Mungeli (Sc),373.1,409.3
+IN-AC-22-035,Sakti,402.0,409.8
+IN-AC-22-030,Bilaspur,384.5,408.9
+IN-AC-22-034,Janjgir-Champa,396.4,412.8
+IN-AC-22-029,Bilha,380.3,412.3
+IN-AC-22-070,Nawagarh (Sc),371.6,415.1
+IN-AC-22-071,Pandariya,362.9,408.1
+IN-AC-22-037,Jaijaipur,402.9,414.9
+IN-AC-22-036,Chandrapur,409.5,415.4
+IN-AC-22-038,Pamgarh (Sc),394.0,415.3
+IN-AC-22-016,Raigarh,417.4,417.4
+IN-AC-22-068,Saja,362.6,422.1
+IN-AC-22-046,Bhatapara,378.6,417.9
+IN-AC-22-073,Khairagarh,352.8,421.9
+IN-AC-22-069,Bemetara,367.4,422.8
+IN-AC-22-045,Baloda Bazar,378.9,421.6
+IN-AC-22-044,Kasdol,386.9,422.9
+IN-AC-22-017,Sarangarh (Sc),410.9,422.9
+IN-AC-22-043,Bilaigarh (Sc),396.4,424.0
+IN-AC-22-039,Saraipali (Sc),407.5,428.6
+IN-AC-22-040,Basna,397.9,428.7
+IN-AC-22-047,Dharsiwa,375.1,427.4
+IN-AC-22-074,Dongargarh (Sc),352.2,428.8
+IN-AC-22-052,Arang (Sc),379.6,429.8
+IN-AC-22-042,Mahasamund,386.4,431.6
+IN-AC-22-067,Ahiwara (Sc),364.3,428.8
+IN-AC-22-048,Raipur Rural,372.0,431.5
+IN-AC-22-062,Patan,367.3,435.5
+IN-AC-22-076,Dongargaon,347.1,434.5
+IN-AC-22-050,Raipur City North,370.8,430.5
+IN-AC-22-063,Durg-Rural,361.3,433.5
+IN-AC-22-049,Raipur City West,369.9,430.6
+IN-AC-22-041,Khallari,391.0,436.1
+IN-AC-22-066,Vaishali Nagar,363.1,431.3
+IN-AC-22-051,Raipur City South,371.0,431.1
+IN-AC-22-064,Durg City,361.7,432.3
+IN-AC-22-065,Bhilai Nagar,363.8,432.7
+IN-AC-22-053,Abhanpur,374.9,435.6
+IN-AC-22-075,Rajnandgaon,355.7,434.9
+IN-AC-22-054,Rajim,383.1,441.2
+IN-AC-22-077,Khujji,346.5,439.1
+IN-AC-22-061,Gunderdehi,358.9,439.2
+IN-AC-22-057,Kurud,372.1,440.4
+IN-AC-22-060,Dondi Lohara (St),355.8,446.6
+IN-AC-22-059,Sanjari Balod,362.1,445.1
+IN-AC-22-058,Dhamtari,369.2,445.8
+IN-AC-22-056,Sihawa (St),377.4,451.8
+IN-AC-22-078,Mohla-Manpur (St),346.1,451.4
+IN-AC-22-055,Bindranawagarh (St),389.6,456.5
+IN-AC-22-080,Bhanupratappur (St),356.9,454.9
+IN-AC-22-081,Kanker (St),368.2,455.0
+IN-AC-22-079,Antagarh (St),351.6,464.7
+IN-AC-22-082,Keshkal (St),369.6,465.5
+IN-AC-22-084,Narayanpur (St),362.2,475.1
+IN-AC-22-083,Kondagaon (St),373.7,474.4
+IN-AC-22-085,Bastar (St),379.9,482.1
+IN-AC-22-089,Bijapur (St),350.6,495.9
+IN-AC-22-087,Chitrakot (St),371.1,491.2
+IN-AC-22-088,Dantewada (St),366.1,495.0
+IN-AC-22-086,Jagdalpur,380.8,491.5
+IN-AC-22-090,Konta (St),366.0,508.8
+IN-AC-07-001,Nerela,252.4,231.9
+IN-AC-07-007,Bawana (Sc),249.8,233.1
+IN-AC-07-002,Burari,253.8,233.6
+IN-AC-07-070,Karawal Nagar,255.3,233.8
+IN-AC-07-008,Mundka,249.3,234.9
+IN-AC-07-005,Badli,252.8,233.7
+IN-AC-07-013,Rohini,251.8,234.3
+IN-AC-07-006,Rithala,251.5,234.3
+IN-AC-07-004,Adarsh Nagar,253.4,234.4
+IN-AC-07-014,Shalimar Bagh,252.6,234.5
+IN-AC-07-003,Timarpur,254.6,235.2
+IN-AC-07-069,Mustafabad,256.3,234.7
+IN-AC-07-009,Kirari,250.3,235.0
+IN-AC-07-012,Mangol Puri (Sc),251.3,235.3
+IN-AC-07-018,Model Town,253.6,235.2
+IN-AC-07-068,Gokalpur (Sc),257.0,234.9
+IN-AC-07-010,Sultan Pur Majra(Sc),250.9,235.2
+IN-AC-07-017,Wazirpur,253.3,235.3
+IN-AC-07-016,Tri Nagar,252.3,235.2
+IN-AC-07-015,Shakur Basti,251.9,235.5
+IN-AC-07-066,Ghonda,255.6,235.3
+IN-AC-07-020,Chandni Chowk,255.0,235.7
+IN-AC-07-067,Babarpur,256.4,235.4
+IN-AC-07-064,Rohtas Nagar,256.6,235.5
+IN-AC-07-063,Seemapuri (Sc),257.3,235.4
+IN-AC-07-011,Nangloi Jat,250.9,235.8
+IN-AC-07-062,Shahdara,257.0,235.8
+IN-AC-07-065,Seelam Pur,255.8,235.8
+IN-AC-07-035,Najafgarh,247.1,237.6
+IN-AC-07-019,Sadar Bazar,253.8,235.8
+IN-AC-07-031,Vikaspuri,249.9,236.4
+IN-AC-07-026,Madipur (Sc),252.1,235.9
+IN-AC-07-025,Moti Nagar,252.8,236.3
+IN-AC-07-061,Gandhi Nagar,255.9,236.1
+IN-AC-07-024,Patel Nagar (Sc),253.4,236.3
+IN-AC-07-023,Karol Bagh (Sc),254.3,236.3
+IN-AC-07-059,Vishwas Nagar,256.9,236.4
+IN-AC-07-027,Rajouri Garden,252.2,236.3
+IN-AC-07-029,Tilak Nagar,251.5,236.5
+IN-AC-07-022,Ballimaran,254.7,236.3
+IN-AC-07-060,Krishna Nagar,255.9,236.3
+IN-AC-07-039,Rajinder Nagar,253.6,236.9
+IN-AC-07-041,Jangpura,255.7,237.4
+IN-AC-07-021,Matia Mahal,255.0,236.8
+IN-AC-07-028,Hari Nagar,252.1,237.1
+IN-AC-07-040,New Delhi,254.4,237.6
+IN-AC-07-058,Laxmi Nagar,256.0,236.9
+IN-AC-07-034,Matiala,248.2,238.6
+IN-AC-07-030,Janakpuri,251.4,237.2
+IN-AC-07-038,Delhi Cantt,252.6,237.9
+IN-AC-07-032,Uttam Nagar,250.4,237.2
+IN-AC-07-057,Patparganj,256.9,237.4
+IN-AC-07-056,Kondli (Sc),257.5,237.4
+IN-AC-07-033,Dwarka,250.9,237.8
+IN-AC-07-037,Palam,250.8,237.9
+IN-AC-07-055,Trilokpuri (Sc),256.6,237.8
+IN-AC-07-044,R.K. Puram,253.3,238.4
+IN-AC-07-042,Kasturba Nagar,254.9,238.4
+IN-AC-07-036,Bijwasan,250.9,239.1
+IN-AC-07-054,Okhla,256.8,239.1
+IN-AC-07-051,Kalkaji,255.9,239.1
+IN-AC-07-043,Malviya Nagar,254.1,239.1
+IN-AC-07-045,Mehrauli,253.0,239.7
+IN-AC-07-050,Greater Kailash,255.1,239.3
+IN-AC-07-052,Tughlakabad,256.1,239.8
+IN-AC-07-048,Ambedkar Nagar(Sc),254.7,240.0
+IN-AC-07-053,Badarpur,256.9,240.1
+IN-AC-07-047,Deoli (Sc),254.8,240.4
+IN-AC-07-049,Sangam Vihar,255.7,240.3
+IN-AC-07-046,Chhatarpur,253.6,241.3
+IN-AC-30-002,Pernem (Sc),166.0,575.8
+IN-AC-30-001,Mandrem,163.5,577.1
+IN-AC-30-003,Bicholim,168.3,578.1
+IN-AC-30-004,Tivim,166.0,577.8
+IN-AC-30-018,Poriem,172.7,579.5
+IN-AC-30-019,Valpoi,174.3,580.8
+IN-AC-30-006,Siolim,164.1,579.0
+IN-AC-30-005,Mapusa,165.4,579.2
+IN-AC-30-016,Maem,168.4,579.8
+IN-AC-30-010,Aldona,166.3,579.5
+IN-AC-30-008,Calangute,164.3,580.5
+IN-AC-30-007,Saligao,164.9,580.7
+IN-AC-30-009,Porvorim,165.9,580.8
+IN-AC-30-017,Sanquelim,170.9,581.2
+IN-AC-30-000,State boundary,166.6,581.1
+IN-AC-30-015,Cumbarjua,168.2,581.7
+IN-AC-30-020,Priol,169.9,582.2
+IN-AC-30-013,St. Cruz,166.4,582.2
+IN-AC-30-011,Panaji,165.4,582.0
+IN-AC-30-014,St. Andre,167.3,582.9
+IN-AC-30-012,Taleigao,165.3,582.6
+IN-AC-30-038,Sanvordem,175.4,585.1
+IN-AC-30-023,Marcaim,169.2,583.9
+IN-AC-30-021,Ponda,170.8,583.9
+IN-AC-30-024,Mormugao,164.8,584.2
+IN-AC-30-025,Vasco-Da-Gama,165.3,584.6
+IN-AC-30-026,Dabolim,165.9,584.6
+IN-AC-30-027,Cortalim,167.6,585.2
+IN-AC-30-022,Siroda,171.2,585.9
+IN-AC-30-028,Nuvem,168.8,586.1
+IN-AC-30-029,Curtorim,170.1,587.0
+IN-AC-30-030,Fatorda,169.3,587.1
+IN-AC-30-032,Benaulim,168.4,588.7
+IN-AC-30-034,Cuncolim,170.8,588.8
+IN-AC-30-031,Margao,169.3,587.5
+IN-AC-30-033,Navelim,169.3,588.2
+IN-AC-30-037,Curchorem,172.9,588.4
+IN-AC-30-035,Velim,169.8,589.5
+IN-AC-30-039,Sanguem,175.0,591.3
+IN-AC-30-036,Quepem,170.8,590.8
+IN-AC-30-040,Canacona,173.2,595.1
+IN-AC-24-000,State boundary,63.2,361.5
+IN-AC-24-008,Tharad,109.5,345.9
+IN-AC-24-007,Vav,103.9,350.5
+IN-AC-24-009,Dhanera,121.6,346.0
+IN-AC-24-010,Danta (St),136.0,351.6
+IN-AC-24-014,Deodar,113.7,351.6
+IN-AC-24-013,Deesa,121.8,349.8
+IN-AC-24-029,Khedbrahma(St),148.1,353.9
+IN-AC-24-012,Palanpur,127.8,352.8
+IN-AC-24-011,Vadgam (Sc),129.9,355.9
+IN-AC-24-015,Kankrej,115.4,358.0
+IN-AC-24-003,Bhuj,56.2,371.5
+IN-AC-24-019,Sidhpur,124.9,358.4
+IN-AC-24-001,Abdasa,39.8,374.4
+IN-AC-24-018,Patan,120.6,361.4
+IN-AC-24-016,Radhanpur,103.0,365.1
+IN-AC-24-020,Kheralu,135.3,360.6
+IN-AC-24-006,Rapar,82.0,369.9
+IN-AC-24-028,Idar (Sc),144.1,362.3
+IN-AC-24-017,Chanasma,115.1,367.9
+IN-AC-24-021,Unjha,130.3,363.6
+IN-AC-24-000,State boundary,51.8,370.4
+IN-AC-24-030,Bhiloda (St),154.2,368.1
+IN-AC-24-022,Visnagar,130.9,367.1
+IN-AC-24-026,Vijapur,135.4,367.9
+IN-AC-24-023,Becharaji,123.2,369.8
+IN-AC-24-027,Himatnagar,144.6,368.5
+IN-AC-24-005,Gandhidham(Sc),72.8,378.7
+IN-AC-24-025,Mahesana,129.7,371.1
+IN-AC-24-000,State boundary,26.4,376.3
+IN-AC-24-004,Anjar,62.4,380.4
+IN-AC-24-031,Modasa,150.9,373.1
+IN-AC-24-060,Dasada (Sc),112.8,383.4
+IN-AC-24-037,Mansa,134.9,372.9
+IN-AC-24-039,Viramgam,119.8,380.7
+IN-AC-24-033,Prantij,142.1,374.3
+IN-AC-24-032,Bayad,151.4,377.3
+IN-AC-24-024,Kadi (Sc),126.6,378.7
+IN-AC-24-002,Mandvi,51.7,385.6
+IN-AC-24-122,Lunawada,158.6,378.9
+IN-AC-24-123,Santrampur,166.0,377.8
+IN-AC-24-035,Gandhinagar(South),135.1,378.4
+IN-AC-24-000,State boundary,63.0,387.1
+IN-AC-24-038,Kalol,129.9,379.4
+IN-AC-24-036,Gandhinagar(North),133.9,377.8
+IN-AC-24-064,Dhrangadhra,100.3,384.9
+IN-AC-24-034,Dahegam,140.8,380.3
+IN-AC-24-065,Morbi,84.6,385.4
+IN-AC-24-129,Fatepura (St),170.6,380.3
+IN-AC-24-121,Balasinor,152.6,382.4
+IN-AC-24-120,Kapadvanj,143.8,384.1
+IN-AC-24-041,Ghatlodia,130.8,382.4
+IN-AC-24-040,Sanand,124.3,388.4
+IN-AC-24-000,State boundary,59.7,395.7
+IN-AC-24-044,Ellisbridge,133.6,384.1
+IN-AC-24-125,Morva Hadaf,165.2,386.5
+IN-AC-24-057,Daskroi,134.3,385.9
+IN-AC-24-130,Jhalod (St),175.5,383.6
+IN-AC-24-066,Tankara,84.3,394.8
+IN-AC-24-076,Kalavad (Sc),75.5,398.9
+IN-AC-24-077,Jamnagar,68.1,395.4
+IN-AC-24-042,Vejalpur,130.9,384.8
+IN-AC-24-124,Shehra,159.2,386.6
+IN-AC-24-043,Vatva,134.9,385.3
+IN-AC-24-131,Limkheda (St),170.9,387.7
+IN-AC-24-063,Chotila,99.0,398.0
+IN-AC-24-117,Mehmedabad,136.8,388.8
+IN-AC-24-119,Thasra,150.0,390.1
+IN-AC-24-062,Wadhwan,107.0,393.3
+IN-AC-24-067,Wankaner,89.8,397.5
+IN-AC-24-058,Dholka,127.0,394.0
+IN-AC-24-132,Dahod (St),178.2,388.1
+IN-AC-24-118,Mahudha,142.4,391.1
+IN-AC-24-126,Godhra,159.6,390.1
+IN-AC-24-115,Matar,135.2,394.1
+IN-AC-24-134,Devgadhbaria,169.6,393.1
+IN-AC-24-135,Savli,150.3,395.0
+IN-AC-24-061,Limbdi,110.1,399.0
+IN-AC-24-082,Dwarka,46.2,407.0
+IN-AC-24-133,Garbada (St),177.5,393.4
+IN-AC-24-111,Umreth,145.6,394.3
+IN-AC-24-116,Nadiad,140.4,393.9
+IN-AC-24-078,Jamnagar North,66.1,398.1
+IN-AC-24-127,Kalol,159.9,393.9
+IN-AC-24-079,Jamnagar South,66.1,399.4
+IN-AC-24-081,Khambhalia,55.6,408.0
+IN-AC-24-114,Sojitra,133.8,397.4
+IN-AC-24-080,Jamjodhpur,64.8,409.4
+IN-AC-24-113,Petlad,140.3,397.4
+IN-AC-24-059,Dhandhuka,117.4,403.9
+IN-AC-24-112,Anand,141.9,396.9
+IN-AC-24-110,Anklav,145.1,400.4
+IN-AC-24-128,Halol,159.3,399.4
+IN-AC-24-108,Khambhat,132.3,403.1
+IN-AC-24-137,Chhota Udaipur (St,170.4,400.9
+IN-AC-24-071,Rajkot Rural(Sc),86.2,408.0
+IN-AC-24-070,Rajkot South,85.6,402.9
+IN-AC-24-136,Vaghodia,151.7,401.6
+IN-AC-24-069,Rajkot West,84.9,403.5
+IN-AC-24-109,Borsad,140.4,401.6
+IN-AC-24-107,Botad,108.8,407.3
+IN-AC-24-068,Rajkot East,86.5,403.1
+IN-AC-24-000,State boundary,124.8,406.4
+IN-AC-24-072,Jasdan,97.4,409.5
+IN-AC-24-142,Sayajigunj,148.3,401.8
+IN-AC-24-139,Sankheda(St),163.5,407.7
+IN-AC-24-146,Padra,143.9,405.8
+IN-AC-24-141,Vadodara City(Sc),150.6,402.3
+IN-AC-24-144,Raopura,149.9,402.6
+IN-AC-24-143,Akota,148.6,403.3
+IN-AC-24-138,Jetpur (St),168.8,407.6
+IN-AC-24-140,Dabhoi,152.2,407.4
+IN-AC-24-073,Gondal,85.7,412.7
+IN-AC-24-150,Jambusar,138.7,409.3
+IN-AC-24-145,Manjalpur,149.6,404.1
+IN-AC-24-000,State boundary,135.1,415.9
+IN-AC-24-074,Jetpur,80.0,415.4
+IN-AC-24-083,Porbandar,53.2,416.6
+IN-AC-24-106,Gadhada (Sc),110.2,413.3
+IN-AC-24-075,Dhoraji,72.7,417.1
+IN-AC-24-103,Bhavnagar Rural,119.7,417.1
+IN-AC-24-147,Karjan,149.4,410.9
+IN-AC-24-096,Lathi,99.7,416.5
+IN-AC-24-000,State boundary,124.9,419.0
+IN-AC-24-084,Kutiyana,62.3,423.4
+IN-AC-24-148,Nandod (St),160.0,414.0
+IN-AC-24-095,Amreli,92.5,420.6
+IN-AC-24-151,Vagra,139.7,418.2
+IN-AC-24-152,Jhagadia (St),151.2,418.6
+IN-AC-24-085,Manavadar,72.1,425.9
+IN-AC-24-105,Bhavnagar West,119.2,417.3
+IN-AC-24-104,Bhavnagar East,121.4,417.4
+IN-AC-24-102,Palitana,113.8,422.6
+IN-AC-24-086,Junagadh,76.0,422.6
+IN-AC-24-087,Visavadar,83.3,426.7
+IN-AC-24-101,Gariadhar,110.0,425.9
+IN-AC-24-153,Bharuch,145.2,419.6
+IN-AC-24-094,Dhari,93.1,428.4
+IN-AC-24-097,Savarkundla,102.6,427.6
+IN-AC-24-149,Dediapada(St),162.6,421.5
+IN-AC-24-154,Ankleshwar,140.7,422.7
+IN-AC-24-088,Keshod,69.6,429.5
+IN-AC-24-100,Talaja,119.1,428.4
+IN-AC-24-156,Mangrol (St),151.8,425.2
+IN-AC-24-172,Nizar (St),167.2,430.7
+IN-AC-24-000,State boundary,132.7,428.4
+IN-AC-24-091,Talala,81.6,436.3
+IN-AC-24-155,Olpad,138.5,428.9
+IN-AC-24-157,Mandvi (St),154.7,429.6
+IN-AC-24-089,Mangrol,72.6,434.0
+IN-AC-24-158,Kamrej,144.2,430.4
+IN-AC-24-093,Una,90.8,438.4
+IN-AC-24-099,Mahuva,111.7,434.1
+IN-AC-24-159,Surat East,139.6,432.2
+IN-AC-24-098,Rajula,101.8,437.6
+IN-AC-24-171,Vyara (St),154.5,436.0
+IN-AC-24-090,Somnath,75.8,438.1
+IN-AC-24-000,State boundary,136.0,433.5
+IN-AC-24-170,Mahuva (St),149.2,436.4
+IN-AC-24-169,Bardoli (Sc),145.3,434.4
+IN-AC-24-168,Choryasi,138.7,434.4
+IN-AC-24-092,Kodinar (Sc),86.4,441.0
+IN-AC-24-174,Jalalpore,141.1,438.9
+IN-AC-24-175,Navsari,143.4,440.5
+IN-AC-24-173,Dangs (St),162.4,441.9
+IN-AC-24-176,Gandevi (St),144.1,443.8
+IN-AC-24-177,Vansda (St),151.7,444.0
+IN-AC-24-179,Valsad,142.1,446.9
+IN-AC-24-178,Dharampur,149.9,449.3
+IN-AC-24-180,Pardi,142.9,452.1
+IN-AC-24-181,Kaprada (St),148.7,455.6
+IN-AC-24-182,Umbergaon,140.2,457.0
+IN-AC-06-001,Kalka,248.2,181.1
+IN-AC-06-002,Panchkula,247.1,183.8
+IN-AC-06-003,Naraingarh,250.2,188.8
+IN-AC-06-005,Ambala City,240.9,194.1
+IN-AC-06-007,Sadhaura (Sc),256.7,192.8
+IN-AC-06-004,Ambala Cantt.,244.9,191.4
+IN-AC-06-008,Jagadhri,260.4,193.1
+IN-AC-06-006,Mulana (Sc),247.8,194.3
+IN-AC-06-012,Shahbad (Sc),244.2,197.3
+IN-AC-06-009,Yamunanagar,258.1,196.6
+IN-AC-06-015,Guhla (Sc),231.2,200.8
+IN-AC-06-010,Radaur,254.5,198.7
+IN-AC-06-011,Ladwa,248.7,199.5
+IN-AC-06-014,Pehowa,238.3,201.3
+IN-AC-06-043,Dabwali,188.8,205.4
+IN-AC-06-013,Thanesar,244.5,201.9
+IN-AC-06-020,Indri,251.1,205.3
+IN-AC-06-042,Kalanwali (Sc),198.8,208.8
+IN-AC-06-017,Kaithal,234.6,204.4
+IN-AC-06-018,Pundri,238.9,206.5
+IN-AC-06-019,Nilokheri(Sc),244.4,207.0
+IN-AC-06-016,Kalayat,232.0,209.1
+IN-AC-06-038,Narwana (Sc),225.1,208.4
+IN-AC-06-039,Tohana,216.6,210.5
+IN-AC-06-041,Ratia (Sc),209.2,210.1
+IN-AC-06-044,Rania,191.1,211.4
+IN-AC-06-021,Karnal,247.8,209.1
+IN-AC-06-023,Assandh,241.3,211.3
+IN-AC-06-022,Gharaunda,248.8,212.5
+IN-AC-06-045,Sirsa,199.1,214.6
+IN-AC-06-037,Uchana Kalan,228.5,214.3
+IN-AC-06-046,Ellenabad,193.8,217.1
+IN-AC-06-040,Fatehabad,210.0,216.3
+IN-AC-06-048,Uklana (Sc),218.4,216.7
+IN-AC-06-035,Safidon,238.1,217.9
+IN-AC-06-024,Panipat Rural,247.5,216.9
+IN-AC-06-026,Israna (Sc),243.2,218.4
+IN-AC-06-027,Samalkha,250.1,218.8
+IN-AC-06-047,Adampur,210.0,221.5
+IN-AC-06-036,Jind,231.3,217.7
+IN-AC-06-049,Narnaund,224.8,221.6
+IN-AC-06-051,Barwala,218.1,221.4
+IN-AC-06-025,Panipat City,248.1,217.1
+IN-AC-06-034,Julana,231.9,221.7
+IN-AC-06-033,Baroda,239.4,223.9
+IN-AC-06-053,Nalwa,214.4,225.4
+IN-AC-06-050,Hansi,222.7,224.7
+IN-AC-06-052,Hisar,216.1,223.2
+IN-AC-06-032,Gohana,244.4,224.8
+IN-AC-06-028,Ganaur,248.6,224.1
+IN-AC-06-061,Garhi Sampla-Kilo,240.6,228.8
+IN-AC-06-059,Bawani Khera (Sc),225.3,229.3
+IN-AC-06-060,Meham,232.9,228.7
+IN-AC-06-029,Rai,252.2,228.2
+IN-AC-06-054,Loharu,214.6,235.3
+IN-AC-06-031,Sonipat,249.1,227.4
+IN-AC-06-030,Kharkhauda (Sc),246.7,229.3
+IN-AC-06-058,Tosham,220.6,233.4
+IN-AC-06-063,Kalanaur (Sc),236.2,232.3
+IN-AC-06-062,Rohtak,238.3,230.1
+IN-AC-06-064,Bahadurgarh,245.6,233.3
+IN-AC-06-067,Beri,240.3,234.8
+IN-AC-06-057,Bhiwani,226.4,234.4
+IN-AC-06-056,Dadri,229.5,236.9
+IN-AC-06-066,Jhajjar (Sc),235.9,239.2
+IN-AC-06-065,Badli,239.9,239.8
+IN-AC-06-055,Badhra,224.2,239.9
+IN-AC-06-076,Badshahpur,247.8,242.1
+IN-AC-06-075,Pataudi (Sc),244.2,244.0
+IN-AC-06-090,Tigaon,259.5,242.9
+IN-AC-06-077,Gurgaon,250.3,241.4
+IN-AC-06-069,Mahendragarh,225.1,245.3
+IN-AC-06-087,Badkhal,255.7,241.9
+IN-AC-06-068,Ateli,230.1,247.8
+IN-AC-06-073,Kosli,235.0,244.7
+IN-AC-06-078,Sohna,250.3,245.7
+IN-AC-06-089,Faridabad,257.5,243.1
+IN-AC-06-086,Faridabad Nit,254.8,244.1
+IN-AC-06-085,Prithla,258.1,245.8
+IN-AC-06-088,Ballabhgarh,257.4,244.4
+IN-AC-06-074,Rewari,240.9,247.1
+IN-AC-06-072,Bawal (Sc),237.1,250.7
+IN-AC-06-082,Hathin,254.8,251.4
+IN-AC-06-084,Palwal,258.8,250.1
+IN-AC-06-079,Nuh,250.4,250.7
+IN-AC-06-070,Narnaul,225.6,251.1
+IN-AC-06-071,Nangal Chaudhry,224.8,254.4
+IN-AC-06-083,Hodal (Sc),259.8,254.3
+IN-AC-06-080,Ferozepur Jhirka,249.1,257.8
+IN-AC-06-081,Punahana,254.3,256.8
+IN-AC-02-021,Lahaul & Spiti (St),262.4,135.2
+IN-AC-02-001,Churah (Sc),232.3,124.7
+IN-AC-02-004,Dalhousie,222.0,129.4
+IN-AC-02-003,Chamba,227.6,133.4
+IN-AC-02-002,Bharmour (St),235.8,137.3
+IN-AC-02-005,Bhattiyat,223.4,137.3
+IN-AC-02-020,Baijnath (Sc),244.3,143.3
+IN-AC-02-006,Nurpur,219.9,140.8
+IN-AC-02-017,Shahpur,228.1,142.3
+IN-AC-02-022,Manali,253.8,143.4
+IN-AC-02-018,Dharamshala,232.7,142.4
+IN-AC-02-007,Indora (Sc),215.8,144.3
+IN-AC-02-009,Jawali,223.4,144.4
+IN-AC-02-008,Fatehpur,219.1,145.8
+IN-AC-02-019,Palampur,236.7,144.8
+IN-AC-02-023,Kullu,259.4,148.3
+IN-AC-02-015,Nagrota,231.7,147.0
+IN-AC-02-016,Kangra,229.6,146.4
+IN-AC-02-010,Dehra,225.6,148.9
+IN-AC-02-014,Sullah,234.8,148.4
+IN-AC-02-013,Jaisinghpur (Sc),237.5,149.7
+IN-AC-02-030,Darang,248.8,151.8
+IN-AC-02-031,Jogindernagar,242.9,149.8
+IN-AC-02-068,Kinnaur (St),285.1,159.0
+IN-AC-02-011,Jaswan-Pragpur,225.6,152.8
+IN-AC-02-012,Jawalamukhi,232.0,151.8
+IN-AC-02-024,Banjar,261.3,155.4
+IN-AC-02-037,Sujanpur,237.0,153.8
+IN-AC-02-041,Chintpurni (Sc),226.4,155.9
+IN-AC-02-042,Gagret,223.9,156.0
+IN-AC-02-032,Dharampur,241.8,154.3
+IN-AC-02-033,Mandi,247.3,155.6
+IN-AC-02-040,Nadaun,233.1,156.5
+IN-AC-02-038,Hamirpur,236.7,157.4
+IN-AC-02-035,Sarkaghat,243.2,158.3
+IN-AC-02-036,Bhoranj (Sc),239.9,157.3
+IN-AC-02-045,Kutlehar,231.3,159.8
+IN-AC-02-029,Seraj,253.8,159.4
+IN-AC-02-034,Balh (Sc),246.4,158.7
+IN-AC-02-066,Rampur (Sc),268.0,162.1
+IN-AC-02-039,Barsar,236.1,160.7
+IN-AC-02-028,Nachan (Sc),249.8,160.9
+IN-AC-02-025,Anni (Sc),262.4,161.5
+IN-AC-02-047,Ghumarwin,240.6,161.8
+IN-AC-02-043,Haroli,227.8,163.3
+IN-AC-02-027,Sundernagar,247.4,163.6
+IN-AC-02-048,Bilaspur,243.3,163.1
+IN-AC-02-044,Una,230.6,163.7
+IN-AC-02-046,Jhanduta (Sc),238.4,165.0
+IN-AC-02-049,Sri Naina Deviji,239.9,166.3
+IN-AC-02-026,Karsog (Sc),254.6,165.7
+IN-AC-02-067,Rohru (Sc),274.4,167.3
+IN-AC-02-050,Arki,246.4,169.3
+IN-AC-02-061,Theog,259.6,169.8
+IN-AC-02-064,Shimla Rural,253.7,170.7
+IN-AC-02-051,Nalagarh,241.4,171.9
+IN-AC-02-065,Jubbal-Kotkhai,266.4,171.8
+IN-AC-02-062,Kasumpti,255.5,173.1
+IN-AC-02-063,Shimla,253.5,172.0
+IN-AC-02-053,Solan (Sc),251.7,175.1
+IN-AC-02-060,Chopal,264.9,176.1
+IN-AC-02-052,Doon,244.8,175.2
+IN-AC-02-054,Kasauli (Sc),249.4,177.1
+IN-AC-02-055,Pachhad (Sc),255.1,178.9
+IN-AC-02-057,Sri Renukaji (Sc,261.0,182.6
+IN-AC-02-059,Shillai,266.0,183.2
+IN-AC-02-056,Nahan,258.0,186.6
+IN-AC-02-058,Paonta Sahib,266.4,188.0
+IN-AC-20-001,Rajmahal,530.5,329.3
+IN-AC-20-002,Borio (St),528.3,330.0
+IN-AC-20-018,Mahagama,520.0,329.8
+IN-AC-20-002,Borio (St),522.4,330.5
+IN-AC-20-017,Godda,517.0,334.6
+IN-AC-20-003,Barhait (St),527.9,335.8
+IN-AC-20-003,Barhait (St),522.3,339.0
+IN-AC-20-005,Pakaur,533.8,336.9
+IN-AC-20-004,Litipara (St),527.0,341.0
+IN-AC-20-016,Poreyahat,517.3,341.3
+IN-AC-20-019,Kodarma,476.7,344.3
+IN-AC-20-005,Pakaur,533.5,341.3
+IN-AC-20-028,Dhanwar,484.3,344.4
+IN-AC-20-016,Poreyahat,512.1,343.8
+IN-AC-20-011,Jama (St),516.4,347.4
+IN-AC-20-006,Maheshpur (St),529.8,347.5
+IN-AC-20-015,Deoghar (Sc),503.8,345.0
+IN-AC-20-030,Jamua (Sc),489.5,347.0
+IN-AC-20-079,Hussainabad,435.1,345.1
+IN-AC-20-012,Jarmundi,511.9,347.6
+IN-AC-20-021,Barhi,468.5,349.3
+IN-AC-20-007,Sikaripara (St),523.5,352.3
+IN-AC-20-027,Chatra (Sc),453.1,350.6
+IN-AC-20-077,Bishrampur,426.4,348.4
+IN-AC-20-010,Dumka (St),515.9,352.1
+IN-AC-20-081,Bhawanathpur,421.9,351.3
+IN-AC-20-012,Jarmundi,507.5,348.9
+IN-AC-20-031,Gandey,495.9,352.1
+IN-AC-20-013,Madhupur,502.0,351.1
+IN-AC-20-020,Barkatha,475.6,349.1
+IN-AC-20-078,Chhatarpur (Sc),439.1,353.8
+IN-AC-20-076,Daltonganj,432.3,355.6
+IN-AC-20-014,Sarath,508.5,353.9
+IN-AC-20-026,Simaria (Sc),457.8,357.9
+IN-AC-20-029,Bagodar,482.6,354.6
+IN-AC-20-020,Barkatha,473.9,353.9
+IN-AC-20-075,Panki,442.6,355.4
+IN-AC-20-032,Giridih,490.9,356.0
+IN-AC-20-080,Garhwa,426.3,358.6
+IN-AC-20-025,Hazaribagh,468.6,357.3
+IN-AC-20-033,Dumri,486.8,357.5
+IN-AC-20-009,Jamtara,503.4,358.6
+IN-AC-20-008,Nala,513.4,359.3
+IN-AC-20-014,Sarath,505.5,356.6
+IN-AC-20-024,Mandu,475.5,361.8
+IN-AC-20-032,Giridih,495.0,357.6
+IN-AC-20-042,Tundi,495.6,360.9
+IN-AC-20-074,Latehar (Sc),450.9,363.9
+IN-AC-20-022,Barkagaon,465.9,364.5
+IN-AC-20-034,Gomia,479.7,365.6
+IN-AC-20-033,Dumri,485.4,362.1
+IN-AC-20-038,Sindri,498.3,364.1
+IN-AC-20-039,Nirsa,503.7,363.8
+IN-AC-20-073,Manika (St),439.4,367.9
+IN-AC-20-040,Dhanbad,495.6,364.5
+IN-AC-20-043,Baghmara,492.0,364.4
+IN-AC-20-035,Bermo,485.7,367.4
+IN-AC-20-076,Daltonganj,430.3,365.9
+IN-AC-20-041,Jharia,496.4,366.6
+IN-AC-20-036,Bokaro,488.4,368.8
+IN-AC-20-037,Chandankiyari (Sc),493.1,370.0
+IN-AC-20-065,Kanke (Sc),463.4,370.5
+IN-AC-20-023,Ramgarh,476.5,370.0
+IN-AC-20-072,Lohardaga (St),450.2,372.2
+IN-AC-20-066,Mandar (St),459.6,376.2
+IN-AC-20-069,Bishnupur (St),445.0,377.1
+IN-AC-20-062,Khijri (St),470.8,374.9
+IN-AC-20-064,Hatia,465.5,374.8
+IN-AC-20-061,Silli,477.6,377.8
+IN-AC-20-063,Ranchi,467.2,374.6
+IN-AC-20-068,Gumla (St),441.5,383.5
+IN-AC-20-067,Sisai (St),453.9,384.2
+IN-AC-20-060,Khunti (St),466.5,383.4
+IN-AC-20-058,Tamar (St),475.2,383.9
+IN-AC-20-050,Ichagarh,485.8,385.0
+IN-AC-20-059,Torpa (St),461.3,388.6
+IN-AC-20-047,Jugsalai (Sc),495.0,388.7
+IN-AC-20-070,Simdega (St),449.0,388.8
+IN-AC-20-057,Kharasawan (St),479.9,389.4
+IN-AC-20-051,Seraikella (St),485.8,392.8
+IN-AC-20-056,Chakradharpur (St),469.4,394.1
+IN-AC-20-048,Jamshedpur East,490.6,389.7
+IN-AC-20-049,Jamshedpur West,489.9,390.1
+IN-AC-20-070,Simdega (St),441.1,394.7
+IN-AC-20-045,Ghatsila (St),498.0,396.9
+IN-AC-20-071,Kolebira (St),447.5,396.0
+IN-AC-20-059,Torpa (St),458.0,394.8
+IN-AC-20-046,Potka (St),492.6,397.0
+IN-AC-20-057,Kharasawan (St),479.5,393.7
+IN-AC-20-052,Chaibasa (St),477.8,399.9
+IN-AC-20-044,Baharagora,504.3,400.4
+IN-AC-20-055,Manoharpur (St),463.5,402.2
+IN-AC-20-053,Majhgaon (St),482.1,404.5
+IN-AC-20-054,Jaganathpur (St),471.3,403.9
+IN-AC-20-004,Litipara (St),524.1,347.3
+IN-AC-29-052,Aurad (Sc),258.6,509.5
+IN-AC-29-051,Bhalki,253.3,515.1
+IN-AC-29-050,Bidar,262.5,516.8
+IN-AC-29-047,Basavakalyan,246.1,520.3
+IN-AC-29-049,Bidar South,260.1,521.7
+IN-AC-29-048,Homnabad,252.1,521.7
+IN-AC-29-046,Aland,236.9,527.9
+IN-AC-29-043,Gulbarga Rural(Sc),246.7,531.9
+IN-AC-29-042,Chincholi (Sc),258.1,530.9
+IN-AC-29-031,Nagthan (Sc),217.4,540.0
+IN-AC-29-044,Gulbarga Dakshin,242.3,533.3
+IN-AC-29-040,Chittapur (Sc),250.0,538.9
+IN-AC-29-041,Sedam,257.1,538.1
+IN-AC-29-045,Gulbarga Uttar,244.4,533.0
+IN-AC-29-034,Afzalpur,235.2,536.9
+IN-AC-29-032,Indi,221.6,538.5
+IN-AC-29-033,Sindgi,228.1,543.8
+IN-AC-29-035,Jevargi,239.8,543.8
+IN-AC-29-029,Babaleshwar,211.0,549.9
+IN-AC-29-004,Kagwad,194.4,548.6
+IN-AC-29-003,Athani,200.9,549.3
+IN-AC-29-027,Devar Hippargi,227.9,551.2
+IN-AC-29-030,Bijapur City,215.6,546.8
+IN-AC-29-039,Gurmitkal,254.9,549.9
+IN-AC-29-037,Shahapur,240.2,549.5
+IN-AC-29-038,Yadgir,250.8,552.2
+IN-AC-29-021,Jamkhandi,204.9,553.2
+IN-AC-29-028,Basavana Bagevadi,218.6,554.2
+IN-AC-29-001,Nippani,180.7,555.6
+IN-AC-29-005,Kudachi (Sc),194.8,555.3
+IN-AC-29-002,Chikkodi-Sadalga,185.6,556.0
+IN-AC-29-006,Raybag (Sc),188.5,557.1
+IN-AC-29-020,Terdal,199.6,556.6
+IN-AC-29-036,Shorapur (St),238.1,557.8
+IN-AC-29-026,Muddebihal,226.3,558.8
+IN-AC-29-022,Bilgi,212.4,562.0
+IN-AC-29-056,Devadurga (St),247.4,558.8
+IN-AC-29-019,Mudhol (Sc),204.6,561.4
+IN-AC-29-008,Arabhavi,196.6,561.9
+IN-AC-29-007,Hukkeri,184.4,562.5
+IN-AC-29-053,Raichur Rural (St),257.6,564.0
+IN-AC-29-009,Gokak,191.7,565.1
+IN-AC-29-024,Bagalkot,218.3,563.8
+IN-AC-29-057,Lingsugur (Sc),236.2,565.6
+IN-AC-29-010,Yemkanmardi (St),185.1,566.7
+IN-AC-29-025,Hungund,225.2,566.7
+IN-AC-29-054,Raichur,258.4,563.0
+IN-AC-29-018,Ramdurg,203.4,568.7
+IN-AC-29-017,Saundatti Yellamma,199.3,571.6
+IN-AC-29-055,Manvi (St),249.3,567.5
+IN-AC-29-023,Badami,213.6,569.1
+IN-AC-29-059,Maski (St),239.6,570.5
+IN-AC-29-016,Bailhongal,195.0,573.6
+IN-AC-29-015,Kittur,189.9,575.6
+IN-AC-29-013,Belgaum Rural,183.8,573.0
+IN-AC-29-060,Kushtagi,226.1,573.2
+IN-AC-29-011,Belgaum Uttar,184.1,571.7
+IN-AC-29-012,Belgaum Dakshin,183.5,574.3
+IN-AC-29-058,Sindhanur,244.0,575.3
+IN-AC-29-068,Nargund,210.1,578.9
+IN-AC-29-014,Khanapur,181.2,579.8
+IN-AC-29-067,Ron,218.3,582.0
+IN-AC-29-092,Siruguppa (St),246.5,579.1
+IN-AC-29-063,Yelburga,224.6,580.9
+IN-AC-29-069,Navalgund,204.8,581.9
+IN-AC-29-071,Dharwad,197.0,580.3
+IN-AC-29-061,Kanakagiri (Sc),237.3,580.1
+IN-AC-29-076,Haliyal,185.3,589.4
+IN-AC-29-062,Gangawati,231.7,582.4
+IN-AC-29-075,Kalghatgi,194.6,587.3
+IN-AC-29-066,Gadag,210.9,585.5
+IN-AC-29-074,Hubli-Dharwad- West,197.4,584.5
+IN-AC-29-073,Hubli-Dharwad-Central,200.3,584.9
+IN-AC-29-091,Kampli (St),243.8,586.0
+IN-AC-29-064,Koppal,226.6,587.2
+IN-AC-29-072,Hubli-Dharwad-East(Sc),200.6,586.2
+IN-AC-29-070,Kundgol,202.4,589.5
+IN-AC-29-090,Vijayanagara,235.3,587.5
+IN-AC-29-065,Shirahatti (Sc),214.2,591.6
+IN-AC-29-093,Bellary (St),247.9,590.4
+IN-AC-29-095,Sandur (St),238.4,592.9
+IN-AC-29-089,Hagaribommanahalli(Sc),230.1,594.7
+IN-AC-29-081,Yellapur,190.3,599.8
+IN-AC-29-083,Shiggaon,202.6,594.7
+IN-AC-29-094,Bellary City,247.2,591.1
+IN-AC-29-088,Hadagalli (Sc),220.3,596.5
+IN-AC-29-077,Karwar,180.6,600.5
+IN-AC-29-084,Haveri (Sc),210.8,597.2
+IN-AC-29-097,Molakalmuru (St),241.4,603.0
+IN-AC-29-096,Kudligi (St),234.8,600.8
+IN-AC-29-082,Hangal,201.2,601.5
+IN-AC-29-104,Harapanahalli,221.9,602.1
+IN-AC-29-085,Byadgi,208.7,602.6
+IN-AC-29-080,Sirsi,190.4,607.2
+IN-AC-29-087,Ranibennur,214.2,605.3
+IN-AC-29-103,Jagalur (St),229.1,606.3
+IN-AC-29-116,Sorab,198.4,610.7
+IN-AC-29-078,Kumta,183.1,609.6
+IN-AC-29-105,Harihar,216.6,608.9
+IN-AC-29-086,Hirekerur,207.6,609.5
+IN-AC-29-106,Davanagere North,220.4,607.8
+IN-AC-29-115,Shikaripura,205.5,612.9
+IN-AC-29-108,Mayakonda (Sc),221.3,612.8
+IN-AC-29-107,Davanagere South,220.1,610.7
+IN-AC-29-102,Holalkere (Sc),229.2,617.0
+IN-AC-29-079,Bhatkal,185.7,616.8
+IN-AC-29-098,Challakere (St),239.3,614.2
+IN-AC-29-110,Honnali,212.8,615.6
+IN-AC-29-117,Sagar,196.4,619.3
+IN-AC-29-099,Chitradurga,232.9,616.0
+IN-AC-29-137,Pavagada (Sc),255.8,618.0
+IN-AC-29-109,Channagiri,221.0,620.3
+IN-AC-29-100,Hiriyur,240.9,622.5
+IN-AC-29-111,Shimoga Rural (Sc),211.3,621.6
+IN-AC-29-136,Sira,245.9,626.6
+IN-AC-29-118,Byndoor,191.2,627.0
+IN-AC-29-114,Tirthahalli,202.7,628.5
+IN-AC-29-113,Shimoga,211.3,622.8
+IN-AC-29-101,Hosadurga,231.4,626.5
+IN-AC-29-112,Bhadravati,215.9,625.8
+IN-AC-29-126,Tarikere,219.1,628.9
+IN-AC-29-140,Bagepalli,272.1,626.7
+IN-AC-29-138,Madhugiri,255.2,627.5
+IN-AC-29-123,Sringeri,207.2,634.6
+IN-AC-29-128,Chiknayakanhalli,239.4,632.8
+IN-AC-29-127,Kadur,225.3,631.6
+IN-AC-29-139,Gauribidanur,263.1,631.4
+IN-AC-29-119,Kundapura,192.8,633.0
+IN-AC-29-134,Koratagere (Sc),254.3,633.3
+IN-AC-29-141,Chikkaballapur,267.5,634.3
+IN-AC-29-142,Sidlaghatta,274.2,635.7
+IN-AC-29-143,Chintamani,276.8,635.2
+IN-AC-29-120,Udupi,191.7,636.3
+IN-AC-29-125,Chikmagalur,218.5,636.6
+IN-AC-29-122,Karkal,196.6,639.3
+IN-AC-29-135,Gubbi,245.0,637.1
+IN-AC-29-194,Arsikere,229.6,639.1
+IN-AC-29-144,Srinivaspur,280.9,637.5
+IN-AC-29-133,Tumkur Rural,252.8,639.0
+IN-AC-29-121,Kapu,191.8,640.5
+IN-AC-29-180,Doddaballapur,261.3,638.6
+IN-AC-29-124,Mudigere (Sc),210.3,643.1
+IN-AC-29-129,Tiptur,236.6,640.8
+IN-AC-29-179,Devanahalli (Sc),265.4,640.0
+IN-AC-29-195,Belur,221.7,642.5
+IN-AC-29-132,Tumkur City,251.6,638.5
+IN-AC-29-181,Nelamangala (Sc),257.0,643.4
+IN-AC-29-130,Turuvekere,242.8,643.2
+IN-AC-29-145,Mulbagal (Sc),286.0,642.8
+IN-AC-29-148,Kolar,276.7,643.0
+IN-AC-29-200,Belthangady,204.4,647.3
+IN-AC-29-196,Hassan,224.9,645.7
+IN-AC-29-201,Moodabidri,195.0,646.2
+IN-AC-29-178,Hosakote,271.5,645.8
+IN-AC-29-150,Yelahanka,261.8,644.5
+IN-AC-29-193,Shravanabelagola,235.2,648.0
+IN-AC-29-197,Holenarasipur,228.9,648.8
+IN-AC-29-182,Magadi,256.1,648.6
+IN-AC-29-152,Byatarayanapura,265.5,644.1
+IN-AC-29-147,Bangarapet (Sc),280.1,648.0
+IN-AC-29-131,Kunigal,248.8,648.9
+IN-AC-29-202,Mangalore City North,194.9,648.8
+IN-AC-29-203,Mangalore City South,192.6,649.2
+IN-AC-29-199,Sakleshpur (Sc),218.8,650.9
+IN-AC-29-205,Bantval,198.3,650.8
+IN-AC-29-174,Mahadevapura,267.6,647.5
+IN-AC-29-149,Malur,274.9,648.3
+IN-AC-29-155,Dasarahalli,262.4,646.0
+IN-AC-29-191,Nagamangala,243.4,651.3
+IN-AC-29-151,K.R.Pura,266.7,646.4
+IN-AC-29-146,Kolar Gold Field(Sc),284.4,648.2
+IN-AC-29-154,Rajarajeshwarinagar,262.6,648.0
+IN-AC-29-153,Yeshvanthapura,260.5,650.1
+IN-AC-29-160,Sarvagnanagar,265.6,646.8
+IN-AC-29-158,Hebbal,264.1,646.7
+IN-AC-29-157,Malleshwaram,264.1,646.9
+IN-AC-29-159,Pulakeshinagar(Sc),264.9,647.0
+IN-AC-29-156,Mahalakshmi Layout,263.2,647.2
+IN-AC-29-204,Mangalore,194.3,651.9
+IN-AC-29-162,Shivajinagar,264.6,647.5
+IN-AC-29-161,C.V. Raman Nagar(Sc),266.1,648.0
+IN-AC-29-164,Gandhi Nagar,263.9,647.8
+IN-AC-29-165,Rajaji Nagar,263.5,647.7
+IN-AC-29-166,Govindraj Nagar,263.0,648.4
+IN-AC-29-163,Shanti Nagar,264.9,648.3
+IN-AC-29-167,Vijay Nagar,263.1,648.4
+IN-AC-29-168,Chamrajpet,263.8,648.5
+IN-AC-29-207,Sullia (Sc),209.0,656.0
+IN-AC-29-169,Chickpet,264.4,648.5
+IN-AC-29-000,State boundary,265.6,648.8
+IN-AC-29-170,Basavanagudi,263.6,648.9
+IN-AC-29-172,B.T.M Layout,265.1,649.3
+IN-AC-29-206,Puttur,201.6,654.9
+IN-AC-29-171,Padmanaba Nagar,263.6,649.3
+IN-AC-29-173,Jayanagar,264.4,649.5
+IN-AC-29-177,Anekal (Sc),267.6,652.6
+IN-AC-29-175,Bommanahalli,265.5,650.0
+IN-AC-29-176,Bangalore South,264.9,652.4
+IN-AC-29-192,Krishnarajpet,235.1,656.5
+IN-AC-29-208,Madikeri,217.5,659.1
+IN-AC-29-198,Arkalgud,226.6,655.8
+IN-AC-29-183,Ramanagaram,259.8,656.2
+IN-AC-29-185,Channapatna,254.0,657.0
+IN-AC-29-187,Maddur,249.9,658.0
+IN-AC-29-189,Mandya,245.9,656.9
+IN-AC-29-188,Melukote,240.9,658.5
+IN-AC-29-211,Krishnarajanagara,230.8,659.8
+IN-AC-29-184,Kanakapura,260.4,662.0
+IN-AC-29-210,Piriyapatna,224.7,663.5
+IN-AC-29-209,Virajpet,216.8,667.5
+IN-AC-29-190,Shrirangapattana,242.8,662.3
+IN-AC-29-186,Malavalli (Sc),252.2,664.3
+IN-AC-29-215,Chamundeshwari,238.3,666.0
+IN-AC-29-212,Hunsur,230.8,666.4
+IN-AC-29-220,T.Narasipur (Sc),248.3,666.5
+IN-AC-29-217,Chamaraja,239.2,664.8
+IN-AC-29-219,Varuna,242.0,669.0
+IN-AC-29-218,Narasimharaja,240.4,665.2
+IN-AC-29-216,Krishnaraja,239.9,665.9
+IN-AC-29-213,Heggadadevankote(St),231.2,673.3
+IN-AC-29-221,Hanur,260.6,672.7
+IN-AC-29-222,Kollegal (Sc),249.2,672.5
+IN-AC-29-214,Nanjangud (Sc),238.9,673.5
+IN-AC-29-223,Chamarajanagar,248.8,677.5
+IN-AC-29-224,Gundlupet,239.3,678.5
+IN-AC-23-008,Ambah (Sc),284.6,286.7
+IN-AC-23-007,Dimani,279.2,289.3
+IN-AC-23-009,Ater,295.3,289.1
+IN-AC-23-012,Mehgaon,293.5,293.4
+IN-AC-23-005,Sumawali,272.5,294.3
+IN-AC-23-010,Bhind,299.8,293.0
+IN-AC-23-013,Gohad (Sc),287.9,296.0
+IN-AC-23-006,Morena,278.9,294.7
+IN-AC-23-004,Joura,267.1,299.0
+IN-AC-23-003,Sabalgarh,258.8,299.4
+IN-AC-23-011,Lahar,300.2,301.6
+IN-AC-23-014,Gwalior Rural,282.9,300.9
+IN-AC-23-020,Sewda,291.4,305.0
+IN-AC-23-015,Gwalior,279.1,299.9
+IN-AC-23-018,Bhitarwar,274.6,306.4
+IN-AC-23-016,Gwalior East,280.3,300.5
+IN-AC-23-002,Vijaypur,253.5,312.5
+IN-AC-23-017,Gwalior South,279.0,300.9
+IN-AC-23-019,Dabra (Sc),285.4,307.2
+IN-AC-23-001,Sheopur,241.8,314.1
+IN-AC-23-024,Pohari,262.7,316.1
+IN-AC-23-022,Datia,285.1,313.9
+IN-AC-23-046,Niwari,293.9,322.5
+IN-AC-23-025,Shivpuri,270.4,324.3
+IN-AC-23-027,Kolaras,264.9,328.5
+IN-AC-23-026,Pichhore,279.4,329.1
+IN-AC-23-049,Chandla (Sc),332.8,327.5
+IN-AC-23-045,Prithvipur,295.6,329.7
+IN-AC-23-048,Maharajpur,316.1,328.3
+IN-AC-23-044,Jatara (Sc),303.0,330.6
+IN-AC-23-050,Rajnagar,324.6,333.2
+IN-AC-23-230,Jawad,198.9,337.5
+IN-AC-23-070,Teonthar,372.0,332.8
+IN-AC-23-061,Chitrakoot,348.7,333.8
+IN-AC-23-028,Bamori,253.7,336.3
+IN-AC-23-068,Sirmour,364.3,333.6
+IN-AC-23-047,Khargapur,305.4,336.1
+IN-AC-23-060,Panna,333.7,337.8
+IN-AC-23-051,Chhatarpur,315.5,335.0
+IN-AC-23-033,Chanderi,272.8,338.1
+IN-AC-23-069,Semariya,359.8,338.9
+IN-AC-23-073,Mangawan (Sc),369.3,338.2
+IN-AC-23-032,Ashok Nagar (Sc),266.8,343.2
+IN-AC-23-052,Bijawar,317.3,342.0
+IN-AC-23-043,Tikamgarh,300.3,341.1
+IN-AC-23-227,Garoth,213.1,346.1
+IN-AC-23-228,Manasa,205.2,345.0
+IN-AC-23-072,Deotalab,372.8,340.8
+IN-AC-23-071,Mauganj,381.8,340.0
+IN-AC-23-029,Guna (Sc),258.3,343.2
+IN-AC-23-062,Raigaon (Sc),344.5,340.7
+IN-AC-23-034,Mungaoli,275.5,345.6
+IN-AC-23-067,Rampur-Baghelan,353.8,344.0
+IN-AC-23-059,Gunnaor (Sc),332.0,344.2
+IN-AC-23-053,Malhara,308.2,347.3
+IN-AC-23-229,Neemuch,194.6,348.1
+IN-AC-23-063,Satna,350.6,342.5
+IN-AC-23-031,Raghogarh,259.4,348.6
+IN-AC-23-079,Chitrangi (St),392.8,346.6
+IN-AC-23-075,Gurh,364.8,345.6
+IN-AC-23-074,Rewa,361.5,343.9
+IN-AC-23-030,Chachoura,250.8,352.7
+IN-AC-23-064,Nagod,345.0,347.0
+IN-AC-23-078,Sihawal,386.1,347.8
+IN-AC-23-076,Churhat,370.6,347.9
+IN-AC-23-225,Malhargarh (Sc),200.0,355.9
+IN-AC-23-077,Sidhi,376.7,349.5
+IN-AC-23-035,Bina (Sc),281.6,352.4
+IN-AC-23-057,Hatta (Sc),317.9,356.1
+IN-AC-23-058,Pawai,333.2,355.0
+IN-AC-23-042,Banda,300.5,354.3
+IN-AC-23-066,Amarpatan,357.1,351.7
+IN-AC-23-165,Susner,227.9,359.5
+IN-AC-23-036,Khurai,288.0,355.4
+IN-AC-23-226,Suwasra,210.1,357.3
+IN-AC-23-147,Sironj,262.8,355.8
+IN-AC-23-065,Maihar,345.1,353.9
+IN-AC-23-162,Rajgarh,241.1,358.1
+IN-AC-23-146,Kurwai (Sc),275.4,356.7
+IN-AC-23-054,Pathariya,310.2,357.5
+IN-AC-23-163,Khilchipur,233.8,357.1
+IN-AC-23-082,Dhauhani (St),376.1,356.6
+IN-AC-23-224,Mandsour,197.4,359.8
+IN-AC-23-083,Beohari (St),363.1,360.1
+IN-AC-23-081,Devsar (Sc),390.6,357.9
+IN-AC-23-080,Singrauli,397.2,357.0
+IN-AC-23-161,Biaora,248.3,361.0
+IN-AC-23-092,Vijayraghavgarh,346.4,361.1
+IN-AC-23-090,Manpur (St),356.6,367.9
+IN-AC-23-148,Shamshabad,265.4,365.3
+IN-AC-23-223,Alot (Sc),206.3,366.1
+IN-AC-23-040,Naryoli (Sc),293.8,362.7
+IN-AC-23-166,Agar (Sc),221.7,365.4
+IN-AC-23-222,Jaora,197.8,366.9
+IN-AC-23-093,Murwara,337.9,362.6
+IN-AC-23-055,Damoh,313.8,365.9
+IN-AC-23-037,Surkhi,290.9,365.0
+IN-AC-23-164,Sarangpur (Sc),236.8,366.6
+IN-AC-23-149,Berasia (Sc),259.6,369.4
+IN-AC-23-145,Basoda,276.5,366.9
+IN-AC-23-039,Rehli,304.1,366.9
+IN-AC-23-041,Sagar,295.4,362.1
+IN-AC-23-091,Barwara (St),340.3,368.5
+IN-AC-23-160,Narsinghgarh,247.1,368.1
+IN-AC-23-213,Mahidpur,213.4,370.0
+IN-AC-23-056,Jabera,316.2,371.4
+IN-AC-23-144,Vidisha,272.5,370.4
+IN-AC-23-143,Silwani,287.3,373.3
+IN-AC-23-212,Nagada-Khachrod,204.4,372.9
+IN-AC-23-089,Bandhavgarh (St),349.2,372.1
+IN-AC-23-084,Jaisinghnagar (St),365.4,374.0
+IN-AC-23-159,Sehore,252.6,373.9
+IN-AC-23-167,Shajapur,230.4,374.0
+IN-AC-23-221,Sailana (St),189.4,375.7
+IN-AC-23-219,Ratlam Rural (St),199.2,376.6
+IN-AC-23-214,Tarana (Sc),224.1,376.6
+IN-AC-23-168,Shujalpur,238.9,374.8
+IN-AC-23-038,Deori,299.4,374.6
+IN-AC-23-094,Bahoriband,329.5,367.6
+IN-AC-23-142,Sanchi (Sc),274.1,375.4
+IN-AC-23-169,Kalapipal,242.7,376.4
+IN-AC-23-215,Ghatiya (Sc),215.1,378.6
+IN-AC-23-085,Jaitpur (St),372.3,376.8
+IN-AC-23-220,Ratlam City,196.9,376.2
+IN-AC-23-155,Huzur,259.4,378.3
+IN-AC-23-095,Patan,320.1,376.2
+IN-AC-23-171,Dewas,222.9,380.5
+IN-AC-23-218,Badnagar,206.9,383.1
+IN-AC-23-086,Kotma,380.4,378.3
+IN-AC-23-101,Panagar,328.4,379.3
+IN-AC-23-194,Thandla (St),185.1,383.6
+IN-AC-23-158,Ichhawar,252.1,382.6
+IN-AC-23-102,Sihora (St),336.9,378.5
+IN-AC-23-150,Bhopal Uttar,258.2,377.2
+IN-AC-23-151,Narela,260.2,377.2
+IN-AC-23-170,Sonkatch (Sc),230.3,383.4
+IN-AC-23-141,Bhojpur,269.6,383.0
+IN-AC-23-216,Ujjain Uttar,216.4,379.8
+IN-AC-23-152,Bhopal Dakshin-Paschim,258.6,379.1
+IN-AC-23-153,Bhopal Madhya,260.3,378.8
+IN-AC-23-088,Pushprajgarh (St),368.0,385.1
+IN-AC-23-154,Govindpura,261.4,379.5
+IN-AC-23-195,Petlawad (St),191.1,388.4
+IN-AC-23-217,Ujjain Dakshin,215.6,382.0
+IN-AC-23-157,Ashta (Sc),240.1,385.2
+IN-AC-23-096,Bargi,319.4,383.4
+IN-AC-23-120,Tendukheda,298.5,386.3
+IN-AC-23-202,Badnawar,202.8,387.7
+IN-AC-23-140,Udaipura,286.0,384.2
+IN-AC-23-119,Narsingpur,306.1,384.8
+IN-AC-23-087,Anuppur (St),373.9,381.7
+IN-AC-23-099,Jabalpur Cantt.,327.1,380.7
+IN-AC-23-098,Jabalpur Uttar,325.4,379.9
+IN-AC-23-203,Depalpur,213.2,388.4
+IN-AC-23-097,Jabalpur Purba(Sc),326.4,380.1
+IN-AC-23-100,Jabalpur Paschim,324.9,381.2
+IN-AC-23-172,Hatpipliya,228.3,388.1
+IN-AC-23-211,Sanwer (Sc),220.9,389.5
+IN-AC-23-118,Gotegaon (Sc),312.6,387.9
+IN-AC-23-196,Sardarpur (St),196.3,390.6
+IN-AC-23-103,Shahpura (St),350.5,385.8
+IN-AC-23-104,Dindori (St),362.9,391.3
+IN-AC-23-193,Jhabua (St),184.9,393.0
+IN-AC-23-121,Gadarwara,293.3,389.1
+IN-AC-23-156,Budhni,262.6,390.9
+IN-AC-23-139,Pipariya (Sc),287.8,393.1
+IN-AC-23-173,Khategaon,244.1,393.8
+IN-AC-23-117,Lakhnadon(St),322.6,392.8
+IN-AC-23-138,Sohagpur,276.8,394.9
+IN-AC-23-204,Indore-1,219.5,391.6
+IN-AC-23-201,Dhar,207.8,394.8
+IN-AC-23-174,Bagali (St),234.2,397.0
+IN-AC-23-106,Niwas (St),336.7,387.5
+IN-AC-23-210,Rau,220.5,394.5
+IN-AC-23-192,Jobat (St),180.3,399.0
+IN-AC-23-123,Amarwara (St),302.0,398.3
+IN-AC-23-137,Hoshangabad,267.8,393.4
+IN-AC-23-209,Dr. Ambedkar Nagar-Mhow,217.3,398.1
+IN-AC-23-197,Gandhwani (St),196.4,400.3
+IN-AC-23-136,Seoni-Malwa,264.9,399.4
+IN-AC-23-122,Junnardeo (St),289.9,402.9
+IN-AC-23-107,Mandla (St),334.0,397.6
+IN-AC-23-200,Dharampuri (St),207.3,401.5
+IN-AC-23-134,Timarni (St),254.8,404.6
+IN-AC-23-182,Badwah,222.9,404.1
+IN-AC-23-105,Bichhiya (St),347.6,397.1
+IN-AC-23-135,Harda,249.1,404.3
+IN-AC-23-191,Alirajpur (St),178.7,406.9
+IN-AC-23-183,Maheshwar (Sc),216.9,403.1
+IN-AC-23-116,Keolari,322.3,402.8
+IN-AC-23-115,Seoni,313.4,404.4
+IN-AC-23-199,Manawar (St),200.2,404.6
+IN-AC-23-198,Kukshi (St),188.8,405.9
+IN-AC-23-175,Mandhata,234.4,405.6
+IN-AC-23-132,Ghoradongri (St),270.5,406.8
+IN-AC-23-108,Baihar (St),345.5,411.8
+IN-AC-23-127,Parasia (Sc),296.6,406.9
+IN-AC-23-110,Paraswada,335.7,411.5
+IN-AC-23-184,Kasrawad,213.1,411.0
+IN-AC-23-188,Rajpur (St),201.6,412.7
+IN-AC-23-176,Harsud (St),245.8,414.6
+IN-AC-23-124,Churai,305.6,413.3
+IN-AC-23-190,Badwani (St),188.9,412.5
+IN-AC-23-130,Amla (Sc),282.1,410.9
+IN-AC-23-177,Khandwa (Sc),233.3,413.4
+IN-AC-23-114,Barghat (St),316.6,413.8
+IN-AC-23-126,Chhindwara,301.3,410.5
+IN-AC-23-178,Pandhana (St),232.3,415.9
+IN-AC-23-181,Bhikangaon (St),221.3,418.9
+IN-AC-23-185,Khargone,212.1,414.4
+IN-AC-23-133,Bhainsdehi (St),263.1,418.8
+IN-AC-23-131,Betul,271.9,416.2
+IN-AC-23-111,Balaghat,327.9,412.9
+IN-AC-23-128,Pandhurna (St),291.5,417.4
+IN-AC-23-189,Pansemal (St),191.5,417.5
+IN-AC-23-186,Bhagwanpura(St),210.6,420.3
+IN-AC-23-125,Saunsar,297.5,417.9
+IN-AC-23-187,Sendhawa (St),204.3,422.0
+IN-AC-23-129,Multai,281.7,419.9
+IN-AC-23-113,Katangi,321.0,419.4
+IN-AC-23-112,Waraseoni,328.9,419.4
+IN-AC-23-109,Lanji,341.0,422.5
+IN-AC-23-179,Nepanagar (St),232.4,427.0
+IN-AC-23-180,Burhanpur,229.0,430.8
+IN-AC-23-021,Bhander (Sc),293.2,311.3
+IN-AC-23-023,Karera (Sc),279.4,317.1
+IN-AC-27-001,Akkalkuwa (St),174.2,417.2
+IN-AC-27-002,Shahada (St),180.8,420.4
+IN-AC-27-041,Melghat (St),251.9,425.2
+IN-AC-27-003,Nandurbar (St),181.7,425.9
+IN-AC-27-009,Shirpur (St),194.9,426.4
+IN-AC-27-059,Ramtek,308.4,425.1
+IN-AC-27-004,Nawapur (St),168.6,431.0
+IN-AC-27-043,Morshi,277.9,427.3
+IN-AC-27-049,Savner,299.4,427.6
+IN-AC-27-065,Gondiya,333.3,424.0
+IN-AC-27-060,Tumsar,319.5,426.8
+IN-AC-27-008,Sindkheda,187.3,430.7
+IN-AC-27-064,Tirora,328.9,426.9
+IN-AC-27-048,Katol,290.2,430.0
+IN-AC-27-010,Chopda (St),206.7,430.3
+IN-AC-27-066,Amgaon (St),339.0,433.3
+IN-AC-27-011,Raver,219.9,431.3
+IN-AC-27-042,Achalpur,265.9,430.3
+IN-AC-27-005,Sakri (St),175.4,436.6
+IN-AC-27-044,Arvi,284.4,435.9
+IN-AC-27-058,Kamthi,309.1,432.8
+IN-AC-27-015,Amalner,197.7,436.5
+IN-AC-27-027,Jalgaon (Jamod),237.8,437.2
+IN-AC-27-020,Muktainagar,225.4,436.9
+IN-AC-27-063,Arjuni Morgaon(Sc),331.1,437.2
+IN-AC-27-028,Akot,248.4,435.4
+IN-AC-27-039,Teosa,270.6,435.2
+IN-AC-27-014,Jalgaon Rural,208.5,437.7
+IN-AC-27-040,Daryapur (Sc),258.1,436.1
+IN-AC-27-006,Dhule Rural,188.8,440.4
+IN-AC-27-050,Hingna,298.9,436.6
+IN-AC-27-061,Bhandara (Sc),319.0,438.5
+IN-AC-27-062,Sakoli,325.9,438.1
+IN-AC-27-057,Nagpur North,304.6,432.2
+IN-AC-27-056,Nagpur West,302.6,432.6
+IN-AC-27-012,Bhusawal (Sc),218.4,437.3
+IN-AC-27-054,Nagpur East,305.3,433.2
+IN-AC-27-055,Nagpur Central,304.2,433.4
+IN-AC-27-052,Nagpur South West,302.8,434.5
+IN-AC-27-013,Jalgaon City,211.3,437.5
+IN-AC-27-053,Nagpur South,304.5,434.2
+IN-AC-27-016,Erandol,202.6,441.5
+IN-AC-27-021,Malkapur,230.6,440.9
+IN-AC-27-051,Umred (Sc),309.9,441.3
+IN-AC-27-031,Akola East,251.0,443.1
+IN-AC-27-007,Dhule City,190.7,439.9
+IN-AC-27-047,Wardha,293.5,441.2
+IN-AC-27-116,Baglan (St),173.5,445.4
+IN-AC-27-037,Badnera,267.1,439.9
+IN-AC-27-019,Jamner,216.6,444.2
+IN-AC-27-038,Amravati,269.3,438.6
+IN-AC-27-115,Malegaon Outer,184.6,446.8
+IN-AC-27-029,Balapur,245.4,447.6
+IN-AC-27-036,Dhamangaon Railway,273.8,443.9
+IN-AC-27-026,Khamgaon,237.1,446.3
+IN-AC-27-018,Pachora,203.4,446.3
+IN-AC-27-117,Kalwan (St),163.5,449.4
+IN-AC-27-022,Buldhana,226.7,446.6
+IN-AC-27-032,Murtizapur (Sc),256.6,446.7
+IN-AC-27-045,Deoli,289.4,446.0
+IN-AC-27-017,Chalisgaon,195.3,450.4
+IN-AC-27-046,Hinganghat,299.6,448.6
+IN-AC-27-067,Armori (St),335.1,449.4
+IN-AC-27-113,Nandgaon,187.4,452.8
+IN-AC-27-030,Akola West,248.7,444.7
+IN-AC-27-035,Karanja,262.1,453.1
+IN-AC-27-104,Sillod,211.1,452.9
+IN-AC-27-118,Chandvad,175.7,454.0
+IN-AC-27-103,Bhokardan,220.9,455.1
+IN-AC-27-114,Malegaon Central,184.5,449.3
+IN-AC-27-074,Chimur,316.0,449.8
+IN-AC-27-077,Ralegaon (St),285.4,454.0
+IN-AC-27-023,Chikhli,229.1,452.9
+IN-AC-27-079,Digras,270.1,455.9
+IN-AC-27-122,Dindori (St),162.3,456.8
+IN-AC-27-105,Kannad,202.1,456.9
+IN-AC-27-073,Brahmapuri,319.9,455.6
+IN-AC-27-078,Yavatmal,278.0,454.9
+IN-AC-27-025,Mehkar (Sc),238.2,459.6
+IN-AC-27-033,Risod,246.6,459.6
+IN-AC-27-034,Washim (Sc),255.2,459.0
+IN-AC-27-075,Warora,305.1,457.4
+IN-AC-27-128,Dahanu (St),141.6,461.5
+IN-AC-27-127,Igatpuri (St),157.4,466.3
+IN-AC-27-121,Niphad,171.8,461.3
+IN-AC-27-112,Vaijapur,191.6,465.1
+IN-AC-27-106,Phulambri,208.3,462.9
+IN-AC-27-068,Gadchiroli (St),331.6,464.3
+IN-AC-27-119,Yevla,181.6,461.4
+IN-AC-27-024,Sindkhed Raja,228.5,461.6
+IN-AC-27-129,Vikramgad (St),149.8,467.2
+IN-AC-27-126,Deolali (Sc),163.7,464.2
+IN-AC-27-111,Gangapur,200.7,466.1
+IN-AC-27-102,Badnapur (Sc),216.4,467.0
+IN-AC-27-076,Wani,297.9,463.0
+IN-AC-27-123,Nashik East,165.5,463.1
+IN-AC-27-130,Palghar (St),140.0,468.6
+IN-AC-27-080,Arni (St),281.8,463.6
+IN-AC-27-125,Nashik West,163.4,463.8
+IN-AC-27-124,Nashik Central,164.7,463.7
+IN-AC-27-072,Ballarpur,315.2,464.0
+IN-AC-27-120,Sinnar,170.7,468.8
+IN-AC-27-219,Kopargaon,182.3,468.3
+IN-AC-27-081,Pusad,263.9,466.4
+IN-AC-27-131,Boisar (St),140.4,473.1
+IN-AC-27-101,Jalna,222.8,467.3
+IN-AC-27-108,Aurangabadwest(Sc),204.4,467.0
+IN-AC-27-094,Hingoli,247.9,468.3
+IN-AC-27-107,Aurangabad Central,205.4,465.9
+IN-AC-27-071,Chandrapur (Sc),306.7,464.4
+IN-AC-27-135,Shahapur (St),154.8,475.1
+IN-AC-27-109,Aurangabad East,206.3,466.6
+IN-AC-27-069,Aheri (St),337.5,480.2
+IN-AC-27-099,Partur,231.1,473.9
+IN-AC-27-082,Umarkhed (Sc),271.3,471.4
+IN-AC-27-218,Shirdi,180.1,472.4
+IN-AC-27-134,Bhiwandi Rural(St),146.4,477.4
+IN-AC-27-093,Kalamnuri,256.9,473.4
+IN-AC-27-110,Paithan,207.6,473.6
+IN-AC-27-083,Kinwat,278.0,474.6
+IN-AC-27-216,Akole (St),168.9,477.2
+IN-AC-27-095,Jintur,239.3,474.0
+IN-AC-27-220,Shrirampur(Sc),187.6,473.8
+IN-AC-27-070,Rajura,310.0,471.9
+IN-AC-27-100,Ghansawangi,220.4,475.5
+IN-AC-27-217,Sangamner,176.3,477.0
+IN-AC-27-000,State boundary,138.9,475.9
+IN-AC-27-221,Nevasa,196.1,477.4
+IN-AC-27-132,Nalasopara,140.4,477.6
+IN-AC-27-092,Basmath,251.6,479.5
+IN-AC-27-133,Vasai,140.2,479.5
+IN-AC-27-084,Hadgaon,266.9,477.3
+IN-AC-27-223,Rahuri,189.6,482.4
+IN-AC-27-222,Shevgaon,203.9,482.7
+IN-AC-27-139,Murbad,156.7,482.9
+IN-AC-27-136,Bhiwandi West,145.6,480.6
+IN-AC-27-137,Bhiwandi East,147.0,480.6
+IN-AC-27-000,State boundary,139.6,481.4
+IN-AC-27-195,Junnar,169.6,484.4
+IN-AC-27-145,Mira Bhayandar,139.6,482.3
+IN-AC-27-146,Ovala ?Majiwada,141.7,482.8
+IN-AC-27-228,Georai,217.6,483.6
+IN-AC-27-138,Kalyan West,148.4,482.3
+IN-AC-27-148,Thane,143.2,483.1
+IN-AC-27-224,Parner,182.1,487.2
+IN-AC-27-096,Parbhani,243.7,481.8
+IN-AC-27-153,Dahisar,140.0,483.3
+IN-AC-27-152,Borivali,139.1,483.8
+IN-AC-27-098,Pathri,236.5,485.7
+IN-AC-27-154,Magathane,141.1,483.9
+IN-AC-27-142,Kalyan East,147.9,484.9
+IN-AC-27-141,Ulhasnagar,148.8,483.4
+IN-AC-27-149,Mumbra-Kalwa,143.9,484.2
+IN-AC-27-147,Kopri-Pachpakhadi,142.6,484.2
+IN-AC-27-144,Kalyan Rural,145.8,485.1
+IN-AC-27-143,Dombivali,146.1,483.8
+IN-AC-27-140,Ambernath (Sc),149.1,484.0
+IN-AC-27-161,Charkop,139.2,484.5
+IN-AC-27-160,Kandivali East,140.3,484.8
+IN-AC-27-155,Mulund,142.1,485.2
+IN-AC-27-162,Malad West,139.1,485.5
+IN-AC-27-159,Dindoshi,140.8,485.4
+IN-AC-27-000,State boundary,143.5,485.8
+IN-AC-27-150,Airoli,144.4,486.2
+IN-AC-27-163,Goregaon,139.7,485.7
+IN-AC-27-196,Ambegaon,168.3,491.0
+IN-AC-27-158,Jogeshwari East,140.6,486.0
+IN-AC-27-000,State boundary,142.9,486.0
+IN-AC-27-164,Versova,139.1,486.2
+IN-AC-27-157,Bhandup West,141.9,486.3
+IN-AC-27-085,Bhokar,264.0,484.9
+IN-AC-27-000,State boundary,142.6,486.5
+IN-AC-27-166,Andheri East,140.4,486.9
+IN-AC-27-229,Majalgaon,225.6,489.6
+IN-AC-27-165,Andheri West,139.6,487.1
+IN-AC-27-168,Chandivali,141.3,487.4
+IN-AC-27-156,Vikhroli,141.7,487.0
+IN-AC-27-167,Vile Parle,140.2,487.2
+IN-AC-27-188,Panvel,148.1,488.9
+IN-AC-27-000,State boundary,143.7,488.5
+IN-AC-27-151,Belapur,144.3,488.1
+IN-AC-27-170,Ghatkopar East,141.8,487.7
+IN-AC-27-189,Karjat,153.8,492.1
+IN-AC-27-000,State boundary,142.3,487.9
+IN-AC-27-169,Ghatkopar West,141.4,487.5
+IN-AC-27-097,Gangakhed,245.4,489.3
+IN-AC-27-177,Vandre West,139.4,488.1
+IN-AC-27-175,Kalina,140.4,487.9
+IN-AC-27-231,Ashti,202.3,491.4
+IN-AC-27-226,Shrigonda,187.7,494.5
+IN-AC-27-176,Vandre East,140.2,488.1
+IN-AC-27-086,Nanded North,255.7,484.4
+IN-AC-27-174,Kurla (Sc),141.1,488.4
+IN-AC-27-171,Mankhurd Shivaji Nagar,142.2,488.6
+IN-AC-27-000,State boundary,142.7,488.6
+IN-AC-27-173,Chembur,141.3,489.0
+IN-AC-27-179,Sion Koliwada,140.4,488.8
+IN-AC-27-178,Dharavi (Sc),140.0,488.7
+IN-AC-27-172,Anushakti Nagar,141.8,489.1
+IN-AC-27-225,Ahmednagar,189.7,487.5
+IN-AC-27-181,Mahim,139.6,489.0
+IN-AC-27-000,State boundary,142.4,489.4
+IN-AC-27-197,Khed Alandi,164.2,493.6
+IN-AC-27-180,Wadala,140.0,489.4
+IN-AC-27-182,Worli,139.1,489.9
+IN-AC-27-000,State boundary,141.1,489.6
+IN-AC-27-000,State boundary,140.2,491.3
+IN-AC-27-183,Shivadi,139.8,489.9
+IN-AC-27-230,Beed,214.3,490.0
+IN-AC-27-190,Uran,146.6,492.1
+IN-AC-27-000,State boundary,142.3,492.3
+IN-AC-27-184,Byculla,139.8,490.5
+IN-AC-27-087,Nanded South,256.1,486.9
+IN-AC-27-185,Malabar Hill,138.8,490.8
+IN-AC-27-186,Mumbadevi,139.6,490.8
+IN-AC-27-187,Colaba,139.4,491.6
+IN-AC-27-233,Parli,235.6,494.1
+IN-AC-27-204,Maval,158.6,495.4
+IN-AC-27-089,Naigaon,266.6,491.6
+IN-AC-27-088,Loha,253.9,491.5
+IN-AC-27-000,State boundary,141.6,494.3
+IN-AC-27-191,Pen,148.8,500.1
+IN-AC-27-192,Alibag,143.3,501.9
+IN-AC-27-000,State boundary,143.5,495.1
+IN-AC-27-198,Shirur,177.1,499.6
+IN-AC-27-232,Kaij (Sc),222.2,496.9
+IN-AC-27-227,Karjat Jamkhed,200.3,500.9
+IN-AC-27-206,Pimpri (Sc),164.3,498.3
+IN-AC-27-090,Deglur (Sc),264.7,500.8
+IN-AC-27-091,Mukhed,257.0,499.6
+IN-AC-27-203,Bhor,161.9,506.8
+IN-AC-27-236,Ahmadpur,246.2,500.1
+IN-AC-27-207,Bhosari,166.2,499.0
+IN-AC-27-208,Vadgaon Sheri,168.0,500.3
+IN-AC-27-199,Daund,183.1,503.4
+IN-AC-27-205,Chinchwad,166.0,500.2
+IN-AC-27-243,Paranda,212.5,505.0
+IN-AC-27-210,Kothrud,164.6,502.1
+IN-AC-27-209,Shivajinagar,165.9,501.5
+IN-AC-27-237,Udgir (Sc),251.8,503.4
+IN-AC-27-242,Osmanabad,223.9,506.9
+IN-AC-27-215,Kasba Peth,166.7,502.2
+IN-AC-27-214,Pune Cantonment (Sc),168.4,502.6
+IN-AC-27-194,Mahad,154.8,511.6
+IN-AC-27-212,Parvati,166.2,503.1
+IN-AC-27-211,Khadakwasala,163.5,505.1
+IN-AC-27-213,Hadapsar,167.3,503.6
+IN-AC-27-193,Shrivardhan,147.3,510.4
+IN-AC-27-202,Purandar,170.7,508.3
+IN-AC-27-244,Karmala,201.4,508.4
+IN-AC-27-234,Latur Rural,235.4,504.8
+IN-AC-27-235,Latur City,237.0,505.4
+IN-AC-27-201,Baramati,182.4,510.4
+IN-AC-27-246,Barshi,216.8,511.3
+IN-AC-27-238,Nilanga,247.3,512.0
+IN-AC-27-200,Indapur,194.1,513.1
+IN-AC-27-241,Tuljapur,225.9,515.5
+IN-AC-27-239,Ausa,237.5,512.6
+IN-AC-27-256,Wai,166.8,516.1
+IN-AC-27-263,Dapoli,152.1,520.8
+IN-AC-27-255,Phaltan (Sc),179.7,517.1
+IN-AC-27-245,Madha,205.9,518.9
+IN-AC-27-254,Malshiras (Sc),193.4,521.0
+IN-AC-27-240,Umarga (Sc),236.2,519.5
+IN-AC-27-262,Satara,165.3,523.3
+IN-AC-27-247,Mohol (Sc),213.8,522.0
+IN-AC-27-257,Koregaon,175.7,523.2
+IN-AC-27-258,Man,185.6,525.5
+IN-AC-27-264,Guhagar,154.9,529.9
+IN-AC-27-250,Akkalkot,226.8,527.3
+IN-AC-27-252,Pandharpur,207.7,529.8
+IN-AC-27-253,Sangole,199.0,530.8
+IN-AC-27-248,Solapur City North,219.6,523.5
+IN-AC-27-251,Solapur South,218.7,527.6
+IN-AC-27-259,Karad North,176.3,530.2
+IN-AC-27-265,Chiplun,159.9,534.2
+IN-AC-27-261,Patan,167.3,533.5
+IN-AC-27-286,Khanapur,189.2,533.0
+IN-AC-27-249,Solapur City Central,220.3,525.4
+IN-AC-27-285,Palus-Kadegaon,180.9,537.6
+IN-AC-27-266,Ratnagiri,153.8,541.5
+IN-AC-27-260,Karad South,174.2,536.1
+IN-AC-27-284,Shirala,170.3,540.2
+IN-AC-27-288,Jat,205.1,540.3
+IN-AC-27-277,Shahuwadi,169.1,543.4
+IN-AC-27-283,Islampur,180.4,542.1
+IN-AC-27-287,Tasgaon-Kavathe Mahankal,190.8,540.8
+IN-AC-27-267,Rajapur,159.3,548.5
+IN-AC-27-281,Miraj (Sc),190.4,546.0
+IN-AC-27-282,Sangli,185.2,545.4
+IN-AC-27-278,Hatkanangle(Sc),179.1,548.8
+IN-AC-27-280,Shirol,185.2,549.9
+IN-AC-27-275,Karvir,171.3,551.8
+IN-AC-27-276,Kolhapur North,176.6,549.5
+IN-AC-27-279,Ichalkaranji,182.2,550.0
+IN-AC-27-274,Kolhapur South,176.3,552.5
+IN-AC-27-268,Kankavli,160.3,557.7
+IN-AC-27-272,Radhanagari,171.4,560.1
+IN-AC-27-273,Kagal,176.7,558.5
+IN-AC-27-269,Kudal,162.8,565.8
+IN-AC-27-271,Chandgad,177.2,568.1
+IN-AC-27-270,Sawantwadi,166.1,573.0
+IN-AC-14-045,Chingai,707.1,322.6
+IN-AC-14-048,Mao,703.6,318.7
+IN-AC-14-049,Tadubi,694.7,322.9
+IN-AC-14-047,Karong,700.4,325.5
+IN-AC-14-052,Tamei,683.9,330.4
+IN-AC-14-044,Ukhrul,706.8,331.3
+IN-AC-14-046,Saikul,696.5,334.8
+IN-AC-14-050,Kangpokpi,692.2,329.5
+IN-AC-14-043,Phungyar,706.8,338.2
+IN-AC-14-053,Tamenglong,684.8,333.5
+IN-AC-14-001,Khundrakpam,695.4,333.5
+IN-AC-14-051,Saitu,690.8,336.6
+IN-AC-14-016,Sekmai,691.5,334.3
+IN-AC-14-002,Heingang,694.5,335.4
+IN-AC-14-008,Lamlai,697.4,335.6
+IN-AC-14-017,Lamsang,692.7,334.8
+IN-AC-14-009,Thangmeiband,694.0,335.7
+IN-AC-14-003,Khurai,696.0,336.2
+IN-AC-14-015,Wangkhei,695.0,336.2
+IN-AC-14-010,Uripok,693.7,335.9
+IN-AC-14-019,Patsoi,692.5,337.4
+IN-AC-14-018,Konthoujam,691.3,337.6
+IN-AC-14-004,Khetrigao,696.0,337.4
+IN-AC-14-007,Andro,697.9,338.5
+IN-AC-14-014,Yaiskul,695.3,337.4
+IN-AC-14-012,Keisamthong,694.2,337.9
+IN-AC-14-007,Andro,696.8,339.0
+IN-AC-14-054,Nungba,681.2,340.9
+IN-AC-14-005,Thongju,695.5,338.4
+IN-AC-14-013,Singjamei,694.4,338.9
+IN-AC-14-021,Naoriya Pakhanglak*,693.1,339.0
+IN-AC-14-040,Jiribam,673.0,340.8
+IN-AC-14-020,Langthabal,694.5,339.4
+IN-AC-14-006,Keirao,696.0,339.9
+IN-AC-14-033,Heirok,698.1,341.3
+IN-AC-14-022,Wangoi,694.3,340.5
+IN-AC-14-025,Oinam,690.0,340.6
+IN-AC-14-032,Wangkhem,697.6,340.1
+IN-AC-14-024,Nambol,691.8,340.1
+IN-AC-14-030,Lilong,694.8,340.8
+IN-AC-14-024,Nambol,692.0,340.6
+IN-AC-14-032,Wangkhem,697.3,340.8
+IN-AC-14-024,Nambol,693.2,340.4
+IN-AC-14-007,Andro,697.0,340.5
+IN-AC-14-006,Keirao,696.1,340.3
+IN-AC-14-031,Thoubal,696.3,341.2
+IN-AC-14-035,Khangabo,695.8,341.9
+IN-AC-14-023,Mayang Imphal,691.6,342.4
+IN-AC-14-022,Wangoi,692.7,341.4
+IN-AC-14-042,Tengnoupal,700.1,349.1
+IN-AC-14-036,Wabgai,693.9,342.9
+IN-AC-14-034,Wangjing Tentha,696.7,343.0
+IN-AC-14-026,Bishenpur,689.0,343.5
+IN-AC-14-028,Thanga,690.8,344.5
+IN-AC-14-057,Henglep,683.6,347.0
+IN-AC-14-037,Kakching,696.2,345.1
+IN-AC-14-038,Hiyanglam,693.0,345.8
+IN-AC-14-056,Thanlon,677.8,350.7
+IN-AC-14-055,Tipaimukh,672.3,350.4
+IN-AC-14-027,Moirang,688.5,346.0
+IN-AC-14-029,Kumbi,689.8,348.5
+IN-AC-14-041,Chandel,695.6,355.1
+IN-AC-14-039,Sugnoo,692.8,349.9
+IN-AC-14-059,Saikot,687.3,349.8
+IN-AC-14-058,Churachandpur,689.1,350.4
+IN-AC-14-060,Singhat,685.4,355.0
+IN-AC-14-002,Heingang,693.0,334.0
+IN-AC-14-011,Sagolband,694.3,337.1
+IN-AC-17-010,Jirang (St),632.9,307.1
+IN-AC-17-008,Mawhati (St),645.3,308.9
+IN-AC-17-009,Nongpoh (St),641.7,307.6
+IN-AC-17-040,Bajengdoba (St),598.8,310.0
+IN-AC-17-011,Umsning (St),640.0,311.9
+IN-AC-17-037,Kharkutta (St),614.0,310.3
+IN-AC-17-038,Mendipathar (St),608.8,309.6
+IN-AC-17-039,Resubelpara (St),606.3,309.9
+IN-AC-17-044,Raksamgre (St),598.5,309.1
+IN-AC-17-045,Tikrikila (St),595.0,309.5
+IN-AC-17-030,Mairang (St),635.0,314.4
+IN-AC-17-033,Rambrai Jyrngam (St,622.4,313.4
+IN-AC-17-046,Phulbari,593.8,311.0
+IN-AC-17-012,Umroi (St),643.8,313.5
+IN-AC-17-031,Mawthadraishan (St),630.8,315.3
+IN-AC-17-001,Nartiang (St),650.5,315.8
+IN-AC-17-047,Rajabala,590.7,311.4
+IN-AC-17-034,Mawshynrut (St),616.6,317.9
+IN-AC-17-041,Songsak (St),605.5,314.6
+IN-AC-17-049,Dadenggre (St),597.3,314.8
+IN-AC-17-042,Rongjeng (St),612.3,314.5
+IN-AC-17-023,Sohing (St),636.1,317.4
+IN-AC-17-013,Mawryngkneng(St),643.7,316.9
+IN-AC-17-048,Selsella (St),590.8,314.4
+IN-AC-17-003,Raliang (St),651.8,318.3
+IN-AC-17-015,Mawlai (St),640.2,315.9
+IN-AC-17-014,Pynthorumkhrah,641.5,315.8
+IN-AC-17-032,Nongstoin (St),624.1,317.5
+IN-AC-17-017,North Shillong (St),640.0,316.3
+IN-AC-17-016,East Shillong (St),640.5,316.5
+IN-AC-17-018,West Shillong,639.0,316.9
+IN-AC-17-020,Mylliem (St),638.3,318.3
+IN-AC-17-019,South Shillong,640.0,317.1
+IN-AC-17-021,Nongthymmai (St),640.6,317.4
+IN-AC-17-002,Jowai (St),648.3,319.1
+IN-AC-17-024,Mawphlang (St),635.4,320.0
+IN-AC-17-022,Nongkrem (St),640.4,318.7
+IN-AC-17-029,Mawkynrew (St),643.0,321.0
+IN-AC-17-050,North Tura (St),596.0,317.7
+IN-AC-17-025,Mawsynram (St),630.0,323.4
+IN-AC-17-005,Sutnga-Saipung (St),656.0,325.6
+IN-AC-17-043,William Nagar (St),604.3,318.9
+IN-AC-17-052,Rangsakona (St),592.2,318.1
+IN-AC-17-006,Khliehriat (St),651.1,323.1
+IN-AC-17-058,Rongara-Siju (St),611.0,322.9
+IN-AC-17-028,Sohra (St),637.0,322.0
+IN-AC-17-036,Mawkyrwat (St),627.0,322.3
+IN-AC-17-007,Amlarem (St),646.3,324.5
+IN-AC-17-053,Ampathi (St),589.8,319.3
+IN-AC-17-051,Southtura (St),596.4,318.8
+IN-AC-17-027,Pynursla (St),640.5,324.3
+IN-AC-17-035,Ranikor (St),620.9,324.1
+IN-AC-17-056,Gambegre (St),594.6,322.1
+IN-AC-17-059,Chokpot (St),601.7,322.8
+IN-AC-17-054,Mahendraganj (St),586.9,322.1
+IN-AC-17-026,Shella (St),635.6,325.8
+IN-AC-17-055,Salmanpara (St),589.9,323.2
+IN-AC-17-060,Baghmara (St),602.5,325.8
+IN-AC-17-057,Dalu (St),594.9,324.9
+IN-AC-17-004,Mowkaiaw (St),657.0,317.9
+IN-AC-15-006,Serlui (St),662.6,349.5
+IN-AC-15-007,Tuivawl (St),667.1,355.1
+IN-AC-15-005,Kolasib (St),659.1,353.1
+IN-AC-15-001,Hachhek (St),653.4,358.6
+IN-AC-15-004,Tuirial (St),661.5,357.4
+IN-AC-15-008,Chalfilh (St),669.0,361.4
+IN-AC-15-003,Mamit (St),654.9,361.4
+IN-AC-15-021,Lengteng (St),674.0,367.0
+IN-AC-15-023,Champhai North (St),676.9,366.6
+IN-AC-15-013,Aizawl East-I,662.8,365.0
+IN-AC-15-015,Aizawl West-I (St),660.6,364.0
+IN-AC-15-010,Aizawl North-I (St),662.1,364.5
+IN-AC-15-002,Dampa (St),655.5,371.0
+IN-AC-15-012,Aizawl North-Iii (S,661.1,365.4
+IN-AC-15-011,Aizawl North-Ii (St,662.0,365.4
+IN-AC-15-016,Aizawl West-Ii (St),660.8,365.8
+IN-AC-15-009,Tawi (St),667.2,370.1
+IN-AC-15-014,Aizawl East-Ii (St),661.9,366.2
+IN-AC-15-018,Aizawl South-I (St),662.3,366.7
+IN-AC-15-017,Aizawl West-Iii (St,661.0,366.8
+IN-AC-15-020,Aizawl South-Iii (S,662.5,372.1
+IN-AC-15-019,Aizawl South-Ii (St,661.8,367.3
+IN-AC-15-027,Tuikum (St),666.8,373.6
+IN-AC-15-024,Champhai South (St),677.9,373.9
+IN-AC-15-022,Tuichang (St),672.8,375.6
+IN-AC-15-025,East Tuipui (St),676.3,379.6
+IN-AC-15-034,Thorang (St),656.6,383.1
+IN-AC-15-026,Serchhip (St),663.9,378.1
+IN-AC-15-032,Lunglei West (St),660.9,382.9
+IN-AC-15-028,Hrangturzo (St),670.5,381.0
+IN-AC-15-030,Lunglei North (St),664.8,382.9
+IN-AC-15-035,West Tuipui (St),656.3,386.6
+IN-AC-15-029,South Tuipui (St),669.7,386.2
+IN-AC-15-031,Lunglei East (St),665.1,387.9
+IN-AC-15-033,Lunglei South (St),663.2,392.6
+IN-AC-15-038,Lawngtlai East (St),668.3,393.8
+IN-AC-15-036,Tuichawng (St),658.3,401.3
+IN-AC-15-039,Saiha (St),670.3,396.8
+IN-AC-15-037,Lawngtlai West (St),663.6,402.6
+IN-AC-15-040,Palak (St),669.4,405.4
+IN-AC-21-028,Rairangpur (St),489.4,401.3
+IN-AC-21-008,Talsara (St),432.5,403.2
+IN-AC-21-010,Biramitrapur (St),453.5,402.4
+IN-AC-21-027,Saraskana (St),496.4,406.2
+IN-AC-21-013,Rajgangpur (St),448.6,405.6
+IN-AC-21-012,Rourkela,455.5,404.4
+IN-AC-21-029,Bangriposi (St),498.8,415.3
+IN-AC-21-011,Raghunathpali (Sc),456.9,406.6
+IN-AC-21-026,Jashipur (St),487.0,411.1
+IN-AC-21-009,Sundargarh (St),430.3,410.9
+IN-AC-21-015,Kuchinda (St),443.4,417.1
+IN-AC-21-025,Champua,472.5,411.5
+IN-AC-21-034,Morada,511.1,413.9
+IN-AC-21-014,Bonai (St),457.3,414.7
+IN-AC-21-033,Baripada (St),503.8,416.0
+IN-AC-21-035,Jaleswar,517.0,416.1
+IN-AC-21-007,Jharsuguda,436.9,413.9
+IN-AC-21-024,Keonjhar (St),474.8,417.3
+IN-AC-21-023,Patna (St),480.8,418.9
+IN-AC-21-030,Karanjia (St),489.1,421.7
+IN-AC-21-006,Brajarajnagar,424.9,417.4
+IN-AC-21-032,Badasahi (Sc),507.5,419.1
+IN-AC-21-036,Bhograi,521.8,419.6
+IN-AC-21-020,Telkoi (St),474.2,425.1
+IN-AC-21-037,Basta,516.6,420.5
+IN-AC-21-031,Udala (St),501.1,422.3
+IN-AC-21-016,Rengali (Sc),433.5,423.4
+IN-AC-21-019,Deogarh,453.8,425.6
+IN-AC-21-005,Bhatli,418.4,426.5
+IN-AC-21-038,Balasore,511.8,423.6
+IN-AC-21-039,Remuna (Sc),509.0,425.1
+IN-AC-21-059,Pallahara,462.8,428.3
+IN-AC-21-021,Ghasipura,483.4,428.6
+IN-AC-21-040,Nilgiri,501.8,425.4
+IN-AC-21-004,Attabira (Sc),426.5,427.8
+IN-AC-21-022,Anandapur (Sc),490.1,429.9
+IN-AC-21-017,Sambalpur,431.0,424.6
+IN-AC-21-018,Rairakhol,441.6,431.5
+IN-AC-21-041,Soro (Sc),505.0,429.8
+IN-AC-21-003,Bargarh,422.8,429.1
+IN-AC-21-042,Simulia,499.5,431.8
+IN-AC-21-045,Basudevpur,505.1,435.3
+IN-AC-21-043,Bhandaripokhari,495.1,436.1
+IN-AC-21-002,Bijepur,417.5,436.1
+IN-AC-21-058,Parjanga,471.0,438.1
+IN-AC-21-044,Bhadrak,499.2,435.6
+IN-AC-21-054,Sukinda,482.9,437.1
+IN-AC-21-062,Chhendipada (Sc),457.1,437.4
+IN-AC-21-001,Padampur,405.6,438.4
+IN-AC-21-064,Birmaharajpur (Sc),432.4,437.3
+IN-AC-21-060,Talcher,462.2,437.2
+IN-AC-21-065,Sonepur,424.6,441.7
+IN-AC-21-053,Korei,489.9,439.1
+IN-AC-21-046,Dhamnagar (Sc),499.3,438.8
+IN-AC-21-063,Athamallik,449.6,442.1
+IN-AC-21-071,Nuapada,394.4,444.3
+IN-AC-21-047,Chandabali,506.1,440.6
+IN-AC-21-066,Loisingha (Sc),418.6,441.6
+IN-AC-21-057,Kamakhyanagar,477.1,441.6
+IN-AC-21-052,Jajpur,495.3,441.0
+IN-AC-21-051,Dharmasala,488.1,443.1
+IN-AC-21-067,Patnagarh,406.4,445.4
+IN-AC-21-061,Angul,461.6,444.1
+IN-AC-21-048,Binjharpur (Sc),498.1,443.4
+IN-AC-21-056,Hindol (Sc),468.1,445.4
+IN-AC-21-055,Dhenkanal,478.4,445.4
+IN-AC-21-086,Boudh,444.2,446.6
+IN-AC-21-085,Kantamal,429.6,446.8
+IN-AC-21-049,Bari,493.6,444.9
+IN-AC-21-098,Aul,501.9,445.4
+IN-AC-21-068,Bolangir,416.5,446.1
+IN-AC-21-099,Rajanagar,506.1,447.2
+IN-AC-21-050,Barachana,488.5,446.1
+IN-AC-21-094,Salipur,486.4,448.9
+IN-AC-21-089,Athagarh,477.2,449.3
+IN-AC-21-097,Kendrapara (Sc),497.2,449.0
+IN-AC-21-095,Mahanga,490.0,449.7
+IN-AC-21-084,Phulbani (St),437.6,452.6
+IN-AC-21-096,Patkura,494.6,450.6
+IN-AC-21-087,Baramba,463.4,450.7
+IN-AC-21-091,Choudwar-Cuttack,482.6,449.3
+IN-AC-21-070,Kantabanji,405.1,453.3
+IN-AC-21-069,Titlagarh,414.3,453.3
+IN-AC-21-121,Daspalla (Sc),453.7,455.3
+IN-AC-21-100,Mahakalapada,501.1,452.8
+IN-AC-21-090,Barabati-Cuttack,481.4,451.3
+IN-AC-21-088,Banki,474.8,453.6
+IN-AC-21-115,Jatani,476.8,457.0
+IN-AC-21-113,Bhubaneswar(Uttar),481.5,454.3
+IN-AC-21-081,Narla,419.9,458.5
+IN-AC-21-102,Tirtol (Sc),490.4,455.9
+IN-AC-21-072,Khariar,396.5,457.6
+IN-AC-21-082,Baliguda (St),428.9,462.4
+IN-AC-21-120,Khandapada,463.6,455.7
+IN-AC-21-101,Paradeep,499.9,455.9
+IN-AC-21-092,Niali (Sc),486.6,458.1
+IN-AC-21-093,Cuttack Sadar (Sc),487.0,452.9
+IN-AC-21-111,Jayadev (Sc),484.3,457.5
+IN-AC-21-112,Bhubaneswar(Madhya),480.4,456.4
+IN-AC-21-104,Jagatsinghpur,489.6,458.9
+IN-AC-21-114,Ekamra-Bhubaneshwar,481.0,456.6
+IN-AC-21-083,G. Udayagiri (St),436.2,464.8
+IN-AC-21-103,Balikuda-Erasama,496.6,460.1
+IN-AC-21-116,Begunia,469.1,459.3
+IN-AC-21-123,Bhanjanagar,449.1,461.9
+IN-AC-21-122,Nayagarh,460.3,462.1
+IN-AC-21-110,Pipili,479.6,461.6
+IN-AC-21-117,Khurda,471.1,462.9
+IN-AC-21-119,Ranpur,465.4,462.4
+IN-AC-21-080,Bhawanipatna (Sc),409.7,462.3
+IN-AC-21-078,Junagarh,403.9,465.6
+IN-AC-21-106,Nimapara,485.1,463.5
+IN-AC-21-109,Satyabadi,478.0,463.9
+IN-AC-21-105,Kakatpur (Sc),489.9,465.1
+IN-AC-21-073,Umerkote (St),382.9,467.0
+IN-AC-21-077,Lanjigarh (St),409.0,473.0
+IN-AC-21-107,Puri,481.6,466.9
+IN-AC-21-124,Polasara,454.8,469.1
+IN-AC-21-079,Dharmgarh,399.1,470.4
+IN-AC-21-139,Bissam Cuttack (St),418.4,475.9
+IN-AC-21-108,Brahmagiri,471.5,471.4
+IN-AC-21-118,Chilika,464.0,468.6
+IN-AC-21-129,Surada,443.6,470.4
+IN-AC-21-074,Jharigam (St),388.6,472.2
+IN-AC-21-125,Kabisuryanagar,456.8,472.9
+IN-AC-21-126,Khalikote (Sc),459.2,473.9
+IN-AC-21-128,Aska,451.1,472.6
+IN-AC-21-130,Sanakhemundi,446.1,474.8
+IN-AC-21-138,Gunupur (St),427.6,481.5
+IN-AC-21-136,Mohana (St),437.6,483.3
+IN-AC-21-131,Hinjili,451.4,476.9
+IN-AC-21-076,Dabugam (St),390.7,479.5
+IN-AC-21-127,Chhatrapur (Sc),459.3,479.3
+IN-AC-21-140,Rayagada (St),412.5,482.9
+IN-AC-21-134,Digapahandi,448.3,481.9
+IN-AC-21-132,Gopalpur,454.2,482.4
+IN-AC-21-133,Berhampur,453.6,481.8
+IN-AC-21-135,Chikiti,447.8,487.0
+IN-AC-21-075,Nabarangpur (St),393.7,482.2
+IN-AC-21-142,Kotpad (St),389.8,492.4
+IN-AC-21-141,Lakshmipur (St),407.6,490.8
+IN-AC-21-143,Jeypore,396.4,490.1
+IN-AC-21-137,Paralakhemundi,434.6,492.0
+IN-AC-21-144,Koraput (Sc),394.6,497.0
+IN-AC-21-145,Pottangi (St),401.4,501.9
+IN-AC-21-147,Chitrakonda (St),382.9,506.4
+IN-AC-21-146,Malkangiri (St),374.1,511.1
+IN-AC-34-030,Yanam,387.0,549.5
+IN-AC-34-001,Mannadipet,318.8,673.8
+IN-AC-34-003,Oussudu (Sc),320.9,674.5
+IN-AC-34-012,Kalapet,323.3,673.5
+IN-AC-34-011,Lawspet,322.8,674.7
+IN-AC-34-008,Indira Nagar,322.1,675.0
+IN-AC-34-010,Kamraj Nagar,323.1,675.0
+IN-AC-34-013,Muthialpet,323.3,675.0
+IN-AC-34-009,Thattanchavady,322.6,675.0
+IN-AC-34-002,Thirubhuvanai (Sc),318.9,675.1
+IN-AC-34-014,Raj Bhavan,323.3,675.3
+IN-AC-34-006,Ozhukarai,321.9,675.5
+IN-AC-34-017,Nellithope,322.8,675.4
+IN-AC-34-007,Kadirgamam,322.4,675.3
+IN-AC-34-016,Orleampeth,322.9,675.5
+IN-AC-34-005,Villianur,321.5,675.9
+IN-AC-34-015,Oupalam,323.1,675.6
+IN-AC-34-018,Mudaliarpet,322.5,675.7
+IN-AC-34-019,Ariankuppam,322.8,676.1
+IN-AC-34-004,Mangalam,320.5,676.5
+IN-AC-34-020,Manavely,322.5,677.2
+IN-AC-34-022,Nettapakkam (Sc),318.4,677.8
+IN-AC-34-021,Embalam (Sc),321.1,677.5
+IN-AC-34-029,Mahe,210.5,680.8
+IN-AC-34-023,Bahour,321.1,678.6
+IN-AC-34-024,Nedungadu (Sc),322.5,700.5
+IN-AC-34-026,Karaikal North,323.3,701.3
+IN-AC-34-025,Thirunallar,321.6,701.5
+IN-AC-34-027,Karaikal South,323.3,702.1
+IN-AC-34-028,Neravy- T.R. Pattin,322.6,703.2
+IN-AC-03-001,Sujanpur,215.8,138.2
+IN-AC-03-002,Bhoa (Sc),209.8,142.1
+IN-AC-03-003,Pathankot,212.9,143.0
+IN-AC-03-005,Dina Nagar (Sc),207.4,146.1
+IN-AC-03-010,Dera Baba Nanak,200.1,149.0
+IN-AC-03-004,Gurdaspur,206.3,148.4
+IN-AC-03-039,Mukerian,215.3,148.9
+IN-AC-03-011,Ajnala,191.3,150.9
+IN-AC-03-009,Fatehgarh Churian,199.1,152.6
+IN-AC-03-006,Qadian,207.8,151.8
+IN-AC-03-040,Dasuya,216.2,152.4
+IN-AC-03-012,Raja Sansi,188.2,154.9
+IN-AC-03-013,Majitha,198.1,155.3
+IN-AC-03-007,Batala,204.4,153.7
+IN-AC-03-041,Urmar,214.3,155.8
+IN-AC-03-008,Sri Hargobindpur (S,206.1,155.9
+IN-AC-03-042,Sham Chaurasi (Sc),218.5,158.0
+IN-AC-03-020,Attari (Sc),190.8,158.3
+IN-AC-03-016,Amritsar West (Sc),191.6,157.6
+IN-AC-03-014,Jandiala (Sc),199.6,158.9
+IN-AC-03-018,Amritsar East,194.4,157.8
+IN-AC-03-015,Amritsar North,193.4,157.4
+IN-AC-03-043,Hoshiarpur,222.3,159.8
+IN-AC-03-017,Amritsar Central,192.7,158.2
+IN-AC-03-025,Baba Bakala (Sc),201.5,162.7
+IN-AC-03-026,Bholath,207.3,160.7
+IN-AC-03-019,Amritsar South,193.3,158.8
+IN-AC-03-038,Adampur (Sc),214.9,162.9
+IN-AC-03-021,Tarn Taran,190.6,162.2
+IN-AC-03-033,Kartarpur (Sc),210.8,164.1
+IN-AC-03-024,Khadoor Sahib,194.4,165.4
+IN-AC-03-044,Chabbewal (Sc),222.3,164.5
+IN-AC-03-022,Khem Karan,187.6,167.9
+IN-AC-03-027,Kapurthala,206.6,165.6
+IN-AC-03-028,Sultanpur Lodhi,200.3,167.2
+IN-AC-03-049,Anandpur Sahib,234.7,168.2
+IN-AC-03-023,Patti,192.1,168.9
+IN-AC-03-036,Jalandhar North,212.6,165.3
+IN-AC-03-045,Garhshankar,226.8,167.8
+IN-AC-03-029,Phagwara (Sc),217.1,167.6
+IN-AC-03-035,Jalandhar Central,212.9,166.3
+IN-AC-03-034,Jalandhar West (Sc),211.7,166.9
+IN-AC-03-037,Jalandhar Cantt.,212.4,168.9
+IN-AC-03-046,Banga (Sc),220.6,170.4
+IN-AC-03-031,Nakodar,209.9,171.7
+IN-AC-03-050,Rupnagar,236.6,172.3
+IN-AC-03-032,Shahkot,204.9,171.9
+IN-AC-03-048,Balachaur,232.0,171.8
+IN-AC-03-047,Nawan Shahr,225.4,171.8
+IN-AC-03-030,Phillaur (Sc),217.3,172.2
+IN-AC-03-075,Zira,195.4,174.2
+IN-AC-03-076,Firozpur City,187.6,174.3
+IN-AC-03-077,Firozpur Rural (Sc),187.3,177.3
+IN-AC-03-066,Gill (Sc),217.3,178.7
+IN-AC-03-059,Sahnewal,222.3,177.1
+IN-AC-03-070,Jagraon (Sc),208.3,180.3
+IN-AC-03-058,Samrala,227.9,178.2
+IN-AC-03-068,Dakha,213.1,179.3
+IN-AC-03-051,Chamkaur Sahib (Sc),234.8,178.9
+IN-AC-03-065,Ludhiana North,218.3,176.3
+IN-AC-03-060,Ludhiana East,220.2,177.1
+IN-AC-03-063,Ludhiana Central,219.2,176.9
+IN-AC-03-073,Moga,198.3,180.1
+IN-AC-03-064,Ludhiana West,217.7,177.3
+IN-AC-03-078,Guru Har Sahai,179.9,182.3
+IN-AC-03-052,Kharar,241.1,180.4
+IN-AC-03-062,Atam Nagar,218.7,177.6
+IN-AC-03-061,Ludhiana South,220.1,178.2
+IN-AC-03-074,Dharamkot,202.2,176.7
+IN-AC-03-071,Nihal Singhwala (Sc,203.7,182.8
+IN-AC-03-087,Faridkot,186.9,181.8
+IN-AC-03-067,Payal (Sc),222.2,182.4
+IN-AC-03-069,Raikot (Sc),212.7,182.6
+IN-AC-03-072,Bhagha Purana,197.7,184.1
+IN-AC-03-088,Kotkapura,190.4,184.5
+IN-AC-03-057,Khanna,227.7,182.6
+IN-AC-03-053,S.A.S.Nagar,241.4,183.2
+IN-AC-03-054,Bassi Pathana (Sc),234.4,181.6
+IN-AC-03-089,Jaitu (Sc),193.6,187.2
+IN-AC-03-086,Muktsar,184.3,186.8
+IN-AC-03-079,Jalalabad,176.1,189.1
+IN-AC-03-106,Amargarh,220.8,186.7
+IN-AC-03-055,Fatehgarh Sahib,233.9,185.9
+IN-AC-03-056,Amloh,228.4,184.4
+IN-AC-03-112,Dera Bassi,244.8,187.2
+IN-AC-03-105,Malerkotla,216.8,186.8
+IN-AC-03-080,Fazilka,170.8,192.1
+IN-AC-03-104,Mehal Kalan (Sc),211.8,188.1
+IN-AC-03-090,Rampura Phul,201.0,189.7
+IN-AC-03-111,Rajpura,239.4,187.0
+IN-AC-03-085,Malout (Sc),181.7,192.8
+IN-AC-03-084,Gidderbaha,187.0,192.0
+IN-AC-03-102,Bhadaur (Sc),207.8,192.0
+IN-AC-03-109,Nabha (Sc),226.9,189.7
+IN-AC-03-113,Ghanaur,239.0,190.1
+IN-AC-03-107,Dhuri,218.3,190.6
+IN-AC-03-110,Patiala Rural,231.0,190.4
+IN-AC-03-103,Barnala,211.7,192.1
+IN-AC-03-091,Bhucho Mandi (Sc),195.3,193.7
+IN-AC-03-114,Sanour,235.3,193.8
+IN-AC-03-083,Lambi,183.0,197.8
+IN-AC-03-082,Balluana (Sc),176.3,197.6
+IN-AC-03-116,Samana,228.4,194.4
+IN-AC-03-108,Sangrur,222.4,194.4
+IN-AC-03-095,Maur,201.8,196.9
+IN-AC-03-093,Bathinda Rural (Sc),193.2,197.6
+IN-AC-03-115,Patiala,233.7,192.9
+IN-AC-03-092,Bathinda Urban,194.7,195.3
+IN-AC-03-101,Sunam,217.2,196.4
+IN-AC-03-081,Abohar,171.6,198.7
+IN-AC-03-096,Mansa,208.0,198.4
+IN-AC-03-100,Dirba (Sc),219.3,199.6
+IN-AC-03-117,Shutrana (Sc),225.9,201.3
+IN-AC-03-094,Talwandi Sabo,196.8,202.6
+IN-AC-03-098,Budhlada (Sc),211.4,203.3
+IN-AC-03-097,Sardulgarh,205.8,206.3
+IN-AC-03-099,Lehra,221.1,204.4
+IN-AC-08-001,Sadulshahar,169.9,202.8
+IN-AC-08-003,Karanpur,161.6,207.1
+IN-AC-08-002,Ganganagar,167.4,205.1
+IN-AC-08-007,Sangaria,183.6,210.9
+IN-AC-08-008,Hanumangarh,177.3,213.0
+IN-AC-08-005,Raisinghnagar(Sc),154.3,217.5
+IN-AC-08-009,Pilibanga (Sc),175.2,218.0
+IN-AC-08-004,Suratgarh,166.9,221.3
+IN-AC-08-010,Nohar,183.5,224.8
+IN-AC-08-006,Anupgarh (Sc),144.9,227.7
+IN-AC-08-011,Bhadra,201.4,225.3
+IN-AC-08-016,Lunkaransar,163.1,242.1
+IN-AC-08-012,Khajuwala(Sc),140.2,239.9
+IN-AC-08-019,Sadulpur,208.3,235.8
+IN-AC-08-020,Taranagar,194.0,234.9
+IN-AC-08-021,Sardarshahar,180.7,240.6
+IN-AC-08-022,Churu,195.1,243.9
+IN-AC-08-015,Kolayat,136.4,256.4
+IN-AC-08-025,Pilani (Sc),211.6,244.6
+IN-AC-08-028,Mandawa,202.2,247.9
+IN-AC-08-017,Dungargarh,170.0,252.7
+IN-AC-08-026,Surajgarh,219.1,247.1
+IN-AC-08-132,Jaisalmer,79.9,278.9
+IN-AC-08-023,Ratangarh,184.4,254.0
+IN-AC-08-027,Jhunjhunu,209.0,250.7
+IN-AC-08-032,Fatehpur,195.5,252.9
+IN-AC-08-013,Bikaner West,149.3,253.4
+IN-AC-08-059,Tijara,244.8,253.2
+IN-AC-08-014,Bikaner East,153.9,254.5
+IN-AC-08-062,Behror,231.4,253.7
+IN-AC-08-133,Pokaran,113.3,276.3
+IN-AC-08-031,Khetri,217.7,254.8
+IN-AC-08-060,Kishangarh Bas,242.1,255.9
+IN-AC-08-029,Nawalgarh,205.3,257.4
+IN-AC-08-061,Mundawar,235.6,256.2
+IN-AC-08-030,Udaipurwati,211.0,257.4
+IN-AC-08-017,Dungargarh,161.1,258.1
+IN-AC-08-024,Sujangarh(Sc),178.4,262.0
+IN-AC-08-033,Lachhmangarh,195.4,260.6
+IN-AC-08-038,Neema Ka Thana,218.9,259.6
+IN-AC-08-018,Nokha,155.8,266.6
+IN-AC-08-035,Sikar,203.6,261.9
+IN-AC-08-040,Kotputli,225.6,261.9
+IN-AC-08-063,Bansur,231.9,262.8
+IN-AC-08-034,Dhod (Sc),196.2,264.9
+IN-AC-08-122,Phalodi,129.9,273.4
+IN-AC-08-070,Kaman,253.2,261.9
+IN-AC-08-106,Ladnun,184.3,266.8
+IN-AC-08-065,Alwar Rural (Sc),237.6,265.6
+IN-AC-08-067,Ramgarh,245.3,264.5
+IN-AC-08-037,Khandela,212.2,266.6
+IN-AC-08-109,Nagaur,161.8,272.6
+IN-AC-08-039,Srimadhopur,217.1,266.6
+IN-AC-08-036,Danta Ramgarh,203.4,270.1
+IN-AC-08-108,Jayal (Sc),170.7,273.3
+IN-AC-08-041,Viratnagar,224.3,268.2
+IN-AC-08-071,Nagar,251.9,266.6
+IN-AC-08-066,Alwar Urban,238.3,264.7
+IN-AC-08-107,Deedwana,185.8,272.2
+IN-AC-08-072,Deeg-Kumher,259.9,269.9
+IN-AC-08-064,Thanagazi,232.9,272.3
+IN-AC-08-123,Lohawat,133.1,281.4
+IN-AC-08-110,Khinwsar,158.8,279.9
+IN-AC-08-069,Kathumar (Sc),249.8,271.8
+IN-AC-08-042,Shahpura,219.2,271.5
+IN-AC-08-115,Nawan,198.9,276.0
+IN-AC-08-068,Rajgarh-Laxmangarh (St),242.3,272.9
+IN-AC-08-043,Chomu,214.3,273.3
+IN-AC-08-044,Phulera,202.6,279.1
+IN-AC-08-113,Makrana,185.7,278.5
+IN-AC-08-047,Amber,216.5,276.2
+IN-AC-08-048,Jamwa Ramgarh (St),225.1,277.4
+IN-AC-08-114,Parbatsar,189.1,282.4
+IN-AC-08-074,Nadbai,257.6,275.4
+IN-AC-08-073,Bharatpur,263.4,273.3
+IN-AC-08-046,Jhotwara,213.1,279.0
+IN-AC-08-086,Mahuwa,246.3,279.1
+IN-AC-08-112,Degana,175.6,285.9
+IN-AC-08-085,Bandikui,237.7,278.0
+IN-AC-08-075,Weir (Sc),252.8,279.6
+IN-AC-08-125,Osian,141.6,288.4
+IN-AC-08-088,Dausa,231.3,282.6
+IN-AC-08-099,Pushkar,188.3,289.1
+IN-AC-08-050,Vidhyadhar Nagar,216.9,280.1
+IN-AC-08-126,Bhopalgarh(Sc),155.4,290.3
+IN-AC-08-124,Shergarh,128.1,292.6
+IN-AC-08-057,Bassi (St),225.1,284.3
+IN-AC-08-076,Bayana (Sc),261.3,282.8
+IN-AC-08-087,Sikrai (Sc),238.1,283.6
+IN-AC-08-045,Dudu (Sc),203.8,288.0
+IN-AC-08-081,Todabhim(St),241.2,286.1
+IN-AC-08-111,Merta (Sc),170.2,289.4
+IN-AC-08-056,Bagru (Sc),215.2,284.9
+IN-AC-08-080,Rajakhera,276.7,284.6
+IN-AC-08-078,Bari,266.9,288.3
+IN-AC-08-098,Kishangarh,195.3,292.9
+IN-AC-08-079,Dholpur,271.9,286.3
+IN-AC-08-082,Hindaun (Sc),249.7,287.0
+IN-AC-08-077,Baseri (Sc),260.9,289.9
+IN-AC-08-083,Karauli,252.6,290.6
+IN-AC-08-058,Chaksu (Sc),219.2,289.9
+IN-AC-08-089,Lalsot (St),230.9,290.6
+IN-AC-08-134,Sheo,89.3,309.1
+IN-AC-08-091,Bamanwas(St),233.2,294.7
+IN-AC-08-130,Luni,142.4,301.5
+IN-AC-08-131,Bilara (Sc),156.9,299.1
+IN-AC-08-094,Malpura,206.4,298.6
+IN-AC-08-136,Baytoo,116.4,306.0
+IN-AC-08-100,Ajmer North,187.0,293.6
+IN-AC-08-102,Nasirabad,186.3,297.5
+IN-AC-08-095,Niwai (Sc),219.8,296.9
+IN-AC-08-116,Jaitaran,172.4,302.1
+IN-AC-08-129,Soorsagar,143.8,298.3
+IN-AC-08-127,Sardarpura,146.0,297.7
+IN-AC-08-101,Ajmer South (Sc),186.9,295.6
+IN-AC-08-090,Gangapur,243.1,294.3
+IN-AC-08-137,Pachpadra,124.9,307.1
+IN-AC-08-084,Sapotra (St),248.8,298.8
+IN-AC-08-128,Jodhpur,145.4,299.6
+IN-AC-08-092,Sawai Madhopur,234.5,302.4
+IN-AC-08-135,Barmer,101.7,312.6
+IN-AC-08-096,Tonk,215.2,303.2
+IN-AC-08-104,Masuda,188.0,304.8
+IN-AC-08-117,Sojat (Sc),162.6,306.6
+IN-AC-08-105,Kekri,198.0,307.0
+IN-AC-08-103,Beawar,174.3,308.0
+IN-AC-08-093,Khandar (Sc),233.7,305.9
+IN-AC-08-118,Pali,146.4,310.5
+IN-AC-08-097,Deoli-Uniara,216.9,308.4
+IN-AC-08-138,Siwana,125.2,314.5
+IN-AC-08-121,Sumerpur,150.1,319.0
+IN-AC-08-177,Asind,182.8,312.6
+IN-AC-08-119,Marwar Junction,159.4,316.3
+IN-AC-08-141,Ahore,138.7,321.3
+IN-AC-08-173,Bhim,171.7,314.4
+IN-AC-08-181,Shahpura(Sc),192.0,314.9
+IN-AC-08-140,Chohtan (Sc),95.2,328.7
+IN-AC-08-184,Hindoli,213.7,316.9
+IN-AC-08-185,Keshoraipatan(Sc),224.8,317.6
+IN-AC-08-139,Gudha Malani,107.4,324.4
+IN-AC-08-187,Pipalda,231.9,318.3
+IN-AC-08-178,Mandal,181.4,320.2
+IN-AC-08-182,Jahazpur,199.6,318.5
+IN-AC-08-142,Jalore (Sc),127.0,323.6
+IN-AC-08-143,Bhinmal,123.6,328.2
+IN-AC-08-179,Sahara,178.9,325.1
+IN-AC-08-120,Bali,152.6,329.6
+IN-AC-08-186,Bundi,214.3,325.2
+IN-AC-08-183,Mandalgarh,199.1,325.5
+IN-AC-08-174,Kumbhalgarh,165.0,327.8
+IN-AC-08-180,Bhilwara,186.4,323.4
+IN-AC-08-146,Sirohi,138.7,332.6
+IN-AC-08-193,Anta,233.7,327.4
+IN-AC-08-194,Kishanganj,248.8,328.7
+IN-AC-08-188,Sangod,230.3,332.5
+IN-AC-08-144,Sanchore,106.7,335.8
+IN-AC-08-175,Rajsamand,170.7,331.0
+IN-AC-08-191,Ladpura,220.9,329.4
+IN-AC-08-189,Kota North,218.1,327.1
+IN-AC-08-167,Kapasan(Sc),178.8,334.0
+IN-AC-08-145,Raniwara,122.3,336.7
+IN-AC-08-149,Gogunda(St),155.3,336.4
+IN-AC-08-190,Kota South,218.8,327.8
+IN-AC-08-192,Ramganj Mandi (Sc),219.3,335.6
+IN-AC-08-176,Nathdwara,165.9,334.8
+IN-AC-08-195,Baran?Atru (Sc),237.9,335.3
+IN-AC-08-169,Chittorgarh,187.4,334.7
+IN-AC-08-147,Pindwara Abu (St),140.9,340.8
+IN-AC-08-168,Begun,200.2,333.6
+IN-AC-08-154,Mavli,168.3,339.8
+IN-AC-08-148,Reodar(Sc),133.7,343.9
+IN-AC-08-196,Chhabra,243.6,341.3
+IN-AC-08-199,Khanpur,232.9,344.3
+IN-AC-08-150,Jhadol(St),152.4,348.8
+IN-AC-08-155,Vallabhnagar,173.1,343.9
+IN-AC-08-170,Nimbahera,190.0,344.6
+IN-AC-08-171,Bari Sadri,184.4,349.3
+IN-AC-08-152,Udaipur Rural(St),163.0,346.7
+IN-AC-08-153,Udaipur,162.9,343.4
+IN-AC-08-198,Jhalrapatan,224.6,349.1
+IN-AC-08-156,Salumber(St),167.9,352.3
+IN-AC-08-197,Dag (Sc),216.4,354.3
+IN-AC-08-200,Manohar Thana,239.3,349.8
+IN-AC-08-157,Dhariawad(St),178.3,354.6
+IN-AC-08-151,Kherwara(St),160.4,357.6
+IN-AC-08-172,Pratapgarh(St),189.9,361.6
+IN-AC-08-159,Aspur (St),170.9,362.0
+IN-AC-08-158,Dungarpur(St),159.5,364.1
+IN-AC-08-162,Ghatol (St),182.8,364.9
+IN-AC-08-160,Sagwara(St),169.9,368.7
+IN-AC-08-161,Chorasi (St),164.6,370.1
+IN-AC-08-163,Garhi (St),176.0,368.9
+IN-AC-08-164,Banswara(St),184.4,371.7
+IN-AC-08-165,Bagidora(St),175.4,376.0
+IN-AC-08-166,Kushalgarh(St),183.0,379.4
+IN-AC-08-055,Sanganer,216.5,282.0
+IN-AC-08-054,Malviya Nagar,217.7,281.6
+IN-AC-08-052,Kishan Pole,218.1,280.9
+IN-AC-08-053,Adarsh Nagar,218.8,281.4
+IN-AC-08-049,Hawa Mahal,218.4,280.8
+IN-AC-08-051,Civil Lines,217.3,280.9
+IN-AC-11-000,State boundary,550.9,259.8
+IN-AC-11-031,Lachen Mangan(Bl),554.5,263.6
+IN-AC-11-000,State boundary,541.9,269.8
+IN-AC-11-030,Djongu(Bl),550.2,266.9
+IN-AC-11-000,State boundary,547.0,268.9
+IN-AC-11-029,Kabi Lungchuk(Bl),553.5,268.4
+IN-AC-11-000,State boundary,558.3,272.4
+IN-AC-11-009,Barfung(Bl),546.4,271.1
+IN-AC-11-001,Yoksam-Tashiding(Bl),544.8,270.4
+IN-AC-11-029,Kabi Lungchuk(Bl),553.2,269.6
+IN-AC-11-016,Tumen-Lingi(Bl),550.9,270.8
+IN-AC-11-016,Tumen-Lingi(Bl),549.5,269.8
+IN-AC-11-028,Upper Burtuk,553.1,270.4
+IN-AC-11-023,Shyari(Bl),554.8,271.0
+IN-AC-11-002,Yangthang,543.0,271.4
+IN-AC-11-027,Gangtok(Bl),554.1,270.8
+IN-AC-11-015,Rangang-Yangang,548.5,271.5
+IN-AC-11-024,Martam-Rumtek (Bl),551.9,272.0
+IN-AC-11-025,Upper Tadong,553.5,271.3
+IN-AC-11-026,Arithang,553.8,271.4
+IN-AC-11-017,Khamdong-Singtam,550.3,272.3
+IN-AC-11-022,Namcheybung,553.3,272.8
+IN-AC-11-021,Gnathang-Machong(Bl),555.3,272.9
+IN-AC-11-003,Maneybung-Dentam,541.3,272.5
+IN-AC-11-004,Gyalshing-Barnyak,544.0,272.8
+IN-AC-11-014,Temi-Namphing,548.8,273.6
+IN-AC-11-020,Chujachen,556.7,274.4
+IN-AC-11-005,Rinchenpong(Bl),544.9,274.3
+IN-AC-11-019,Rhenock,553.7,274.5
+IN-AC-11-018,West Pendam(Sc),551.6,274.3
+IN-AC-11-010,Poklok-Kamrang,547.0,275.3
+IN-AC-11-013,Namthang-Rateypani,550.3,275.4
+IN-AC-11-011,Namchi-Singhithang,547.8,275.6
+IN-AC-11-008,Salghari-Zoom (Sc),545.3,275.3
+IN-AC-11-007,Soreong-Chakung,543.9,275.6
+IN-AC-11-006,Daramdin(Bl),541.2,275.5
+IN-AC-11-012,Melli,548.5,276.7
+IN-AC-11-008,Salghari-Zoom (Sc),545.7,276.0
+IN-AC-16-054,Kadamtala - Kurti,648.3,346.1
+IN-AC-16-055,Bagbassa,648.6,348.4
+IN-AC-16-056,Dharmanagar,646.5,348.1
+IN-AC-16-053,Kailasahar,643.7,350.1
+IN-AC-16-057,Jubarajnagar,646.4,350.1
+IN-AC-16-052,Chandipur,642.5,351.3
+IN-AC-16-058,Panisagar,648.7,353.5
+IN-AC-16-059,Pencharthal (St),648.1,357.4
+IN-AC-16-051,Fatikroy (Sc),642.2,353.9
+IN-AC-16-050,Pabiachhara (Sc),644.7,355.6
+IN-AC-16-045,Kamalpur,637.5,354.2
+IN-AC-16-046,Surma (Sc),638.5,355.8
+IN-AC-16-026,Asharambari (St),635.0,356.6
+IN-AC-16-048,Karamchhara (St),642.6,357.9
+IN-AC-16-060,Kanchanpur (St),647.6,362.1
+IN-AC-16-025,Khowai,632.7,356.9
+IN-AC-16-001,Simna (St),628.3,358.3
+IN-AC-16-024,Ramchandraghat(St),630.9,358.1
+IN-AC-16-047,Ambassa (St),639.3,360.0
+IN-AC-16-027,Kalyanpur-Pramodenagar,632.6,359.6
+IN-AC-16-049,Chhawmanu (St),644.3,363.0
+IN-AC-16-002,Mohanpur,626.3,359.8
+IN-AC-16-003,Bamutia (Sc),624.6,360.4
+IN-AC-16-029,Krishnapur (St),634.8,363.6
+IN-AC-16-011,Mandaibazar(St),628.5,361.9
+IN-AC-16-028,Teliamura,632.6,363.0
+IN-AC-16-004,Barjala (Sc),623.7,361.5
+IN-AC-16-005,Khayerpur,626.0,362.9
+IN-AC-16-044,Raima Valley (St),639.6,368.4
+IN-AC-16-006,Agartala,624.3,362.1
+IN-AC-16-010,Majlishpur,628.4,362.9
+IN-AC-16-007,Ramnagar,623.6,362.5
+IN-AC-16-009,Banamalipur,624.1,362.6
+IN-AC-16-008,Town Bordowali,623.6,362.8
+IN-AC-16-013,Pratapgarh (Sc),624.5,363.0
+IN-AC-16-012,Takarjala (St),629.2,365.8
+IN-AC-16-018,Suryamaninagar,624.0,364.2
+IN-AC-16-014,Badharghat (Sc),623.5,363.6
+IN-AC-16-041,Ampinagar (St),635.3,370.2
+IN-AC-16-017,Golaghati (St),626.0,366.8
+IN-AC-16-042,Amarpur,633.9,370.1
+IN-AC-16-015,Kamalasagar,622.4,365.7
+IN-AC-16-030,Bagma (St),629.7,367.8
+IN-AC-16-016,Bishalgarh,623.5,367.1
+IN-AC-16-019,Charilam (St),624.4,368.3
+IN-AC-16-020,Boxanagar,622.3,369.5
+IN-AC-16-032,Matarbari,630.6,370.9
+IN-AC-16-021,Nalchar (Sc),625.5,370.5
+IN-AC-16-031,Radhakishorepur,629.3,370.2
+IN-AC-16-033,Kakraban-Salgarah(Sc),627.7,371.7
+IN-AC-16-043,Karbook (St),636.2,377.1
+IN-AC-16-022,Sonamura,624.7,372.0
+IN-AC-16-023,Dhanpur,625.6,374.3
+IN-AC-16-036,Santirbazar (St),632.3,376.0
+IN-AC-16-034,Rajnagar (Sc),627.0,378.3
+IN-AC-16-035,Belonia,629.6,376.4
+IN-AC-16-038,Jolaibari (St),632.6,378.3
+IN-AC-16-037,Hrishyamukh,630.0,380.3
+IN-AC-16-039,Manu (St),633.6,381.8
+IN-AC-16-040,Sabroom,634.0,383.4
+IN-AC-05-003,Gangotri,297.6,174.8
+IN-AC-05-001,Purola (Sc),280.2,176.1
+IN-AC-05-004,Badrinath,317.8,183.3
+IN-AC-05-002,Yamunotri,284.3,180.9
+IN-AC-05-015,Chakrata (St),272.3,181.4
+IN-AC-05-009,Ghanshali (Sc),295.8,184.8
+IN-AC-05-007,Kedarnath,304.9,187.4
+IN-AC-05-042,Dharchula,341.3,193.7
+IN-AC-05-014,Dhanolti,279.5,188.8
+IN-AC-05-012,Pratapnagar,287.3,187.7
+IN-AC-05-008,Rudraprayag,300.3,190.7
+IN-AC-05-016,Vikasnagar,270.1,188.7
+IN-AC-05-022,Mussoorie,277.6,190.4
+IN-AC-05-017,Sahaspur,269.9,191.4
+IN-AC-05-013,Tehri,287.4,191.6
+IN-AC-05-019,Raipur,278.4,192.3
+IN-AC-05-020,Rajpur Road (Sc,276.5,191.9
+IN-AC-05-010,Deoprayag,293.2,193.9
+IN-AC-05-006,Karnprayag,308.7,196.9
+IN-AC-05-021,Dehradun Cantt.,275.0,192.3
+IN-AC-05-005,Tharali (Sc),316.0,195.9
+IN-AC-05-018,Dharampur,275.3,194.4
+IN-AC-05-011,Narendranagar,286.3,195.8
+IN-AC-05-023,Doiwala,279.1,195.8
+IN-AC-05-046,Kapkote,324.9,199.9
+IN-AC-05-027,Jwalapur (Sc),273.3,200.1
+IN-AC-05-038,Srinagar,301.3,199.0
+IN-AC-05-037,Pauri (Sc),294.0,198.6
+IN-AC-05-024,Rishikesh,280.1,199.4
+IN-AC-05-036,Yamkeshwar,286.9,202.5
+IN-AC-05-026,B.H.E.L. Ranipu,276.8,200.8
+IN-AC-05-039,Chaubattakhal,297.2,201.8
+IN-AC-05-028,Bhagwanpur (Sc),270.0,202.7
+IN-AC-05-047,Bageshwar (Sc),319.5,204.8
+IN-AC-05-025,Hardwar,279.4,202.3
+IN-AC-05-030,Pirankaliyar,273.6,203.4
+IN-AC-05-035,Hardwar Rural,280.1,204.9
+IN-AC-05-049,Salt,305.9,207.6
+IN-AC-05-048,Dwarahat,311.7,205.2
+IN-AC-05-029,Jhabrera (Sc),270.3,205.8
+IN-AC-05-031,Roorkee,272.4,204.7
+IN-AC-05-040,Lansdowne,298.2,207.8
+IN-AC-05-032,Khanpur,275.4,208.6
+IN-AC-05-045,Gangolihat (Sc),327.4,208.4
+IN-AC-05-051,Someshwar (Sc),316.6,208.6
+IN-AC-05-043,Didihat,334.9,208.6
+IN-AC-05-034,Laksar,279.0,207.8
+IN-AC-05-033,Manglaur,271.9,207.6
+IN-AC-05-041,Kotdwar,294.1,211.1
+IN-AC-05-050,Ranikhet,311.4,210.2
+IN-AC-05-052,Almora,321.0,210.7
+IN-AC-05-044,Pithoragarh,333.6,212.6
+IN-AC-05-053,Jageshwar,324.4,212.9
+IN-AC-05-058,Nainital (Sc),312.6,215.3
+IN-AC-05-061,Ramnagar,303.6,216.0
+IN-AC-05-057,Bhimtal,320.5,218.3
+IN-AC-05-054,Lohaghat,329.3,217.8
+IN-AC-05-060,Kaladhungi,310.5,220.3
+IN-AC-05-062,Jaspur,298.0,219.4
+IN-AC-05-055,Champawat,330.4,223.3
+IN-AC-05-063,Kashipur,300.6,221.4
+IN-AC-05-064,Bajpur (Sc),304.2,222.1
+IN-AC-05-056,Lalkuwa,319.0,223.8
+IN-AC-05-059,Haldwani,315.1,221.7
+IN-AC-05-065,Gadarpur,308.5,224.9
+IN-AC-05-070,Khatima,326.4,229.6
+IN-AC-05-068,Sitarganj,318.3,228.1
+IN-AC-05-066,Rudrapur,310.6,227.1
+IN-AC-05-067,Kichha,314.9,228.3
+IN-AC-05-069,Nanak Matta (St,323.5,228.6
+IN-AC-09-001,Behat,267.3,195.3
+IN-AC-09-002,Nakur,259.1,200.8
+IN-AC-09-004,Saharanpur,265.3,201.3
+IN-AC-09-003,Saharanpur Nagar,264.0,201.4
+IN-AC-09-006,Rampur Maniharan(Sc),263.3,204.9
+IN-AC-09-005,Deoband,266.4,208.1
+IN-AC-09-007,Gangoh,257.9,207.3
+IN-AC-09-017,Najibabad,283.1,209.8
+IN-AC-09-019,Barhapur,291.9,214.5
+IN-AC-09-013,Purqazi (Sc),269.7,212.3
+IN-AC-09-008,Kairana,254.4,214.4
+IN-AC-09-009,Thana Bhawan,258.7,212.6
+IN-AC-09-012,Charthawal,265.3,213.9
+IN-AC-09-022,Bijnor,278.9,215.9
+IN-AC-09-018,Nagina (Sc),284.6,214.2
+IN-AC-09-016,Meerapur,274.0,216.4
+IN-AC-09-010,Shamli,257.4,217.3
+IN-AC-09-014,Muzaffar Nagar,268.7,215.0
+IN-AC-09-011,Budhana,262.0,218.7
+IN-AC-09-015,Khatauli,269.2,219.0
+IN-AC-09-020,Dhampur,290.1,219.3
+IN-AC-09-021,Nehtaur (Sc),285.1,218.9
+IN-AC-09-050,Chhaprauli,257.3,223.1
+IN-AC-09-044,Sardhana,268.9,223.1
+IN-AC-09-023,Chandpur,282.4,223.3
+IN-AC-09-045,Hastinapur (Sc),274.5,225.4
+IN-AC-09-026,Thakurdwara,296.8,223.6
+IN-AC-09-043,Siwalkhas,263.5,225.6
+IN-AC-09-024,Noorpur,289.1,223.4
+IN-AC-09-051,Baraut,255.6,225.7
+IN-AC-09-025,Kanth,292.9,227.4
+IN-AC-09-034,Suar,302.6,226.1
+IN-AC-09-046,Kithore,271.3,229.4
+IN-AC-09-039,Dhanaura (Sc),281.3,229.0
+IN-AC-09-047,Meerut Cantt.,267.6,226.8
+IN-AC-09-040,Naugawan Sadat,286.9,229.9
+IN-AC-09-052,Baghpat,257.6,229.8
+IN-AC-09-027,Moradabad Rural,296.9,229.3
+IN-AC-09-035,Chamraua,303.8,230.3
+IN-AC-09-048,Meerut,267.7,228.2
+IN-AC-09-036,Bilaspur,308.0,232.9
+IN-AC-09-049,Meerut South,266.9,229.3
+IN-AC-09-029,Kundarki,296.8,232.4
+IN-AC-09-057,Modi Nagar,263.8,231.8
+IN-AC-09-041,Amroha,288.9,230.7
+IN-AC-09-054,Muradnagar,260.8,232.7
+IN-AC-09-060,Garhmukteshwar,275.9,233.4
+IN-AC-09-118,Baheri,315.3,233.5
+IN-AC-09-028,Moradabad Nagar,294.9,230.9
+IN-AC-09-053,Loni,257.1,233.3
+IN-AC-09-127,Pilibhit,320.8,234.9
+IN-AC-09-032,Asmoli,289.0,238.0
+IN-AC-09-037,Rampur,301.9,233.6
+IN-AC-09-042,Hasanpur,282.8,236.8
+IN-AC-09-033,Sambhal,290.8,235.5
+IN-AC-09-059,Hapur (Sc),270.4,235.3
+IN-AC-09-128,Barkhera,325.0,237.5
+IN-AC-09-129,Puranpur (Sc),332.9,237.8
+IN-AC-09-058,Dholana,264.1,236.0
+IN-AC-09-119,Meerganj,307.9,238.2
+IN-AC-09-120,Bhojipura,312.8,238.8
+IN-AC-09-056,Ghaziabad,260.0,236.1
+IN-AC-09-066,Syana,276.5,238.1
+IN-AC-09-055,Sahibabad,258.7,235.6
+IN-AC-09-038,Milak (Sc),301.8,238.4
+IN-AC-09-061,Noida,259.0,238.2
+IN-AC-09-030,Bilari,296.5,238.3
+IN-AC-09-137,Palia,343.9,242.8
+IN-AC-09-062,Dadri,262.9,239.8
+IN-AC-09-065,Bulandshahr,271.9,241.4
+IN-AC-09-064,Sikandrabad,268.3,241.5
+IN-AC-09-121,Nawabganj,317.6,240.4
+IN-AC-09-067,Anupshahr,277.1,241.3
+IN-AC-09-031,Chandausi (Sc),294.4,241.9
+IN-AC-09-126,Aonla,305.1,244.2
+IN-AC-09-063,Jewar,263.9,246.1
+IN-AC-09-111,Gunnaur,287.5,246.7
+IN-AC-09-138,Nighasan,351.3,245.8
+IN-AC-09-112,Bisauli (Sc),298.1,245.0
+IN-AC-09-134,Powayan (Sc),330.9,246.9
+IN-AC-09-124,Bareilly,311.7,243.1
+IN-AC-09-123,Bithari Chainpur,311.2,245.4
+IN-AC-09-069,Shikarpur,276.6,247.3
+IN-AC-09-130,Bisalpur,324.0,246.4
+IN-AC-09-068,Debai,283.4,247.4
+IN-AC-09-282,Balha (Sc),361.4,249.9
+IN-AC-09-122,Faridpur (Sc),316.4,248.2
+IN-AC-09-070,Khurja (Sc),271.8,247.7
+IN-AC-09-125,Bareilly Cantt.,312.4,244.6
+IN-AC-09-113,Sahaswan,295.9,249.6
+IN-AC-09-139,Gola Gokrannath,339.8,251.1
+IN-AC-09-115,Badaun,305.9,249.9
+IN-AC-09-131,Katra,316.5,254.2
+IN-AC-09-133,Tilhar,325.1,251.6
+IN-AC-09-114,Bilsi,299.5,252.0
+IN-AC-09-071,Khair (Sc),267.6,253.1
+IN-AC-09-117,Dataganj,311.0,255.4
+IN-AC-09-073,Atrauli,286.0,252.8
+IN-AC-09-072,Barauli,277.1,253.4
+IN-AC-09-144,Mohammdi,332.8,255.1
+IN-AC-09-140,Sri Nagar (Sc),347.1,252.1
+IN-AC-09-141,Dhaurahra,357.0,255.6
+IN-AC-09-116,Shekhupur,304.6,256.7
+IN-AC-09-100,Kasganj,292.5,256.5
+IN-AC-09-283,Nanpara,367.4,256.7
+IN-AC-09-135,Shahjahanpur,326.1,255.4
+IN-AC-09-077,Iglas (Sc),273.3,259.4
+IN-AC-09-082,Mant,267.0,260.1
+IN-AC-09-074,Chharra,283.6,258.1
+IN-AC-09-136,Dadraul,323.3,258.1
+IN-AC-09-142,Lakhimpur,350.1,256.1
+IN-AC-09-081,Chhata,262.0,259.9
+IN-AC-09-076,Aligarh,277.5,256.4
+IN-AC-09-143,Kasta (Sc),341.1,258.1
+IN-AC-09-101,Amanpur,296.4,259.6
+IN-AC-09-289,Bhinga,378.9,259.6
+IN-AC-09-284,Matera,368.9,260.1
+IN-AC-09-075,Koil,278.0,258.3
+IN-AC-09-102,Patiyali,302.0,260.9
+IN-AC-09-147,Hargaon (Sc),350.6,260.5
+IN-AC-09-290,Shrawasti,376.1,262.4
+IN-AC-09-080,Sikandra Rao,282.8,261.9
+IN-AC-09-145,Maholi,340.7,262.4
+IN-AC-09-291,Tulsipur,386.4,262.8
+IN-AC-09-078,Hathras (Sc),278.1,262.4
+IN-AC-09-132,Jalalabad,315.4,263.1
+IN-AC-09-105,Marhara,291.5,262.9
+IN-AC-09-148,Laharpur,353.9,262.0
+IN-AC-09-155,Shahabad,328.2,263.8
+IN-AC-09-157,Gopamau (Sc),335.4,265.5
+IN-AC-09-285,Mahasi,365.3,265.2
+IN-AC-09-192,Kaimganj (Sc),310.1,265.4
+IN-AC-09-154,Sawaijpur,322.9,268.4
+IN-AC-09-150,Sevata,360.4,266.8
+IN-AC-09-292,Gainsari,395.2,265.7
+IN-AC-09-083,Goverdhan,263.2,267.5
+IN-AC-09-149,Biswan,352.8,266.4
+IN-AC-09-103,Aliganj,303.7,266.9
+IN-AC-09-079,Sadabad,276.2,267.9
+IN-AC-09-193,Amritpur,314.4,268.0
+IN-AC-09-104,Etah,294.9,267.3
+IN-AC-09-106,Jalesar (Sc),285.4,267.9
+IN-AC-09-286,Bahraich,372.8,266.1
+IN-AC-09-146,Sitapur,345.9,266.2
+IN-AC-09-085,Baldev (Sc),269.5,269.4
+IN-AC-09-084,Mathura,267.4,266.8
+IN-AC-09-156,Hardoi,330.6,268.4
+IN-AC-09-294,Balrampur (Sc),386.6,269.7
+IN-AC-09-096,Jasrana,290.4,271.1
+IN-AC-09-287,Payagpur,373.9,270.5
+IN-AC-09-153,Misrikh (Sc),342.9,269.4
+IN-AC-09-151,Mahmoodabad,357.3,270.1
+IN-AC-09-302,Shohratgarh,403.8,269.3
+IN-AC-09-107,Mainpuri,299.5,270.9
+IN-AC-09-288,Kaiserganj,368.1,272.4
+IN-AC-09-316,Nautanwa,420.1,271.4
+IN-AC-09-194,Farrukhabad,316.1,270.2
+IN-AC-09-303,Kapilvastu (Sc),409.4,271.9
+IN-AC-09-108,Bhongaon,306.5,272.5
+IN-AC-09-086,Etmadpur,278.3,271.9
+IN-AC-09-295,Mehnaun,383.1,272.4
+IN-AC-09-152,Sidhauli (Sc),349.5,272.8
+IN-AC-09-305,Itwa,398.4,271.6
+IN-AC-09-317,Siswa,426.9,273.2
+IN-AC-09-158,Sandi (Sc),331.9,272.5
+IN-AC-09-095,Tundla (Sc),284.2,273.7
+IN-AC-09-195,Bhojpur,314.9,272.5
+IN-AC-09-293,Utraula,390.8,274.0
+IN-AC-09-110,Karhal,297.9,276.0
+IN-AC-09-297,Katra Bazar,376.0,273.6
+IN-AC-09-160,Balamau (Sc),339.6,276.4
+IN-AC-09-318,Maharajganj (Sc),422.2,274.7
+IN-AC-09-266,Kursi,357.1,275.1
+IN-AC-09-091,Fatehpur Sikri,267.9,275.8
+IN-AC-09-090,Agra Rural (Sc),275.9,275.4
+IN-AC-09-315,Pharenda,414.0,274.6
+IN-AC-09-267,Ram Nagar,364.9,276.4
+IN-AC-09-329,Khadda,429.4,276.4
+IN-AC-09-306,Domariyaganj,398.5,275.3
+IN-AC-09-304,Bansi,405.8,275.4
+IN-AC-09-089,Agra North,274.6,274.0
+IN-AC-09-098,Shikohabad,287.8,277.6
+IN-AC-09-099,Sirsaganj,293.0,278.1
+IN-AC-09-109,Kishani (Sc),307.0,276.9
+IN-AC-09-296,Gonda,380.3,276.0
+IN-AC-09-159,Bilgram-Mallanwan,330.4,277.5
+IN-AC-09-088,Agra South,274.9,274.9
+IN-AC-09-196,Chhibramau,316.5,277.2
+IN-AC-09-161,Sandila,344.6,276.7
+IN-AC-09-087,Agra Cantt. (Sc),275.4,275.8
+IN-AC-09-097,Firozabad,285.5,275.6
+IN-AC-09-198,Kannauj (Sc),324.1,279.4
+IN-AC-09-093,Fatehabad,280.5,279.1
+IN-AC-09-300,Mankapur (Sc),384.3,280.1
+IN-AC-09-298,Colonelganj,372.9,279.0
+IN-AC-09-301,Gaura,391.4,278.8
+IN-AC-09-169,Bakshi Kaa Talab,352.9,280.0
+IN-AC-09-320,Caimpiyarganj,413.4,281.2
+IN-AC-09-309,Rudhauli,399.8,279.9
+IN-AC-09-268,Barabanki,358.3,280.4
+IN-AC-09-299,Tarabganj,378.6,281.0
+IN-AC-09-092,Kheragarh,269.1,282.2
+IN-AC-09-168,Malihabad (Sc),346.6,281.3
+IN-AC-09-312,Menhdawal,408.2,280.7
+IN-AC-09-319,Paniyra,421.0,279.9
+IN-AC-09-197,Tirwa,317.1,281.6
+IN-AC-09-330,Padrauna,432.1,281.1
+IN-AC-09-269,Zaidpur (Sc),361.6,283.1
+IN-AC-09-162,Bangermau,333.5,283.3
+IN-AC-09-199,Jaswantnagar,302.6,282.3
+IN-AC-09-094,Bah,289.0,283.0
+IN-AC-09-270,Dariyabad,368.9,284.0
+IN-AC-09-164,Mohan (Sc),344.6,285.5
+IN-AC-09-335,Ramkola (Sc),425.5,282.1
+IN-AC-09-308,Kaptanganj,395.6,284.9
+IN-AC-09-163,Safipur (Sc),337.9,284.7
+IN-AC-09-307,Harraiya,390.9,284.8
+IN-AC-09-209,Bilhaur (Sc),330.3,286.5
+IN-AC-09-202,Bidhuna,315.8,285.6
+IN-AC-09-321,Pipraich,418.5,283.5
+IN-AC-09-172,Lucknow North,352.1,282.3
+IN-AC-09-313,Khalilabad,406.3,285.2
+IN-AC-09-200,Etawah,300.8,285.8
+IN-AC-09-173,Lucknow East,353.3,282.4
+IN-AC-09-171,Lucknow West,350.6,283.4
+IN-AC-09-332,Fazilnagar,434.1,286.8
+IN-AC-09-324,Sahajanwa,412.6,286.1
+IN-AC-09-334,Hata,425.1,285.6
+IN-AC-09-333,Kushinagar,430.9,285.7
+IN-AC-09-331,Tamkuhi Raj,439.0,286.6
+IN-AC-09-310,Basti Sadar,401.6,285.0
+IN-AC-09-201,Bharthana (Sc),305.9,289.1
+IN-AC-09-174,Lucknow Central,352.6,283.6
+IN-AC-09-271,Rudauli,372.1,286.9
+IN-AC-09-170,Sarojini Nagar,350.3,286.1
+IN-AC-09-322,Gorakhpur Urban,416.4,285.8
+IN-AC-09-175,Lucknow Cantt.,352.3,284.5
+IN-AC-09-176,Mohanlalganj (Sc),355.2,288.4
+IN-AC-09-205,Rasulabad (Sc),323.3,288.8
+IN-AC-09-274,Bikapur,380.8,288.3
+IN-AC-09-275,Ayodhya,386.1,286.9
+IN-AC-09-203,Dibiyapur,313.4,289.6
+IN-AC-09-323,Gorakhpur Rural,417.5,288.0
+IN-AC-09-272,Haidergarh (Sc),364.0,288.7
+IN-AC-09-338,Pathardeva,429.6,289.4
+IN-AC-09-326,Chauri-Chaura,420.7,289.6
+IN-AC-09-311,Mahadewa (Sc),400.8,289.0
+IN-AC-09-273,Milkipur (Sc),376.9,290.0
+IN-AC-09-276,Goshainganj,386.8,291.2
+IN-AC-09-337,Deoria,425.4,291.5
+IN-AC-09-165,Unnao,339.1,291.5
+IN-AC-09-314,Dhanghata (Sc),407.6,291.6
+IN-AC-09-325,Khajani (Sc),412.0,292.1
+IN-AC-09-277,Katehari,391.7,293.0
+IN-AC-09-167,Purwa,348.3,293.1
+IN-AC-09-184,Jagdishpur (Sc),372.8,292.8
+IN-AC-09-210,Bithoor,335.4,295.7
+IN-AC-09-327,Bansgaon (Sc),417.4,293.0
+IN-AC-09-339,Rampur Karkhana,429.5,294.0
+IN-AC-09-204,Auraiya (Sc),311.9,293.1
+IN-AC-09-206,Akbarpur-Raniya,328.1,294.4
+IN-AC-09-177,Bachhrawan (Sc),359.1,294.4
+IN-AC-09-278,Tanda,399.1,292.9
+IN-AC-09-178,Tiloi,366.3,295.8
+IN-AC-09-336,Rudrapur,422.4,293.8
+IN-AC-09-207,Sikandra,320.4,295.7
+IN-AC-09-211,Kalyanpur,335.3,293.0
+IN-AC-09-281,Akbarpur,395.2,295.4
+IN-AC-09-279,Alapur (Sc),405.2,295.4
+IN-AC-09-187,Isauli,378.9,296.6
+IN-AC-09-328,Chillupar,418.1,296.4
+IN-AC-09-214,Arya Nagar,336.9,293.6
+IN-AC-09-213,Sishamau,336.5,293.6
+IN-AC-09-212,Govindnagar,335.0,294.2
+IN-AC-09-166,Bhagwantnagar,344.9,298.3
+IN-AC-09-185,Gauriganj,372.9,298.0
+IN-AC-09-216,Kanpur Cantt.,337.4,294.6
+IN-AC-09-188,Sultanpur,382.3,297.6
+IN-AC-09-219,Madhaugarh,305.9,301.5
+IN-AC-09-342,Barhaj,426.4,297.9
+IN-AC-09-215,Kidwai Nagar,335.9,294.7
+IN-AC-09-340,Bhatpar Rani,434.4,297.2
+IN-AC-09-280,Jalalpur,399.1,298.0
+IN-AC-09-220,Kalpi,317.5,302.0
+IN-AC-09-343,Atrauliya,406.1,298.4
+IN-AC-09-217,Maharajpur,339.1,297.9
+IN-AC-09-179,Harchandpur,354.9,298.3
+IN-AC-09-189,Sadar,388.4,298.1
+IN-AC-09-344,Gopalpur,411.4,299.4
+IN-AC-09-341,Salempur (Sc),431.1,299.5
+IN-AC-09-208,Bhognipur,325.7,299.9
+IN-AC-09-180,Rae Bareli,361.3,300.2
+IN-AC-09-345,Sagri,416.1,300.1
+IN-AC-09-218,Ghatampur (Sc),331.9,303.0
+IN-AC-09-191,Kadipur (Sc),393.3,302.5
+IN-AC-09-186,Amethi,377.1,301.7
+IN-AC-09-353,Madhuban,422.8,301.5
+IN-AC-09-349,Phoolpur-Pawai,401.1,302.0
+IN-AC-09-190,Lambhua,386.1,302.5
+IN-AC-09-182,Sareni,352.1,302.5
+IN-AC-09-181,Salon (Sc),366.1,303.7
+IN-AC-09-238,Jahanabad,338.9,304.5
+IN-AC-09-354,Ghosi,420.9,304.1
+IN-AC-09-221,Orai (Sc),310.0,306.5
+IN-AC-09-365,Shahganj,395.5,304.5
+IN-AC-09-357,Belthara Road (Sc),427.9,304.3
+IN-AC-09-348,Nizamabad,406.5,303.2
+IN-AC-09-244,Rampur Khas,369.7,305.1
+IN-AC-09-228,Hamirpur,330.3,311.6
+IN-AC-09-359,Sikanderpur,434.0,305.8
+IN-AC-09-239,Bindki,345.0,306.2
+IN-AC-09-346,Mubarakpur,414.4,306.3
+IN-AC-09-347,Azamgarh,411.1,306.1
+IN-AC-09-355,Muhammadabad-Gohna (Sc),417.6,306.8
+IN-AC-09-183,Unchahar,360.5,307.4
+IN-AC-09-242,Husainganj,356.8,308.1
+IN-AC-09-248,Pratapgarh,380.1,307.1
+IN-AC-09-249,Patti,386.9,307.2
+IN-AC-09-350,Didarganj,404.0,307.7
+IN-AC-09-240,Fatehpur,351.4,308.7
+IN-AC-09-247,Bishwavnathganj,376.4,308.9
+IN-AC-09-366,Jaunpur,398.0,308.7
+IN-AC-09-356,Mau,422.9,307.6
+IN-AC-09-362,Bansdih,438.6,308.9
+IN-AC-09-364,Badlapur,390.6,308.8
+IN-AC-09-358,Rasara,429.7,309.3
+IN-AC-09-225,Garautha,303.6,315.1
+IN-AC-09-352,Mehnagar (Sc),411.0,311.1
+IN-AC-09-363,Bairia,445.7,310.9
+IN-AC-09-351,Lalganj (Sc),405.5,311.1
+IN-AC-09-250,Raniganj,382.4,311.0
+IN-AC-09-229,Rath (Sc),319.3,313.6
+IN-AC-09-245,Babaganj (Sc),368.6,310.0
+IN-AC-09-241,Ayah Shah,347.2,311.4
+IN-AC-09-360,Phephana,433.4,313.1
+IN-AC-09-232,Tindwari,338.0,315.8
+IN-AC-09-367,Malhani,395.8,311.9
+IN-AC-09-377,Zahoorabad,426.4,311.7
+IN-AC-09-376,Jangipur (Sc),422.1,313.6
+IN-AC-09-361,Ballia Nagar,437.8,312.7
+IN-AC-09-373,Jakhanian,415.9,313.2
+IN-AC-09-371,Zafrabad,400.3,314.4
+IN-AC-09-368,Mungra Badshahpur,388.0,314.4
+IN-AC-09-243,Khaga (Sc),356.9,315.5
+IN-AC-09-251,Sirathu,363.6,314.8
+IN-AC-09-246,Kunda,369.0,314.0
+IN-AC-09-372,Kerakat (Sc),405.0,315.1
+IN-AC-09-255,Soraon (Sc),379.0,315.5
+IN-AC-09-254,Phaphamau,374.4,316.2
+IN-AC-09-369,Machhlishahr (Sc),392.6,316.3
+IN-AC-09-233,Baberu,347.9,317.9
+IN-AC-09-224,Mauranipur (Sc),303.4,321.7
+IN-AC-09-378,Mohammadabad,427.1,316.3
+IN-AC-09-374,Saidpur (Sc),412.1,317.3
+IN-AC-09-370,Mariyahu,396.6,318.1
+IN-AC-09-257,Pratappur,385.3,318.8
+IN-AC-09-222,Babina,292.2,322.1
+IN-AC-09-375,Ghazipur,419.0,318.4
+IN-AC-09-230,Mahoba,324.3,322.4
+IN-AC-09-256,Phulpur,380.2,319.6
+IN-AC-09-253,Chail,370.9,320.8
+IN-AC-09-231,Charkhari,317.6,324.4
+IN-AC-09-384,Pindra,401.8,319.7
+IN-AC-09-385,Ajagara (Sc),406.4,319.8
+IN-AC-09-223,Jhansi Nagar,290.5,320.2
+IN-AC-09-379,Zamania,424.5,320.8
+IN-AC-09-236,Chitrakoot,352.4,324.3
+IN-AC-09-381,Sakaldiha,412.7,321.9
+IN-AC-09-252,Manjhanpur (Sc),362.9,321.6
+IN-AC-09-392,Bhadohi,393.2,321.2
+IN-AC-09-262,Allahabad North,376.9,319.6
+IN-AC-09-382,Saiyadraja,417.1,323.1
+IN-AC-09-261,Allahabad West,375.6,319.9
+IN-AC-09-235,Banda,340.8,322.6
+IN-AC-09-258,Handia,385.9,322.2
+IN-AC-09-263,Allahabad South,376.6,321.1
+IN-AC-09-386,Shivpur,407.4,322.2
+IN-AC-09-393,Gyanpur,389.0,324.0
+IN-AC-09-260,Karachhana,378.6,324.5
+IN-AC-09-234,Naraini (Sc),342.5,327.1
+IN-AC-09-391,Sevapuri,400.4,324.8
+IN-AC-09-237,Manikpur,358.8,328.6
+IN-AC-09-387,Rohaniya,404.6,324.4
+IN-AC-09-388,Varanasi North,406.1,323.0
+IN-AC-09-394,Aurai (Sc),394.7,324.5
+IN-AC-09-264,Bara (Sc),373.1,327.0
+IN-AC-09-389,Varanasi South,407.1,323.8
+IN-AC-09-380,Mughalsarai,410.6,325.8
+IN-AC-09-259,Meja,384.5,327.5
+IN-AC-09-390,Varanasi Cantt.,407.0,324.9
+IN-AC-09-397,Majhawan,397.3,329.5
+IN-AC-09-395,Chhanbey (Sc),388.6,333.9
+IN-AC-09-226,Lalitpur,286.9,337.0
+IN-AC-09-383,Chakia (Sc),412.6,332.5
+IN-AC-09-396,Mirzapur,392.4,327.9
+IN-AC-09-398,Chunar,404.9,328.0
+IN-AC-09-265,Koraon (Sc),381.0,332.3
+IN-AC-09-399,Marihan,401.1,333.1
+IN-AC-09-227,Mehroni (Sc),292.1,344.6
+IN-AC-09-400,Ghorawal,402.2,339.3
+IN-AC-09-401,Robertsganj,414.1,344.1
+IN-AC-09-402,Obra,404.5,347.3
+IN-AC-09-403,Duddhi (Sc),407.4,355.4
+IN-AC-33-169,Nannilam,314.9,702.6

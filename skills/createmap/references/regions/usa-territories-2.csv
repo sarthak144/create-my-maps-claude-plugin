@@ -1,0 +1,62 @@
+id,name,center_x,center_y
+US-WY,Wyoming,232.1,322.9
+US-WV,West Virginia,596.2,395.0
+US-WI,Wisconsin,467.1,289.7
+US-WA,Washington,55.5,241.9
+US-VT,Vermont,698.8,307.4
+US-VA,Virginia,605.9,410.8
+US-UT,Utah,178.7,384.7
+US-TX,Texas,331.0,519.0
+US-TN,Tennessee,519.0,447.0
+US-SD,South Dakota,329.1,300.5
+US-SC,South Carolina,585.8,482.8
+US-RI,Rhode Island,711.2,347.4
+US-PA,Pennsylvania,630.4,359.1
+US-OR,Oregon,59.4,302.4
+US-OK,Oklahoma,349.4,455.2
+US-OH,Ohio,563.0,372.9
+US-NY,New York,654.0,327.1
+US-NV,Nevada,105.8,401.2
+US-NM,New Mexico,252.2,473.5
+US-NJ,New Jersey,668.9,374.0
+US-NH,New Hampshire,709.8,304.9
+US-NE,Nebraska,336.5,350.1
+US-ND,North Dakota,328.4,238.6
+US-NC,North Carolina,600.0,456.6
+US-MT,Montana,198.9,253.1
+US-MS,Mississippi,467.2,498.7
+US-MO,Missouri,432.9,405.2
+US-MN,Minnesota,420.2,257.6
+US-MI,Michigan,513.2,285.9
+US-ME,Maine,744.5,280.7
+US-MD,Maryland,635.0,396.7
+US-MA,Massachusetts,708.7,340.3
+US-LA,Louisiana,446.4,524.0
+US-KY,Kentucky,521.9,414.0
+US-KS,Kansas,354.7,402.3
+US-IN,Indiana,512.8,380.2
+US-IL,Illinois,472.0,380.2
+US-ID,Idaho,144.4,275.0
+US-IA,Iowa,420.4,342.3
+US-HI,Hawaii,278.6,640.2
+US-GA,Georgia,555.3,497.4
+US-FL,Florida,547.6,572.8
+US-DE,Delaware,659.6,391.5
+US-DC,District of Columbia,638.1,395.6
+US-CT,Connecticut,694.9,350.0
+US-CO,Colorado,258.8,393.6
+US-CA,California,76.2,420.9
+US-AZ,Arizona,173.4,473.5
+US-AR,Arkansas,436.8,464.4
+US-AL,Alabama,509.3,498.3
+US-AK,Alaska,113.0,657.2
+US-AS,American Samoa,464.3,635.0
+US-GU,Guam,692.9,705.3
+US-MP,Northern Mariana Islands,700.9,586.3
+US-PR,Puerto Rico,461.5,701.4
+US-VI,US Virgin Islands,590.0,704.7
+FM,Federated States of Micronesia,777.2,699.3
+MH,Marshall Islands,888.3,705.9
+PW,Palau,787.1,590.2
+div1,Divider 1,204.2,608.9
+div2,Divider 2,679.8,630.6

@@ -1,0 +1,544 @@
+id,name,center_x,center_y
+IN-PC-02-001,Kangra,224.4,131.5
+IN-PC-02-002,Mandi,255.7,139.5
+IN-PC-02-003,Hamirpur,226.4,152.3
+IN-PC-02-004,Shimla (Sc),252.8,171.8
+IN-PC-03-001,Gurdaspur,200.8,140.9
+IN-PC-03-002,Amritsar,187.2,149.6
+IN-PC-03-003,Khadoor Sahib,190.4,162.1
+IN-PC-03-004,Jalandhar (Sc),203.6,161.9
+IN-PC-03-005,Hoshiarpur (Sc),207.8,153.6
+IN-PC-03-006,Anandpur Sahib,224.1,169.3
+IN-PC-03-007,Ludhiana,207.1,174.4
+IN-PC-03-008,Fatehgarh Sahib (Sc),216.9,177.0
+IN-PC-03-009,Faridkot (Sc),189.1,178.9
+IN-PC-03-010,Firozpur,175.6,181.1
+IN-PC-03-011,Bathinda,190.9,195.3
+IN-PC-03-012,Sangrur,207.9,190.2
+IN-PC-03-013,Patiala,223.3,188.8
+IN-PC-05-001,Tehri Garhwal,279.1,173.0
+IN-PC-05-002,Garhwal,296.0,190.6
+IN-PC-05-003,Almora (Sc),318.6,197.9
+IN-PC-05-004,Nainital-Udhamsingh Nagar,302.3,215.9
+IN-PC-05-005,Hardwar,267.2,196.6
+IN-PC-06-001,Ambala (Sc),243.1,182.1
+IN-PC-06-002,Kurukshetra,235.3,197.7
+IN-PC-06-003,Sirsa (Sc),199.5,204.8
+IN-PC-06-004,Hisar,213.1,215.6
+IN-PC-06-005,Karnal,237.8,205.6
+IN-PC-06-006,Sonipat,233.9,216.4
+IN-PC-06-007,Rohtak,230.8,228.6
+IN-PC-06-008,Bhiwani-Mahendragarh,215.1,235.6
+IN-PC-06-009,Gurgaon,236.6,243.1
+IN-PC-06-010,Faridabad,249.1,241.0
+IN-PC-07-001,Chandni Chowk,245.6,228.2
+IN-PC-08-009,Bharatpur (Sc),242.7,264.3
+IN-PC-08-010,Karauli -Dholpur(Sc),250.5,283.6
+IN-PC-08-011,Dausa (St),223.8,272.3
+IN-PC-08-012,Tonk - Sawai Madhopur,216.6,291.9
+IN-PC-08-013,Ajmer,189.4,288.0
+IN-PC-08-014,Nagaur,170.8,267.6
+IN-PC-08-015,Pali,147.8,300.1
+IN-PC-08-016,Jodhpur,122.1,273.4
+IN-PC-08-017,Barmer,93.0,287.6
+IN-PC-08-018,Jalore,118.8,319.9
+IN-PC-08-019,Udaipur (St),159.4,336.8
+IN-PC-08-020,Banswara(St),166.8,359.6
+IN-PC-07-002,North East Delhi,247.1,227.1
+IN-PC-08-021,Chittorgarh,184.2,337.6
+IN-PC-08-022,Rajsamand,165.1,298.6
+IN-PC-08-023,Bhilwara,191.4,309.4
+IN-PC-08-024,Kota,215.6,316.5
+IN-PC-08-025,Jhalawar-Baran,227.0,332.1
+IN-PC-09-001,Saharanpur,258.1,195.2
+IN-PC-09-002,Kairana,249.8,202.2
+IN-PC-09-003,Muzaffarnagar,257.4,211.6
+IN-PC-07-003,East Delhi,248.6,230.3
+IN-PC-07-004,New Delhi,245.4,230.4
+IN-PC-09-004,Bijnor,267.5,212.7
+IN-PC-09-005,Nagina (Sc),276.9,207.8
+IN-PC-09-006,Moradabad,283.5,213.4
+IN-PC-07-005,North West Delhi (Sc),243.4,226.1
+IN-PC-07-006,West Delhi,240.9,230.6
+IN-PC-09-007,Rampur,295.7,225.6
+IN-PC-09-008,Sambhal,284.4,229.1
+IN-PC-09-009,Amroha,273.1,226.5
+IN-PC-09-010,Meerut,261.6,224.4
+IN-PC-09-011,Baghpat,251.9,220.1
+IN-PC-09-012,Ghaziabad,253.4,227.3
+IN-PC-09-013,Gautam Buddha Nagar,258.3,236.1
+IN-PC-09-014,Bulandshahr (Sc),269.9,235.8
+IN-PC-09-015,Aligarh,267.8,246.4
+IN-PC-09-016,Hathras (Sc),270.5,255.1
+IN-PC-07-007,South Delhi,246.8,233.2
+IN-PC-08-001,Ganganagar(Sc),163.6,206.2
+IN-PC-08-002,Bikaner (Sc),142.7,240.0
+IN-PC-08-003,Churu,184.5,235.2
+IN-PC-08-004,Jhunjhunu,201.0,243.6
+IN-PC-08-005,Sikar,200.3,257.3
+IN-PC-08-006,Jaipur Rural,208.9,263.4
+IN-PC-08-007,Jaipur,208.7,275.0
+IN-PC-08-008,Alwar,230.2,246.9
+IN-PC-09-017,Mathura,256.9,255.8
+IN-PC-09-018,Agra (Sc),273.3,261.9
+IN-PC-09-019,Fatehpur Sikri,270.1,270.4
+IN-PC-09-020,Firozabad,279.6,266.1
+IN-PC-09-021,Mainpuri,293.8,267.4
+IN-PC-09-022,Etah,287.6,253.7
+IN-PC-09-023,Badaun,287.0,240.8
+IN-PC-09-024,Aonla,300.1,243.4
+IN-PC-10-025,Khagaria,481.8,307.4
+IN-PC-10-026,Bhagalpur,499.3,314.4
+IN-PC-10-027,Banka,490.9,323.8
+IN-PC-10-028,Munger,473.4,315.3
+IN-PC-10-029,Nalanda,458.1,316.4
+IN-PC-10-030,Patna Sahib,453.3,308.6
+IN-PC-10-031,Pataliputra,443.0,309.9
+IN-PC-10-032,Arrah,433.4,310.3
+IN-PC-09-025,Bareilly,303.4,231.6
+IN-PC-09-026,Pilibhit,315.1,232.9
+IN-PC-09-027,Shahjahanpur (Sc),313.8,246.6
+IN-PC-09-028,Kheri,335.4,239.4
+IN-PC-09-029,Dhaurahra,334.4,250.1
+IN-PC-09-030,Sitapur,342.4,258.0
+IN-PC-09-031,Hardoi (Sc),319.2,259.3
+IN-PC-09-032,Misrikh (Sc),326.5,270.4
+IN-PC-09-033,Unnao,331.3,282.0
+IN-PC-09-034,Mohanlalganj (Sc),340.0,271.9
+IN-PC-09-035,Lucknow,341.1,274.4
+IN-PC-09-036,Rae Bareli,344.3,291.0
+IN-PC-09-037,Amethi,360.4,288.9
+IN-PC-09-038,Sultanpur,374.6,290.1
+IN-PC-09-039,Pratapgarh,366.6,298.6
+IN-PC-09-040,Farrukhabad,300.0,259.9
+IN-PC-09-041,Etawah (Sc),300.9,282.3
+IN-PC-09-042,Kannauj,309.1,274.6
+IN-PC-09-043,Kanpur,325.6,285.4
+IN-PC-09-044,Akbarpur,322.9,289.3
+IN-PC-09-045,Jalaun (Sc),304.0,298.9
+IN-PC-09-046,Jhansi,286.0,323.4
+IN-PC-09-047,Hamirpur,317.0,306.5
+IN-PC-09-048,Banda,340.6,314.0
+IN-PC-09-049,Fatehpur,337.3,300.5
+IN-PC-09-050,Kaushambi (Sc),355.1,306.5
+IN-PC-09-051,Phulpur,364.6,308.1
+IN-PC-09-052,Allahabad,366.3,318.3
+IN-PC-09-053,Barabanki (Sc),349.5,272.5
+IN-PC-09-054,Faizabad,364.9,277.1
+IN-PC-09-055,Ambedkar Nagar,379.7,285.3
+IN-PC-09-056,Bahraich (Sc),354.4,248.9
+IN-PC-09-057,Kaiserganj,362.3,267.1
+IN-PC-09-058,Shrawasti,373.1,256.3
+IN-PC-09-059,Gonda,374.1,268.1
+IN-PC-09-060,Domariyaganj,390.3,264.3
+IN-PC-09-061,Basti,383.7,275.4
+IN-PC-09-062,Sant Kabir Nagar,395.2,278.8
+IN-PC-09-063,Maharajganj,407.0,266.3
+IN-PC-09-064,Gorakhpur,402.4,274.4
+IN-PC-09-065,Kushi Nagar,414.2,271.6
+IN-PC-09-066,Deoria,419.5,281.4
+IN-PC-09-067,Bansgaon (Sc),407.6,284.7
+IN-PC-09-068,Lalganj (Sc),391.0,295.1
+IN-PC-09-069,Azamgarh,399.8,295.9
+IN-PC-09-070,Ghosi,411.1,295.9
+IN-PC-09-071,Salempur,419.9,293.6
+IN-PC-09-072,Ballia,421.4,303.3
+IN-PC-09-073,Jaunpur,379.6,299.7
+IN-PC-09-074,Machhlishahr (Sc),385.9,306.4
+IN-PC-09-075,Ghazipur,405.5,306.8
+IN-PC-09-076,Chandauli,398.1,312.4
+IN-PC-09-077,Varanasi,390.3,314.6
+IN-PC-09-078,Bhadohi,377.8,310.9
+IN-PC-09-079,Mirzapur,384.3,323.5
+IN-PC-09-080,Robertsganj (Sc),394.5,332.9
+IN-PC-10-001,Valmiki Nagar,426.4,267.7
+IN-PC-10-002,Paschim Champaran,437.4,275.9
+IN-PC-10-003,Purvi Champaran,441.7,282.7
+IN-PC-10-004,Sheohar,450.8,281.1
+IN-PC-10-005,Sitamarhi,459.3,281.9
+IN-PC-10-006,Madhubani,468.6,286.9
+IN-PC-10-007,Jhanjharpur,478.6,287.5
+IN-PC-10-008,Supaul,489.2,290.4
+IN-PC-10-009,Araria,504.5,289.6
+IN-PC-10-010,Kishanganj,518.6,293.0
+IN-PC-10-011,Katihar,511.4,308.0
+IN-PC-10-012,Purnia,503.6,303.5
+IN-PC-10-013,Madhepura,487.8,301.9
+IN-PC-10-014,Darbhanga,471.4,294.9
+IN-PC-10-015,Muzaffarpur,457.3,292.5
+IN-PC-10-016,Vaishali,449.1,294.6
+IN-PC-10-017,Gopalganj (Sc),429.3,285.6
+IN-PC-10-018,Siwan,426.5,293.0
+IN-PC-10-019,Maharajganj,436.2,294.6
+IN-PC-10-020,Saran,441.9,301.0
+IN-PC-10-021,Hajipur (Sc),453.8,303.5
+IN-PC-10-022,Ujiarpur,462.9,304.1
+IN-PC-10-023,Samastipur (Sc),470.4,298.9
+IN-PC-10-024,Begusarai,473.1,308.8
+IN-PC-10-033,Buxar,416.4,310.6
+IN-PC-10-034,Sasaram (Sc),412.4,324.3
+IN-PC-10-035,Karakat,428.6,323.8
+IN-PC-10-036,Jahanabad,442.4,319.9
+IN-PC-10-037,Aurangabad,431.8,329.8
+IN-PC-10-038,Gaya (Sc),444.3,328.9
+IN-PC-10-039,Nawada,461.3,324.4
+IN-PC-10-040,Jamui (Sc),475.9,326.6
+IN-PC-11-001,Sikkim,532.5,255.8
+IN-PC-12-001,Arunachal West,654.0,246.7
+IN-PC-12-002,Arunachal East,718.7,244.1
+IN-PC-13-001,Nagaland,680.2,293.4
+IN-PC-14-001,Inner Manipur,670.8,330.1
+IN-PC-14-002,Outer Manipur  (St),669.6,327.8
+IN-PC-15-001,Mizoram (St),643.8,366.7
+IN-PC-16-002,Tripura East(St),619.5,353.9
+IN-PC-17-001,Shillong (St),616.4,307.2
+IN-PC-17-002,Tura (St),582.1,307.1
+IN-PC-18-001,Karimganj (Sc),634.7,333.9
+IN-PC-18-002,Silchar,643.6,327.9
+IN-PC-18-003,Autonomous District (St),648.1,301.6
+IN-PC-18-004,Dhubri,579.0,297.7
+IN-PC-18-005,Kokrajhar (St),590.0,281.1
+IN-PC-18-006,Barpeta,594.5,286.5
+IN-PC-18-007,Gauhati,606.7,294.5
+IN-PC-18-008,Mangaldoi,619.4,282.0
+IN-PC-18-009,Tezpur,652.5,276.1
+IN-PC-18-010,Nowgong,637.5,293.4
+IN-PC-18-011,Kaliabor,656.0,286.9
+IN-PC-18-012,Jorhat,691.6,275.8
+IN-PC-18-013,Dibrugarh,705.8,260.9
+IN-PC-18-014,Lakhimpur,695.5,261.8
+IN-PC-19-001,Coochbehar (Sc),555.0,290.4
+IN-PC-19-002,Alipurduars (St),554.0,281.8
+IN-PC-19-003,Jalpaiguri (Sc),539.9,282.5
+IN-PC-19-004,Darjeeling,531.6,278.0
+IN-PC-19-005,Raiganj,524.0,298.4
+IN-PC-19-006,Balurghat,534.0,312.1
+IN-PC-19-007,Maldaha Uttar,523.5,316.6
+IN-PC-19-008,Maldaha Dakshin,520.0,324.0
+IN-PC-19-009,Jangipur,524.2,339.6
+IN-PC-19-010,Baharampur,525.2,348.6
+IN-PC-19-011,Murshidabad,533.0,343.8
+IN-PC-19-012,Krishnanagar,531.0,356.6
+IN-PC-19-013,Ranaghat (Sc),535.0,365.6
+IN-PC-19-014,Bangaon (Sc),538.3,373.3
+IN-PC-19-015,Barrackpur,532.4,376.5
+IN-PC-19-016,Dum Dum,531.0,380.9
+IN-PC-19-017,Barasat,535.3,379.9
+IN-PC-19-018,Basirhat,540.6,384.6
+IN-PC-19-019,Jaynagar (Sc),539.2,397.5
+IN-PC-19-020,Mathurapur (Sc),525.8,400.2
+IN-PC-19-021,Diamond Harbour,526.5,388.9
+IN-PC-19-022,Jadavpur,533.1,387.9
+IN-PC-19-026,Uluberia,521.0,385.4
+IN-PC-19-027,Sreerampur,525.2,379.9
+IN-PC-19-028,Hooghly,527.1,373.3
+IN-PC-19-029,Arambag (Sc),516.5,377.9
+IN-PC-19-030,Tamluk,519.5,392.9
+IN-PC-19-023,Kolkata Dakshin,529.3,385.4
+IN-PC-19-024,Kolkata Uttar,530.0,383.2
+IN-PC-19-031,Kanthi,514.5,400.6
+IN-PC-19-032,Ghatal,510.6,386.9
+IN-PC-19-033,Jhargram (St),491.5,384.4
+IN-PC-19-034,Medinipur,504.5,393.3
+IN-PC-19-035,Purulia,478.6,364.5
+IN-PC-19-025,Howrah,525.7,383.1
+IN-PC-19-036,Bankura,493.1,368.4
+IN-PC-19-037,Bishnupur (Sc),505.9,367.4
+IN-PC-19-038,Bardhaman Purba(Sc),522.4,365.1
+IN-PC-19-039,Bardhaman-Durgapur,513.7,361.6
+IN-PC-19-040,Asansol,497.7,354.3
+IN-PC-19-041,Bolpur (Sc),516.0,353.6
+IN-PC-19-042,Birbhum,509.4,343.8
+IN-PC-21-001,Bargarh,406.7,413.6
+IN-PC-21-002,Sundargarh (St),430.6,396.5
+IN-PC-21-003,Sambalpur,432.0,414.3
+IN-PC-21-004,Keonjhar (St),465.8,408.4
+IN-PC-21-005,Mayurbhanj (St),480.6,398.5
+IN-PC-21-006,Balasore,494.1,407.3
+IN-PC-21-007,Bhadrak (Sc),485.7,421.6
+IN-PC-21-008,Jajpur (Sc),473.7,426.6
+IN-PC-21-009,Dhenkanal,456.2,421.2
+IN-PC-21-010,Bolangir,405.9,431.9
+IN-PC-21-011,Kalahandi,395.3,445.2
+IN-PC-21-012,Nabarangpur (St),371.4,475.2
+IN-PC-21-013,Kandhamal,426.7,442.7
+IN-PC-21-014,Cuttack,458.6,437.6
+IN-PC-21-015,Kendrapara,482.1,434.9
+IN-PC-21-016,Jagatsinghpur (Sc),477.8,445.9
+IN-PC-21-017,Puri,456.2,451.0
+IN-PC-21-018,Bhubaneswar,458.4,445.1
+IN-PC-21-019,Aska,435.9,457.3
+IN-PC-21-020,Berhampur,431.3,469.1
+IN-PC-21-021,Koraput (St),397.6,471.4
+IN-PC-22-001,Surguja (St),400.9,363.3
+IN-PC-22-002,Raigarh (St),410.4,390.4
+IN-PC-22-003,Janjgir-Champa (Sc),384.4,404.0
+IN-PC-22-004,Korba,377.1,373.0
+IN-PC-22-005,Bilaspur,367.5,391.6
+IN-PC-22-006,Rajnandgaon,342.1,415.2
+IN-PC-22-007,Durg,356.4,412.4
+IN-PC-22-008,Raipur,365.6,412.9
+IN-PC-22-009,Mahasamund,376.9,431.9
+IN-PC-22-010,Bastar (St),349.1,477.8
+IN-PC-22-011,Kanker (St),350.1,439.5
+IN-PC-23-001,Morena,254.1,294.5
+IN-PC-23-002,Bhind (Sc),283.8,292.0
+IN-PC-23-003,Gwalior,262.4,300.8
+IN-PC-23-004,Guna,257.3,325.0
+IN-PC-23-005,Sagar,270.1,348.1
+IN-PC-23-006,Tikamgarh(Sc),296.4,323.0
+IN-PC-23-007,Damoh,299.1,348.4
+IN-PC-23-008,Khajuraho,325.2,338.0
+IN-PC-23-009,Satna,339.5,332.4
+IN-PC-23-010,Rewa,359.9,327.9
+IN-PC-23-011,Sidhi,365.9,343.6
+IN-PC-23-012,Shahdol (St),347.9,363.1
+IN-PC-23-013,Jabalpur,316.6,368.8
+IN-PC-23-014,Mandla (St),329.4,379.6
+IN-PC-23-015,Balaghat,320.6,399.8
+IN-PC-23-016,Chhindwara,287.6,394.5
+IN-PC-23-017,Hoshangabad,274.1,379.4
+IN-PC-23-018,Vidisha,257.6,368.3
+IN-PC-23-019,Bhopal,249.2,360.2
+IN-PC-23-020,Rajgarh,237.3,345.9
+IN-PC-23-021,Dewas (Sc),225.2,364.7
+IN-PC-23-022,Ujjain (Sc),207.3,363.1
+IN-PC-23-023,Mandsour,198.4,340.3
+IN-PC-23-024,Ratlam (St),182.3,379.3
+IN-PC-23-025,Dhar (St),197.2,383.3
+IN-PC-23-026,Indore,211.5,377.5
+IN-PC-23-027,Khargone(St),196.8,400.3
+IN-PC-23-028,Khandwa,223.8,399.9
+IN-PC-23-029,Betul (St),255.0,398.8
+IN-PC-24-001,Kachchh (Sc),61.6,354.1
+IN-PC-24-002,Banaskantha,117.8,339.0
+IN-PC-24-003,Patan,112.9,351.6
+IN-PC-24-004,Mahesana,124.3,360.4
+IN-PC-24-005,Sabarkantha,144.4,352.8
+IN-PC-24-006,Gandhinagar,123.4,373.3
+IN-PC-24-007,Ahmedabad East,133.8,368.5
+IN-PC-24-008,Ahmedabad West(Sc),129.7,372.0
+IN-PC-24-009,Surendranagar,105.6,378.5
+IN-PC-24-010,Rajkot,88.3,387.9
+IN-PC-24-011,Porbandar,68.8,407.1
+IN-PC-24-012,Jamnagar,58.2,390.1
+IN-PC-24-013,Junagadh,80.0,418.6
+IN-PC-24-014,Amreli,98.5,412.7
+IN-PC-24-015,Bhavnagar,110.4,404.5
+IN-PC-24-016,Anand,133.9,387.3
+IN-PC-24-017,Kheda,130.8,377.3
+IN-PC-24-018,Panchmahal,152.3,372.6
+IN-PC-24-019,Dahod (St),167.1,373.2
+IN-PC-24-020,Vadodara,147.4,385.0
+IN-PC-24-021,Chhota Udaipur(St),154.1,394.2
+IN-PC-24-022,Bharuch,146.1,402.1
+IN-PC-24-023,Bardoli (St),154.8,418.5
+IN-PC-24-024,Surat,134.3,416.1
+IN-PC-24-025,Navsari,137.8,426.1
+IN-PC-24-026,Valsad (St),148.3,433.4
+IN-PC-27-001,Nandurbar (St),174.8,412.9
+IN-PC-27-002,Dhule,175.6,425.1
+IN-PC-27-003,Jalgaon,196.7,429.8
+IN-PC-27-004,Raver,210.1,423.8
+IN-PC-27-005,Buldhana,225.4,434.5
+IN-PC-27-006,Akola,244.1,434.9
+IN-PC-27-007,Amravati (Sc),251.1,416.2
+IN-PC-27-008,Wardha,276.9,424.6
+IN-PC-27-009,Ramtek (Sc),290.9,419.5
+IN-PC-27-045,Satara,165.4,508.8
+IN-PC-27-046,Ratnagiri -Sindhudurg,157.4,534.7
+IN-PC-27-047,Kolhapur,169.0,543.5
+IN-PC-27-010,Nagpur,294.3,419.9
+IN-PC-27-011,Bhandara-Gondiya,314.9,419.7
+IN-PC-27-012,Gadchiroli-Chimur  (St),318.2,446.1
+IN-PC-27-013,Chandrapur,287.7,449.4
+IN-PC-27-014,Yavatmal-Washim,263.8,443.2
+IN-PC-27-015,Hingoli,254.5,460.4
+IN-PC-27-016,Nanded,253.8,479.0
+IN-PC-27-017,Parbhani,224.9,465.6
+IN-PC-27-018,Jalna,208.1,448.1
+IN-PC-27-019,Aurangabad,191.9,447.6
+IN-PC-27-020,Dindori (St),169.1,440.6
+IN-PC-27-021,Nashik,160.3,451.4
+IN-PC-27-022,Palghar (St),141.7,454.8
+IN-PC-27-023,Bhiwandi,148.9,463.1
+IN-PC-27-048,Hatkanangle,169.9,527.1
+IN-PC-36-001,Adilabad(St),288.8,464.4
+IN-PC-36-002,Peddapalle (Sc),308.6,479.1
+IN-PC-36-003,Karimnagar,293.8,488.5
+IN-PC-36-004,Nizamabad,276.2,480.3
+IN-PC-27-024,Kalyan,142.1,469.4
+IN-PC-27-025,Thane,137.5,469.9
+IN-PC-27-029,Mumbai North-Central,136.3,472.1
+IN-PC-27-026,Mumbai North,135.8,469.0
+IN-PC-27-032,Raigad,146.7,498.9
+IN-PC-27-033,Maval,149.9,478.0
+IN-PC-27-027,Mumbai North-West,135.8,470.9
+IN-PC-27-034,Pune,161.8,485.1
+IN-PC-27-035,Baramati,171.2,492.3
+IN-PC-27-036,Shirur,166.1,476.7
+IN-PC-27-037,Ahmednagar,187.3,475.6
+IN-PC-27-038,Shirdi (Sc),175.6,458.9
+IN-PC-27-039,Beed,210.0,474.4
+IN-PC-27-028,Mumbai North-East,137.9,471.1
+IN-PC-27-040,Osmanabad,217.6,495.2
+IN-PC-27-041,Latur (Sc),237.1,487.1
+IN-PC-27-042,Solapur (Sc),211.3,509.8
+IN-PC-27-043,Madha,186.7,503.8
+IN-PC-27-044,Sangli,189.6,520.7
+IN-PC-27-030,Mumbai South -Central,136.6,473.5
+IN-PC-27-031,Mumbai South,135.3,475.3
+IN-PC-36-005,Zahirabad,266.9,497.4
+IN-PC-36-006,Medak,278.5,503.6
+IN-PC-36-007,Malkajgiri,280.6,511.9
+IN-PC-36-008,Secunderabad,278.4,514.7
+IN-PC-36-009,Hyderabad,278.1,516.0
+IN-PC-36-010,Chevella,265.9,519.0
+IN-PC-36-011,Mahbubnagar,263.0,531.9
+IN-PC-36-012,Nagarkurnool(Sc),275.9,539.5
+IN-PC-36-013,Nalgonda,300.8,528.9
+IN-PC-36-014,Bhongir,296.4,515.0
+IN-PC-36-015,Warangal(Sc),307.7,499.4
+IN-PC-36-016,Mahabubabad(St),336.0,500.2
+IN-PC-36-017,Khammam,334.0,517.1
+IN-PC-37-018,Araku (St),386.3,494.8
+IN-PC-37-019,Srikakulam,425.0,482.0
+IN-PC-37-020,Vizianagaram,406.8,491.5
+IN-PC-37-021,Visakhapatnam,400.3,501.2
+IN-PC-37-022,Anakapalle,388.6,507.4
+IN-PC-37-023,Kakinada,373.0,520.6
+IN-PC-37-024,Amalapuram (Sc),369.1,533.7
+IN-PC-37-025,Rajahmundry,360.4,525.9
+IN-PC-37-026,Narsapuram,357.9,534.1
+IN-PC-37-027,Eluru,347.6,526.9
+IN-PC-37-028,Machilipatnam,344.3,545.1
+IN-PC-37-029,Vijayawada,328.0,529.7
+IN-PC-37-034,Nandyal,274.0,562.4
+IN-PC-37-035,Kurnool,255.9,561.8
+IN-PC-37-036,Anantapur,252.7,582.8
+IN-PC-37-037,Hindupur,258.4,596.2
+IN-PC-37-038,Kadapa,283.4,584.0
+IN-PC-37-039,Nellore,308.3,579.6
+IN-PC-37-040,Tirupati (Sc),311.1,602.8
+IN-PC-37-041,Rajampet,286.0,604.0
+IN-PC-37-042,Chittoor (Sc),292.0,619.8
+IN-PC-37-030,Guntur,329.1,543.2
+IN-PC-37-031,Narasaraopet,312.7,542.1
+IN-PC-37-032,Bapatla (Sc),325.6,554.4
+IN-PC-37-033,Ongole,304.3,559.0
+IN-PC-29-003,Bagalkot,207.2,549.1
+IN-PC-29-004,Bijapur (Sc),213.2,529.7
+IN-PC-29-005,Gulbarga (Sc),235.7,522.8
+IN-PC-29-006,Raichur (St),239.1,540.9
+IN-PC-29-007,Bidar,241.5,503.4
+IN-PC-29-008,Koppal,227.3,559.3
+IN-PC-29-009,Bellary (St),226.4,575.3
+IN-PC-29-010,Haveri,203.9,574.2
+IN-PC-29-011,Dharwad,193.9,568.7
+IN-PC-29-012,Uttara Kannada,180.1,576.8
+IN-PC-29-013,Davanagere,215.0,591.8
+IN-PC-29-014,Shimoga,196.3,599.7
+IN-PC-29-015,Udupi Chikmagalur,200.7,616.2
+IN-PC-29-016,Hassan,218.3,623.1
+IN-PC-29-017,Dakshina Kannada,196.4,631.0
+IN-PC-29-018,Chitradurga (Sc),235.4,594.5
+IN-PC-29-019,Tumkur,238.8,614.8
+IN-PC-29-020,Mandya,234.4,635.9
+IN-PC-29-021,Mysore,217.1,642.3
+IN-PC-29-022,Chamarajanagar(Sc),239.8,651.5
+IN-PC-29-023,Bangalore Rural,249.6,633.7
+IN-PC-29-024,Bangalore North,254.8,627.3
+IN-PC-29-025,Bangalore Central,257.9,626.7
+IN-PC-32-012,Ernakulam,222.9,702.7
+IN-PC-29-026,Bangalore South,256.3,628.5
+IN-PC-30-001,North Goa,164.6,560.4
+IN-PC-30-002,South Goa,166.5,570.8
+IN-PC-32-001,Kasaragod,194.9,642.5
+IN-PC-32-002,Kannur,206.2,651.4
+IN-PC-32-003,Vadakara,207.9,662.0
+IN-PC-32-004,Wayanad,219.9,664.0
+IN-PC-32-005,Kozhikode,212.4,667.9
+IN-PC-32-006,Malappuram,218.3,675.4
+IN-PC-32-007,Ponnani,216.4,680.3
+IN-PC-32-008,Palakkad,228.1,678.0
+IN-PC-32-009,Alathur (Sc),227.4,688.1
+IN-PC-32-010,Thrissur,222.6,690.4
+IN-PC-32-011,Chalakudy,228.6,698.5
+IN-PC-32-013,Idukki,240.1,707.4
+IN-PC-32-014,Kottayam,231.3,709.4
+IN-PC-32-015,Alappuzha,227.0,716.8
+IN-PC-32-016,Mavelikkara (Sc),233.7,722.3
+IN-PC-32-017,Pathanamthitta,238.3,718.1
+IN-PC-32-018,Kollam,238.4,729.7
+IN-PC-32-019,Attingal,240.1,737.3
+IN-PC-32-020,Thiruvananthapuram,243.0,741.9
+IN-PC-33-001,Tiruvallur (Sc),316.9,620.1
+IN-PC-33-004,Chennai Central,323.8,624.6
+IN-PC-33-005,Sriperumbudur,316.9,627.4
+IN-PC-33-002,Chennai North,324.2,622.5
+IN-PC-33-006,Kancheepuram (Sc),315.0,636.4
+IN-PC-33-003,Chennai South,323.1,627.5
+IN-PC-33-007,Arakkonam,302.9,626.8
+IN-PC-33-008,Vellore,288.1,632.4
+IN-PC-33-009,Krishnagiri,268.4,638.8
+IN-PC-33-010,Dharmapuri,271.6,650.0
+IN-PC-33-011,Tiruvannamalai,288.1,642.5
+IN-PC-33-012,Arani,302.0,640.3
+IN-PC-33-013,Viluppuram (Sc),306.3,652.7
+IN-PC-33-014,Kallakurichi,283.9,659.7
+IN-PC-33-015,Salem,267.3,658.4
+IN-PC-33-016,Namakkal,269.0,668.1
+IN-PC-33-017,Erode,256.6,676.3
+IN-PC-33-018,Tiruppur,253.3,664.4
+IN-PC-33-019,Nilgiris (Sc),237.3,665.8
+IN-PC-33-020,Coimbatore,244.3,677.7
+IN-PC-33-021,Pollachi,242.1,686.5
+IN-PC-33-022,Dindigul,261.7,693.1
+IN-PC-33-023,Karur,274.1,685.1
+IN-PC-33-024,Tiruchirappalli,286.7,687.0
+IN-PC-33-025,Perambalur,281.6,674.9
+IN-PC-33-026,Cuddalore,300.8,661.1
+IN-PC-33-027,Chidambaram (Sc),300.3,671.2
+IN-PC-33-028,Mayiladuthurai,304.8,675.6
+IN-PC-33-029,Nagapattinam (Sc),306.7,686.4
+IN-PC-33-030,Thanjavur,296.0,689.2
+IN-PC-33-031,Sivaganga,283.3,703.1
+IN-PC-33-032,Madurai,272.4,701.0
+IN-PC-33-033,Theni,258.3,706.0
+IN-PC-33-034,Virudhunagar,263.4,713.4
+IN-PC-33-035,Ramanathapuram,284.6,711.8
+IN-PC-33-036,Thoothukkudi,267.3,732.0
+IN-PC-33-037,Tenkasi (Sc),254.1,721.0
+IN-PC-33-038,Tirunelveli,255.8,739.7
+IN-PC-33-039,Kanniyakumari,249.8,745.4
+IN-PC-34-001,Pondicherry,290.0,606.4
+IN-PC-04-001,Chandigarh,235.6,176.3
+IN-PC-25-001,Daman & Diu,111.3,434.7
+IN-PC-26-001,Dadra & Nagar Haveli,141.3,443.6
+IN-PC-35-001,Andaman & Nicobar,653.7,697.0
+IN-PC-31-001,Lakshadweep,137.9,703.2
+IN-PC-01-001,Baramulla,176.1,83.8
+IN-PC-01-002,Srinagar,189.1,91.3
+IN-PC-01-004,Ladakh,226.7,75.2
+IN-PC-01-005,Udhampur,206.9,112.0
+IN-PC-01-006,Jammu,181.9,113.0
+IN-PC-29-001,Chikkodi,185.9,539.6
+IN-PC-29-002,Belgaum,187.8,550.3
+IN-PC-29-027,Chikkballapur,257.9,616.0
+IN-PC-29-028,Kolar (Sc),271.5,621.0
+IN-PC-20-001,Rajmahal (St),511.5,327.0
+IN-PC-20-002,Dumka (St),497.5,341.7
+IN-PC-20-003,Godda,494.4,329.9
+IN-PC-20-004,Chatra,435.6,349.1
+IN-PC-20-005,Kodarma,467.9,337.0
+IN-PC-20-006,Giridih,473.1,350.4
+IN-PC-20-007,Dhanbad,480.5,355.4
+IN-PC-20-008,Ranchi,459.3,365.8
+IN-PC-20-009,Jamshedpur,481.9,382.4
+IN-PC-20-010,Singhbhum (St),459.2,386.9
+IN-PC-20-011,Khunti (St),445.4,377.4
+IN-PC-20-012,Lohardaga (St),434.4,367.7
+IN-PC-20-013,Palamu (Sc),416.1,344.5
+IN-PC-20-014,Hazaribagh,456.6,347.3
+IN-PC-01-003,Anantnag,191.8,98.0
+IN-PC-16-001,Tripura West,608.0,357.7
