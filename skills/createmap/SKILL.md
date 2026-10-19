@@ -36,7 +36,9 @@ The scripts are in this skill's folder: `${CLAUDE_SKILL_DIR}` in Claude, or the 
 
 If the script reports that the link is too long (very large maps with every region filled), it writes a CSV instead. Give the user that CSV and tell them to open createmymaps.com/app, create a project on the same map, and use **Import → Import Excel/CSV**.
 
-If you can't run code, write the spec by hand and tell the user that the link has to be built with the script. Never hand-encode the base64 link yourself.
+**If you can't run code**, don't stop and don't refuse: write a plain link by hand instead, following "Plain links" in `references/spec.md`. For example: `[Open the map](https://createmymaps.com/app#p=1&map=usa-mt&mode=number&title=Schools+by+county&data=Yellowstone:120,Missoula:85)`. The app matches the region names when the link opens. Never try to hand-encode the `#z=` format.
+
+**If exact figures would need heavy processing** (for example, adding up hundreds of records by county) and you can't do it, still make the map. Use the best figures you can reasonably get, label them clearly as estimates in your reply, and offer to rebuild the map from exact data. A clearly labeled estimated map is more useful than no map.
 
 ## Design defaults
 

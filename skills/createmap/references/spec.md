@@ -89,3 +89,35 @@ Rules are checked from top to bottom and the first match wins, so put the highes
 - **Fuzzy-matched**: names it resolved approximately. Check that they're right. For example, "Georgia" could be the US state or the country.
 - **NOT matched**: names it dropped. Rename them using the region list and run the script again.
 - **No data**: regions left blank. Mention these to the user if they matter.
+
+## Plain links (when you can't run code)
+
+Write the link by hand in this form. It is a normal URL, so use `+` for spaces and keep everything on one line:
+
+```
+https://createmymaps.com/app#p=1&map=<map_id>&mode=<mode>&title=<title>&legend=<legend title>&data=<Region>:<value>,<Region>:<value>
+```
+
+| Part | Meaning |
+|---|---|
+| `map` | Map id from `references/catalog.csv`. Required. |
+| `mode` | `number`, `tag`, `logic` or `flat`. |
+| `data` | `Region:value` pairs separated by commas. Use the region name or id from `references/regions/<map_id>.csv`. If a name contains a comma, use its id. The value is a plain number (`number`, `logic`), a category name (`tag`), or a hex color without `#` (`flat`). |
+| `cats` | `tag` mode only: `Name:HEX,Name:HEX` (hex without `#`). |
+| `colors` | `number` mode only: gradient stops, light to dark, for example `FEF3C7,F59E0B,7C2D12`. |
+| `min`, `max` | `number` mode only: fix the scale ends. |
+| `rules` | `logic` mode only: `ge90:065F46:90+or+more,ge60:34D399:60-89,lt60:FDE68A:Under+60`. Operators: `ge`, `gt`, `le`, `lt`, `eq`. |
+| `title`, `legend`, `source` | The map title, legend title, and a source line at the bottom. |
+| `theme`, `labels` | Same values as in the JSON spec. |
+
+Rules for plain links:
+
+- Never put `#`, `%`, `&` or `=` inside a value. Write "pct" instead of "%" and "and" instead of "&".
+- Wrap the link as `[Open the map](...)`, never a bare URL.
+- Names are matched leniently, so small spelling slips are fine, but unmatched names are dropped. The app warns about them when the map opens.
+
+Example (category mode):
+
+```
+[Open the map](https://createmymaps.com/app#p=1&map=world&mode=tag&title=Muslim+share+of+population&legend=Muslims+(pct)&cats=90+or+more:14532D,50-89:15803D,Under+50:BBF7D0&data=Indonesia:90+or+more,Nigeria:50-89,India:Under+50)
+```
