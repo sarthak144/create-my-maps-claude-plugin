@@ -102,7 +102,7 @@ https://createmymaps.com/app#p=1&map=<map_id>&mode=<mode>&title=<title>&legend=<
 |---|---|
 | `map` | Map id from `references/catalog.csv`. Required. |
 | `mode` | `number`, `tag`, `logic` or `flat`. |
-| `data` | `Region:value` pairs separated by commas. Use the region name or id from `references/regions/<map_id>.csv`. If a name contains a comma, use its id. The value is a plain number (`number`, `logic`), a category name (`tag`), or a hex color without `#` (`flat`). |
+| `data` | `Region:value` pairs separated by commas. Use the region name or id from the map's rows in its regions file (see `regions_file` in `references/catalog.csv`). If a name contains a comma, use its id. The value is a plain number (`number`, `logic`), a category name (`tag`), or a hex color without `#` (`flat`). |
 | `cats` | `tag` mode only: `Name:HEX,Name:HEX` (hex without `#`). |
 | `colors` | `number` mode only: gradient stops, light to dark, for example `FEF3C7,F59E0B,7C2D12`. |
 | `min`, `max` | `number` mode only: fix the scale ends. |

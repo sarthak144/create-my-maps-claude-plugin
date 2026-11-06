@@ -1,0 +1,2176 @@
+map_id,id,name,center_x,center_y
+africa,AO,Angola,525.1,494.6
+africa,BF,Burkina Faso,470.5,428.7
+africa,BI,Burundi,560.8,470.6
+africa,BJ,Benin,481.3,436.8
+africa,BW,Botswana,544.1,527.0
+africa,CD,Democratic Republic of Congo,557.2,454.1
+africa,CF,Central African Republic,533.6,444.4
+africa,CG,Republic of Congo,516.6,465.1
+africa,CI,Côte d'Ivoire,459.3,441.8
+africa,CM,Cameroon,509.6,442.2
+africa,CV,Cape Verde,407.5,417.7
+africa,DJ,Djibouti,594.4,429.7
+africa,DZ,Algeria,479.5,380.2
+africa,EG,Egypt,561.3,384.9
+africa,EH,Western Sahara,450.5,383.8
+africa,ER,Eritrea,586.5,420.0
+africa,ET,Ethiopia,588.5,437.2
+africa,GA,Gabon,512.7,463.4
+africa,GH,Ghana,472.0,440.6
+africa,GM,Gambia,431.9,425.1
+africa,GN,Guinea,448.0,435.3
+africa,GO,Glorioso Islands,607.6,495.4
+africa,GQ,Equatorial Guinea,502.6,456.3
+africa,GW,Guinea-Bissau,432.3,429.8
+africa,JU,Juan De Nova Island,594.9,511.2
+africa,KE,Kenya,586.4,463.9
+africa,KM,Comoros,598.0,496.3
+africa,LR,Liberia,452.4,445.3
+africa,LS,Lesotho,554.1,549.5
+africa,LY,Libya,544.9,385.6
+africa,MA,Morocco,454.9,369.0
+africa,MG,Madagascar,606.4,516.8
+africa,ML,Mali,474.6,418.0
+africa,MR,Mauritania,444.2,404.1
+africa,MU,Mauritius,636.4,520.6
+africa,MW,Malawi,573.5,503.4
+africa,MZ,Mozambique,566.1,518.6
+africa,NA,Namibia,539.8,514.0
+africa,NE,Niger,497.5,412.7
+africa,NG,Nigeria,505.4,437.5
+africa,RE,Reunion,630.8,523.2
+africa,RW,Rwanda,558.7,468.3
+africa,SC,Seychelles,630.6,476.0
+africa,SD,Sudan,573.2,418.1
+africa,SH,Saint Helena,446.7,496.6
+africa,SL,Sierra Leone,441.8,439.3
+africa,SN,Senegal,441.0,423.1
+africa,SO,Somalia,590.7,461.6
+africa,SS,South Sudan,558.3,440.9
+africa,ST,Sao Tome and Principe,494.4,460.5
+africa,SZ,Swaziland,563.2,539.7
+africa,TD,Chad,542.2,407.5
+africa,TG,Togo,477.3,438.8
+africa,TN,Tunisia,501.6,362.4
+africa,TZ,Tanzania,574.1,475.5
+africa,UG,Uganda,564.0,463.2
+africa,YT,Mayotte,601.6,499.0
+africa,ZA,South Africa,554.0,569.4
+africa,ZM,Zambia,553.0,501.7
+africa,ZW,Zimbabwe,556.6,517.1
+asia,AE,United Arab Emirates,627.8,391.1
+asia,AF,Afghanistan,664.9,361.8
+asia,AM,Armenia,601.1,340.7
+asia,AZ,Azerbaijan,608.4,340.3
+asia,BD,Bangladesh,728.4,394.8
+asia,BH,Bahrain,616.7,387.7
+asia,BN,Brunei Darussalam,796.8,450.3
+asia,BT,Bhutan,728.6,383.1
+asia,CN,China,806.0,348.2
+asia,CY,Cyprus,568.7,358.2
+asia,GE,Georgia,603.3,335.5
+asia,HK,Hong Kong,795.1,398.9
+asia,ID,Indonesia,806.3,470.0
+asia,IL,Israel,573.3,370.3
+asia,IN,India,713.6,406.4
+asia,IQ,Iraq,597.4,364.6
+asia,IR,Iran,626.6,366.3
+asia,JO,Jordan,579.1,370.9
+asia,JP,Japan,853.1,356.5
+asia,KG,Kyrgyzstan,684.6,336.3
+asia,KH,Cambodia,769.5,427.6
+asia,KP,North Korea,832.8,339.4
+asia,KR,South Korea,835.4,355.3
+asia,KW,Kuwait,608.2,377.3
+asia,KZ,Kazakhstan,667.6,321.9
+asia,LA,Lao People's Democratic Republic,766.4,411.1
+asia,LB,Lebanon,575.5,362.4
+asia,LK,Sri Lanka,701.6,440.9
+asia,MO,Macau,793.5,399.3
+asia,MM,Myanmar,746.2,407.6
+asia,MN,Mongolia,766.3,313.4
+asia,MV,Maldives,681.0,452.5
+asia,MY,Malaysia,782.1,451.4
+asia,NP,Nepal,710.9,380.3
+asia,OM,Oman,630.2,401.3
+asia,PH,Philippines,816.7,426.1
+asia,PK,Pakistan,687.6,356.6
+asia,PS,Palestinian Territories,572.8,369.0
+asia,QA,Qatar,618.5,389.8
+asia,SA,Saudi Arabia,601.5,392.4
+asia,SG,Singapore,766.3,459.1
+asia,SY,Syria,592.1,354.9
+asia,TH,Thailand,759.8,425.9
+asia,TJ,Tajikistan,674.8,344.9
+asia,TL,Timor-Leste,827.6,487.6
+asia,TM,Turkmenistan,642.1,344.3
+asia,TR,Turkey,573.8,344.4
+asia,TW,Taiwan,812.0,395.1
+asia,UZ,Uzbekistan,674.7,336.9
+asia,VN,Vietnam,771.8,417.4
+asia,YE,Yemen,611.1,418.6
+continents,northAmerica,North America,482.1,230.3
+continents,oceania,Oceania,480.0,522.3
+continents,antarctica,Antarctica,480.0,770.2
+continents,southAmerica,South America,287.7,533.9
+continents,europe,Europe,530.2,220.1
+continents,africa,Africa,523.3,477.7
+continents,asia,Asia,480.0,278.3
+continents-russia-asia,africa,Africa,523.3,497.4
+continents-russia-asia,southAmerica,South America,287.7,553.6
+continents-russia-asia,northAmerica,North America,482.1,250.0
+continents-russia-asia,europe,Europe,505.4,251.8
+continents-russia-asia,asia,Asia,480.0,288.0
+continents-russia-asia,oceania,Oceania,480.0,542.0
+continents-russia-asia,antarctica,Antarctica,480.0,480.0
+continents-russia-europe,northAmerica,North America,482.1,230.3
+continents-russia-europe,oceania,Oceania,480.0,522.3
+continents-russia-europe,antarctica,Antarctica,480.0,770.2
+continents-russia-europe,southAmerica,South America,287.7,533.9
+continents-russia-europe,asia,Asia,720.0,385.9
+continents-russia-europe,europe,Europe,480.0,220.1
+continents-russia-europe,africa,Africa,523.3,477.7
+europe,AD,Andorra,479.3,331.5
+europe,AL,Albania,531.9,333.2
+europe,AT,Austria,522.6,308.9
+europe,AX,Aland Islands,531.2,250.9
+europe,BA,Bosnia and Herzegovina,524.5,326.1
+europe,BE,Belgium,487.4,299.0
+europe,BG,Bulgaria,546.4,330.7
+europe,BY,Belarus,553.3,284.1
+europe,CH,Switzerland,497.9,314.7
+europe,CZ,Czech Republic,518.3,302.0
+europe,DE,Germany,507.6,289.8
+europe,DK,Denmark,508.3,273.2
+europe,EE,Estonia,545.1,259.8
+europe,ES,Spain,455.5,355.4
+europe,FI,Finland,548.1,218.7
+europe,FO,Faroe Islands,455.5,241.2
+europe,FR,France,481.6,316.1
+europe,GB,United Kingdom,466.8,274.3
+europe,GG,Guernsey,467.7,303.5
+europe,GI,Gibraltar,459.9,354.7
+europe,GR,Greece,542.1,346.7
+europe,HR,Croatia,521.1,323.9
+europe,HU,Hungary,529.6,313.5
+europe,IE,Ireland,451.9,285.6
+europe,IM,Isle of Man,462.1,281.9
+europe,IS,Iceland,421.5,221.6
+europe,IT,Italy,510.1,333.2
+europe,JE,Jersey,468.9,304.6
+europe,XK,Kosovo,533.5,331.4
+europe,LI,Liechtenstein,501.7,313.2
+europe,LT,Lithuania,541.8,277.4
+europe,LU,Luxembourg,492.0,302.1
+europe,LV,Latvia,544.0,268.8
+europe,MC,Monaco,495.7,326.8
+europe,MD,Moldova,554.5,314.0
+europe,ME,Montenegro,529.3,330.8
+europe,MK,Macedonia,535.9,335.1
+europe,MT,Malta,515.2,355.3
+europe,NL,Netherlands,489.7,291.4
+europe,NO,Norway,525.0,213.1
+europe,PL,Poland,528.5,292.2
+europe,PT,Portugal,422.3,349.7
+europe,RO,Romania,545.0,317.9
+europe,RS,Serbia,533.6,325.0
+europe,RU,Russia,769.3,183.7
+europe,SE,Sweden,524.4,246.1
+europe,SI,Slovenia,516.8,317.4
+europe,SJ,Svalbard and Jan Mayen,509.3,121.1
+europe,SK,Slovakia,530.2,306.9
+europe,SM,San Marino,509.9,326.1
+europe,UA,Ukraine,570.1,318.7
+europe,VA,Vatican City,509.8,333.9
+north-america,AG,Antigua and Barbuda,301.5,413.8
+north-america,AI,Anguilla,297.9,411.2
+north-america,AW,Aruba,278.5,427.7
+north-america,BB,Barbados,307.8,425.8
+north-america,BL,Saint Barthelemy,298.5,412.2
+north-america,BM,Bermuda,293.1,367.5
+north-america,BQ,"Bonaire,  Saint Eustachius and Saba",290.6,421.0
+north-america,BS,Bahamas,262.0,394.0
+north-america,BZ,Belize,226.5,414.3
+north-america,CA,Canada,205.5,173.2
+north-america,CR,Costa Rica,238.5,435.9
+north-america,CU,Cuba,251.7,401.4
+north-america,CW,Curaçao,281.4,428.6
+north-america,DM,Dominica,302.7,419.4
+north-america,DO,Dominican Republic,276.7,409.0
+north-america,GD,Grenada,301.8,428.9
+north-america,GL,Greenland,357.1,124.7
+north-america,GP,Guadeloupe,302.3,417.1
+north-america,GT,Guatemala,221.7,418.3
+north-america,HN,Honduras,232.8,421.3
+north-america,HT,Haiti,269.8,408.7
+north-america,JM,Jamaica,258.0,411.5
+north-america,KN,Saint Kitts and Nevis,299.0,414.1
+north-america,KY,Cayman Islands,248.7,407.4
+north-america,LC,Saint Lucia,303.8,423.8
+north-america,MF,Saint Martin,297.9,411.6
+north-america,MQ,Martinique,303.6,421.6
+north-america,MS,Montserrat,300.4,415.6
+north-america,MX,Mexico,187.1,394.1
+north-america,NI,Nicaragua,235.2,426.7
+north-america,PA,Panama,250.1,439.4
+north-america,PM,Saint Pierre and Miquelon,317.0,314.2
+north-america,PR,Puerto Rico,287.9,411.2
+north-america,SV,El Salvador,225.4,424.1
+north-america,SX,Sint Maarten,297.9,411.8
+north-america,TC,Turks and Caicos Islands,272.9,400.5
+north-america,TT,Trinidad and Tobago,303.1,432.9
+north-america,UM-DQ,Jarvis Island,25.8,464.0
+north-america,UM-FQ,Baker Island,990.0,462.3
+north-america,UM-HQ,Howland Island,989.5,460.7
+north-america,UM-JQ,Johnston Atoll,1009.4,415.6
+north-america,UM-MQ,Midway Islands,987.4,380.9
+north-america,UM-WQ,Wake Island,942.6,408.1
+north-america,US,United States,141.9,298.4
+north-america,VC,Saint Vincent and the Grenadines,303.0,426.3
+north-america,VG,British Virgin Islands,293.9,410.2
+north-america,VI,US Virgin Islands,293.0,411.8
+oceania,AS,American Samoa,1006.2,503.2
+oceania,AU,Australia,856.7,568.8
+oceania,BV,Bouvet Island,484.5,644.8
+oceania,CC,Cocos  (Keeling)  Islands,746.8,497.1
+oceania,CK,Cook Islands,26.4,523.5
+oceania,CX,Christmas Island,771.4,492.4
+oceania,FJ,Fiji,974.9,511.5
+oceania,FM,Federated States of Micronesia,897.3,442.1
+oceania,GS,South Georgia and South Sandwich Islands,384.7,654.1
+oceania,GU,Guam,881.3,425.1
+oceania,HM,Heard Island and McDonald Islands,681.3,638.5
+oceania,IO,British Indian Ocean Territory,678.2,483.4
+oceania,KI,Kiribati,516.3,473.5
+oceania,MH,Marshall Islands,950.0,439.2
+oceania,MP,Northern Mariana Islands,883.2,416.3
+oceania,NC,New Caledonia,935.3,522.5
+oceania,NF,Norfolk Island,946.2,547.7
+oceania,NR,Nauru,943.4,464.4
+oceania,NU,Niue,1008.5,517.1
+oceania,NZ,New Zealand,965.7,600.7
+oceania,PF,French Polynesia,71.0,505.0
+oceania,PG,Papua New Guinea,891.6,481.1
+oceania,PN,Pitcairn Islands,114.8,533.0
+oceania,PW,Palau,847.9,447.9
+oceania,SB,Solomon Islands,927.6,488.8
+oceania,TF,French Southern and Antarctic Lands,646.4,616.3
+oceania,TK,Tokelau,1003.0,488.0
+oceania,TO,Tonga,995.1,519.9
+oceania,TV,Tuvalu,973.8,483.4
+oceania,VU,Vanuatu,947.3,511.0
+oceania,WF,Wallis and Futuna,988.0,501.7
+oceania,WS,Samoa,1002.2,501.6
+south-america,AR,Argentina,296.3,586.5
+south-america,BO,Bolivia,305.9,519.6
+south-america,BR,Brazil,341.5,497.3
+south-america,CL,Chile,228.1,590.2
+south-america,CO,Colombia,271.3,446.2
+south-america,EC,Ecuador,240.7,467.9
+south-america,FK,Falkland Islands,308.0,632.6
+south-america,GF,French Guiana,325.8,451.9
+south-america,GY,Guyana,309.5,450.8
+south-america,PE,Peru,274.7,494.1
+south-america,PY,Paraguay,310.9,531.6
+south-america,SR,Suriname,317.7,452.0
+south-america,UY,Uruguay,318.3,559.0
+south-america,VE,Venezuela,288.0,444.9
+un-regions,westAsia,Western Asia,594.1,529.1
+un-regions,northAmerica,North America,473.7,355.4
+un-regions,centralAsia,Central Asia,658.6,471.0
+un-regions,micronesia,Micronesia,481.2,589.8
+un-regions,melanesia,Melanesia,907.8,642.8
+un-regions,northAfrica,Northern Africa,508.7,545.0
+un-regions,eastAsia,Eastern Asia,772.0,500.8
+un-regions,southAfrica,Southern Africa,546.1,704.3
+un-regions,southeastAsia,Southeastern Asia,790.9,585.3
+un-regions,centralAmerica,Central America,220.9,554.5
+un-regions,eastEurope,Eastern Europe,480.0,348.1
+un-regions,westAfrica,Western Africa,467.5,566.8
+un-regions,eastAfrica,Eastern Africa,586.4,623.1
+un-regions,westEurope,Western Europe,496.6,461.7
+un-regions,australiaNZ,Australia and New Zealand,482.4,703.7
+un-regions,polynesia,Polynesia,64.5,604.0
+un-regions,southAmerica,South America,311.4,683.6
+un-regions,northEurope,Northern Europe,489.7,343.6
+un-regions,southEurope,Southern Europe,480.2,500.6
+un-regions,middleAfrica,Middle Africa,530.3,602.6
+un-regions,southAsia,Southern Asia,668.5,544.5
+un-regions,caribbean,Caribbean,287.6,559.7
+world,AD,Andorra,479.3,331.5
+world,AE,United Arab Emirates,627.8,391.1
+world,AF,Afghanistan,664.9,361.8
+world,AG,Antigua and Barbuda,301.5,413.8
+world,AI,Anguilla,297.9,411.2
+world,AL,Albania,531.9,333.2
+world,AM,Armenia,601.1,340.7
+world,AO,Angola,525.1,494.6
+world,AR,Argentina,296.3,586.5
+world,AS,American Samoa,1006.2,503.2
+world,AT,Austria,522.6,308.9
+world,AU,Australia,856.7,568.8
+world,AW,Aruba,278.5,427.7
+world,AX,Aland Islands,531.2,250.9
+world,AZ,Azerbaijan,608.4,340.3
+world,BA,Bosnia and Herzegovina,524.5,326.1
+world,BB,Barbados,307.8,425.8
+world,BD,Bangladesh,728.4,394.8
+world,BE,Belgium,487.4,299.0
+world,BF,Burkina Faso,470.5,428.7
+world,BG,Bulgaria,546.4,330.7
+world,BH,Bahrain,616.7,387.7
+world,BI,Burundi,560.8,470.6
+world,BJ,Benin,481.3,436.8
+world,BL,Saint Barthelemy,298.5,412.2
+world,BN,Brunei Darussalam,796.8,450.3
+world,BO,Bolivia,305.9,519.6
+world,BM,Bermuda,293.1,367.5
+world,BQ,"Bonaire,  Saint Eustachius and Saba",290.6,421.0
+world,BR,Brazil,341.5,497.3
+world,BS,Bahamas,262.0,394.0
+world,BT,Bhutan,728.6,383.1
+world,BV,Bouvet Island,484.5,644.8
+world,BW,Botswana,544.1,527.0
+world,BY,Belarus,553.3,284.1
+world,BZ,Belize,226.5,414.3
+world,CA,Canada,205.5,173.2
+world,CC,Cocos  (Keeling)  Islands,746.8,497.1
+world,CD,Democratic Republic of Congo,557.2,454.1
+world,CF,Central African Republic,533.6,444.4
+world,CG,Republic of Congo,516.6,465.1
+world,CH,Switzerland,497.9,314.7
+world,CI,Côte d'Ivoire,459.3,441.8
+world,CK,Cook Islands,26.4,523.5
+world,CL,Chile,228.1,590.2
+world,CM,Cameroon,509.6,442.2
+world,CN,China,806.0,348.2
+world,CO,Colombia,271.3,446.2
+world,CR,Costa Rica,238.5,435.9
+world,CU,Cuba,251.7,401.4
+world,CV,Cape Verde,407.5,417.7
+world,CW,Curaçao,281.4,428.6
+world,CX,Christmas Island,771.4,492.4
+world,CY,Cyprus,568.7,358.2
+world,CZ,Czech Republic,518.3,302.0
+world,DE,Germany,507.6,289.8
+world,DJ,Djibouti,594.4,429.7
+world,DK,Denmark,508.3,273.2
+world,DM,Dominica,302.7,419.4
+world,DO,Dominican Republic,276.7,409.0
+world,DZ,Algeria,479.5,380.2
+world,EC,Ecuador,240.7,467.9
+world,EG,Egypt,561.3,384.9
+world,EE,Estonia,545.1,259.8
+world,EH,Western Sahara,450.5,383.8
+world,ER,Eritrea,586.5,420.0
+world,ES,Spain,455.5,355.4
+world,ET,Ethiopia,588.5,437.2
+world,FI,Finland,548.1,218.7
+world,FJ,Fiji,974.9,511.5
+world,FK,Falkland Islands,308.0,632.6
+world,FM,Federated States of Micronesia,897.3,442.1
+world,FO,Faroe Islands,455.5,241.2
+world,FR,France,481.6,316.1
+world,GA,Gabon,512.7,463.4
+world,GB,United Kingdom,466.8,274.3
+world,GE,Georgia,603.3,335.5
+world,GD,Grenada,301.8,428.9
+world,GF,French Guiana,325.8,451.9
+world,GG,Guernsey,467.7,303.5
+world,GH,Ghana,472.0,440.6
+world,GI,Gibraltar,459.9,354.7
+world,GL,Greenland,357.1,124.7
+world,GM,Gambia,431.9,425.1
+world,GN,Guinea,448.0,435.3
+world,GO,Glorioso Islands,607.6,495.4
+world,GP,Guadeloupe,302.3,417.1
+world,GQ,Equatorial Guinea,502.6,456.3
+world,GR,Greece,542.1,346.7
+world,GS,South Georgia and South Sandwich Islands,384.7,654.1
+world,GT,Guatemala,221.7,418.3
+world,GU,Guam,881.3,425.1
+world,GW,Guinea-Bissau,432.3,429.8
+world,GY,Guyana,309.5,450.8
+world,HK,Hong Kong,795.1,398.9
+world,HM,Heard Island and McDonald Islands,681.3,638.5
+world,HN,Honduras,232.8,421.3
+world,HR,Croatia,521.1,323.9
+world,HT,Haiti,269.8,408.7
+world,HU,Hungary,529.6,313.5
+world,ID,Indonesia,806.3,470.0
+world,IE,Ireland,451.9,285.6
+world,IL,Israel,573.3,370.3
+world,IM,Isle of Man,462.1,281.9
+world,IN,India,713.6,406.4
+world,IO,British Indian Ocean Territory,678.2,483.4
+world,IQ,Iraq,597.4,364.6
+world,IR,Iran,626.6,366.3
+world,IS,Iceland,421.5,221.6
+world,IT,Italy,510.1,333.2
+world,JE,Jersey,468.9,304.6
+world,JM,Jamaica,258.0,411.5
+world,JO,Jordan,579.1,370.9
+world,JP,Japan,853.1,356.5
+world,JU,Juan De Nova Island,594.9,511.2
+world,KE,Kenya,586.4,463.9
+world,KG,Kyrgyzstan,684.6,336.3
+world,KH,Cambodia,769.5,427.6
+world,KI,Kiribati,516.3,473.5
+world,KM,Comoros,598.0,496.3
+world,KN,Saint Kitts and Nevis,299.0,414.1
+world,KP,North Korea,832.8,339.4
+world,KR,South Korea,835.4,355.3
+world,XK,Kosovo,533.5,331.4
+world,KW,Kuwait,608.2,377.3
+world,KY,Cayman Islands,248.7,407.4
+world,KZ,Kazakhstan,667.6,321.9
+world,LA,Lao People's Democratic Republic,766.4,411.1
+world,LB,Lebanon,575.5,362.4
+world,LC,Saint Lucia,303.8,423.8
+world,LI,Liechtenstein,501.7,313.2
+world,LK,Sri Lanka,701.6,440.9
+world,LR,Liberia,452.4,445.3
+world,LS,Lesotho,554.1,549.5
+world,LT,Lithuania,541.8,277.4
+world,LU,Luxembourg,492.0,302.1
+world,LV,Latvia,544.0,268.8
+world,LY,Libya,544.9,385.6
+world,MA,Morocco,454.9,369.0
+world,MC,Monaco,495.7,326.8
+world,MD,Moldova,554.5,314.0
+world,MG,Madagascar,606.4,516.8
+world,ME,Montenegro,529.3,330.8
+world,MF,Saint Martin,297.9,411.6
+world,MH,Marshall Islands,950.0,439.2
+world,MK,Macedonia,535.9,335.1
+world,ML,Mali,474.6,418.0
+world,MO,Macau,793.5,399.3
+world,MM,Myanmar,746.2,407.6
+world,MN,Mongolia,766.3,313.4
+world,MP,Northern Mariana Islands,883.2,416.3
+world,MQ,Martinique,303.6,421.6
+world,MR,Mauritania,444.2,404.1
+world,MS,Montserrat,300.4,415.6
+world,MT,Malta,515.2,355.3
+world,MU,Mauritius,636.4,520.6
+world,MV,Maldives,681.0,452.5
+world,MW,Malawi,573.5,503.4
+world,MX,Mexico,187.1,394.1
+world,MY,Malaysia,782.1,451.4
+world,MZ,Mozambique,566.1,518.6
+world,NA,Namibia,539.8,514.0
+world,NC,New Caledonia,935.3,522.5
+world,NE,Niger,497.5,412.7
+world,NF,Norfolk Island,946.2,547.7
+world,NG,Nigeria,505.4,437.5
+world,NI,Nicaragua,235.2,426.7
+world,NL,Netherlands,489.7,291.4
+world,NO,Norway,525.0,213.1
+world,NP,Nepal,710.9,380.3
+world,NR,Nauru,943.4,464.4
+world,NU,Niue,1008.5,517.1
+world,NZ,New Zealand,965.7,600.7
+world,OM,Oman,630.2,401.3
+world,PA,Panama,250.1,439.4
+world,PE,Peru,274.7,494.1
+world,PF,French Polynesia,71.0,505.0
+world,PG,Papua New Guinea,891.6,481.1
+world,PH,Philippines,816.7,426.1
+world,PK,Pakistan,687.6,356.6
+world,PL,Poland,528.5,292.2
+world,PM,Saint Pierre and Miquelon,317.0,314.2
+world,PN,Pitcairn Islands,114.8,533.0
+world,PR,Puerto Rico,287.9,411.2
+world,PS,Palestinian Territories,572.8,369.0
+world,PT,Portugal,422.3,349.7
+world,PW,Palau,847.9,447.9
+world,PY,Paraguay,310.9,531.6
+world,QA,Qatar,618.5,389.8
+world,RE,Reunion,630.8,523.2
+world,RO,Romania,545.0,317.9
+world,RS,Serbia,533.6,325.0
+world,RU,Russia,769.3,183.7
+world,RW,Rwanda,558.7,468.3
+world,SA,Saudi Arabia,601.5,392.4
+world,SB,Solomon Islands,927.6,488.8
+world,SC,Seychelles,630.6,476.0
+world,SD,Sudan,573.2,418.1
+world,SE,Sweden,524.4,246.1
+world,SG,Singapore,766.3,459.1
+world,SH,Saint Helena,446.7,496.6
+world,SI,Slovenia,516.8,317.4
+world,SJ,Svalbard and Jan Mayen,509.3,121.1
+world,SK,Slovakia,530.2,306.9
+world,SL,Sierra Leone,441.8,439.3
+world,SM,San Marino,509.9,326.1
+world,SN,Senegal,441.0,423.1
+world,SO,Somalia,590.7,461.6
+world,SR,Suriname,317.7,452.0
+world,SS,South Sudan,558.3,440.9
+world,ST,Sao Tome and Principe,494.4,460.5
+world,SV,El Salvador,225.4,424.1
+world,SX,Sint Maarten,297.9,411.8
+world,SY,Syria,592.1,354.9
+world,SZ,Swaziland,563.2,539.7
+world,TC,Turks and Caicos Islands,272.9,400.5
+world,TD,Chad,542.2,407.5
+world,TF,French Southern and Antarctic Lands,646.4,616.3
+world,TG,Togo,477.3,438.8
+world,TH,Thailand,759.8,425.9
+world,TJ,Tajikistan,674.8,344.9
+world,TK,Tokelau,1003.0,488.0
+world,TL,Timor-Leste,827.6,487.6
+world,TM,Turkmenistan,642.1,344.3
+world,TN,Tunisia,501.6,362.4
+world,TO,Tonga,995.1,519.9
+world,TR,Turkey,573.8,344.4
+world,TT,Trinidad and Tobago,303.1,432.9
+world,TV,Tuvalu,973.8,483.4
+world,TW,Taiwan,812.0,395.1
+world,TZ,Tanzania,574.1,475.5
+world,UA,Ukraine,570.1,318.7
+world,UG,Uganda,564.0,463.2
+world,UM-DQ,Jarvis Island,25.8,464.0
+world,UM-FQ,Baker Island,990.0,462.3
+world,UM-HQ,Howland Island,989.5,460.7
+world,UM-JQ,Johnston Atoll,1009.4,415.6
+world,UM-MQ,Midway Islands,987.4,380.9
+world,UM-WQ,Wake Island,942.6,408.1
+world,US,United States,141.9,298.4
+world,UY,Uruguay,318.3,559.0
+world,UZ,Uzbekistan,674.7,336.9
+world,VA,Vatican City,509.8,333.9
+world,VC,Saint Vincent and the Grenadines,303.0,426.3
+world,VE,Venezuela,288.0,444.9
+world,VG,British Virgin Islands,293.9,410.2
+world,VI,US Virgin Islands,293.0,411.8
+world,VN,Vietnam,771.8,417.4
+world,VU,Vanuatu,947.3,511.0
+world,WF,Wallis and Futuna,988.0,501.7
+world,WS,Samoa,1002.2,501.6
+world,YE,Yemen,611.1,418.6
+world,YT,Mayotte,601.6,499.0
+world,ZA,South Africa,554.0,569.4
+world,ZM,Zambia,553.0,501.7
+world,ZW,Zimbabwe,556.6,517.1
+world-china,TV,Tuvalu,957.9,483.1
+world-china,BV,Bouvet Island,489.1,634.0
+world-china,GI,Gibraltar,465.7,356.8
+world-china,GO,Glorioso Islands,606.1,491.4
+world-china,JU,Juan De Nova Island,594.0,506.5
+world-china,UM-DQ,Jarvis Island,53.3,461.4
+world-china,UM-FQ,Baker Island,9.4,459.7
+world-china,UM-HQ,Howland Island,9.0,458.2
+world-china,UM-JQ,Johnston Atoll,27.9,415.1
+world-china,UM-MQ,Midway Islands,7.0,381.9
+world-china,UM-WQ,Wake Island,924.4,407.8
+world-china,BQ,"Bonair, Saint Eustachius and Saba",297.9,427.6
+world-china,NL,Netherlands,494.1,296.8
+world-china,ZW,Zimbabwe,557.6,512.1
+world-china,ZM,Zambia,554.2,495.7
+world-china,ZA,South Africa,552.4,561.7
+world-china,YE,Yemen,609.4,418.0
+world-china,WS,Samoa,21.0,497.4
+world-china,WF,Wallis and Futuna,7.6,497.4
+world-china,PS,Palestinian Territories,573.0,370.6
+world-china,VU,Vanuatu,928.6,506.3
+world-china,VN,Vietnam,762.1,416.8
+world-china,VI,US Virgin Islands,307.2,411.4
+world-china,VG,British Virgin Islands,308.0,410.2
+world-china,VE,Venezuela,302.4,443.0
+world-china,VC,Saint Vincent and the Grenadines,316.8,424.7
+world-china,VA,Vatican City,513.2,337.0
+world-china,UZ,Uzbekistan,652.1,338.5
+world-china,US,United States,482.1,296.3
+world-china,UY,Uruguay,331.2,552.2
+world-china,UA,Ukraine,563.0,311.9
+world-china,UG,Uganda,566.0,456.6
+world-china,TZ,Tanzania,573.0,477.4
+world-china,TR,Türkiye,574.0,347.1
+world-china,TN,Tunisia,505.4,364.3
+world-china,TT,Trinidad and Tobago,316.8,431.6
+world-china,TO,Tonga,14.3,514.8
+world-china,TL,Timor-Leste,815.1,484.0
+world-china,TM,Turkmenistan,638.8,346.9
+world-china,TK,Tokelau,20.0,483.2
+world-china,TJ,Tajikistan,670.0,347.6
+world-china,TH,Thailand,750.7,425.0
+world-china,TG,Togo,482.3,437.3
+world-china,TD,Chad,529.9,418.2
+world-china,TC,Turks and Caicos Islands,288.0,400.6
+world-china,SY,Syria,584.2,361.1
+world-china,SC,Seychelles,627.9,472.8
+world-china,SX,Sint Maarten,311.8,411.4
+world-china,SZ,Eswatini,563.9,533.7
+world-china,SE,Sweden,527.1,242.4
+world-china,SI,Slovenia,519.9,321.3
+world-china,SK,Slovakia,532.5,311.3
+world-china,SR,Suriname,330.6,449.9
+world-china,ST,Sao Tome and Principe,498.6,458.0
+world-china,RS,Serbia,535.8,328.5
+world-china,PM,Saint Pierre and Miquelon,329.9,318.2
+world-china,SO,Somalia,603.1,446.5
+world-china,SM,San Marino,513.2,329.6
+world-china,SV,El Salvador,242.9,423.2
+world-china,SL,Sierra Leone,448.6,437.7
+world-china,SB,Solomon Islands,910.1,485.0
+world-china,SH,Saint Helena,453.2,492.5
+world-china,GS,South Georgia and South Sandwich Islands,394.4,642.8
+world-china,SG,Singapore,756.9,456.7
+world-china,SN,Senegal,441.4,421.2
+world-china,SS,South Sudan,559.2,439.2
+world-china,SD,Sudan,560.6,418.3
+world-china,SA,Saudi Arabia,600.3,392.9
+world-china,EH,Western Sahara,445.6,393.5
+world-china,RW,Rwanda,559.6,465.5
+world-china,RU,Russia,480.0,198.1
+world-china,RO,Romania,546.6,321.8
+world-china,RE,Reunion,628.1,518.0
+world-china,QA,Qatar,616.5,390.4
+world-china,PF,French Polynesia,96.3,497.2
+world-china,PY,Paraguay,324.1,524.8
+world-china,PT,Portugal,430.0,352.2
+world-china,KP,North Korea,820.0,342.3
+world-china,PR,Puerto Rico,302.4,410.8
+world-china,PL,Poland,531.0,297.3
+world-china,PG,Papua New Guinea,875.8,477.7
+world-china,PW,Palau,838.9,440.2
+world-china,PH,Philippines,804.8,425.1
+world-china,PE,Peru,280.0,485.3
+world-china,PN,Pitcairn Islands,137.8,527.3
+world-china,PA,Panama,266.4,437.8
+world-china,PK,Pakistan,664.9,374.5
+world-china,OM,Oman,629.1,401.4
+world-china,NZ,New Zealand,482.3,592.0
+world-china,SJ,Svalbard and Jan Mayen,512.6,134.6
+world-china,NR,Nauru,925.2,461.7
+world-china,NP,Nepal,704.3,381.3
+world-china,NO,Norway,527.7,227.7
+world-china,NU,Niue,27.0,512.1
+world-china,NI,Nicaragua,252.2,425.7
+world-china,NG,Nigeria,503.1,435.9
+world-china,NF,Norfolk Island,927.9,541.3
+world-china,NE,Niger,501.5,412.3
+world-china,NC,New Caledonia,917.4,517.3
+world-china,NA,Namibia,529.3,523.6
+world-china,YT,Mayotte,600.4,494.8
+world-china,MY,Malaysia,771.9,449.3
+world-china,MW,Malawi,571.4,496.1
+world-china,MU,Mauritius,633.5,515.5
+world-china,MQ,Martinique,317.3,420.8
+world-china,MS,Montserrat,314.2,415.0
+world-china,MR,Mauritania,450.8,402.6
+world-china,MZ,Mozambique,574.8,511.6
+world-china,MP,Northern Mariana Islands,868.0,415.8
+world-china,MN,Mongolia,756.9,317.5
+world-china,ME,Montenegro,531.7,334.1
+world-china,MM,Myanmar,737.8,407.4
+world-china,MT,Malta,518.3,357.5
+world-china,ML,Mali,469.3,412.3
+world-china,MK,North Macedonia,537.9,338.1
+world-china,MH,Marshall Islands,933.2,442.7
+world-china,MX,Mexico,206.5,394.5
+world-china,MV,Maldives,675.9,450.3
+world-china,MG,Madagascar,605.0,511.8
+world-china,MD,Moldova,555.7,318.0
+world-china,MC,Monaco,499.8,330.3
+world-china,MA,Morocco,461.0,370.5
+world-china,MF,Saint Martin,311.8,411.3
+world-china,LV,Latvia,545.6,275.0
+world-china,LU,Luxembourg,496.3,306.7
+world-china,LT,Lithuania,543.6,283.2
+world-china,LS,Lesotho,555.3,543.1
+world-china,LK,Sri Lanka,695.4,439.2
+world-china,LI,Liechtenstein,505.5,317.3
+world-china,LC,Saint Lucia,317.4,422.9
+world-china,LY,Libya,526.0,386.9
+world-china,LR,Liberia,454.8,443.1
+world-china,LB,Lebanon,575.6,364.2
+world-china,LA,Lao People's Democratic Republic,757.0,410.8
+world-china,KW,Kuwait,606.6,378.5
+world-china,XK,Kosovo,535.7,334.7
+world-china,KR,South Korea,822.6,357.4
+world-china,KN,Saint Kitts and Nevis,312.8,413.6
+world-china,KI,Kiribati,500.1,460.5
+world-china,KH,Cambodia,759.9,426.5
+world-china,KG,Kyrgyzstan,679.3,339.3
+world-china,KE,Kenya,581.0,459.2
+world-china,KZ,Kazakhstan,658.6,311.9
+world-china,JP,Japan,839.3,358.6
+world-china,JO,Jordan,579.0,372.3
+world-china,JE,Jersey,474.3,309.1
+world-china,JM,Jamaica,273.9,411.2
+world-china,IT,Italy,513.5,336.3
+world-china,IL,Israel,573.5,371.8
+world-china,IS,Iceland,429.3,230.1
+world-china,IQ,Iraq,596.4,366.0
+world-china,IR,Iran,623.1,367.8
+world-china,IE,Ireland,458.1,291.0
+world-china,IO,British Indian Ocean Territory,673.2,479.9
+world-china,IN,India,700.4,400.6
+world-china,IM,Isle of Man,467.8,287.5
+world-china,ID,Indonesia,794.9,467.1
+world-china,HU,Hungary,532.0,317.3
+world-china,HT,Haiti,285.2,408.5
+world-china,HR,Croatia,523.9,327.5
+world-china,HN,Honduras,250.0,420.5
+world-china,HM,Heard Island and McDonald Islands,676.1,627.9
+world-china,GY,Guyana,322.8,447.3
+world-china,GU,Guam,866.1,424.1
+world-china,GF,French Guiana,338.3,449.8
+world-china,GT,Guatemala,239.4,417.7
+world-china,GL,Greenland,367.7,139.9
+world-china,GD,Grenada,315.5,427.8
+world-china,GR,Greece,543.8,349.2
+world-china,GQ,Equatorial Guinea,506.4,454.0
+world-china,GW,Guinea-Bissau,439.5,428.6
+world-china,GM,Gambia,439.1,424.1
+world-china,GP,Guadeloupe,316.0,416.5
+world-china,GN,Guinea,449.7,433.6
+world-china,GH,Ghana,477.3,439.0
+world-china,GG,Guernsey,473.1,308.1
+world-china,GE,Georgia,595.5,335.5
+world-china,GA,Gabon,510.9,462.5
+world-china,FR,France,486.4,320.1
+world-china,FM,Federated States of Micronesia,881.4,440.4
+world-china,FO,Faroe Islands,461.6,248.6
+world-china,FK,Falkland Islands,321.4,622.3
+world-china,FJ,Fiji,480.0,503.1
+world-china,FI,Finland,549.5,227.4
+world-china,ET,Ethiopia,588.0,435.7
+world-china,EE,Estonia,546.7,266.4
+world-china,ES,Spain,461.5,356.9
+world-china,ER,Eritrea,586.1,419.3
+world-china,GB,United Kingdom,471.5,280.2
+world-china,EG,Egypt,562.1,385.7
+world-china,EC,Ecuador,257.5,465.0
+world-china,DZ,Algeria,484.4,381.2
+world-china,DO,Dominican Republic,292.9,409.3
+world-china,DK,Denmark,511.0,278.2
+world-china,DM,Dominica,316.4,418.7
+world-china,DJ,Djibouti,593.6,428.6
+world-china,DE,Germany,507.8,300.6
+world-china,CZ,Czechia,521.2,306.6
+world-china,CY,Cyprus,569.1,360.2
+world-china,KY,Cayman Islands,265.1,407.2
+world-china,CX,Christmas Island,761.7,488.5
+world-china,CW,Curaçao,296.1,427.5
+world-china,CU,Cuba,268.0,401.5
+world-china,CR,Costa Rica,255.4,434.5
+world-china,CV,Cape Verde,416.0,417.1
+world-china,KM,Comoros,597.0,492.2
+world-china,CO,Colombia,285.5,449.3
+world-china,CK,Cook Islands,53.9,518.2
+world-china,CG,Republic of Congo,519.7,462.1
+world-china,CD,Democratic Republic of Congo,538.0,471.3
+world-china,CM,Cameroon,513.0,440.5
+world-china,CI,Côte d'Ivoire,465.2,440.1
+world-china,CN,China,757.8,350.7
+world-china,CL,Chile,245.5,574.3
+world-china,CH,Switzerland,501.9,318.7
+world-china,CC,Cocos (Keeling) Islands,738.2,493.0
+world-china,CA,Canada,221.8,183.9
+world-china,CF,Central African Republic,535.8,442.5
+world-china,BE,Belgium,491.9,303.8
+world-china,BW,Botswana,545.8,521.6
+world-china,BT,Bhutan,721.1,384.0
+world-china,BN,Brunei,785.9,448.2
+world-china,BB,Barbados,321.2,424.8
+world-china,BR,Brazil,334.9,501.1
+world-china,BO,Bolivia,310.5,504.7
+world-china,BM,Bermuda,307.4,369.1
+world-china,BZ,Belize,244.0,413.8
+world-china,BY,Belarus,554.5,289.6
+world-china,BL,Saint Barthelemy,312.4,411.8
+world-china,BS,Bahamas,277.7,394.4
+world-china,BH,Bahrain,614.8,388.4
+world-china,BA,Bosnia and Herzegovina,527.1,329.6
+world-china,BG,Bulgaria,547.9,333.9
+world-china,BD,Bangladesh,720.9,395.2
+world-china,BF,Burkina Faso,475.8,427.4
+world-china,BJ,Benin,486.1,435.4
+world-china,BI,Burundi,559.8,469.4
+world-china,AZ,Azerbaijan,606.8,343.2
+world-china,AT,Austria,515.6,315.2
+world-china,AU,Australia,842.5,561.3
+world-china,TF,French Southern and Antarctic Lands,643.0,606.8
+world-china,AQ,Antarctica,480.0,802.3
+world-china,AS,American Samoa,24.7,498.9
+world-china,AM,Armenia,600.0,343.4
+world-china,AR,Argentina,310.3,578.4
+world-china,AE,United Arab Emirates,623.9,393.3
+world-china,AD,Andorra,484.2,334.7
+world-china,AX,Aland Islands,533.5,258.0
+world-china,AL,Albania,533.8,339.7
+world-china,AI,Anguilla,311.8,410.9
+world-china,AO,Angola,527.7,490.7
+world-china,AF,Afghanistan,660.5,363.7
+world-china,AG,Antigua and Barbuda,315.2,413.3
+world-china,AW,Aruba,293.4,426.6
+world-great-lakes,TV,Tuvalu,957.9,483.1
+world-great-lakes,BV,Bouvet Island,489.1,634.0
+world-great-lakes,GI,Gibraltar,465.7,356.8
+world-great-lakes,GO,Glorioso Islands,606.1,491.4
+world-great-lakes,JU,Juan De Nova Island,594.0,506.5
+world-great-lakes,UM-DQ,Jarvis Island,53.3,461.4
+world-great-lakes,UM-FQ,Baker Island,9.4,459.7
+world-great-lakes,UM-HQ,Howland Island,9.0,458.2
+world-great-lakes,UM-JQ,Johnston Atoll,27.9,415.1
+world-great-lakes,UM-MQ,Midway Islands,7.0,381.9
+world-great-lakes,UM-WQ,Wake Island,924.4,407.8
+world-great-lakes,BQ,"Bonair, Saint Eustachius and Saba",297.9,427.6
+world-great-lakes,NL,Netherlands,494.1,296.8
+world-great-lakes,ZW,Zimbabwe,557.6,512.1
+world-great-lakes,ZM,Zambia,554.2,495.7
+world-great-lakes,ZA,South Africa,552.4,561.7
+world-great-lakes,YE,Yemen,609.4,418.0
+world-great-lakes,WS,Samoa,21.0,497.4
+world-great-lakes,WF,Wallis and Futuna,7.6,497.4
+world-great-lakes,PS,Palestinian Territories,573.0,370.6
+world-great-lakes,VU,Vanuatu,928.6,506.3
+world-great-lakes,VN,Vietnam,762.1,416.8
+world-great-lakes,VI,US Virgin Islands,307.2,411.4
+world-great-lakes,VG,British Virgin Islands,308.0,410.2
+world-great-lakes,VE,Venezuela,302.4,443.0
+world-great-lakes,VC,Saint Vincent and the Grenadines,316.8,424.7
+world-great-lakes,VA,Vatican City,513.2,337.0
+world-great-lakes,UZ,Uzbekistan,652.1,338.5
+world-great-lakes,US,United States,482.1,296.3
+world-great-lakes,UY,Uruguay,331.2,552.2
+world-great-lakes,UA,Ukraine,563.0,311.9
+world-great-lakes,UG,Uganda,566.0,456.6
+world-great-lakes,TZ,Tanzania,573.0,477.4
+world-great-lakes,TW,Taiwan,800.3,395.5
+world-great-lakes,TR,Türkiye,574.0,347.1
+world-great-lakes,TN,Tunisia,505.4,364.3
+world-great-lakes,TT,Trinidad and Tobago,316.8,431.6
+world-great-lakes,TO,Tonga,14.3,514.8
+world-great-lakes,TL,Timor-Leste,815.1,484.0
+world-great-lakes,TM,Turkmenistan,638.8,346.9
+world-great-lakes,TK,Tokelau,20.0,483.2
+world-great-lakes,TJ,Tajikistan,670.0,347.6
+world-great-lakes,TH,Thailand,750.7,425.0
+world-great-lakes,TG,Togo,482.3,437.3
+world-great-lakes,TD,Chad,529.9,418.2
+world-great-lakes,TC,Turks and Caicos Islands,288.0,400.6
+world-great-lakes,SY,Syria,584.2,361.1
+world-great-lakes,SC,Seychelles,627.9,472.8
+world-great-lakes,SX,Sint Maarten,311.8,411.4
+world-great-lakes,SZ,Eswatini,563.9,533.7
+world-great-lakes,SE,Sweden,527.1,242.4
+world-great-lakes,SI,Slovenia,519.9,321.3
+world-great-lakes,SK,Slovakia,532.5,311.3
+world-great-lakes,SR,Suriname,330.6,449.9
+world-great-lakes,ST,Sao Tome and Principe,498.6,458.0
+world-great-lakes,RS,Serbia,535.8,328.5
+world-great-lakes,PM,Saint Pierre and Miquelon,329.9,318.2
+world-great-lakes,SO,Somalia,603.1,446.5
+world-great-lakes,SM,San Marino,513.2,329.6
+world-great-lakes,SV,El Salvador,242.9,423.2
+world-great-lakes,SL,Sierra Leone,448.6,437.7
+world-great-lakes,SB,Solomon Islands,910.1,485.0
+world-great-lakes,SH,Saint Helena,453.2,492.5
+world-great-lakes,GS,South Georgia and South Sandwich Islands,394.4,642.8
+world-great-lakes,SG,Singapore,756.9,456.7
+world-great-lakes,SN,Senegal,441.4,421.2
+world-great-lakes,SS,South Sudan,559.2,439.2
+world-great-lakes,SD,Sudan,560.6,418.3
+world-great-lakes,SA,Saudi Arabia,600.3,392.9
+world-great-lakes,EH,Western Sahara,445.6,393.5
+world-great-lakes,RW,Rwanda,559.6,465.5
+world-great-lakes,RU,Russia,480.0,198.1
+world-great-lakes,RO,Romania,546.6,321.8
+world-great-lakes,RE,Reunion,628.1,518.0
+world-great-lakes,QA,Qatar,616.5,390.4
+world-great-lakes,PF,French Polynesia,96.3,497.2
+world-great-lakes,PY,Paraguay,324.1,524.8
+world-great-lakes,PT,Portugal,430.0,352.2
+world-great-lakes,KP,North Korea,820.0,342.3
+world-great-lakes,PR,Puerto Rico,302.4,410.8
+world-great-lakes,PL,Poland,531.0,297.3
+world-great-lakes,PG,Papua New Guinea,875.8,477.7
+world-great-lakes,PW,Palau,838.9,440.2
+world-great-lakes,PH,Philippines,804.8,425.1
+world-great-lakes,PE,Peru,280.0,485.3
+world-great-lakes,PN,Pitcairn Islands,137.8,527.3
+world-great-lakes,PA,Panama,266.4,437.8
+world-great-lakes,PK,Pakistan,664.9,374.5
+world-great-lakes,OM,Oman,629.1,401.4
+world-great-lakes,NZ,New Zealand,482.3,592.0
+world-great-lakes,SJ,Svalbard and Jan Mayen,512.6,134.6
+world-great-lakes,NR,Nauru,925.2,461.7
+world-great-lakes,NP,Nepal,704.3,381.3
+world-great-lakes,NO,Norway,527.7,227.7
+world-great-lakes,NU,Niue,27.0,512.1
+world-great-lakes,NI,Nicaragua,252.2,425.7
+world-great-lakes,NG,Nigeria,503.1,435.9
+world-great-lakes,NF,Norfolk Island,927.9,541.3
+world-great-lakes,NE,Niger,501.5,412.3
+world-great-lakes,NC,New Caledonia,917.4,517.3
+world-great-lakes,NA,Namibia,529.3,523.6
+world-great-lakes,YT,Mayotte,600.4,494.8
+world-great-lakes,MY,Malaysia,771.9,449.3
+world-great-lakes,MW,Malawi,571.4,496.1
+world-great-lakes,MU,Mauritius,633.5,515.5
+world-great-lakes,MQ,Martinique,317.3,420.8
+world-great-lakes,MS,Montserrat,314.2,415.0
+world-great-lakes,MR,Mauritania,450.8,402.6
+world-great-lakes,MZ,Mozambique,574.8,511.6
+world-great-lakes,MP,Northern Mariana Islands,868.0,415.8
+world-great-lakes,MN,Mongolia,756.9,317.5
+world-great-lakes,ME,Montenegro,531.7,334.1
+world-great-lakes,MM,Myanmar,737.8,407.4
+world-great-lakes,MT,Malta,518.3,357.5
+world-great-lakes,ML,Mali,469.3,412.3
+world-great-lakes,MK,North Macedonia,537.9,338.1
+world-great-lakes,MH,Marshall Islands,933.2,442.7
+world-great-lakes,MX,Mexico,206.5,394.5
+world-great-lakes,MV,Maldives,675.9,450.3
+world-great-lakes,MG,Madagascar,605.0,511.8
+world-great-lakes,MD,Moldova,555.7,318.0
+world-great-lakes,MC,Monaco,499.8,330.3
+world-great-lakes,MA,Morocco,461.0,370.5
+world-great-lakes,MF,Saint Martin,311.8,411.3
+world-great-lakes,MO,Macau,782.7,399.5
+world-great-lakes,LV,Latvia,545.6,275.0
+world-great-lakes,LU,Luxembourg,496.3,306.7
+world-great-lakes,LT,Lithuania,543.6,283.2
+world-great-lakes,LS,Lesotho,555.3,543.1
+world-great-lakes,LK,Sri Lanka,695.4,439.2
+world-great-lakes,LI,Liechtenstein,505.5,317.3
+world-great-lakes,LC,Saint Lucia,317.4,422.9
+world-great-lakes,LY,Libya,526.0,386.9
+world-great-lakes,LR,Liberia,454.8,443.1
+world-great-lakes,LB,Lebanon,575.6,364.2
+world-great-lakes,LA,Lao People's Democratic Republic,757.0,410.8
+world-great-lakes,KW,Kuwait,606.6,378.5
+world-great-lakes,XK,Kosovo,535.7,334.7
+world-great-lakes,KR,South Korea,822.6,357.4
+world-great-lakes,KN,Saint Kitts and Nevis,312.8,413.6
+world-great-lakes,KI,Kiribati,500.1,460.5
+world-great-lakes,KH,Cambodia,759.9,426.5
+world-great-lakes,KG,Kyrgyzstan,679.3,339.3
+world-great-lakes,KE,Kenya,581.0,459.2
+world-great-lakes,KZ,Kazakhstan,658.6,311.9
+world-great-lakes,JP,Japan,839.3,358.6
+world-great-lakes,JO,Jordan,579.0,372.3
+world-great-lakes,JE,Jersey,474.3,309.1
+world-great-lakes,JM,Jamaica,273.9,411.2
+world-great-lakes,IT,Italy,513.5,336.3
+world-great-lakes,IL,Israel,573.5,371.8
+world-great-lakes,IS,Iceland,429.3,230.1
+world-great-lakes,IQ,Iraq,596.4,366.0
+world-great-lakes,IR,Iran,623.1,367.8
+world-great-lakes,IE,Ireland,458.1,291.0
+world-great-lakes,IO,British Indian Ocean Territory,673.2,479.9
+world-great-lakes,IN,India,700.7,400.6
+world-great-lakes,IM,Isle of Man,467.8,287.5
+world-great-lakes,ID,Indonesia,794.9,467.1
+world-great-lakes,HU,Hungary,532.0,317.3
+world-great-lakes,HT,Haiti,285.2,408.5
+world-great-lakes,HR,Croatia,523.9,327.5
+world-great-lakes,HN,Honduras,250.0,420.5
+world-great-lakes,HM,Heard Island and McDonald Islands,676.1,627.9
+world-great-lakes,HK,Hong Kong,784.2,399.1
+world-great-lakes,GY,Guyana,322.8,447.3
+world-great-lakes,GU,Guam,866.1,424.1
+world-great-lakes,GF,French Guiana,338.3,449.8
+world-great-lakes,GT,Guatemala,239.4,417.7
+world-great-lakes,GL,Greenland,367.7,139.9
+world-great-lakes,GD,Grenada,315.5,427.8
+world-great-lakes,GR,Greece,543.8,349.2
+world-great-lakes,GQ,Equatorial Guinea,506.4,454.0
+world-great-lakes,GW,Guinea-Bissau,439.5,428.6
+world-great-lakes,GM,Gambia,439.1,424.1
+world-great-lakes,GP,Guadeloupe,316.0,416.5
+world-great-lakes,GN,Guinea,449.7,433.6
+world-great-lakes,GH,Ghana,477.3,439.0
+world-great-lakes,GG,Guernsey,473.1,308.1
+world-great-lakes,GE,Georgia,595.5,335.5
+world-great-lakes,GA,Gabon,510.9,462.5
+world-great-lakes,FR,France,486.4,320.1
+world-great-lakes,FM,Federated States of Micronesia,881.4,440.4
+world-great-lakes,FO,Faroe Islands,461.6,248.6
+world-great-lakes,FK,Falkland Islands,321.4,622.3
+world-great-lakes,FJ,Fiji,480.0,503.1
+world-great-lakes,FI,Finland,549.5,227.4
+world-great-lakes,ET,Ethiopia,588.0,435.7
+world-great-lakes,EE,Estonia,546.7,266.4
+world-great-lakes,ES,Spain,461.5,356.9
+world-great-lakes,ER,Eritrea,586.1,419.3
+world-great-lakes,GB,United Kingdom,471.5,280.2
+world-great-lakes,EG,Egypt,562.1,385.7
+world-great-lakes,EC,Ecuador,257.5,465.0
+world-great-lakes,DZ,Algeria,484.4,381.2
+world-great-lakes,DO,Dominican Republic,292.9,409.3
+world-great-lakes,DK,Denmark,511.0,278.2
+world-great-lakes,DM,Dominica,316.4,418.7
+world-great-lakes,DJ,Djibouti,593.6,428.6
+world-great-lakes,DE,Germany,507.8,300.6
+world-great-lakes,CZ,Czechia,521.2,306.6
+world-great-lakes,CY,Cyprus,569.1,360.2
+world-great-lakes,KY,Cayman Islands,265.1,407.2
+world-great-lakes,CX,Christmas Island,761.7,488.5
+world-great-lakes,CW,Curaçao,296.1,427.5
+world-great-lakes,CU,Cuba,268.0,401.5
+world-great-lakes,CR,Costa Rica,255.4,434.5
+world-great-lakes,CV,Cape Verde,416.0,417.1
+world-great-lakes,KM,Comoros,597.0,492.2
+world-great-lakes,CO,Colombia,285.5,449.3
+world-great-lakes,CK,Cook Islands,53.9,518.2
+world-great-lakes,CG,Republic of Congo,519.7,462.1
+world-great-lakes,CD,Democratic Republic of Congo,538.0,471.3
+world-great-lakes,CM,Cameroon,513.0,440.5
+world-great-lakes,CI,Côte d'Ivoire,465.2,440.1
+world-great-lakes,CN,China,757.8,350.7
+world-great-lakes,CL,Chile,245.5,574.3
+world-great-lakes,CH,Switzerland,501.9,318.7
+world-great-lakes,CC,Cocos (Keeling) Islands,738.2,493.0
+world-great-lakes,CA,Canada,221.8,183.9
+world-great-lakes,CF,Central African Republic,535.8,442.5
+world-great-lakes,BE,Belgium,491.9,303.8
+world-great-lakes,BW,Botswana,545.8,521.6
+world-great-lakes,BT,Bhutan,721.1,384.0
+world-great-lakes,BN,Brunei,785.9,448.2
+world-great-lakes,BB,Barbados,321.2,424.8
+world-great-lakes,BR,Brazil,334.9,501.1
+world-great-lakes,BO,Bolivia,310.5,504.7
+world-great-lakes,BM,Bermuda,307.4,369.1
+world-great-lakes,BZ,Belize,244.0,413.8
+world-great-lakes,BY,Belarus,554.5,289.6
+world-great-lakes,BL,Saint Barthelemy,312.4,411.8
+world-great-lakes,BS,Bahamas,277.7,394.4
+world-great-lakes,BH,Bahrain,614.8,388.4
+world-great-lakes,BA,Bosnia and Herzegovina,527.1,329.6
+world-great-lakes,BG,Bulgaria,547.9,333.9
+world-great-lakes,BD,Bangladesh,720.9,395.2
+world-great-lakes,BF,Burkina Faso,475.8,427.4
+world-great-lakes,BJ,Benin,486.1,435.4
+world-great-lakes,BI,Burundi,559.8,469.4
+world-great-lakes,AZ,Azerbaijan,606.8,343.2
+world-great-lakes,AT,Austria,515.6,315.2
+world-great-lakes,AU,Australia,842.5,561.3
+world-great-lakes,TF,French Southern and Antarctic Lands,643.0,606.8
+world-great-lakes,AQ,Antarctica,480.0,802.3
+world-great-lakes,AS,American Samoa,24.7,498.9
+world-great-lakes,AM,Armenia,600.0,343.4
+world-great-lakes,AR,Argentina,310.3,578.4
+world-great-lakes,AE,United Arab Emirates,623.9,393.3
+world-great-lakes,AD,Andorra,484.2,334.7
+world-great-lakes,AX,Aland Islands,533.5,258.0
+world-great-lakes,AL,Albania,533.8,339.7
+world-great-lakes,AI,Anguilla,311.8,410.9
+world-great-lakes,AO,Angola,527.7,490.7
+world-great-lakes,AF,Afghanistan,660.5,363.7
+world-great-lakes,AG,Antigua and Barbuda,315.2,413.3
+world-great-lakes,AW,Aruba,293.4,426.6
+world-india,TV,Tuvalu,957.9,483.1
+world-india,US,United States,482.1,296.3
+world-india,BV,Bouvet Island,489.1,634.0
+world-india,GI,Gibraltar,465.7,356.8
+world-india,GO,Glorioso Islands,606.1,491.4
+world-india,JU,Juan De Nova Island,594.0,506.5
+world-india,UM-DQ,Jarvis Island,53.3,461.4
+world-india,UM-FQ,Baker Island,9.4,459.7
+world-india,UM-HQ,Howland Island,9.0,458.2
+world-india,UM-JQ,Johnston Atoll,27.9,415.1
+world-india,UM-MQ,Midway Islands,7.0,381.9
+world-india,UM-WQ,Wake Island,924.4,407.8
+world-india,BQ,"Bonair, Saint Eustachius and Saba",297.9,427.6
+world-india,ZW,Zimbabwe,557.6,512.1
+world-india,ZM,Zambia,554.2,495.7
+world-india,ZA,South Africa,552.4,561.7
+world-india,YE,Yemen,609.4,418.0
+world-india,WS,Samoa,21.0,497.4
+world-india,WF,Wallis and Futuna,7.6,497.4
+world-india,PS,Palestinian Territories,573.0,370.6
+world-india,VU,Vanuatu,928.6,506.3
+world-india,VN,Vietnam,762.1,416.8
+world-india,VI,US Virgin Islands,307.2,411.4
+world-india,VG,British Virgin Islands,308.0,410.2
+world-india,VE,Venezuela,302.4,443.0
+world-india,VC,Saint Vincent and the Grenadines,316.8,424.7
+world-india,VA,Vatican City,513.2,337.0
+world-india,UZ,Uzbekistan,652.1,338.5
+world-india,UY,Uruguay,331.2,552.2
+world-india,UA,Ukraine,563.0,311.9
+world-india,UG,Uganda,566.0,456.6
+world-india,TZ,Tanzania,573.0,477.4
+world-india,TW,Taiwan,800.3,395.5
+world-india,TR,Türkiye,574.0,347.1
+world-india,TN,Tunisia,505.4,364.3
+world-india,TT,Trinidad and Tobago,316.8,431.6
+world-india,TO,Tonga,14.3,514.8
+world-india,TL,Timor-Leste,815.1,484.0
+world-india,TM,Turkmenistan,638.8,346.9
+world-india,TK,Tokelau,20.0,483.2
+world-india,TJ,Tajikistan,670.0,347.6
+world-india,TH,Thailand,750.7,425.0
+world-india,TG,Togo,482.3,437.3
+world-india,TD,Chad,529.9,418.2
+world-india,TC,Turks and Caicos Islands,288.0,400.6
+world-india,SY,Syria,584.2,361.1
+world-india,SC,Seychelles,627.9,472.8
+world-india,SX,Sint Maarten,311.8,411.4
+world-india,SZ,Eswatini,563.9,533.7
+world-india,SE,Sweden,527.1,242.4
+world-india,SI,Slovenia,519.9,321.3
+world-india,SK,Slovakia,532.5,311.3
+world-india,SR,Suriname,330.6,449.9
+world-india,ST,Sao Tome and Principe,498.6,458.0
+world-india,RS,Serbia,535.8,328.5
+world-india,PM,Saint Pierre and Miquelon,329.9,318.2
+world-india,SO,Somalia,603.1,446.5
+world-india,SM,San Marino,513.2,329.6
+world-india,SV,El Salvador,242.9,423.2
+world-india,SL,Sierra Leone,448.6,437.7
+world-india,SB,Solomon Islands,910.1,485.0
+world-india,SH,Saint Helena,453.2,492.5
+world-india,GS,South Georgia and South Sandwich Islands,394.4,642.8
+world-india,SG,Singapore,756.9,456.7
+world-india,SN,Senegal,441.4,421.2
+world-india,SS,South Sudan,559.2,439.2
+world-india,SD,Sudan,560.6,418.3
+world-india,SA,Saudi Arabia,600.3,392.9
+world-india,EH,Western Sahara,445.6,393.5
+world-india,RW,Rwanda,559.6,465.5
+world-india,RU,Russia,480.0,198.1
+world-india,RO,Romania,546.6,321.8
+world-india,RE,Reunion,628.1,518.0
+world-india,QA,Qatar,616.5,390.4
+world-india,PF,French Polynesia,96.3,497.2
+world-india,PY,Paraguay,324.1,524.8
+world-india,PT,Portugal,430.0,352.2
+world-india,KP,North Korea,820.0,342.3
+world-india,PR,Puerto Rico,302.4,410.8
+world-india,PL,Poland,531.0,297.3
+world-india,PG,Papua New Guinea,875.8,477.7
+world-india,PW,Palau,838.9,440.2
+world-india,PH,Philippines,804.8,425.1
+world-india,PE,Peru,280.0,485.3
+world-india,PN,Pitcairn Islands,137.8,527.3
+world-india,PA,Panama,266.4,437.8
+world-india,PK,Pakistan,661.6,374.7
+world-india,OM,Oman,629.1,401.4
+world-india,NZ,New Zealand,482.3,592.0
+world-india,SJ,Svalbard and Jan Mayen,512.6,134.6
+world-india,NR,Nauru,925.2,461.7
+world-india,NP,Nepal,704.3,381.3
+world-india,NO,Norway,527.7,227.7
+world-india,NU,Niue,27.0,512.1
+world-india,NI,Nicaragua,252.2,425.7
+world-india,NG,Nigeria,503.1,435.9
+world-india,NF,Norfolk Island,927.9,541.3
+world-india,NE,Niger,501.5,412.3
+world-india,NC,New Caledonia,917.4,517.3
+world-india,NA,Namibia,529.3,523.6
+world-india,YT,Mayotte,600.4,494.8
+world-india,MY,Malaysia,771.9,449.3
+world-india,MW,Malawi,571.4,496.1
+world-india,MU,Mauritius,633.5,515.5
+world-india,MQ,Martinique,317.3,420.8
+world-india,MS,Montserrat,314.2,415.0
+world-india,MR,Mauritania,450.8,402.6
+world-india,MZ,Mozambique,574.8,511.6
+world-india,MP,Northern Mariana Islands,868.0,415.8
+world-india,MN,Mongolia,756.9,317.5
+world-india,ME,Montenegro,531.7,334.1
+world-india,MM,Myanmar,737.8,407.4
+world-india,MT,Malta,518.3,357.5
+world-india,ML,Mali,469.3,412.3
+world-india,MK,North Macedonia,537.9,338.1
+world-india,MH,Marshall Islands,933.2,442.7
+world-india,MX,Mexico,206.5,394.5
+world-india,MV,Maldives,675.9,450.3
+world-india,MG,Madagascar,605.0,511.8
+world-india,MD,Moldova,555.7,318.0
+world-india,MC,Monaco,499.8,330.3
+world-india,MA,Morocco,461.0,370.5
+world-india,MF,Saint Martin,311.8,411.3
+world-india,MO,Macau,782.7,399.5
+world-india,LV,Latvia,545.6,275.0
+world-india,LU,Luxembourg,496.3,306.7
+world-india,LT,Lithuania,543.6,283.2
+world-india,LS,Lesotho,555.3,543.1
+world-india,LK,Sri Lanka,695.4,439.2
+world-india,LI,Liechtenstein,505.5,317.3
+world-india,LC,Saint Lucia,317.4,422.9
+world-india,LY,Libya,526.0,386.9
+world-india,LR,Liberia,454.8,443.1
+world-india,LB,Lebanon,575.6,364.2
+world-india,LA,Lao People's Democratic Republic,757.0,410.8
+world-india,KW,Kuwait,606.6,378.5
+world-india,XK,Kosovo,535.7,334.7
+world-india,KR,South Korea,822.6,357.4
+world-india,KN,Saint Kitts and Nevis,312.8,413.6
+world-india,KI,Kiribati,500.1,460.5
+world-india,KH,Cambodia,759.9,426.5
+world-india,KG,Kyrgyzstan,679.3,339.3
+world-india,KE,Kenya,581.0,459.2
+world-india,KZ,Kazakhstan,658.6,311.9
+world-india,JP,Japan,839.3,358.6
+world-india,JO,Jordan,579.0,372.3
+world-india,JE,Jersey,474.3,309.1
+world-india,JM,Jamaica,273.9,411.2
+world-india,IT,Italy,513.5,336.3
+world-india,IL,Israel,573.5,371.8
+world-india,IS,Iceland,429.3,230.1
+world-india,IQ,Iraq,596.4,366.0
+world-india,IR,Iran,623.1,367.8
+world-india,IE,Ireland,458.1,291.0
+world-india,IO,British Indian Ocean Territory,673.2,479.9
+world-india,IN,India,700.7,398.1
+world-india,IM,Isle of Man,467.8,287.5
+world-india,ID,Indonesia,794.9,467.1
+world-india,HU,Hungary,532.0,317.3
+world-india,HT,Haiti,285.2,408.5
+world-india,HR,Croatia,523.9,327.5
+world-india,HN,Honduras,250.0,420.5
+world-india,HM,Heard Island and McDonald Islands,676.1,627.9
+world-india,HK,Hong Kong,784.2,399.1
+world-india,GY,Guyana,322.8,447.3
+world-india,GU,Guam,866.1,424.1
+world-india,GF,French Guiana,338.3,449.8
+world-india,GT,Guatemala,239.4,417.7
+world-india,GL,Greenland,367.7,139.9
+world-india,GD,Grenada,315.5,427.8
+world-india,GR,Greece,543.8,349.2
+world-india,GQ,Equatorial Guinea,506.4,454.0
+world-india,GW,Guinea-Bissau,439.5,428.6
+world-india,GM,Gambia,439.1,424.1
+world-india,GP,Guadeloupe,316.0,416.5
+world-india,GN,Guinea,449.7,433.6
+world-india,GH,Ghana,477.3,439.0
+world-india,GG,Guernsey,473.1,308.1
+world-india,GE,Georgia,595.5,335.5
+world-india,GA,Gabon,510.9,462.5
+world-india,FR,France,486.4,320.1
+world-india,FM,Federated States of Micronesia,881.4,440.4
+world-india,FO,Faroe Islands,461.6,248.6
+world-india,FK,Falkland Islands,321.4,622.3
+world-india,FJ,Fiji,480.0,503.1
+world-india,FI,Finland,549.5,227.4
+world-india,ET,Ethiopia,588.0,435.7
+world-india,EE,Estonia,546.7,266.4
+world-india,ES,Spain,461.5,356.9
+world-india,ER,Eritrea,586.1,419.3
+world-india,GB,United Kingdom,471.5,280.2
+world-india,EG,Egypt,562.1,385.7
+world-india,EC,Ecuador,257.5,465.0
+world-india,DZ,Algeria,484.4,381.2
+world-india,DO,Dominican Republic,292.9,409.3
+world-india,DK,Denmark,511.0,278.2
+world-india,DM,Dominica,316.4,418.7
+world-india,DJ,Djibouti,593.6,428.6
+world-india,DE,Germany,507.8,300.6
+world-india,CZ,Czechia,521.2,306.6
+world-india,CY,Cyprus,569.1,360.2
+world-india,KY,Cayman Islands,265.1,407.2
+world-india,CX,Christmas Island,761.7,488.5
+world-india,CW,Curaçao,296.1,427.5
+world-india,CU,Cuba,268.0,401.5
+world-india,CR,Costa Rica,255.4,434.5
+world-india,CV,Cape Verde,416.0,417.1
+world-india,KM,Comoros,597.0,492.2
+world-india,CO,Colombia,285.5,449.3
+world-india,CK,Cook Islands,53.9,518.2
+world-india,CG,Republic of Congo,519.7,462.1
+world-india,CD,Democratic Republic of Congo,538.0,471.3
+world-india,CM,Cameroon,513.0,440.5
+world-india,CI,Côte d'Ivoire,465.2,440.1
+world-india,CN,China,757.8,350.7
+world-india,CL,Chile,245.5,574.3
+world-india,CH,Switzerland,501.9,318.7
+world-india,CC,Cocos (Keeling) Islands,738.2,493.0
+world-india,CA,Canada,221.8,184.3
+world-india,CF,Central African Republic,535.8,442.5
+world-india,BE,Belgium,491.9,303.8
+world-india,BW,Botswana,545.8,521.6
+world-india,BT,Bhutan,721.1,384.0
+world-india,BN,Brunei,785.9,448.2
+world-india,BB,Barbados,321.2,424.8
+world-india,BR,Brazil,334.9,501.1
+world-india,BO,Bolivia,310.5,504.7
+world-india,BM,Bermuda,307.4,369.1
+world-india,BZ,Belize,244.0,413.8
+world-india,BY,Belarus,554.5,289.6
+world-india,BL,Saint Barthelemy,312.4,411.8
+world-india,BS,Bahamas,277.7,394.4
+world-india,BH,Bahrain,614.8,388.4
+world-india,BA,Bosnia and Herzegovina,527.1,329.6
+world-india,BG,Bulgaria,547.9,333.9
+world-india,BD,Bangladesh,720.9,395.2
+world-india,BF,Burkina Faso,475.8,427.4
+world-india,BJ,Benin,486.1,435.4
+world-india,BI,Burundi,559.8,469.4
+world-india,AZ,Azerbaijan,606.8,343.2
+world-india,AT,Austria,515.6,315.2
+world-india,AU,Australia,842.5,561.3
+world-india,TF,French Southern and Antarctic Lands,643.0,606.8
+world-india,AQ,Antarctica,480.0,802.3
+world-india,AS,American Samoa,24.7,498.9
+world-india,AM,Armenia,600.0,343.4
+world-india,AR,Argentina,310.3,578.4
+world-india,AE,United Arab Emirates,623.9,393.3
+world-india,AD,Andorra,484.2,334.7
+world-india,AX,Aland Islands,533.5,258.0
+world-india,AL,Albania,533.8,339.7
+world-india,AI,Anguilla,311.8,410.9
+world-india,AO,Angola,527.7,490.7
+world-india,AF,Afghanistan,660.5,363.7
+world-india,AG,Antigua and Barbuda,315.2,413.3
+world-india,AW,Aruba,293.4,426.6
+world-india,NL,Netherlands,494.1,296.8
+world-morocco,AW,Aruba,293.4,426.6
+world-morocco,AG,Antigua and Barbuda,315.2,413.3
+world-morocco,AF,Afghanistan,660.5,363.7
+world-morocco,AO,Angola,527.7,490.7
+world-morocco,AI,Anguilla,311.8,410.9
+world-morocco,AL,Albania,533.8,339.7
+world-morocco,AX,Aland Islands,533.5,258.0
+world-morocco,AD,Andorra,484.2,334.7
+world-morocco,AE,United Arab Emirates,623.9,393.3
+world-morocco,AR,Argentina,310.3,578.4
+world-morocco,AM,Armenia,600.0,343.4
+world-morocco,AS,American Samoa,24.7,498.9
+world-morocco,AQ,Antarctica,480.0,802.3
+world-morocco,TF,French Southern and Antarctic Lands,643.0,606.8
+world-morocco,AU,Australia,842.5,561.3
+world-morocco,AT,Austria,515.6,315.2
+world-morocco,AZ,Azerbaijan,606.8,343.2
+world-morocco,BI,Burundi,559.8,469.4
+world-morocco,BJ,Benin,486.1,435.4
+world-morocco,BF,Burkina Faso,475.8,427.4
+world-morocco,BD,Bangladesh,720.9,395.2
+world-morocco,BG,Bulgaria,547.9,333.9
+world-morocco,BA,Bosnia and Herzegovina,527.1,329.6
+world-morocco,BH,Bahrain,614.8,388.4
+world-morocco,BS,Bahamas,277.7,394.4
+world-morocco,BL,Saint Barthelemy,312.4,411.8
+world-morocco,BY,Belarus,554.5,289.6
+world-morocco,BZ,Belize,244.0,413.8
+world-morocco,BM,Bermuda,307.4,369.1
+world-morocco,BO,Bolivia,310.5,504.7
+world-morocco,BR,Brazil,334.9,501.1
+world-morocco,BB,Barbados,321.2,424.8
+world-morocco,BN,Brunei,785.9,448.2
+world-morocco,BT,Bhutan,721.1,384.0
+world-morocco,BW,Botswana,545.8,521.6
+world-morocco,BE,Belgium,491.9,303.8
+world-morocco,CF,Central African Republic,535.8,442.5
+world-morocco,CA,Canada,221.8,183.9
+world-morocco,CC,Cocos (Keeling) Islands,738.2,493.0
+world-morocco,CH,Switzerland,501.9,318.7
+world-morocco,CL,Chile,245.5,574.3
+world-morocco,CN,China,757.8,350.7
+world-morocco,CI,Côte d'Ivoire,465.2,440.1
+world-morocco,CM,Cameroon,513.0,440.5
+world-morocco,CD,Democratic Republic of Congo,538.0,471.3
+world-morocco,CG,Republic of Congo,519.7,462.1
+world-morocco,CK,Cook Islands,53.9,518.2
+world-morocco,CO,Colombia,285.5,449.3
+world-morocco,KM,Comoros,597.0,492.2
+world-morocco,CV,Cape Verde,416.0,417.1
+world-morocco,CR,Costa Rica,255.4,434.5
+world-morocco,CU,Cuba,268.0,401.5
+world-morocco,CW,Curaçao,296.1,427.5
+world-morocco,CX,Christmas Island,761.7,488.5
+world-morocco,KY,Cayman Islands,265.1,407.2
+world-morocco,CY,Cyprus,569.1,360.2
+world-morocco,CZ,Czechia,521.2,306.6
+world-morocco,DE,Germany,507.8,300.6
+world-morocco,DJ,Djibouti,593.6,428.6
+world-morocco,DM,Dominica,316.4,418.7
+world-morocco,DK,Denmark,511.0,278.2
+world-morocco,DO,Dominican Republic,292.9,409.3
+world-morocco,DZ,Algeria,484.4,381.2
+world-morocco,EC,Ecuador,257.5,465.0
+world-morocco,EG,Egypt,562.1,385.7
+world-morocco,GB,United Kingdom,471.5,280.2
+world-morocco,ER,Eritrea,586.1,419.3
+world-morocco,ES,Spain,461.5,356.9
+world-morocco,EE,Estonia,546.7,266.4
+world-morocco,ET,Ethiopia,588.0,435.7
+world-morocco,FI,Finland,549.5,227.4
+world-morocco,FJ,Fiji,480.0,503.1
+world-morocco,FK,Falkland Islands,321.4,622.3
+world-morocco,FO,Faroe Islands,461.6,248.6
+world-morocco,FM,Federated States of Micronesia,881.4,440.4
+world-morocco,FR,France,486.4,320.1
+world-morocco,GA,Gabon,510.9,462.5
+world-morocco,GE,Georgia,595.5,335.5
+world-morocco,GG,Guernsey,473.1,308.1
+world-morocco,GH,Ghana,477.3,439.0
+world-morocco,GN,Guinea,449.7,433.6
+world-morocco,GP,Guadeloupe,316.0,416.5
+world-morocco,GM,Gambia,439.1,424.1
+world-morocco,GW,Guinea-Bissau,439.5,428.6
+world-morocco,GQ,Equatorial Guinea,506.4,454.0
+world-morocco,GR,Greece,543.8,349.2
+world-morocco,GD,Grenada,315.5,427.8
+world-morocco,GL,Greenland,367.7,139.9
+world-morocco,GT,Guatemala,239.4,417.7
+world-morocco,GF,French Guiana,338.3,449.8
+world-morocco,GU,Guam,866.1,424.1
+world-morocco,GY,Guyana,322.8,447.3
+world-morocco,HK,Hong Kong,784.2,399.1
+world-morocco,HM,Heard Island and McDonald Islands,676.1,627.9
+world-morocco,HN,Honduras,250.0,420.5
+world-morocco,HR,Croatia,523.9,327.5
+world-morocco,HT,Haiti,285.2,408.5
+world-morocco,HU,Hungary,532.0,317.3
+world-morocco,ID,Indonesia,794.9,467.1
+world-morocco,IM,Isle of Man,467.8,287.5
+world-morocco,IN,India,700.7,400.6
+world-morocco,IO,British Indian Ocean Territory,673.2,479.9
+world-morocco,IE,Ireland,458.1,291.0
+world-morocco,IR,Iran,623.1,367.8
+world-morocco,IQ,Iraq,596.4,366.0
+world-morocco,IS,Iceland,429.3,230.1
+world-morocco,IL,Israel,573.5,371.8
+world-morocco,IT,Italy,513.5,336.3
+world-morocco,JM,Jamaica,273.9,411.2
+world-morocco,JE,Jersey,474.3,309.1
+world-morocco,JO,Jordan,579.0,372.3
+world-morocco,JP,Japan,839.3,358.6
+world-morocco,KZ,Kazakhstan,658.6,311.9
+world-morocco,KE,Kenya,581.0,459.2
+world-morocco,KG,Kyrgyzstan,679.3,339.3
+world-morocco,KH,Cambodia,759.9,426.5
+world-morocco,KI,Kiribati,500.1,460.5
+world-morocco,KN,Saint Kitts and Nevis,312.8,413.6
+world-morocco,KR,South Korea,822.6,357.4
+world-morocco,XK,Kosovo,535.7,334.7
+world-morocco,KW,Kuwait,606.6,378.5
+world-morocco,LA,Lao People's Democratic Republic,757.0,410.8
+world-morocco,LB,Lebanon,575.6,364.2
+world-morocco,LR,Liberia,454.8,443.1
+world-morocco,LY,Libya,526.0,386.9
+world-morocco,LC,Saint Lucia,317.4,422.9
+world-morocco,LI,Liechtenstein,505.5,317.3
+world-morocco,LK,Sri Lanka,695.4,439.2
+world-morocco,LS,Lesotho,555.3,543.1
+world-morocco,LT,Lithuania,543.6,283.2
+world-morocco,LU,Luxembourg,496.3,306.7
+world-morocco,LV,Latvia,545.6,275.0
+world-morocco,MO,Macau,782.7,399.5
+world-morocco,MF,Saint Martin,311.8,411.3
+world-morocco,MC,Monaco,499.8,330.3
+world-morocco,MD,Moldova,555.7,318.0
+world-morocco,MG,Madagascar,605.0,511.8
+world-morocco,MV,Maldives,675.9,450.3
+world-morocco,MX,Mexico,206.5,394.5
+world-morocco,MH,Marshall Islands,933.2,442.7
+world-morocco,MK,North Macedonia,537.9,338.1
+world-morocco,ML,Mali,469.3,412.3
+world-morocco,MT,Malta,518.3,357.5
+world-morocco,MM,Myanmar,737.8,407.4
+world-morocco,ME,Montenegro,531.7,334.1
+world-morocco,MN,Mongolia,756.9,317.5
+world-morocco,MP,Northern Mariana Islands,868.0,415.8
+world-morocco,MZ,Mozambique,574.8,511.6
+world-morocco,MR,Mauritania,450.8,402.6
+world-morocco,MS,Montserrat,314.2,415.0
+world-morocco,MQ,Martinique,317.3,420.8
+world-morocco,MU,Mauritius,633.5,515.5
+world-morocco,MW,Malawi,571.4,496.1
+world-morocco,MY,Malaysia,771.9,449.3
+world-morocco,YT,Mayotte,600.4,494.8
+world-morocco,NA,Namibia,529.3,523.6
+world-morocco,NC,New Caledonia,917.4,517.3
+world-morocco,NE,Niger,501.5,412.3
+world-morocco,NF,Norfolk Island,927.9,541.3
+world-morocco,NG,Nigeria,503.1,435.9
+world-morocco,NI,Nicaragua,252.2,425.7
+world-morocco,NU,Niue,27.0,512.1
+world-morocco,NO,Norway,527.7,227.7
+world-morocco,NP,Nepal,704.3,381.3
+world-morocco,NR,Nauru,925.2,461.7
+world-morocco,SJ,Svalbard and Jan Mayen,512.6,134.6
+world-morocco,NZ,New Zealand,482.3,592.0
+world-morocco,OM,Oman,629.1,401.4
+world-morocco,PK,Pakistan,664.9,374.5
+world-morocco,PA,Panama,266.4,437.8
+world-morocco,PN,Pitcairn Islands,137.8,527.3
+world-morocco,PE,Peru,280.0,485.3
+world-morocco,PH,Philippines,804.8,425.1
+world-morocco,PW,Palau,838.9,440.2
+world-morocco,PG,Papua New Guinea,875.8,477.7
+world-morocco,PL,Poland,531.0,297.3
+world-morocco,PR,Puerto Rico,302.4,410.8
+world-morocco,KP,North Korea,820.0,342.3
+world-morocco,PT,Portugal,430.0,352.2
+world-morocco,PY,Paraguay,324.1,524.8
+world-morocco,PF,French Polynesia,96.3,497.2
+world-morocco,QA,Qatar,616.5,390.4
+world-morocco,RE,Reunion,628.1,518.0
+world-morocco,RO,Romania,546.6,321.8
+world-morocco,RU,Russia,480.0,198.1
+world-morocco,RW,Rwanda,559.6,465.5
+world-morocco,MA,Morocco,455.8,380.5
+world-morocco,SA,Saudi Arabia,600.3,392.9
+world-morocco,SD,Sudan,560.6,418.3
+world-morocco,SS,South Sudan,559.2,439.2
+world-morocco,SN,Senegal,441.4,421.2
+world-morocco,SG,Singapore,756.9,456.7
+world-morocco,GS,South Georgia and South Sandwich Islands,394.4,642.8
+world-morocco,SH,Saint Helena,453.2,492.5
+world-morocco,SB,Solomon Islands,910.1,485.0
+world-morocco,SL,Sierra Leone,448.6,437.7
+world-morocco,SV,El Salvador,242.9,423.2
+world-morocco,SM,San Marino,513.2,329.6
+world-morocco,SO,Somalia,603.1,446.5
+world-morocco,PM,Saint Pierre and Miquelon,329.9,318.2
+world-morocco,RS,Serbia,535.8,328.5
+world-morocco,ST,Sao Tome and Principe,498.6,458.0
+world-morocco,SR,Suriname,330.6,449.9
+world-morocco,SK,Slovakia,532.5,311.3
+world-morocco,SI,Slovenia,519.9,321.3
+world-morocco,SE,Sweden,527.1,242.4
+world-morocco,SZ,Eswatini,563.9,533.7
+world-morocco,SX,Sint Maarten,311.8,411.4
+world-morocco,SC,Seychelles,627.9,472.8
+world-morocco,SY,Syria,584.2,361.1
+world-morocco,TC,Turks and Caicos Islands,288.0,400.6
+world-morocco,TD,Chad,529.9,418.2
+world-morocco,TG,Togo,482.3,437.3
+world-morocco,TH,Thailand,750.7,425.0
+world-morocco,TJ,Tajikistan,670.0,347.6
+world-morocco,TK,Tokelau,20.0,483.2
+world-morocco,TM,Turkmenistan,638.8,346.9
+world-morocco,TL,Timor-Leste,815.1,484.0
+world-morocco,TO,Tonga,14.3,514.8
+world-morocco,TT,Trinidad and Tobago,316.8,431.6
+world-morocco,TN,Tunisia,505.4,364.3
+world-morocco,TR,Türkiye,574.0,347.1
+world-morocco,TW,Taiwan,800.3,395.5
+world-morocco,TZ,Tanzania,573.0,477.4
+world-morocco,UG,Uganda,566.0,456.6
+world-morocco,UA,Ukraine,563.0,311.9
+world-morocco,UY,Uruguay,331.2,552.2
+world-morocco,US,United States,482.1,296.3
+world-morocco,UZ,Uzbekistan,652.1,338.5
+world-morocco,VA,Vatican City,513.2,337.0
+world-morocco,VC,Saint Vincent and the Grenadines,316.8,424.7
+world-morocco,VE,Venezuela,302.4,443.0
+world-morocco,VG,British Virgin Islands,308.0,410.2
+world-morocco,VI,US Virgin Islands,307.2,411.4
+world-morocco,VN,Vietnam,762.1,416.8
+world-morocco,VU,Vanuatu,928.6,506.3
+world-morocco,PS,Palestinian Territories,573.0,370.6
+world-morocco,WF,Wallis and Futuna,7.6,497.4
+world-morocco,WS,Samoa,21.0,497.4
+world-morocco,YE,Yemen,609.4,418.0
+world-morocco,ZA,South Africa,552.4,561.7
+world-morocco,ZM,Zambia,554.2,495.7
+world-morocco,ZW,Zimbabwe,557.6,512.1
+world-morocco,NL,Netherlands,494.1,296.8
+world-morocco,BQ,"Bonair, Saint Eustachius and Saba",297.9,427.6
+world-morocco,UM-WQ,Wake Island,924.4,407.8
+world-morocco,UM-MQ,Midway Islands,7.0,381.9
+world-morocco,UM-JQ,Johnston Atoll,27.9,415.1
+world-morocco,UM-HQ,Howland Island,9.0,458.2
+world-morocco,UM-FQ,Baker Island,9.4,459.7
+world-morocco,UM-DQ,Jarvis Island,53.3,461.4
+world-morocco,JU,Juan De Nova Island,594.0,506.5
+world-morocco,GO,Glorioso Islands,606.1,491.4
+world-morocco,GI,Gibraltar,465.7,356.8
+world-morocco,BV,Bouvet Island,489.1,634.0
+world-morocco,TV,Tuvalu,957.9,483.1
+world-outline,world,World,480.0,480.0
+world-russia,AW,Aruba,293.4,426.6
+world-russia,AG,Antigua and Barbuda,315.2,413.3
+world-russia,AF,Afghanistan,660.5,363.7
+world-russia,AO,Angola,527.7,490.7
+world-russia,AI,Anguilla,311.8,410.9
+world-russia,AL,Albania,533.8,339.7
+world-russia,AX,Aland Islands,533.5,258.0
+world-russia,AD,Andorra,484.2,334.7
+world-russia,AE,United Arab Emirates,623.9,393.3
+world-russia,AR,Argentina,310.3,578.4
+world-russia,AM,Armenia,600.0,343.4
+world-russia,AS,American Samoa,24.7,498.9
+world-russia,AQ,Antarctica,480.0,802.3
+world-russia,TF,French Southern and Antarctic Lands,643.0,606.8
+world-russia,AU,Australia,842.5,561.3
+world-russia,AT,Austria,515.6,315.2
+world-russia,AZ,Azerbaijan,606.8,343.2
+world-russia,BI,Burundi,559.8,469.4
+world-russia,BJ,Benin,486.1,435.4
+world-russia,BF,Burkina Faso,475.8,427.4
+world-russia,BD,Bangladesh,720.9,395.2
+world-russia,BG,Bulgaria,547.9,333.9
+world-russia,BA,Bosnia and Herzegovina,527.1,329.6
+world-russia,BH,Bahrain,614.8,388.4
+world-russia,BS,Bahamas,277.7,394.4
+world-russia,BL,Saint Barthelemy,312.4,411.8
+world-russia,BY,Belarus,554.5,289.6
+world-russia,BZ,Belize,244.0,413.8
+world-russia,BM,Bermuda,307.4,369.1
+world-russia,BO,Bolivia,310.5,504.7
+world-russia,BR,Brazil,334.9,501.1
+world-russia,BB,Barbados,321.2,424.8
+world-russia,BN,Brunei,785.9,448.2
+world-russia,BT,Bhutan,721.1,384.0
+world-russia,BW,Botswana,545.8,521.6
+world-russia,BE,Belgium,491.9,303.8
+world-russia,CF,Central African Republic,535.8,442.5
+world-russia,CA,Canada,221.8,183.9
+world-russia,CC,Cocos (Keeling) Islands,738.2,493.0
+world-russia,CH,Switzerland,501.9,318.7
+world-russia,CL,Chile,245.5,574.3
+world-russia,CN,China,757.8,350.7
+world-russia,CI,Côte d'Ivoire,465.2,440.1
+world-russia,CM,Cameroon,513.0,440.5
+world-russia,CD,Democratic Republic of Congo,538.0,471.3
+world-russia,CG,Republic of Congo,519.7,462.1
+world-russia,CK,Cook Islands,53.9,518.2
+world-russia,CO,Colombia,285.5,449.3
+world-russia,KM,Comoros,597.0,492.2
+world-russia,CV,Cape Verde,416.0,417.1
+world-russia,CR,Costa Rica,255.4,434.5
+world-russia,CU,Cuba,268.0,401.5
+world-russia,CW,Curaçao,296.1,427.5
+world-russia,CX,Christmas Island,761.7,488.5
+world-russia,KY,Cayman Islands,265.1,407.2
+world-russia,CY,Cyprus,569.1,360.2
+world-russia,CZ,Czechia,521.2,306.6
+world-russia,DE,Germany,507.8,300.6
+world-russia,DJ,Djibouti,593.6,428.6
+world-russia,DM,Dominica,316.4,418.7
+world-russia,DK,Denmark,511.0,278.2
+world-russia,DO,Dominican Republic,292.9,409.3
+world-russia,DZ,Algeria,484.4,381.2
+world-russia,EC,Ecuador,257.5,465.0
+world-russia,EG,Egypt,562.1,385.7
+world-russia,GB,United Kingdom,471.5,280.2
+world-russia,ER,Eritrea,586.1,419.3
+world-russia,ES,Spain,461.5,356.9
+world-russia,EE,Estonia,546.7,266.4
+world-russia,ET,Ethiopia,588.0,435.7
+world-russia,FI,Finland,549.5,227.4
+world-russia,FJ,Fiji,480.0,503.1
+world-russia,FK,Falkland Islands,321.4,622.3
+world-russia,FO,Faroe Islands,461.6,248.6
+world-russia,FM,Federated States of Micronesia,881.4,440.4
+world-russia,FR,France,486.4,320.1
+world-russia,GA,Gabon,510.9,462.5
+world-russia,GE,Georgia,595.5,335.5
+world-russia,GG,Guernsey,473.1,308.1
+world-russia,GH,Ghana,477.3,439.0
+world-russia,GN,Guinea,449.7,433.6
+world-russia,GP,Guadeloupe,316.0,416.5
+world-russia,GM,Gambia,439.1,424.1
+world-russia,GW,Guinea-Bissau,439.5,428.6
+world-russia,GQ,Equatorial Guinea,506.4,454.0
+world-russia,GR,Greece,543.8,349.2
+world-russia,GD,Grenada,315.5,427.8
+world-russia,GL,Greenland,367.7,139.9
+world-russia,GT,Guatemala,239.4,417.7
+world-russia,GF,French Guiana,338.3,449.8
+world-russia,GU,Guam,866.1,424.1
+world-russia,GY,Guyana,322.8,447.3
+world-russia,HK,Hong Kong,784.2,399.1
+world-russia,HM,Heard Island and McDonald Islands,676.1,627.9
+world-russia,HN,Honduras,250.0,420.5
+world-russia,HR,Croatia,523.9,327.5
+world-russia,HT,Haiti,285.2,408.5
+world-russia,HU,Hungary,532.0,317.3
+world-russia,ID,Indonesia,794.9,467.1
+world-russia,IM,Isle of Man,467.8,287.5
+world-russia,IN,India,700.7,400.6
+world-russia,IO,British Indian Ocean Territory,673.2,479.9
+world-russia,IE,Ireland,458.1,291.0
+world-russia,IR,Iran,623.1,367.8
+world-russia,IQ,Iraq,596.4,366.0
+world-russia,IS,Iceland,429.3,230.1
+world-russia,IL,Israel,573.5,371.8
+world-russia,IT,Italy,513.5,336.3
+world-russia,JM,Jamaica,273.9,411.2
+world-russia,JE,Jersey,474.3,309.1
+world-russia,JO,Jordan,579.0,372.3
+world-russia,JP,Japan,839.3,358.6
+world-russia,KZ,Kazakhstan,658.6,311.9
+world-russia,KE,Kenya,581.0,459.2
+world-russia,KG,Kyrgyzstan,679.3,339.3
+world-russia,KH,Cambodia,759.9,426.5
+world-russia,KI,Kiribati,500.1,460.5
+world-russia,KN,Saint Kitts and Nevis,312.8,413.6
+world-russia,KR,South Korea,822.6,357.4
+world-russia,XK,Kosovo,535.7,334.7
+world-russia,KW,Kuwait,606.6,378.5
+world-russia,LA,Lao People's Democratic Republic,757.0,410.8
+world-russia,LB,Lebanon,575.6,364.2
+world-russia,LR,Liberia,454.8,443.1
+world-russia,LY,Libya,526.0,386.9
+world-russia,LC,Saint Lucia,317.4,422.9
+world-russia,LI,Liechtenstein,505.5,317.3
+world-russia,LK,Sri Lanka,695.4,439.2
+world-russia,LS,Lesotho,555.3,543.1
+world-russia,LT,Lithuania,543.6,283.2
+world-russia,LU,Luxembourg,496.3,306.7
+world-russia,LV,Latvia,545.6,275.0
+world-russia,MO,Macau,782.7,399.5
+world-russia,MF,Saint Martin,311.8,411.3
+world-russia,MA,Morocco,461.0,370.5
+world-russia,MC,Monaco,499.8,330.3
+world-russia,MD,Moldova,555.7,318.0
+world-russia,MG,Madagascar,605.0,511.8
+world-russia,MV,Maldives,675.9,450.3
+world-russia,MX,Mexico,206.5,394.5
+world-russia,MH,Marshall Islands,933.2,442.7
+world-russia,MK,North Macedonia,537.9,338.1
+world-russia,ML,Mali,469.3,412.3
+world-russia,MT,Malta,518.3,357.5
+world-russia,MM,Myanmar,737.8,407.4
+world-russia,ME,Montenegro,531.7,334.1
+world-russia,MN,Mongolia,756.9,317.5
+world-russia,MP,Northern Mariana Islands,868.0,415.8
+world-russia,MZ,Mozambique,574.8,511.6
+world-russia,MR,Mauritania,450.8,402.6
+world-russia,MS,Montserrat,314.2,415.0
+world-russia,MQ,Martinique,317.3,420.8
+world-russia,MU,Mauritius,633.5,515.5
+world-russia,MW,Malawi,571.4,496.1
+world-russia,MY,Malaysia,771.9,449.3
+world-russia,YT,Mayotte,600.4,494.8
+world-russia,NA,Namibia,529.3,523.6
+world-russia,NC,New Caledonia,917.4,517.3
+world-russia,NE,Niger,501.5,412.3
+world-russia,NF,Norfolk Island,927.9,541.3
+world-russia,NG,Nigeria,503.1,435.9
+world-russia,NI,Nicaragua,252.2,425.7
+world-russia,NU,Niue,27.0,512.1
+world-russia,NO,Norway,527.7,227.7
+world-russia,NP,Nepal,704.3,381.3
+world-russia,NR,Nauru,925.2,461.7
+world-russia,SJ,Svalbard and Jan Mayen,512.6,134.6
+world-russia,NZ,New Zealand,482.3,592.0
+world-russia,OM,Oman,629.1,401.4
+world-russia,PK,Pakistan,664.9,374.5
+world-russia,PA,Panama,266.4,437.8
+world-russia,PN,Pitcairn Islands,137.8,527.3
+world-russia,PE,Peru,280.0,485.3
+world-russia,PH,Philippines,804.8,425.1
+world-russia,PW,Palau,838.9,440.2
+world-russia,PG,Papua New Guinea,875.8,477.7
+world-russia,PL,Poland,531.0,297.3
+world-russia,PR,Puerto Rico,302.4,410.8
+world-russia,KP,North Korea,820.0,342.3
+world-russia,PT,Portugal,430.0,352.2
+world-russia,PY,Paraguay,324.1,524.8
+world-russia,PF,French Polynesia,96.3,497.2
+world-russia,QA,Qatar,616.5,390.4
+world-russia,RE,Reunion,628.1,518.0
+world-russia,RO,Romania,546.6,321.8
+world-russia,RW,Rwanda,559.6,465.5
+world-russia,EH,Western Sahara,445.6,393.5
+world-russia,SA,Saudi Arabia,600.3,392.9
+world-russia,SD,Sudan,560.6,418.3
+world-russia,SS,South Sudan,559.2,439.2
+world-russia,SN,Senegal,441.4,421.2
+world-russia,SG,Singapore,756.9,456.7
+world-russia,GS,South Georgia and South Sandwich Islands,394.4,642.8
+world-russia,SH,Saint Helena,453.2,492.5
+world-russia,SB,Solomon Islands,910.1,485.0
+world-russia,SL,Sierra Leone,448.6,437.7
+world-russia,SV,El Salvador,242.9,423.2
+world-russia,SM,San Marino,513.2,329.6
+world-russia,SO,Somalia,603.1,446.5
+world-russia,PM,Saint Pierre and Miquelon,329.9,318.2
+world-russia,RS,Serbia,535.8,328.5
+world-russia,ST,Sao Tome and Principe,498.6,458.0
+world-russia,SR,Suriname,330.6,449.9
+world-russia,SK,Slovakia,532.5,311.3
+world-russia,SI,Slovenia,519.9,321.3
+world-russia,SE,Sweden,527.1,242.4
+world-russia,SZ,Eswatini,563.9,533.7
+world-russia,SX,Sint Maarten,311.8,411.4
+world-russia,SC,Seychelles,627.9,472.8
+world-russia,SY,Syria,584.2,361.1
+world-russia,TC,Turks and Caicos Islands,288.0,400.6
+world-russia,TD,Chad,529.9,418.2
+world-russia,TG,Togo,482.3,437.3
+world-russia,TH,Thailand,750.7,425.0
+world-russia,TJ,Tajikistan,670.0,347.6
+world-russia,TK,Tokelau,20.0,483.2
+world-russia,TM,Turkmenistan,638.8,346.9
+world-russia,TL,Timor-Leste,815.1,484.0
+world-russia,TO,Tonga,14.3,514.8
+world-russia,TT,Trinidad and Tobago,316.8,431.6
+world-russia,TN,Tunisia,505.4,364.3
+world-russia,TR,Türkiye,574.0,347.1
+world-russia,TW,Taiwan,800.3,395.5
+world-russia,TZ,Tanzania,573.0,477.4
+world-russia,UG,Uganda,566.0,456.6
+world-russia,UY,Uruguay,331.2,552.2
+world-russia,US,United States,482.1,296.3
+world-russia,UZ,Uzbekistan,652.1,338.5
+world-russia,VA,Vatican City,513.2,337.0
+world-russia,VC,Saint Vincent and the Grenadines,316.8,424.7
+world-russia,VE,Venezuela,302.4,443.0
+world-russia,VG,British Virgin Islands,308.0,410.2
+world-russia,VI,US Virgin Islands,307.2,411.4
+world-russia,VN,Vietnam,762.1,416.8
+world-russia,VU,Vanuatu,928.6,506.3
+world-russia,PS,Palestinian Territories,573.0,370.6
+world-russia,WF,Wallis and Futuna,7.6,497.4
+world-russia,WS,Samoa,21.0,497.4
+world-russia,YE,Yemen,609.4,418.0
+world-russia,ZA,South Africa,552.4,561.7
+world-russia,ZM,Zambia,554.2,495.7
+world-russia,ZW,Zimbabwe,557.6,512.1
+world-russia,NL,Netherlands,494.1,296.8
+world-russia,BQ,"Bonair, Saint Eustachius and Saba",297.9,427.6
+world-russia,UM-WQ,Wake Island,924.4,407.8
+world-russia,UM-MQ,Midway Islands,7.0,381.9
+world-russia,UM-JQ,Johnston Atoll,27.9,415.1
+world-russia,UM-HQ,Howland Island,9.0,458.2
+world-russia,UM-FQ,Baker Island,9.4,459.7
+world-russia,UM-DQ,Jarvis Island,53.3,461.4
+world-russia,JU,Juan De Nova Island,594.0,506.5
+world-russia,GO,Glorioso Islands,606.1,491.4
+world-russia,GI,Gibraltar,465.7,356.8
+world-russia,BV,Bouvet Island,489.1,634.0
+world-russia,TV,Tuvalu,957.9,483.1
+world-russia,RU,Russia,480.0,198.1
+world-russia,UA,Ukraine,563.0,310.3
+world-time-zone-areas,UTC-12:00,UTC-12:00,9.0,458.2
+world-time-zone-areas,UTC-11:00,UTC-11:00,25.9,505.5
+world-time-zone-areas,UTC-10:00,UTC-10:00,482.1,405.7
+world-time-zone-areas,UTC-09:30,UTC-09:30,108.2,486.2
+world-time-zone-areas,UTC-09:00,UTC-09:00,75.9,238.8
+world-time-zone-areas,UTC-08:00,UTC-08:00,141.7,362.7
+world-time-zone-areas,UTC-07:00,UTC-07:00,179.4,253.6
+world-time-zone-areas,UTC-06:00,UTC-06:00,223.3,290.4
+world-time-zone-areas,UTC-05:00,UTC-05:00,277.0,270.5
+world-time-zone-areas,UTC-04:30,UTC-04:30,302.4,443.0
+world-time-zone-areas,UTC-04:00,UTC-04:00,307.7,370.8
+world-time-zone-areas,UTC-03:30,UTC-03:30,330.6,304.5
+world-time-zone-areas,UTC-03:00,UTC-03:00,366.7,328.3
+world-time-zone-areas,UTC-02:00,UTC-02:00,394.4,642.8
+world-time-zone-areas,UTC-01:00,UTC-01:00,427.6,298.1
+world-time-zone-areas,UTC+00:00,UTC+00:00,457.3,298.5
+world-time-zone-areas,UTC+01:00,UTC+01:00,512.4,357.4
+world-time-zone-areas,UTC+02:00,UTC+02:00,552.2,377.0
+world-time-zone-areas,UTC+03:00,UTC+03:00,580.3,439.5
+world-time-zone-areas,UTC+03:30,UTC+03:30,623.1,367.8
+world-time-zone-areas,UTC+04:00,UTC+04:00,608.4,287.6
+world-time-zone-areas,UTC+04:30,UTC+04:30,660.5,363.7
+world-time-zone-areas,UTC+05:00,UTC+05:00,645.9,463.5
+world-time-zone-areas,UTC+05:30,UTC+05:30,700.7,401.7
+world-time-zone-areas,UTC+05:45,UTC+05:45,704.3,381.3
+world-time-zone-areas,UTC+06:00,UTC+06:00,671.2,286.7
+world-time-zone-areas,UTC+06:30,UTC+06:30,737.8,407.4
+world-time-zone-areas,UTC+07:00,UTC+07:00,728.3,371.1
+world-time-zone-areas,UTC+08:00,UTC+08:00,757.8,313.7
+world-time-zone-areas,UTC+08:45,UTC+08:45,822.0,549.6
+world-time-zone-areas,UTC+09:00,UTC+09:00,802.2,360.3
+world-time-zone-areas,UTC+09:30,UTC+09:30,840.9,530.0
+world-time-zone-areas,UTC+10:00,UTC+10:00,828.9,360.4
+world-time-zone-areas,UTC+11:00,UTC+11:00,880.0,403.1
+world-time-zone-areas,UTC+11:30,UTC+11:30,927.9,541.3
+world-time-zone-areas,UTC+12:00,UTC+12:00,480.0,400.8
+world-time-zone-areas,UTC+12:45,UTC+12:45,9.4,591.3
+world-time-zone-areas,UTC+13:00,UTC+13:00,17.6,507.7
+world-time-zone-areas,UTC+14:00,UTC+14:00,60.9,460.5
+world-time-zone-areas,AQ,AQ,480.0,802.2
+world-time-zones,AQ,Antarctica,480.0,825.3
+world-time-zones,UTC-11:00,UTC-11:00,30.0,416.2
+world-time-zones,UTC-10:00,UTC-10:00,480.0,406.6
+world-time-zones,UTC-07:00,UTC-07:00,179.3,395.5
+world-time-zones,UTC-09:30,UTC-09:30,107.3,505.5
+world-time-zones,UTC-06:00,UTC-06:00,222.3,387.7
+world-time-zones,UTC-05:00,UTC-05:00,279.3,388.1
+world-time-zones,UTC-03:30,UTC-03:30,330.6,324.1
+world-time-zones,UTC-04:00,UTC-04:00,304.3,406.1
+world-time-zones,UTC-02:00,UTC-02:00,389.9,413.3
+world-time-zones,UTC-01:00,UTC-01:00,427.9,397.3
+world-time-zones,UTC-08:00,UTC-08:00,149.3,391.1
+world-time-zones,UTC+13:00,UTC+13:00,28.7,519.3
+world-time-zones,UTC+14:00,UTC+14:00,65.8,489.0
+world-time-zones,UTC+10:00,UTC+10:00,834.1,368.9
+world-time-zones,UTC+11:00,UTC+11:00,883.4,411.1
+world-time-zones,UTC+12:00,UTC+12:00,480.0,411.2
+world-time-zones,UTC+04:00,UTC+04:00,608.5,363.8
+world-time-zones,UTC+03:30,UTC+03:30,623.1,387.9
+world-time-zones,UTC+04:30,UTC+04:30,660.5,383.3
+world-time-zones,UTC+05:45,UTC+05:45,704.3,401.0
+world-time-zones,UTC+08:00,UTC+08:00,757.8,361.6
+world-time-zones,UTC+09:30,UTC+09:30,840.8,549.7
+world-time-zones,UTC+10:30,UTC+10:30,904.0,568.6
+world-time-zones,UTC+11:30,UTC+11:30,928.7,560.9
+world-time-zones,UTC-04:30,UTC-04:30,302.4,462.5
+world-time-zones,UTC+09:00,UTC+09:00,802.1,361.4
+world-time-zones,UTC+12:45,UTC+12:45,10.0,611.0
+world-time-zones,UTC+06:00,UTC+06:00,677.7,363.1
+world-time-zones,UTC+05:30,UTC+05:30,700.4,424.0
+world-time-zones,UTC+05:00,UTC+05:00,652.0,371.3
+world-time-zones,UTC+02:00,UTC+02:00,552.1,374.7
+world-time-zones,UTC+00:00,UTC+00:00,456.8,377.4
+world-time-zones,UTC+08:45,UTC+08:45,822.0,569.6
+world-time-zones,UTC+01:00,UTC+01:00,513.6,375.4
+world-time-zones,UTC+06:30,UTC+06:30,737.8,457.5
+world-time-zones,UTC-12:00,UTC-12:00,10.0,414.5
+world-time-zones,UTC-09:00,UTC-09:00,78.0,396.5
+world-time-zones,UTC+03:00,UTC+03:00,580.3,371.0
+world-time-zones,UTC+07:00,UTC+07:00,728.9,360.7
+world-time-zones,UTC-03:00,UTC-03:00,368.5,413.2
+world-updated,TV,Tuvalu,957.9,483.1
+world-updated,BV,Bouvet Island,489.1,634.0
+world-updated,GI,Gibraltar,465.7,356.8
+world-updated,GO,Glorioso Islands,606.1,491.4
+world-updated,JU,Juan De Nova Island,594.0,506.5
+world-updated,UM-DQ,Jarvis Island,53.3,461.4
+world-updated,UM-FQ,Baker Island,9.4,459.7
+world-updated,UM-HQ,Howland Island,9.0,458.2
+world-updated,UM-JQ,Johnston Atoll,27.9,415.1
+world-updated,UM-MQ,Midway Islands,7.0,381.9
+world-updated,UM-WQ,Wake Island,924.4,407.8
+world-updated,BQ,"Bonair, Saint Eustachius and Saba",297.9,427.5
+world-updated,NL,Netherlands,494.1,296.9
+world-updated,ZW,Zimbabwe,557.6,512.1
+world-updated,ZM,Zambia,554.2,495.7
+world-updated,ZA,South Africa,552.4,561.7
+world-updated,YE,Yemen,609.6,418.0
+world-updated,WS,Samoa,21.1,497.4
+world-updated,WF,Wallis and Futuna,5.1,498.8
+world-updated,PS,Palestinian Territories,573.0,370.6
+world-updated,VU,Vanuatu,928.0,506.7
+world-updated,VN,Vietnam,762.1,416.8
+world-updated,VI,US Virgin Islands,307.2,412.2
+world-updated,VG,British Virgin Islands,308.3,410.1
+world-updated,VE,Venezuela,302.4,443.0
+world-updated,VC,Saint Vincent and the Grenadines,316.8,424.6
+world-updated,VA,Vatican City,513.2,337.0
+world-updated,UZ,Uzbekistan,652.1,338.5
+world-updated,US,United States,473.7,296.7
+world-updated,UY,Uruguay,331.2,552.2
+world-updated,UA,Ukraine,563.0,311.9
+world-updated,UG,Uganda,566.0,456.6
+world-updated,TZ,Tanzania,573.0,477.4
+world-updated,TW,Taiwan,802.7,395.5
+world-updated,TR,Türkiye,574.5,347.1
+world-updated,TN,Tunisia,505.4,364.3
+world-updated,TT,Trinidad and Tobago,316.4,432.3
+world-updated,TO,Tonga,12.7,518.2
+world-updated,TL,Timor-Leste,815.1,484.2
+world-updated,TM,Turkmenistan,638.8,346.8
+world-updated,TK,Tokelau,20.0,483.2
+world-updated,TJ,Tajikistan,670.0,347.6
+world-updated,TH,Thailand,750.8,425.0
+world-updated,TG,Togo,482.3,437.3
+world-updated,TD,Chad,529.9,418.2
+world-updated,TC,Turks and Caicos Islands,288.7,400.7
+world-updated,SY,Syria,584.2,361.1
+world-updated,SC,Seychelles,627.9,472.7
+world-updated,SX,Sint Maarten,311.8,411.4
+world-updated,SZ,Eswatini,563.9,533.7
+world-updated,SE,Sweden,527.1,242.4
+world-updated,SI,Slovenia,519.9,321.3
+world-updated,SK,Slovakia,532.5,311.3
+world-updated,SR,Suriname,330.6,449.9
+world-updated,ST,Sao Tome and Principe,497.6,459.7
+world-updated,RS,Serbia,535.8,328.5
+world-updated,PM,Saint Pierre and Miquelon,329.8,318.2
+world-updated,SO,Somalia,603.0,446.5
+world-updated,SM,San Marino,513.2,329.6
+world-updated,SV,El Salvador,242.9,423.2
+world-updated,SL,Sierra Leone,448.6,437.7
+world-updated,SB,Solomon Islands,910.1,485.0
+world-updated,SH,Saint Helena,464.7,503.4
+world-updated,GS,South Georgia and South Sandwich Islands,382.0,634.0
+world-updated,SG,Singapore,756.8,456.7
+world-updated,SN,Senegal,441.6,421.2
+world-updated,SS,South Sudan,559.2,439.2
+world-updated,SD,Sudan,560.6,418.4
+world-updated,SA,Saudi Arabia,600.3,392.9
+world-updated,EH,Western Sahara,445.6,393.5
+world-updated,RW,Rwanda,559.7,465.5
+world-updated,RU,Russia,480.0,198.1
+world-updated,RO,Romania,546.6,321.8
+world-updated,RE,Reunion,628.1,517.9
+world-updated,QA,Qatar,616.5,390.4
+world-updated,PF,French Polynesia,95.4,496.1
+world-updated,PY,Paraguay,324.1,524.8
+world-updated,PT,Portugal,433.8,352.2
+world-updated,KP,North Korea,820.0,342.3
+world-updated,PR,Puerto Rico,302.8,410.9
+world-updated,PL,Poland,531.0,297.2
+world-updated,PG,Papua New Guinea,875.8,477.7
+world-updated,PW,Palau,838.9,440.2
+world-updated,PH,Philippines,805.1,428.3
+world-updated,PE,Peru,280.0,485.3
+world-updated,PN,Pitcairn Islands,137.8,527.3
+world-updated,PA,Panama,266.4,437.8
+world-updated,PK,Pakistan,664.9,374.4
+world-updated,OM,Oman,629.1,401.4
+world-updated,NZ,New Zealand,482.4,588.2
+world-updated,SJ,Svalbard and Jan Mayen,504.3,135.0
+world-updated,NR,Nauru,925.2,461.7
+world-updated,NP,Nepal,704.3,381.3
+world-updated,NO,Norway,527.8,227.7
+world-updated,NU,Niue,27.0,512.1
+world-updated,NI,Nicaragua,252.2,425.7
+world-updated,NG,Nigeria,503.1,435.9
+world-updated,NF,Norfolk Island,927.9,541.3
+world-updated,NE,Niger,501.5,412.3
+world-updated,NC,New Caledonia,923.1,518.5
+world-updated,NA,Namibia,529.3,523.6
+world-updated,YT,Mayotte,600.4,494.9
+world-updated,MY,Malaysia,772.0,449.3
+world-updated,MW,Malawi,571.4,496.1
+world-updated,MU,Mauritius,633.6,515.5
+world-updated,MQ,Martinique,317.3,420.8
+world-updated,MS,Montserrat,314.2,415.1
+world-updated,MR,Mauritania,450.8,402.6
+world-updated,MZ,Mozambique,574.8,511.6
+world-updated,MP,Northern Mariana Islands,868.6,419.4
+world-updated,MN,Mongolia,756.9,317.6
+world-updated,ME,Montenegro,531.7,334.1
+world-updated,MM,Myanmar,737.8,407.2
+world-updated,MT,Malta,518.6,357.7
+world-updated,ML,Mali,469.3,412.3
+world-updated,MK,North Macedonia,537.9,338.1
+world-updated,MH,Marshall Islands,936.4,441.3
+world-updated,MX,Mexico,208.2,394.5
+world-updated,MV,Maldives,676.0,449.1
+world-updated,MG,Madagascar,605.0,511.8
+world-updated,MD,Moldova,555.7,318.0
+world-updated,MC,Monaco,499.8,330.3
+world-updated,MA,Morocco,461.0,370.5
+world-updated,MF,Saint Martin,311.8,411.3
+world-updated,MO,Macau,782.7,399.5
+world-updated,LV,Latvia,545.6,275.0
+world-updated,LU,Luxembourg,496.3,306.7
+world-updated,LT,Lithuania,543.8,283.2
+world-updated,LS,Lesotho,555.3,543.1
+world-updated,LK,Sri Lanka,695.4,439.2
+world-updated,LI,Liechtenstein,505.4,317.3
+world-updated,LC,Saint Lucia,317.4,422.9
+world-updated,LY,Libya,526.0,386.9
+world-updated,LR,Liberia,454.8,443.1
+world-updated,LB,Lebanon,575.6,364.3
+world-updated,LA,Lao People's Democratic Republic,757.0,410.8
+world-updated,KW,Kuwait,606.6,378.5
+world-updated,XK,Kosovo,535.7,334.7
+world-updated,KR,South Korea,820.9,357.4
+world-updated,KN,Saint Kitts and Nevis,312.7,413.4
+world-updated,KI,Kiribati,60.4,455.5
+world-updated,KH,Cambodia,759.9,426.5
+world-updated,KG,Kyrgyzstan,679.3,339.3
+world-updated,KE,Kenya,581.0,459.2
+world-updated,KZ,Kazakhstan,658.6,311.9
+world-updated,JP,Japan,838.7,358.6
+world-updated,JO,Jordan,579.0,372.3
+world-updated,JE,Jersey,474.3,309.1
+world-updated,JM,Jamaica,273.9,411.2
+world-updated,IT,Italy,513.5,336.3
+world-updated,IL,Israel,573.5,371.8
+world-updated,IS,Iceland,429.6,230.1
+world-updated,IQ,Iraq,596.4,366.0
+world-updated,IR,Iran,623.0,367.8
+world-updated,IE,Ireland,458.1,291.0
+world-updated,IO,British Indian Ocean Territory,673.2,479.9
+world-updated,IN,India,700.7,400.6
+world-updated,IM,Isle of Man,467.9,287.6
+world-updated,ID,Indonesia,794.9,467.4
+world-updated,HU,Hungary,532.0,317.3
+world-updated,HT,Haiti,285.1,408.7
+world-updated,HR,Croatia,523.9,327.5
+world-updated,HN,Honduras,250.0,421.2
+world-updated,HM,Heard Island and McDonald Islands,676.1,628.1
+world-updated,HK,Hong Kong,784.2,398.9
+world-updated,GY,Guyana,322.9,447.3
+world-updated,GU,Guam,865.9,424.3
+world-updated,GF,French Guiana,338.3,449.8
+world-updated,GT,Guatemala,239.4,417.7
+world-updated,GL,Greenland,367.5,139.9
+world-updated,GD,Grenada,315.6,427.8
+world-updated,GR,Greece,543.8,349.2
+world-updated,GQ,Equatorial Guinea,506.4,454.0
+world-updated,GW,Guinea-Bissau,439.5,428.6
+world-updated,GM,Gambia,439.1,424.1
+world-updated,GP,Guadeloupe,315.8,416.4
+world-updated,GN,Guinea,449.7,433.6
+world-updated,GH,Ghana,477.3,439.0
+world-updated,GG,Guernsey,473.1,308.1
+world-updated,GE,Georgia,595.5,335.5
+world-updated,GA,Gabon,511.1,462.5
+world-updated,FR,France,486.4,320.1
+world-updated,FM,Federated States of Micronesia,901.9,441.9
+world-updated,FO,Faroe Islands,461.6,246.9
+world-updated,FK,Falkland Islands,321.6,622.3
+world-updated,FJ,Fiji,956.4,506.9
+world-updated,FI,Finland,549.5,227.0
+world-updated,ET,Ethiopia,588.0,435.7
+world-updated,EE,Estonia,546.7,266.4
+world-updated,ES,Spain,461.6,356.9
+world-updated,ER,Eritrea,586.1,419.3
+world-updated,GB,United Kingdom,471.5,281.0
+world-updated,EG,Egypt,562.1,385.7
+world-updated,EC,Ecuador,257.5,465.0
+world-updated,DZ,Algeria,484.4,381.2
+world-updated,DO,Dominican Republic,292.9,409.3
+world-updated,DK,Denmark,511.0,278.5
+world-updated,DM,Dominica,316.4,418.7
+world-updated,DJ,Djibouti,593.6,428.6
+world-updated,DE,Germany,507.9,300.6
+world-updated,CZ,Czechia,521.5,306.7
+world-updated,CY,Cyprus,569.0,360.2
+world-updated,KY,Cayman Islands,263.3,407.8
+world-updated,CX,Christmas Island,761.7,488.5
+world-updated,CW,Curaçao,296.1,427.6
+world-updated,CU,Cuba,268.4,401.5
+world-updated,CR,Costa Rica,255.4,434.5
+world-updated,CV,Cape Verde,415.9,417.0
+world-updated,KM,Comoros,595.6,491.6
+world-updated,CO,Colombia,285.5,449.3
+world-updated,CK,Cook Islands,53.9,518.2
+world-updated,CG,Republic of Congo,519.7,462.1
+world-updated,CD,Democratic Republic of Congo,538.0,471.3
+world-updated,CM,Cameroon,513.0,440.5
+world-updated,CI,Côte d'Ivoire,465.2,440.1
+world-updated,CN,China,757.8,350.8
+world-updated,CL,Chile,289.7,574.0
+world-updated,CH,Switzerland,502.0,318.7
+world-updated,CC,Cocos (Keeling) Islands,738.2,493.0
+world-updated,CA,Canada,221.8,184.3
+world-updated,CF,Central African Republic,535.8,442.5
+world-updated,BE,Belgium,491.9,303.8
+world-updated,BW,Botswana,545.8,521.6
+world-updated,BT,Bhutan,721.1,384.0
+world-updated,BN,Brunei,785.8,448.2
+world-updated,BB,Barbados,321.3,424.8
+world-updated,BR,Brazil,334.9,501.2
+world-updated,BO,Bolivia,310.4,504.7
+world-updated,BM,Bermuda,307.3,369.1
+world-updated,BZ,Belize,243.6,413.8
+world-updated,BY,Belarus,554.5,289.6
+world-updated,BL,Saint Barthelemy,312.4,411.8
+world-updated,BS,Bahamas,277.7,394.6
+world-updated,BH,Bahrain,614.8,388.4
+world-updated,BA,Bosnia and Herzegovina,527.1,329.6
+world-updated,BG,Bulgaria,547.9,333.9
+world-updated,BD,Bangladesh,720.8,395.3
+world-updated,BF,Burkina Faso,475.8,427.4
+world-updated,BJ,Benin,486.1,435.4
+world-updated,BI,Burundi,559.7,469.4
+world-updated,AZ,Azerbaijan,606.8,343.1
+world-updated,AT,Austria,515.6,315.2
+world-updated,AU,Australia,835.4,539.4
+world-updated,TF,French Southern and Antarctic Lands,665.8,611.4
+world-updated,AQ,Antarctica,480.0,806.2
+world-updated,AS,American Samoa,24.7,498.9
+world-updated,AM,Armenia,600.0,343.4
+world-updated,AR,Argentina,310.3,578.4
+world-updated,AE,United Arab Emirates,623.9,393.3
+world-updated,AD,Andorra,484.2,334.8
+world-updated,AX,Aland Islands,533.3,257.9
+world-updated,AL,Albania,533.8,339.7
+world-updated,AI,Anguilla,311.8,410.9
+world-updated,AO,Angola,527.7,490.6
+world-updated,AF,Afghanistan,660.5,363.7
+world-updated,AG,Antigua and Barbuda,315.2,414.0
+world-updated,AW,Aruba,293.4,426.7

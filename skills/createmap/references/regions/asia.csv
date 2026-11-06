@@ -1,52 +1,1526 @@
-id,name,center_x,center_y
-AE,United Arab Emirates,627.8,391.1
-AF,Afghanistan,664.9,361.8
-AM,Armenia,601.1,340.7
-AZ,Azerbaijan,608.4,340.3
-BD,Bangladesh,728.4,394.8
-BH,Bahrain,616.7,387.7
-BN,Brunei Darussalam,796.8,450.3
-BT,Bhutan,728.6,383.1
-CN,China,806.0,348.2
-CY,Cyprus,568.7,358.2
-GE,Georgia,603.3,335.5
-HK,Hong Kong,795.1,398.9
-ID,Indonesia,806.3,470.0
-IL,Israel,573.3,370.3
-IN,India,713.6,406.4
-IQ,Iraq,597.4,364.6
-IR,Iran,626.6,366.3
-JO,Jordan,579.1,370.9
-JP,Japan,853.1,356.5
-KG,Kyrgyzstan,684.6,336.3
-KH,Cambodia,769.5,427.6
-KP,North Korea,832.8,339.4
-KR,South Korea,835.4,355.3
-KW,Kuwait,608.2,377.3
-KZ,Kazakhstan,667.6,321.9
-LA,Lao People's Democratic Republic,766.4,411.1
-LB,Lebanon,575.5,362.4
-LK,Sri Lanka,701.6,440.9
-MO,Macau,793.5,399.3
-MM,Myanmar,746.2,407.6
-MN,Mongolia,766.3,313.4
-MV,Maldives,681.0,452.5
-MY,Malaysia,782.1,451.4
-NP,Nepal,710.9,380.3
-OM,Oman,630.2,401.3
-PH,Philippines,816.7,426.1
-PK,Pakistan,687.6,356.6
-PS,Palestinian Territories,572.8,369.0
-QA,Qatar,618.5,389.8
-SA,Saudi Arabia,601.5,392.4
-SG,Singapore,766.3,459.1
-SY,Syria,592.1,354.9
-TH,Thailand,759.8,425.9
-TJ,Tajikistan,674.8,344.9
-TL,Timor-Leste,827.6,487.6
-TM,Turkmenistan,642.1,344.3
-TR,Turkey,573.8,344.4
-TW,Taiwan,812.0,395.1
-UZ,Uzbekistan,674.7,336.9
-VN,Vietnam,771.8,417.4
-YE,Yemen,611.1,418.6
+map_id,id,name,center_x,center_y
+afghanistan,AF-GHA,Ghazni,485.2,550.5
+afghanistan,AF-NAN,Nangarhar,653.8,454.3
+afghanistan,AF-DAY,Daykundi,389.6,503.7
+afghanistan,AF-SAM,Samangan,479.6,323.5
+afghanistan,AF-BGL,Baghlan,568.4,339.2
+afghanistan,AF-GHO,Ghor,295.6,467.8
+afghanistan,AF-SAR,Sar-e Pol,386.4,346.8
+afghanistan,AF-PAR,Parwan,561.5,402.9
+afghanistan,AF-BAM,Bamyan,457.0,425.9
+afghanistan,AF-WAR,Wardak,510.5,464.8
+afghanistan,AF-KAP,Kapisa,607.2,406.7
+afghanistan,AF-LOG,Logar,586.6,485.4
+afghanistan,AF-LAG,Laghman,647.9,417.9
+afghanistan,AF-KAB,Kabul,593.0,439.2
+afghanistan,AF-PAN,Panjshir,618.1,362.1
+afghanistan,AF-URU,Urozgan,377.0,580.1
+afghanistan,AF-HEL,Helmand,232.9,690.3
+afghanistan,AF-KAN,Kandahar,375.7,715.8
+afghanistan,AF-ZAB,Zabul,443.4,614.6
+afghanistan,AF-PKA,Paktika,544.1,602.5
+afghanistan,AF-PIA,Paktia,592.8,517.8
+afghanistan,AF-KHO,Khost,622.1,534.0
+afghanistan,AF-NUR,Nuristan,684.4,365.0
+afghanistan,AF-KNR,Kunar,707.7,403.4
+afghanistan,AF-FRA,Farah,144.2,606.9
+afghanistan,AF-NIM,Nimroz,114.6,733.6
+afghanistan,AF-HER,Herat,133.1,466.6
+afghanistan,AF-BDG,Badghis,224.1,381.0
+afghanistan,AF-FYB,Faryab,290.9,303.2
+afghanistan,AF-JOW,Jowzjan,356.4,259.5
+afghanistan,AF-BAL,Balkh,454.3,277.5
+afghanistan,AF-KDZ,Kunduz,546.1,253.6
+afghanistan,AF-TAK,Takhar,621.5,262.6
+afghanistan,AF-BDS,Badakhshan,796.9,240.8
+armenia,AM-AG,Aragac̣otn,158.9,270.5
+armenia,AM-AR,Ararat,315.3,442.1
+armenia,AM-AV,Armavir,146.9,377.7
+armenia,AM-ER,Erevan,271.7,370.7
+armenia,AM-GR,Geġark'unik',483.9,328.1
+armenia,AM-KT,Kotayk',315.5,294.1
+armenia,AM-LO,Loṙy,257.1,105.1
+armenia,AM-SH,Širak,92.7,161.5
+armenia,AM-SU,Syunik',678.7,636.9
+armenia,AM-TV,Tavuš,430.9,108.2
+armenia,AM-VD,Vayoc Jor,495.8,505.3
+arunachal-pradesh,AP-01,Lumla,42.4,323.2
+arunachal-pradesh,AP-02,Tawang,71.7,322.2
+arunachal-pradesh,AP-03,Mukto,117.8,323.2
+arunachal-pradesh,AP-04,Dirang,135.0,421.3
+arunachal-pradesh,AP-05,Bomdila,133.5,347.4
+arunachal-pradesh,AP-06,Bameng,193.7,360.1
+arunachal-pradesh,AP-07,Chayangtajo,202.3,402.1
+arunachal-pradesh,AP-08,Seppa East,233.7,314.5
+arunachal-pradesh,AP-09,Seppa West,264.1,392.0
+arunachal-pradesh,AP-10,Pakke-Kessang,261.0,412.7
+arunachal-pradesh,AP-11,Itanagar,277.7,368.7
+arunachal-pradesh,AP-12,Naharlagun,285.8,250.8
+arunachal-pradesh,AP-13,Sagalee,280.2,322.6
+arunachal-pradesh,AP-14,Doimukh,330.8,296.8
+arunachal-pradesh,AP-15,Tali,361.2,366.2
+arunachal-pradesh,AP-16,Ziro-Hapoli,368.3,184.0
+arunachal-pradesh,AP-17,Yachuli,372.9,415.3
+arunachal-pradesh,AP-18,Liromoba,384.5,395.5
+arunachal-pradesh,AP-19,Kimin,391.6,344.9
+arunachal-pradesh,AP-20,Raga,388.5,249.3
+arunachal-pradesh,AP-21,Daporijo,391.6,297.8
+arunachal-pradesh,AP-22,Taliha,419.9,339.9
+arunachal-pradesh,AP-23,Limeking,438.1,247.7
+arunachal-pradesh,AP-24,Kumey,452.8,307.0
+arunachal-pradesh,AP-25,Nyapin,456.9,215.3
+arunachal-pradesh,AP-26,Nabi,475.1,148.5
+arunachal-pradesh,AP-27,Takam,498.9,268.5
+arunachal-pradesh,AP-28,Pangin,525.2,226.0
+arunachal-pradesh,AP-29,Boleng,526.7,312.5
+arunachal-pradesh,AP-30,Rumgong,550.0,179.4
+arunachal-pradesh,AP-31,Mechuka,552.5,272.0
+arunachal-pradesh,AP-32,Tuting-Yinkiong,577.3,243.7
+arunachal-pradesh,AP-33,Payeng,599.1,283.2
+arunachal-pradesh,AP-34,Nari-Koyu,592.5,217.4
+arunachal-pradesh,AP-35,Along West,567.2,112.1
+arunachal-pradesh,AP-36,Along East,647.7,276.6
+arunachal-pradesh,AP-37,Tirbin,652.2,437.0
+arunachal-pradesh,AP-38,Siyum,656.3,462.3
+arunachal-pradesh,AP-39,Basar,644.6,191.6
+arunachal-pradesh,AP-40,Leparada,651.2,249.3
+arunachal-pradesh,AP-41,Mariyang-Geku,665.4,476.5
+arunachal-pradesh,AP-42,Pasighat West,673.5,250.3
+arunachal-pradesh,AP-43,Pasighat East,681.1,437.0
+arunachal-pradesh,AP-44,Mebo,689.2,408.7
+arunachal-pradesh,AP-45,Anini,692.2,452.7
+arunachal-pradesh,AP-46,Dambuk,717.0,216.9
+arunachal-pradesh,AP-47,Roing,704.8,435.0
+arunachal-pradesh,AP-48,Tezu,733.7,412.7
+arunachal-pradesh,AP-49,Chongkham,745.8,425.4
+arunachal-pradesh,AP-50,Namsai,760.5,109.5
+arunachal-pradesh,AP-51,Lekang,762.0,310.5
+arunachal-pradesh,AP-52,Bordumsa-Diyun,762.0,333.3
+arunachal-pradesh,AP-53,Miao,778.2,214.3
+arunachal-pradesh,AP-54,Changlang North,793.4,390.5
+arunachal-pradesh,AP-55,Changlang South,817.2,252.3
+arunachal-pradesh,AP-56,Kharsang,828.8,315.1
+arunachal-pradesh,AP-57,Jairampur,883.5,373.3
+arunachal-pradesh,AP-58,Nampong,915.9,259.9
+azerbaijan,AM-GR,Geġark'unik',97.2,218.0
+azerbaijan,AZ-ABS,Abşeron,609.3,281.5
+azerbaijan,AZ-AGA,Ağstafa,91.0,121.2
+azerbaijan,AZ-AGC,Ağcabədi,348.5,336.0
+azerbaijan,AZ-AGS,Ağdaş,348.4,239.6
+azerbaijan,AZ-AGM,Ağdam,294.9,331.0
+azerbaijan,AZ-AGU,Ağsu,476.4,239.9
+azerbaijan,AZ-AST,Astara,524.4,590.5
+azerbaijan,AZ-BA,Bakı,686.1,310.1
+azerbaijan,AZ-BAB,Babək,78.4,459.7
+azerbaijan,AZ-BAL,Balakən,222.6,31.7
+azerbaijan,AZ-BAR,Bərdə,324.9,272.5
+azerbaijan,AZ-BEY,Beyləqan,383.9,360.7
+azerbaijan,AZ-BIL,Biləsuvar,475.3,416.3
+azerbaijan,AZ-CAB,Cəbrayıl,294.4,451.2
+azerbaijan,AZ-CAL,Cəlilabab,487.1,468.5
+azerbaijan,AZ-CUL,Culfa,128.0,478.6
+azerbaijan,AZ-DAS,Daşkəsən,167.4,249.2
+azerbaijan,AZ-FUZ,Füzuli,339.3,410.2
+azerbaijan,AZ-GA,Gəncə,206.4,214.8
+azerbaijan,AZ-GAD,Gədəbəy,115.5,234.3
+azerbaijan,AZ-GOR,Goranboy,248.3,226.8
+azerbaijan,AZ-GOY,Göyçay,404.0,236.3
+azerbaijan,AZ-GYG,Göygöl,202.9,236.7
+azerbaijan,AZ-HAC,Hacıqabul,546.8,318.9
+azerbaijan,AZ-IMI,İmişli,436.0,358.6
+azerbaijan,AZ-ISM,İsmayıllı,443.5,196.2
+azerbaijan,AZ-KAL,Kəlbəcər,186.2,322.0
+azerbaijan,AZ-KAN,Kǝngǝrli,57.6,426.9
+azerbaijan,AZ-KUR,Kürdəmir,448.8,288.4
+azerbaijan,AZ-LA,Lənkəran City,540.9,551.4
+azerbaijan,AZ-LAC,Laçın,205.9,384.2
+azerbaijan,AZ-LAN,Lənkəran,546.5,516.2
+azerbaijan,AZ-LER,Lerik,492.9,550.8
+azerbaijan,AZ-MAS,Masallı,519.8,504.7
+azerbaijan,AZ-MI,Mingəçevir,293.6,202.5
+azerbaijan,AZ-NA,Naftalan City,266.3,255.8
+azerbaijan,AZ-NEF,Neftçala,571.2,459.3
+azerbaijan,AZ-NV,Naxçıvan,86.4,466.8
+azerbaijan,AZ-OGU,Oğuz,360.0,153.0
+azerbaijan,AZ-ORD,Ordubad,156.9,489.8
+azerbaijan,AZ-QAB,Qəbələ,398.7,171.5
+azerbaijan,AZ-QAX,Qax,282.4,115.7
+azerbaijan,AZ-QAZ,Qazax,58.7,128.1
+azerbaijan,AZ-QBA,Quba,472.1,126.2
+azerbaijan,AZ-QBI,Qubadlı,243.7,452.1
+azerbaijan,AZ-QOB,Qobustan,554.7,241.9
+azerbaijan,AZ-QUS,Qusar,453.2,82.0
+azerbaijan,AZ-SA,Şəki City,316.9,125.1
+azerbaijan,AZ-SAB,Sabirabad,507.2,355.5
+azerbaijan,AZ-SAD,Sədərək,15.5,383.9
+azerbaijan,AZ-SAH,Şahbuz,112.3,427.4
+azerbaijan,AZ-SAK,Şəki,320.5,138.4
+azerbaijan,AZ-SAL,Salyan,566.5,395.4
+azerbaijan,AZ-SAR,Şərur,42.8,404.2
+azerbaijan,AZ-SAT,Saatlı,489.2,365.4
+azerbaijan,AZ-SBN,Şabran,546.7,139.9
+azerbaijan,AZ-SIY,Siyəzən,572.7,154.3
+azerbaijan,AZ-SKR,Şəmkir,166.0,186.0
+azerbaijan,AZ-SM,Sumqayıt,638.3,228.9
+azerbaijan,AZ-SMI,Şamaxı,507.1,227.7
+azerbaijan,AZ-SMX,Samux,220.1,169.4
+azerbaijan,AZ-SR,Şirvan City,548.8,341.3
+azerbaijan,AZ-SUS,Şuşa,250.7,387.4
+azerbaijan,AZ-TAR,Tərtər,268.7,288.3
+azerbaijan,AZ-TOV,Tovuz,141.2,174.1
+azerbaijan,AZ-UCA,Ucar,392.1,260.9
+azerbaijan,AZ-XAC,Xaçmaz,528.0,51.5
+azerbaijan,AZ-XCI,Xocalı,253.4,363.0
+azerbaijan,AZ-XIZ,Xızı,579.3,204.0
+azerbaijan,AZ-XVD,Xocavənd,294.9,396.1
+azerbaijan,AZ-YAR,Yardımlı,464.8,523.9
+azerbaijan,AZ-YE,Yevlax City,314.1,227.8
+azerbaijan,AZ-YEV,Yevlax,295.4,212.9
+azerbaijan,AZ-ZAN,Zəngilan,250.3,494.5
+azerbaijan,AZ-ZAQ,Zaqatala,251.9,51.0
+azerbaijan,AZ-ZAR,Zərdab,385.7,292.0
+bahrain,BH-13,Al ‘Āşimah,262.1,61.7
+bahrain,BH-14,Al Janūbīyah,316.2,370.9
+bahrain,BH-15,Al Muḩarraq,320.6,46.3
+bahrain,BH-16,Al Wusţá,281.2,123.7
+bahrain,BH-17,Ash Shamālīyah,129.8,125.8
+bangladesh,BD-A,Barisal,221.0,430.7
+bangladesh,BD-B,Chittagong,337.5,422.7
+bangladesh,BD-C,Dhaka,212.9,258.9
+bangladesh,BD-D,Khulna,117.6,380.2
+bangladesh,BD-E,Rajshahi,85.1,217.4
+bangladesh,BD-F,Rangpur,92.1,84.5
+bangladesh,BD-G,Sylhet,347.8,211.6
+bangladesh-updated,BD-H,Mymensingh,494.8,394.5
+bangladesh-updated,BD-G,Sylhet,685.3,337.7
+bangladesh-updated,BD-F,Rangpur,278.3,134.4
+bangladesh-updated,BD-E,Rajshahi,267.2,346.6
+bangladesh-updated,BD-D,Khulna,318.9,607.4
+bangladesh-updated,BD-C,Dhaka,470.3,465.4
+bangladesh-updated,BD-B,Chittagong,668.5,675.3
+bangladesh-updated,BD-A,Barisal,483.5,688.1
+bhutan,BT-11,Paro,139.9,202.9
+bhutan,BT-12,Chhukha,186.8,323.5
+bhutan,BT-13,Ha,93.7,243.2
+bhutan,BT-14,Samtse,73.5,315.3
+bhutan,BT-15,Thimphu,177.4,179.2
+bhutan,BT-21,Tsirang,335.3,325.6
+bhutan,BT-22,Dagana,261.7,329.7
+bhutan,BT-23,Punakha,261.0,159.2
+bhutan,BT-24,Wangdue Phodrang,323.6,177.6
+bhutan,BT-31,Sarpang,384.0,333.1
+bhutan,BT-32,Trongsa,413.6,209.8
+bhutan,BT-33,Bumthang,469.4,145.1
+bhutan,BT-34,Zhemgang,494.5,306.0
+bhutan,BT-41,Trashigang,704.1,258.7
+bhutan,BT-42,Monggar,582.1,257.4
+bhutan,BT-43,Pemagatshel,591.9,330.9
+bhutan,BT-44,Lhuentse,556.2,136.6
+bhutan,BT-45,Samdrup Jongkha,705.3,320.1
+bhutan,BT-GA,Gasa,284.7,72.4
+bhutan,BT-TY,Trashi Yangtse,658.1,149.1
+british-indian-ocean-territory,IO,British Indian Ocean Territory,480.0,480.0
+brunei-darussalam,BN-BE,Belait,290.6,522.9
+brunei-darussalam,BN-BM,Brunei-Muara,649.3,120.9
+brunei-darussalam,BN-TE,Temburong,840.2,334.7
+brunei-darussalam,BN-TU,Tutong,460.0,325.0
+cambodia,KH-1,Bântéay Méanchey,68.8,112.5
+cambodia,KH-2,Bătdâmbâng,97.5,223.4
+cambodia,KH-25,Tboung Khmum,445.5,344.4
+cambodia,KH-3,Kampong Cham,366.3,324.7
+cambodia,KH-4,Kâmpóng Chhnăng,272.2,316.7
+cambodia,KH-5,Kâmpóng Spoe,240.9,392.5
+cambodia,KH-6,Kâmpóng Thum,324.5,236.6
+cambodia,KH-7,Kâmpôt,245.6,491.1
+cambodia,KH-8,Kândal,326.5,415.2
+cambodia,KH-9,Kaôh Kŏng,139.5,462.7
+cambodia,KH-10,Krâchéh,477.1,254.2
+cambodia,KH-11,Môndól Kiri,573.1,246.5
+cambodia,KH-12,Phnum Pénh,314.4,395.8
+cambodia,KH-13,Preăh Vihéar,345.5,119.7
+cambodia,KH-14,Prey Vêng 1,385.8,419.0
+cambodia,KH-15,Poŭthĭsăt,150.2,282.8
+cambodia,KH-16,Rôtânôkiri,586.4,96.3
+cambodia,KH-17,Siĕmréab,210.6,154.3
+cambodia,KH-18,Krŏng Preăh Sihanouk,167.4,504.9
+cambodia,KH-19,Stœ̆ng Trêng,472.1,106.1
+cambodia,KH-20,Svay Riĕng,439.6,440.5
+cambodia,KH-21,Takêv,299.0,472.8
+cambodia,KH-22,Ŏtdâr Méanchey,175.5,67.7
+cambodia,KH-23,Krŏng Kêb,248.5,525.0
+cambodia,KH-24,Krŏng Pailĭn,35.6,227.9
+china,CN-34,Anhui,552.4,375.3
+china,CN-11,Beijing,542.3,247.4
+china,CN-50,Chongqing,432.2,402.6
+china,CN-35,Fujian,563.7,463.0
+china,CN-44,Guangdong,504.0,505.4
+china,CN-62,Gansu,343.7,286.3
+china,CN-45,Guangxi Zhuang,438.9,491.4
+china,CN-52,Guizhou,417.7,449.3
+china,CN-46,Hainan,458.5,555.6
+china,CN-13,Hebei,544.7,261.4
+china,CN-41,Henan,505.0,347.5
+china,CN-91,Hong Kong,512.9,512.5
+china,CN-23,Heilongjiang,687.9,97.2
+china,CN-43,Hunan,480.0,442.6
+china,CN-42,Hubei,489.2,388.3
+china,CN-22,Jilin,668.8,190.0
+china,CN-32,Jiangsu,576.3,361.8
+china,CN-36,Jiangxi,536.9,444.0
+china,CN-21,Liaoning,617.2,232.6
+china,CN-92,Macau,505.8,515.4
+china,CN-15,Nei Mongol,481.4,149.2
+china,CN-64,Ningxia Hui,409.8,294.6
+china,CN-63,Quinghai,286.8,322.7
+china,CN-61,Shaanxi,440.2,319.4
+china,CN-51,Sichuan,371.6,401.7
+china,CN-37,Shandong,571.4,310.1
+china,CN-31,Shanghai,608.5,386.9
+china,CN-14,Shanxi,491.0,288.3
+china,CN-12,Tianjin,554.1,261.3
+china,CN-71,Taiwan,588.9,495.7
+china,CN-65,Xinjiang Uygur,144.4,215.0
+china,CN-54,Xizang (Tibet),192.4,376.3
+china,CN-53,Yunnan,358.0,472.8
+china,CN-33,Zhejiang,590.0,417.3
+hong-kong,HK-KI,Kwai Tsing,282.4,229.7
+hong-kong,HK-WT,Wong Tai Sin,370.6,235.2
+hong-kong,HK-TW,Tsuen Wan,249.2,213.8
+hong-kong,HK-SS,Sham Shui Po,322.1,249.8
+hong-kong,HK-KC,Kowloon City,363.6,259.3
+hong-kong,HK-TM,Tuen Mun,137.9,196.7
+hong-kong,HK-KU,Kwun Tong,393.4,273.6
+hong-kong,HK-YT,Yau Tsim Mong,337.3,273.8
+hong-kong,HK-IS,Islands,238.6,351.2
+hong-kong,HK-NO,North,376.8,52.4
+hong-kong,HK-YL,Yuen Long,200.2,114.6
+hong-kong,HK-TP,Tai Po,446.0,96.2
+hong-kong,HK-ST,Sha Tin,366.4,185.6
+hong-kong,HK-EA,Eastern,386.9,316.1
+hong-kong,HK-CW,Central and Western,308.2,314.2
+hong-kong,HK-WC,Wan Chai,354.0,317.3
+hong-kong,HK-SK,Sai Kung,495.3,228.1
+hong-kong,HK-SO,Southern,358.8,355.8
+indonesia,ID-AC,Aceh,26.7,61.0
+indonesia,ID-BA,Bali,343.6,272.9
+indonesia,ID-BB,Bangka Belitung,198.9,167.8
+indonesia,ID-BE,Bengkulu,124.4,189.0
+indonesia,ID-BT,Banten,186.5,238.0
+indonesia,ID-GO,Gorontalo,469.4,115.8
+indonesia,ID-JA,Jambi,131.5,157.3
+indonesia,ID-JB,Jawa Barat,214.4,245.4
+indonesia,ID-JI,Jawa Timur,314.7,252.0
+indonesia,ID-JK,Jakarta Raya,187.4,237.0
+indonesia,ID-JT,Jawa Tengah,258.0,253.1
+indonesia,ID-KB,Kalimantan Barat,254.8,117.1
+indonesia,ID-KI,Kalimantan Timur,367.0,125.3
+indonesia,ID-KR,Kepulauan Riau,154.8,122.4
+indonesia,ID-KS,Kalimantan Selatan,350.2,174.3
+indonesia,ID-KT,Kalimantan Tengah,312.8,151.1
+indonesia,ID-KU,Kalimantan Utara,364.5,79.5
+indonesia,ID-LA,Lampung,165.2,210.3
+indonesia,ID-MA,Maluku,607.8,223.0
+indonesia,ID-MU,Maluku Utara,543.3,125.8
+indonesia,ID-NB,Nusa Tenggara Barat,387.0,275.3
+indonesia,ID-NT,Nusa Tenggara Timur,464.4,291.2
+indonesia,ID-PA,Papua,733.4,211.3
+indonesia,ID-PB,Papua Barat,641.2,163.7
+indonesia,ID-RI,Riau,116.3,115.1
+indonesia,ID-SA,Sulawesi Utara,515.6,85.6
+indonesia,ID-SB,Sumatera Barat,87.0,148.1
+indonesia,ID-SG,Sulawesi Tenggara,461.5,192.9
+indonesia,ID-SN,Sulawesi Selatan,438.8,206.4
+indonesia,ID-SR,Sulawesi Barat,417.0,165.0
+indonesia,ID-SS,Sumatera Selatan,153.4,183.8
+indonesia,ID-ST,Sulawesi Tengah,455.4,164.6
+indonesia,ID-SU,Sumatera Utara,49.5,95.2
+indonesia,ID-YO,Yogyakarta,263.2,262.8
+indonesia,TL,Timor-Leste,527.0,280.9
+indonesia,MY-12,Sabah,382.5,28.5
+indonesia,MY-13,Sarawak,301.1,76.5
+indonesia,BN,Brunei Darussalam,365.8,49.1
+iran,IR-32,Alborz,229.8,164.4
+iran,IR-15,Kerman,438.6,440.7
+iran,IR-13,Sistan and Baluchestan,577.1,470.5
+iran,IR-31,North Khorasan,441.6,100.7
+iran,IR-30,Razavi Khorasan,499.3,188.6
+iran,IR-29,South Khorasan,524.3,311.4
+iran,IR-16,Kordestan,96.8,177.7
+iran,IR-19,Gilan,186.6,98.4
+iran,IR-17,Kermanshah,90.9,225.9
+iran,IR-01,East Azarbaijan,93.7,78.6
+iran,IR-02,West Azarbaijan,56.5,81.7
+iran,IR-28,Qazvin,192.8,156.8
+iran,IR-11,Zanjan,145.3,145.5
+iran,IR-24,Hamadan,154.7,208.8
+iran,IR-26,Qom,236.1,217.6
+iran,IR-22,Markazi,201.7,220.5
+iran,IR-03,Ardebil,125.9,58.3
+iran,IR-23,Hormozgan,405.4,513.2
+iran,IR-05,Ilam,95.0,282.3
+iran,IR-20,Lorestan,149.3,265.9
+iran,IR-10,Khuzestan,169.3,345.0
+iran,IR-08,Chahar Mahall and Bakhtiari,220.9,330.5
+iran,IR-25,Yazd,390.0,304.1
+iran,IR-07,Tehran,268.4,183.1
+iran,IR-12,Semnan,353.3,168.3
+iran,IR-21,Mazandaran,277.9,146.2
+iran,IR-27,Golestan,372.4,107.2
+iran,IR-14,Fars,307.2,426.0
+iran,IR-04,Esfahan,284.9,298.5
+iran,IR-06,Bushehr,254.1,451.4
+iran,IR-18,Kohgiluyeh and Buyer Ahmad,229.9,372.5
+iraq,IQ-BB,Babil,342.4,343.6
+iraq,IQ-AN,Al-Anbar,164.7,327.9
+iraq,IQ-DI,Diyala,377.9,243.8
+iraq,IQ-SU,As-Sulaymaniyah,397.5,137.8
+iraq,IQ-WA,Wasit,405.2,339.5
+iraq,IQ-MA,Maysan,495.4,391.9
+iraq,IQ-DQ,Dhi-Qar,456.4,442.4
+iraq,IQ-QA,Al-Qadisiyah,378.0,402.4
+iraq,IQ-MU,Al-Muthannia,388.6,501.7
+iraq,IQ-BA,Al-Basrah,524.4,515.4
+iraq,IQ-BG,Baghdad,334.8,298.1
+iraq,IQ-KA,Karbala,298.0,355.4
+iraq,IQ-NA,An-Najaf,297.4,454.4
+iraq,IQ-SD,Sala ad-Din,295.8,205.9
+iraq,IQ-NI,Ninawa,237.3,101.7
+iraq,IQ-AR,Arbil,322.8,74.8
+iraq,IQ-KI,Kirkuk,314.1,153.4
+iraq,IQ-DA,Dohuk,266.0,25.8
+iraq-updated,IQ-WA,Wāsiţ,656.0,545.5
+iraq-updated,IQ-SD,Şalāḩ ad Dīn,480.6,334.2
+iraq-updated,IQ-NI,Nīnawá,389.7,166.7
+iraq-updated,IQ-MA,Maysān,804.8,625.5
+iraq-updated,IQ-KA,Karbalā’,484.1,579.2
+iraq-updated,IQ-DI,Diyālá,617.0,391.2
+iraq-updated,IQ-DA,Dahūk,434.4,41.0
+iraq-updated,IQ-DQ,Dhī Qār,741.1,707.2
+iraq-updated,IQ-BG,Baghdād,547.7,472.7
+iraq-updated,IQ-BB,Bābil,559.0,553.6
+iraq-updated,IQ-KI,Kirkūk,510.8,248.8
+iraq-updated,IQ-SU,As Sulaymānīyah,646.8,218.0
+iraq-updated,IQ-HA,Halabja,693.6,262.5
+iraq-updated,IQ-AR,Arbīl,530.5,118.4
+iraq-updated,IQ-NA,An Najaf,481.3,732.3
+iraq-updated,IQ-QA,Al Qādisīyah,612.9,644.5
+iraq-updated,IQ-MU,Al Muthanná,626.3,810.7
+iraq-updated,IQ-BA,Al Başrah,850.2,822.5
+iraq-updated,IQ-AN,Al Anbār,275.4,536.5
+japan,JP-23,Aichi,268.1,271.9
+japan,JP-05,Akita,329.1,155.9
+japan,JP-02,Aomori,337.6,125.3
+japan,JP-12,Chiba,328.5,260.0
+japan,JP-38,Ehime,181.5,307.0
+japan,JP-18,Fukui,246.3,252.2
+japan,JP-40,Fukuoka,137.4,307.8
+japan,JP-07,Fukushima,324.4,213.9
+japan,JP-21,Gifu,262.5,252.5
+japan,JP-10,Gunma,303.2,235.1
+japan,JP-28,Hyogo,221.1,273.5
+japan,JP-01,HokkaidoÂ�,373.8,56.1
+japan,JP-34,Hiroshima,179.4,281.6
+japan,JP-08,Ibaraki,327.9,239.7
+japan,JP-17,Ishikawa,259.3,228.2
+japan,JP-03,Iwate,349.2,158.3
+japan,JP-39,Kochi,193.5,312.2
+japan,JP-37,Kagawa,204.3,290.8
+japan,JP-43,Kumamoto,138.0,327.6
+japan,JP-14,Kanagawa,309.4,262.2
+japan,JP-46,Kagoshima,133.8,360.7
+japan,JP-26,Kyoto,232.8,266.2
+japan,JP-24,Mie,251.3,284.1
+japan,JP-04,Miyagi,341.6,189.0
+japan,JP-45,Miyazaki,150.7,340.1
+japan,JP-15,Niigata,298.1,207.5
+japan,JP-20,Nagano,283.6,245.0
+japan,JP-29,Nara,241.2,288.0
+japan,JP-42,Nagasaki,115.1,304.1
+japan,JP-47,Okinawa,63.1,468.5
+japan,JP-27,Osaka,232.0,280.1
+japan,JP-33,Okayama,201.0,274.7
+japan,JP-44,Oita,153.9,314.2
+japan,JP-41,Saga,127.0,309.6
+japan,JP-25,Shiga,245.7,266.0
+japan,JP-32,Shimane,166.4,249.2
+japan,JP-11,Saitama,308.7,247.4
+japan,JP-22,Shizuoka,289.1,269.0
+japan,JP-09,Tochigi,318.6,231.3
+japan,JP-13,Tokyo,311.4,284.3
+japan,JP-36,Tokushima,208.1,298.2
+japan,JP-31,Tottori,200.7,263.9
+japan,JP-16,Toyama,268.6,232.5
+japan,JP-30,Wakayama,234.3,297.9
+japan,JP-35,Yamaguchi,158.1,289.7
+japan,JP-19,Yamanashi,295.9,258.2
+japan,JP-06,Yamagata,324.3,187.8
+kazakhstan,KZ-AKM,Aqmola oblysy,453.3,116.5
+kazakhstan,KZ-AKT,Aqtöbe oblysy,242.1,223.4
+kazakhstan,KZ-ALM,Almaty oblysy,615.8,322.2
+kazakhstan,KZ-ATY,Atyraū oblysy,102.2,247.8
+kazakhstan,KZ-KAR,Qaraghandy oblysy,459.3,213.2
+kazakhstan,KZ-KUS,Qostanay oblysy,343.3,126.6
+kazakhstan,KZ-KZY,Qyzylorda oblysy,331.8,313.4
+kazakhstan,KZ-MAN,Mangghystaū oblysy,133.4,346.4
+kazakhstan,KZ-PAV,Pavlodar oblysy,580.5,103.7
+kazakhstan,KZ-SEV,Soltüstik Qazaqstan oblysy,456.8,53.5
+kazakhstan,KZ-VOS,Shyghys Qazaqstan oblysy,688.3,212.6
+kazakhstan,KZ-YUZ,Ongtüstik Qazaqstan oblysy,426.8,362.8
+kazakhstan,KZ-ZAP,Batys Qazaqstan oblysy,78.8,177.6
+kazakhstan,KZ-ZHA,Zhambyl oblysy,504.8,339.6
+kazakhstan,KZ-AS,Aral Sea,260.6,298.1
+kazakhstan-2023,KZ-35,Qaraghandy,612.8,473.7
+kazakhstan-2023,KZ-15,Aqtöbe,293.0,487.4
+kazakhstan-2023,KZ-27,Batys,94.9,431.2
+kazakhstan-2023,KZ-62,Ulytaū,494.9,499.1
+kazakhstan-2023,KZ-61,Türkistan,516.8,656.2
+kazakhstan-2023,KZ-79,Shymkent,543.8,689.9
+kazakhstan-2023,KZ-55,Pavlodar,702.8,341.8
+kazakhstan-2023,KZ-59,Soltüstik Qazaqstan,552.8,280.5
+kazakhstan-2023,KZ-47,Mangghystaū,164.4,636.8
+kazakhstan-2023,KZ-43,Qyzylorda,401.0,597.2
+kazakhstan-2023,KZ-39,Qostanay,412.7,369.6
+kazakhstan-2023,KZ-33,Zhetisū,773.4,582.8
+kazakhstan-2023,KZ-31,Zhambyl,610.3,628.6
+kazakhstan-2023,KZ-63,Shyghys Qazaqstan,887.4,464.5
+kazakhstan-2023,KZ-23,Atyraū,123.9,516.0
+kazakhstan-2023,KZ-71,Astana,588.1,386.8
+kazakhstan-2023,KZ-19,Almaty Region,723.6,617.9
+kazakhstan-2023,KZ-75,Almaty,716.3,660.3
+kazakhstan-2023,KZ-11,Aqmola,548.2,356.8
+kazakhstan-2023,KZ-10,Abay,790.4,474.0
+kyrgyzstan,KG-B,Batken,118.0,324.9
+kyrgyzstan,KG-C,Chü,422.6,68.8
+kyrgyzstan,KG-J,Jalal-Abad,229.8,169.0
+kyrgyzstan,KG-N,Naryn,482.5,182.0
+kyrgyzstan,KG-O,Osh,283.5,296.8
+kyrgyzstan,KG-T,Talas,215.9,79.7
+kyrgyzstan,KG-Y,Ysyk-Köl,625.3,118.2
+kyrgyzstan-alt,KG-Y,Ysyk-Köl,757.4,385.4
+kyrgyzstan-alt,KG-T,Talas,260.2,338.7
+kyrgyzstan-alt,KG-GO,Osh,307.3,563.5
+kyrgyzstan-alt,KG-O,Osh Region,342.1,603.1
+kyrgyzstan-alt,KG-N,Naryn,583.1,463.9
+kyrgyzstan-alt,KG-J,Jalal-Abad,277.4,447.2
+kyrgyzstan-alt,KG-C,Chüy,511.4,327.0
+kyrgyzstan-alt,KG-GB,Bishkek,464.7,286.4
+kyrgyzstan-alt,KG-B,Batken,142.3,638.3
+kyrgyzstan-alt,UZ-FA-CQ,Chon-Qora,153.7,594.7
+kyrgyzstan-alt,UZ-FA-SO,Sokh,159.8,618.4
+kyrgyzstan-alt,TJ-SU-V,Vorukh,117.6,642.3
+kyrgyzstan-alt,UZ-FA-SH,Shohimardon,219.2,624.7
+laos,LA-XE,Xékong,448.6,474.7
+laos,LA-AT,Attapu,441.1,530.2
+laos,LA-KH,Khammouan,341.9,341.1
+laos,LA-BL,Bolikhamxai,257.0,279.3
+laos,LA-PH,Phôngsali,140.2,57.3
+laos,LA-OU,Oudômxai,94.8,138.4
+laos,LA-LP,Louangphrabang,159.9,167.8
+laos,LA-HO,Houaphan,257.0,155.1
+laos,LA-XI,Xiangkhoang,219.3,214.7
+laos,LA-VI,Vientiane,166.3,270.4
+laos,LA-VT,Vientiane [prefecture],160.9,304.0
+laos,LA-SV,Savannakhét,369.8,414.8
+laos,LA-SL,Saravan,400.9,454.7
+laos,LA-CH,Champasak,384.9,537.2
+laos,LA-XA,Xaignabouri,68.4,264.4
+laos,LA-LM,Louang Namtha,68.7,110.2
+laos,LA-BK,Bokeo,37.7,153.2
+malaysia,BN,Brunei Darussalam,610.0,114.3
+malaysia,MY-01,Johor,151.2,212.8
+malaysia,MY-02,Kedah,30.4,62.8
+malaysia,MY-03,Kelantan,95.5,79.6
+malaysia,MY-04,Melaka,106.8,204.0
+malaysia,MY-05,Negeri Sembilan,103.8,182.8
+malaysia,MY-06,Pahang,114.9,151.1
+malaysia,MY-07,Pulau Pinang,29.4,81.2
+malaysia,MY-08,Perak,62.3,103.6
+malaysia,MY-09,Perlis,24.8,35.6
+malaysia,MY-10,Selangor,70.8,166.7
+malaysia,MY-11,Terengganu,133.3,100.9
+malaysia,MY-12,Sabah,713.0,65.5
+malaysia,MY-13,Sarawak,523.7,178.7
+malaysia,MY-15,Wilayah Persekutuan Labuan,628.7,83.4
+malaysia-updated,MY-16,Putrajaya,99.9,539.3
+malaysia-updated,MY-15,Labuan,762.8,421.3
+malaysia-updated,MY-14,Kuala Lumpur,99.7,528.3
+malaysia-updated,MY-13,Sarawak,634.5,538.1
+malaysia-updated,MY-12,Sabah,863.9,399.9
+malaysia-updated,MY-11,Terengganu,161.3,443.1
+malaysia-updated,MY-10,Selangor,85.5,523.4
+malaysia-updated,MY-09,Perlis,29.7,363.4
+malaysia-updated,MY-08,Perak,75.2,446.4
+malaysia-updated,MY-07,Penang,35.4,419.1
+malaysia-updated,MY-06,Pahang,139.0,504.4
+malaysia-updated,MY-05,Negeri Sembilan,125.5,543.2
+malaysia-updated,MY-04,Malacca,129.1,568.9
+malaysia-updated,MY-03,Kelantan,115.5,417.2
+malaysia-updated,MY-02,Kedah,36.5,396.7
+malaysia-updated,MY-01,Johor,183.0,579.7
+malaysia-updated,BN,Brunei Darussalam,739.1,459.5
+maldives,MV-28,Huvadhu Atholhu Dhekunubu,491.0,826.7
+maldives,MV-00,Ari Atholhu Dhekunuburi,438.7,421.7
+maldives,MV-02,Ariatholhu Uthuruburi,438.9,371.5
+maldives,MV-14,Nilandhe Atholhu Uthurubu,449.4,482.7
+maldives,MV-17,Nilandhe Atholhu Dhekunub,449.5,526.0
+maldives,MV-05,Haddhunmathi,508.9,633.7
+maldives,MV-12,Mulak Atholhu,521.0,510.5
+maldives,MV-04,Felidheatholhu,512.1,474.8
+maldives,MV-MLE,Maale,521.0,361.8
+maldives,MV-26,Maaleatholhu,513.2,335.5
+maldives,MV-08,Kolhumadulu,474.4,584.1
+maldives,MV-03,Faadhippolhu,519.2,211.0
+maldives,MV-20,Maalhosmadulu Dhekunuburi,450.3,278.8
+maldives,MV-25,Miladhunmadulu Dhekunubur,495.6,159.4
+maldives,MV-13,Maalhosmadulu Uthuruburi,452.2,141.0
+maldives,MV-23,Thiladhunmathee Dhekunubu,462.3,62.2
+maldives,MV-07,Thiladhunmathee Uthurubur,461.2,19.1
+maldives,MV-01,Addu Atholhu,477.9,951.6
+maldives,MV-29,Fuvahmulah,510.9,909.5
+maldives,MV-27,Huvadhu Atholhu Uthurubur,497.1,795.2
+maldives,MV-24,Miladhunmadulu Uthuruburi,470.6,109.2
+maldives-islands,MV-MLE,Maale,521.0,354.6
+maldives-islands,MV-07,Thiladhunmathee Uthuruburi,460.4,10.0
+maldives-islands,MV-25,Miladhunmadulu Dhekunuburi,504.3,159.1
+maldives-islands,MV-24,Miladhunmadulu Uthuruburi,470.7,96.3
+maldives-islands,MV-23,Thiladhunmathee Dhekunuburi,446.9,58.6
+maldives-islands,MV-20,Maalhosmadulu Dhekunuburi,460.6,244.9
+maldives-islands,MV-13,Maalhosmadulu Uthuruburi,451.7,160.3
+maldives-islands,MV-03,Faadhippolhu,538.2,203.2
+maldives-islands,MV-26,Maaleatholhu,524.1,328.0
+maldives-islands,MV-00,Ariatholhu Dhekunuburi,438.0,416.1
+maldives-islands,MV-02,Ariatholhu Uthuruburi,450.2,347.5
+maldives-islands,MV-04,Felidheatholhu,507.7,447.7
+maldives-islands,MV-12,Mulakatholhu,507.8,510.0
+maldives-islands,MV-14,Nilandheatholhu Uthuruburi,452.2,491.3
+maldives-islands,MV-17,Nilandheatholhu Dhekunuburi,461.0,527.0
+maldives-islands,MV-08,Kolhumadulu,493.1,587.3
+maldives-islands,MV-05,Hahdhunmathi,509.8,629.0
+maldives-islands,MV-28,Huvadhuatholhu Dhekunuburi,465.4,838.0
+maldives-islands,MV-27,Huvadhuatholhu Uthuruburi,492.9,784.8
+maldives-islands,MV-29,Fuvammulah,510.6,909.3
+maldives-islands,MV-01,Addu Atholhu,477.4,952.1
+mongolia,MN-1,Ulaanbaatar,587.0,451.5
+mongolia,MN-035,Orhon,493.2,395.5
+mongolia,MN-037,Darhan-Uul,553.0,373.1
+mongolia,MN-039,Hentiy,679.6,451.9
+mongolia,MN-041,Hövsgöl,360.3,339.4
+mongolia,MN-043,Hovd,142.8,484.5
+mongolia,MN-046,Uvs,152.3,365.3
+mongolia,MN-047,Töv,560.8,451.4
+mongolia,MN-049,Selenge,558.1,373.3
+mongolia,MN-051,Sühbaatar,778.7,516.3
+mongolia,MN-053,Omnögovĭ,476.5,637.4
+mongolia,MN-055,Ovörhangay,451.7,539.2
+mongolia,MN-057,Dzavhan,252.0,426.2
+mongolia,MN-059,Dundgovĭ,548.3,550.5
+mongolia,MN-061,Dornod,841.1,428.0
+mongolia,MN-063,Dornogovĭ,658.6,590.4
+mongolia,MN-064,Govĭ-Sümber,618.3,509.5
+mongolia,MN-065,Govĭ-Altay,239.3,558.5
+mongolia,MN-067,Bulgan,460.7,402.7
+mongolia,MN-069,Bayanhongor,356.1,562.7
+mongolia,MN-071,Bayan-Ölgiy,62.3,427.7
+mongolia,MN-073,Arhangay,393.0,440.0
+myanmar,MM-01,Sagaing,99.0,132.8
+myanmar,MM-11,Kachin,151.3,80.6
+myanmar,MM-05,Tanintharyi,187.8,508.5
+myanmar,MM-17,Shan,191.6,221.9
+myanmar,MM-03,Magway,80.0,259.5
+myanmar,MM-07,Ayeyarwady,75.3,392.1
+myanmar,MM-14,Chin,35.6,201.5
+myanmar,MM-16,Rakhine,40.5,294.7
+myanmar,MM-15,Mon,158.6,391.5
+myanmar,MM-06,Yangon,121.0,368.7
+myanmar,MM-02,Bago,117.4,333.1
+myanmar,MM-04,Mandalay,108.4,228.2
+myanmar,MM-13,Kayin,161.7,358.6
+myanmar,MM-12,Kayah,152.9,300.5
+myanmar-updated,MM-18,Nay Pyi Taw,457.3,457.8
+myanmar-updated,MM-16,Rakhine,329.2,480.4
+myanmar-updated,MM-14,Chin,321.2,328.3
+myanmar-updated,MM-11,Kachin,510.0,131.1
+myanmar-updated,MM-01,Sagaing,424.7,216.2
+myanmar-updated,MM-17,Shan,575.8,361.7
+myanmar-updated,MM-12,Kayah,512.6,489.9
+myanmar-updated,MM-13,Kayin,527.0,584.7
+myanmar-updated,MM-15,Mon,521.9,638.4
+myanmar-updated,MM-05,Tanintharyi,569.6,829.2
+myanmar-updated,MM-07,Ayeyarwady,386.1,639.4
+myanmar-updated,MM-06,Yangon,460.5,601.1
+myanmar-updated,MM-02,Bago,454.7,543.1
+myanmar-updated,MM-03,Magway,393.7,422.9
+myanmar-updated,MM-04,Mandalay,440.1,352.4
+nepal,NP-BA,Bagmati,520.4,290.7
+nepal,NP-BH,Bheri,169.7,217.6
+nepal,NP-DH,Dhawalagiri,342.3,199.4
+nepal,NP-GA,Gandaki,419.3,236.4
+nepal,NP-JA,Janakpur,580.2,341.7
+nepal,NP-KA,Karnali,238.1,97.1
+nepal,NP-KO,Koshi,716.3,365.9
+nepal,NP-LU,Lumbini,346.3,294.3
+nepal,NP-MA,Mahakali,52.7,117.0
+nepal,NP-ME,Mechi,764.6,367.5
+nepal,NP-NA,Narayani,458.9,348.4
+nepal,NP-RA,Rapti,235.9,235.0
+nepal,NP-SA,Sagarmatha,650.2,353.2
+nepal,NP-SE,Seti,109.0,134.4
+nepal-2020,NP-P5,Lumbinī,293.7,525.0
+nepal-2020,NP-P2,Madhesh,671.6,679.5
+nepal-2020,NP-P1,Koshī,841.9,640.8
+nepal-2020,NP-P7,Sudūrpashchim,103.6,343.6
+nepal-2020,NP-P6,Karṇālī,268.7,360.2
+nepal-2020,NP-P4,Gaṇḍakī,470.6,486.7
+nepal-2020,NP-P3,Bāgmatī,612.3,584.9
+north-korea,KP-14,Nampho,180.7,763.9
+north-korea,KP-01,Phyeongyang,254.2,709.7
+north-korea,KP-02,Phyeongannamto,278.9,624.0
+north-korea,KP-03,Phyeonganpukto,105.7,621.9
+north-korea,KP-04,Jakangto,319.9,382.1
+north-korea,KP-05,Hwanghainamto,193.7,866.3
+north-korea,KP-06,Hwanghaipukto,294.8,811.0
+north-korea,KP-07,Kangweonto,463.3,754.7
+north-korea,KP-08,Hamkyeongnamto,514.6,509.0
+north-korea,KP-09,Hamkyeongpukto,749.5,224.5
+north-korea,KP-10,Ryangkangto,526.7,318.7
+north-korea,KP-13,Raseon,856.0,112.4
+oman,AE-SH,Ash Shāriqah,254.3,79.0
+oman,AE-DU,Dubayy,246.1,103.1
+oman,AE-FU,Al Fujayrah,248.7,72.6
+oman,AE-RK,Ra’s al Khaymah,239.7,60.4
+oman,AE-NZ1,Neutral Zone,241.4,100.5
+oman,AE-NZ2,Neutral Zone,255.4,92.5
+oman,OM-BAN,Al Bāţinah North,287.9,136.4
+oman,OM-BAS,Al Bāţinah South,326.9,185.1
+oman,OM-BU,Al Buraymī,231.8,141.8
+oman,OM-DA,Ad Dākhilīyah,323.0,263.6
+oman,OM-MA,Masqaţ,389.8,196.3
+oman,OM-MU,Musandam,257.4,37.8
+oman,OM-SHN,Ash Sharqīyah North,411.8,293.2
+oman,OM-SHS,Ash Sharqīyah South,405.2,291.9
+oman,OM-WU,Al Wusţá,277.1,420.4
+oman,OM-ZA,Az̧ Z̧āhirah,247.9,237.7
+oman,OM-ZU,Z̧ufār,129.9,502.8
+oman-alt,OM-MU,Musandam,516.0,59.5
+oman-alt,AE,United Arab Emirates,493.2,100.5
+oman-alt,OM-BU,Al Buraymī,478.7,226.5
+oman-alt,OM-DA,Ad Dākhilīyah,620.2,422.1
+oman-alt,OM-SJ,Janūb ash Sharqīyah,781.7,447.7
+oman-alt,OM-MA,Muscat,729.2,314.2
+oman-alt,OM-WU,Al Wusţá,577.2,664.2
+oman-alt,OM-BJ,Janūb al Bāţinah,629.6,295.9
+oman-alt,OM-ZU,Dhofar,320.5,798.3
+oman-alt,OM-SS,Shamāl ash Sharqīyah,710.4,421.1
+oman-alt,OM-ZA,Az̧ Z̧āhirah,503.8,374.9
+oman-alt,OM-BS,Shamāl al Bāţinah,566.3,217.9
+pakistan,PK-BA,Balochistan,181.5,392.6
+pakistan,PK-GB,Gilgit-Baltistan,553.0,61.5
+pakistan,PK-IS,Islamabad,479.1,163.7
+pakistan,PK-JK,Azad Kashmir,524.1,148.2
+pakistan,PK-KP,Khyber Pakhtunkhwa,433.9,142.0
+pakistan,PK-PB,Punjab,443.6,287.2
+pakistan,PK-SD,Sindh,309.9,496.7
+pakistan,PK-TA,Federally Administered Tribal Areas,374.0,191.1
+palestine,PS-JRH,Jericho,214.8,296.9
+palestine,PS-JEN,Jenin,178.6,206.5
+palestine,PS-TKM,Tulkarm,149.4,224.8
+palestine,PS-TBS,Tubas,211.2,232.7
+palestine,PS-NBS,Nablus,184.9,257.8
+palestine,PS-QQA,Qalqilya,146.8,255.8
+palestine,PS-SLT,Salfit,155.1,269.2
+palestine,PS-RBH,Ramallah,166.7,304.4
+palestine,PS-JEM,Jerusalem,185.6,335.0
+palestine,PS-BTH,Bethlehem,185.1,372.9
+palestine,PS-HBN,Hebron,154.9,390.8
+palestine,PS-NGZ,North Gaza,46.9,383.7
+palestine,PS-GZA,Gaza,36.7,396.0
+palestine,PS-DEB,Deir El Balah,23.0,410.1
+palestine,PS-KYS,Khan Yunis,12.7,427.9
+palestine,PS-RFH,Rafah,8.2,437.8
+palestine,IL,Israel,150.7,396.3
+philippines,PH-SUR,Surigao del Sur,665.9,911.7
+philippines,PH-TAR,Tarlac,257.3,405.3
+philippines,PH-TAW,Tawi-Tawi,187.2,1120.4
+philippines,PH-ZMB,Zambales,234.9,422.9
+philippines,PH-ZAN,Zamboanga del Norte,421.0,967.8
+philippines,PH-ZSI,Zamboanga Sibugay,404.2,1005.9
+philippines,PH-ABR,Abra,280.7,250.9
+philippines,PH-AGN,Agusan del Norte,621.2,885.5
+philippines,PH-AGS,Agusan del Sur,644.0,920.3
+philippines,PH-AKL,Aklan,383.3,694.1
+philippines,PH-ALB,Albay,494.9,575.4
+philippines,PH-ANT,Antique,356.1,723.2
+philippines,PH-APA,Apayao,310.7,211.6
+philippines,PH-AUR,Aurora,351.9,387.4
+philippines,PH-BAN,Bataan,254.0,469.8
+philippines,PH-BTN,Batanes,361.5,22.2
+philippines,PH-BTG,Batangas,296.9,528.9
+philippines,PH-BEN,Benguet,272.9,327.2
+philippines,PH-BIL,Biliran,546.3,695.4
+philippines,PH-BOH,Bohol,525.5,825.2
+philippines,PH-BUK,Bukidnon,583.7,963.3
+philippines,PH-BUL,Bulacan,296.4,446.6
+philippines,PH-CAG,Cagayan,342.7,176.4
+philippines,PH-CAN,Camarines Norte,418.8,507.5
+philippines,PH-CAS,Camarines Sur,459.5,542.6
+philippines,PH-CAM,Camiguin,565.6,877.5
+philippines,PH-CAP,Capiz,415.2,714.8
+philippines,PH-CAT,Catanduanes,529.6,534.2
+philippines,PH-CAV,Cavite,284.4,498.8
+philippines,PH-CEB,Cebu,508.3,789.9
+philippines,PH-COM,Compostela Valley,657.4,997.0
+philippines,PH-DAV,Davao del Norte,629.3,1003.7
+philippines,PH-DAS,Davao del Sur,615.5,1068.3
+philippines,PH-DAO,Davao Oriental,678.4,1026.4
+philippines,PH-DIN,Dinagat Islands,628.4,804.4
+philippines,PH-EAS,Eastern Samar,625.1,703.3
+philippines,PH-GUI,Guimaras,411.8,773.6
+philippines,PH-IFU,Ifugao,312.5,306.3
+philippines,PH-ILN,Ilocos Norte,274.0,204.4
+philippines,PH-ILS,Ilocos Sur,266.6,272.6
+philippines,PH-ILI,Iloilo,417.9,738.7
+philippines,PH-ISA,Isabela,363.2,296.3
+philippines,PH-KAL,Kalinga,316.9,261.4
+philippines,PH-LUN,La Union,254.1,327.0
+philippines,PH-LAG,Laguna,318.8,499.6
+philippines,PH-LAN,Lanao del Norte,520.4,961.9
+philippines,PH-LAS,Lanao del Sur,535.9,976.8
+philippines,PH-LEY,Leyte,565.5,751.8
+philippines,PH_MG,Maguindanao,547.7,1025.2
+philippines,PH-MAD,Marinduque,366.7,565.7
+philippines,PH-MAS,Masbate,477.0,635.9
+philippines,PH-MNL,Metropolitan Manila,297.3,477.5
+philippines,PH-MSC,Misamis Occidental,492.1,938.1
+philippines,PH-MSR,Misamis Oriental,567.8,914.5
+philippines,PH-MOU,Mountain Province,307.5,289.0
+philippines,PH-NEC,Negros Occidental,438.7,800.7
+philippines,PH-NER,Negros Oriental,438.9,836.5
+philippines,PH-NCO,Cotabato,572.9,1021.5
+philippines,PH-NSA,Northern Samar,565.0,637.7
+philippines,PH-NUE,Nueva Ecija,295.1,396.3
+philippines,PH-NUV,Nueva Vizcaya,303.8,350.1
+philippines,PH-MDC,Mindoro Occidental,268.9,592.3
+philippines,PH-MDR,Mindoro Oriental,308.4,604.7
+philippines,PH-PLW,Palawan,150.8,810.9
+philippines,PH-PAM,Pampanga,271.8,443.1
+philippines,PH-PAN,Pangasinan,247.3,367.9
+philippines,PH-QUE,Quezon,369.2,505.5
+philippines,PH-QUI,Quirino,347.3,348.6
+philippines,PH-RIZ,Rizal,316.0,475.5
+philippines,PH-ROM,Romblon,381.9,631.8
+philippines,PH-WSA,Samar,566.0,690.1
+philippines,PH-SAR,Sarangani,581.9,1113.8
+philippines,PH-SIG,Siquijor,482.6,875.4
+philippines,PH-SOR,Sorsogon,501.6,607.2
+philippines,PH-SCO,South Cotabato,569.7,1086.4
+philippines,PH-SLE,Southern Leyte,587.9,796.6
+philippines,PH-SUK,Sultan Kudarat,557.3,1072.9
+philippines,PH-SLU,Sulu,290.8,1113.0
+philippines,PH-SUN,Surigao del Norte,642.5,838.8
+philippines,PH-BAS,Basilan,364.0,1071.3
+philippines,PH-ZAS,Zamboanga del Sur,462.0,977.8
+philippines-updated,PH-BAS,Basilan,489.7,851.2
+philippines-updated,PH-ZMB,Zambales,386.6,335.9
+philippines-updated,PH-SUR,Surigao del Sur,729.3,724.3
+philippines-updated,PH-TAR,Tarlac,405.0,321.9
+philippines-updated,PH-TAW,Tawi-Tawi,349.4,890.3
+philippines-updated,PH-ZAN,Zamboanga del Norte,534.9,769.0
+philippines-updated,PH-ZSI,Zamboanga Sibugay,521.6,799.3
+philippines-updated,PH-ABR,Abra,423.5,199.3
+philippines-updated,PH-AGN,Agusan del Norte,693.9,703.6
+philippines-updated,PH-AGS,Agusan del Sur,712.0,731.2
+philippines-updated,PH-AKL,Aklan,505.0,553.3
+philippines-updated,PH-ALB,Albay,593.6,457.2
+philippines-updated,PH-ANT,Antique,483.4,574.6
+philippines-updated,PH-APA,Apayao,447.4,168.1
+philippines-updated,PH-AUR,Aurora,480.1,307.7
+philippines-updated,PH-BAN,Bataan,402.4,372.7
+philippines-updated,PH-BTN,Batanes,487.7,17.7
+philippines-updated,PH-BTG,Batangas,436.4,420.2
+philippines-updated,PH-BEN,Benguet,417.2,260.0
+philippines-updated,PH-BIL,Biliran,634.4,552.5
+philippines-updated,PH-BOH,Bohol,617.9,655.8
+philippines-updated,PH-BUK,Bukidnon,664.0,766.1
+philippines-updated,PH-BUL,Bulacan,434.4,354.8
+philippines-updated,PH-CAG,Cagayan,472.8,140.1
+philippines-updated,PH-CAN,Camarines Norte,533.2,403.1
+philippines-updated,PH-CAS,Camarines Sur,565.5,431.0
+philippines-updated,PH-CAM,Camiguin,649.7,697.2
+philippines-updated,PH-CAP,Capiz,530.3,567.9
+philippines-updated,PH-CAT,Catanduanes,621.1,424.4
+philippines-updated,PH-CAV,Cavite,426.5,396.5
+philippines-updated,PH-CEB,Cebu,604.3,627.6
+philippines-updated,PH-COM,Compostela Valley,722.6,792.2
+philippines-updated,PH-DAO,Davao Oriental,739.2,815.5
+philippines-updated,PH-DAS,Davao del Sur,689.3,823.1
+philippines-updated,PH-DAV,Davao del Norte,700.2,797.5
+philippines-updated,PH-DVO,Davao Occidental,695.3,881.4
+philippines-updated,PH-DIN,Dinagat Islands,699.8,639.2
+philippines-updated,PH-EAS,Eastern Samar,693.2,558.8
+philippines-updated,PH-GUI,Guimaras,527.6,614.7
+philippines-updated,PH-IFU,Ifugao,448.3,244.6
+philippines-updated,PH-ILN,Ilocos Norte,418.2,162.4
+philippines-updated,PH-ILS,Ilocos Sur,412.4,216.6
+philippines-updated,PH-ILI,Iloilo,532.4,588.1
+philippines-updated,PH-ISA,Isabela,489.1,236.2
+philippines-updated,PH-KAL,Kalinga,452.4,207.7
+philippines-updated,PH-LUN,La Union,402.5,259.8
+philippines-updated,PH-LAG,Laguna,453.8,396.9
+philippines-updated,PH-LAN,Lanao del Norte,613.9,764.3
+philippines-updated,PH-LAS,Lanao del Sur,626.1,776.2
+philippines-updated,PH-LEY,Leyte,649.6,597.4
+philippines-updated,PH-MAG,Maguindanao,635.9,814.7
+philippines-updated,PH-MAD,Marinduque,491.8,449.4
+philippines-updated,PH-MAS,Masbate,579.4,505.2
+philippines-updated,PH-00,Metropolitan Manila,436.8,379.3
+philippines-updated,PH-MSC,Misamis Occidental,591.3,745.9
+philippines-updated,PH-MSR,Misamis Oriental,651.5,726.6
+philippines-updated,PH-MOU,Mountain Province,445.1,230.2
+philippines-updated,PH-NEC,Negros Occidental,549.0,636.2
+philippines-updated,PH-NER,Negros Oriental,549.1,664.6
+philippines-updated,PH-NCO,Cotabato,655.5,811.7
+philippines-updated,PH-NSA,Northern Samar,649.2,506.7
+philippines-updated,PH-NUE,Nueva Ecija,435.0,314.9
+philippines-updated,PH-NUV,Nueva Vizcaya,441.4,278.1
+philippines-updated,PH-MDC,Occidental Mindoro,414.2,470.6
+philippines-updated,PH-MDR,Oriental Mindoro,445.6,480.4
+philippines-updated,PH-PLW,Palawan,320.9,644.3
+philippines-updated,PH-PAM,Pampanga,414.5,351.1
+philippines-updated,PH-PAN,Pangasinan,397.1,292.3
+philippines-updated,PH-QUE,Quezon,493.8,401.6
+philippines-updated,PH-QUI,Quirino,476.4,278.3
+philippines-updated,PH-RIZ,Rizal,451.6,377.8
+philippines-updated,PH-ROM,Romblon,503.9,501.9
+philippines-updated,PH-WSA,Samar,650.0,548.2
+philippines-updated,PH-SAR,Sarangani,662.6,878.7
+philippines-updated,PH-SIG,Siquijor,583.8,695.5
+philippines-updated,PH-SOR,Sorsogon,599.0,482.4
+philippines-updated,PH-SCO,South Cotabato,655.6,864.0
+philippines-updated,PH-SLE,Southern Leyte,667.4,632.9
+philippines-updated,PH-SUK,Sultan Kudarat,642.6,852.5
+philippines-updated,PH-SLU,Sulu,433.2,884.4
+philippines-updated,PH-SUN,Surigao del Norte,710.6,666.5
+philippines-updated,PH-ZAS,Zamboanga del Sur,567.5,777.0
+qatar,QA-DA,Ad Dawḩah,249.8,311.6
+qatar,QA-KH,Al Khawr wa adh Dhakhīrah,174.7,151.7
+qatar,QA-MS,Ash Shamāl,141.1,60.6
+qatar,QA-RA,Ar Rayyān,128.5,373.8
+qatar,QA-US,Umm Şalāl,196.8,254.8
+qatar,QA-WA,Al Wakrah,201.2,476.2
+qatar,QA-ZA,Az̧ Za̧`āyin,235.0,241.3
+qatar-updated,QA-RA,Ar Rayyān,461.6,701.9
+qatar-updated,QA-DA,Ad Dawḩah,639.5,510.4
+qatar-updated,QA-KH,Al Khawr wa adh Dhakhīrah,532.6,235.0
+qatar-updated,QA-MS,Ash Shamāl,491.3,93.9
+qatar-updated,QA-SH,Ash Shīḩānīyah,396.2,413.6
+qatar-updated,QA-US,Umm Şalāl,554.6,402.2
+qatar-updated,QA-WA,Al Wakrah,564.5,750.1
+qatar-updated,QA-ZA,Az̧ Za̧`āyin,622.8,378.9
+russia,RU-AD,Республика Адыгея,144.0,728.2
+russia,RU-ALT,Алтайский край,450.9,640.6
+russia,RU-AMU,Амурская область,771.9,633.8
+russia,RU-ARK,Архангельская область,235.9,267.5
+russia,RU-AST,Астраханская область,197.3,700.6
+russia,RU-BA,Республика Башкортостан,264.7,621.9
+russia,RU-BEL,Белгородская область,127.2,663.1
+russia,RU-BRY,Брянская область,97.8,636.2
+russia,RU-BU,Республика Бурятия,632.3,626.6
+russia,RU-CE,Чеченская республика,187.6,740.6
+russia,RU-CHE,Челябинская область,291.4,620.4
+russia,RU-CHU,Чукотский автономный округ,1107.6,428.0
+russia,RU-CU,Чувашская республика,197.8,605.0
+russia,RU-DA,Республика Дагестан,195.3,741.6
+russia,RU-AL,Республика Алтай,482.6,660.0
+russia,RU-IN,Республика Ингушетия,181.6,741.9
+russia,RU-IRK,Иркутская область,629.1,568.1
+russia,RU-IVA,Ивановская область,157.9,585.2
+russia,RU-KB,Кабардино-Балкарская республика,171.4,738.7
+russia,RU-KC,Карачаево-Черкесская республика,159.1,734.7
+russia,RU-KDA,Краснодарский край,140.7,721.4
+russia,RU-KEM,Кемеровская область,482.8,616.3
+russia,RU-KLU,Калужская область,112.9,619.8
+russia,RU-KHA,Хабаровский край,854.9,606.7
+russia,RU-KR,Республика Карелия,100.5,486.6
+russia,RU-KK,Республика Хакасия,503.8,630.7
+russia,RU-KL,Республика Калмыкия,179.4,707.4
+russia,RU-KHM,Ханты-Мансийский автономный округ,379.9,509.7
+russia,RU-KGD,Калининградская область,11.8,613.6
+russia,RU-KO,Республика Коми,259.8,480.2
+russia,RU-KAM,Камчатский край,1042.5,564.3
+russia,RU-KRS,Курская область,120.1,650.6
+russia,RU-KOS,Костромская область,175.0,566.0
+russia,RU-KGN,Курганская область,327.6,604.3
+russia,RU-KIR,Кировская область,218.7,563.1
+russia,RU-KYA,Красноярский край,540.7,339.7
+russia,RU-LEN,Ленинградская область,86.7,545.8
+russia,RU-LIP,Липецкая область,140.8,638.6
+russia,RU-MOW,Москва,127.7,604.1
+russia,RU-ME,Республика Марий Эл,203.0,590.9
+russia,RU-MAG,Магаданская область,964.6,502.4
+russia,RU-MUR,Мурманская область,109.6,411.3
+russia,RU-MO,Республика Мордовия,178.1,618.4
+russia,RU-MOS,Московская область,129.7,603.6
+russia,RU-NGR,Новгородская область,96.5,570.1
+russia,RU-NEN,Ненецкий автономный округ,250.0,407.6
+russia,RU-SE,Республика Северная Осетия — Алания,176.3,741.3
+russia,RU-NVS,Новосибирская область,433.6,607.3
+russia,RU-NIZ,Нижегородская область,180.5,594.6
+russia,RU-ORE,Оренбургская область,262.7,641.6
+russia,RU-ORL,Орловская область,120.6,637.9
+russia,RU-OMS,Омская область,385.4,597.4
+russia,RU-PER,Пермский край',258.3,558.4
+russia,RU-PRI,Приморский край,825.3,718.4
+russia,RU-PSK,Псковская область,70.4,581.2
+russia,RU-PNZ,Пензенская область,178.8,633.7
+russia,RU-ROS,Ростовская область,155.5,690.7
+russia,RU-RYA,Рязанская область,151.2,619.6
+russia,RU-SAM,Самарская область,219.8,632.5
+russia,RU-SA,Республика Саха (Якутия),821.3,411.5
+russia,RU-SAK,Сахалинская область,928.3,677.1
+russia,RU-SMO,Смоленская область,96.6,614.4
+russia,RU-SPE,Санкт-Петербург,75.1,545.4
+russia,RU-SAR,Саратовская область,194.2,654.9
+russia,RU-STA,Ставропольский край,169.7,723.6
+russia,RU-SVE,Свердловская область,302.0,556.5
+russia,RU-TAM,Тамбовская область,158.0,639.2
+russia,RU-TOM,Томская область,448.8,566.3
+russia,RU-TUL,Тульская область,128.0,624.8
+russia,RU-TA,Республика Татарстан,223.2,606.2
+russia,RU-TY,Республика Тыва,533.4,649.7
+russia,RU-TVE,Тверская область,107.4,582.3
+russia,RU-TYU,Тюменская область,361.6,577.4
+russia,RU-UD,Удмуртская республика,237.8,582.6
+russia,RU-ULY,Ульяновская область,203.9,626.6
+russia,RU-VGG,Волгоградская область,177.4,677.1
+russia,RU-VLA,Владимирская область,150.7,599.1
+russia,RU-YAN,Ямало-Ненецкий автономный округ,390.1,402.4
+russia,RU-VLG,Вологодская область,153.0,543.1
+russia,RU-VOR,Воронежская область,150.3,660.6
+russia,RU-YAR,Ярославская область,141.1,575.5
+russia,RU-YEV,Еврейская автономная область,810.9,685.6
+russia,RU-ZAB,Забайкальский край,683.3,623.0
+russia-crimea,RU-CR,Crimea,572.2,606.4
+russia-crimea,RU-ZAB,Zabaykalsky,786.4,570.2
+russia-crimea,RU-YEV,Yevrey,833.9,593.5
+russia-crimea,RU-YAR,Yaroslavl,584.8,552.5
+russia-crimea,RU-YAN,Yamalo-Nenets,677.4,487.9
+russia-crimea,RU-VOR,Voronezh,588.2,584.2
+russia-crimea,RU-VLG,Vologda,589.2,540.4
+russia-crimea,RU-VGG,Volgograd,598.3,590.4
+russia-crimea,RU-VLA,Vladimir,588.3,561.3
+russia-crimea,RU-ULY,Ulyanovsk,608.2,571.6
+russia-crimea,RU-UD,Udmurt,620.7,555.2
+russia-crimea,RU-TYU,Tyumen,666.8,553.2
+russia-crimea,RU-TVE,Tver,572.3,555.0
+russia-crimea,RU-TY,Tuva,730.7,580.1
+russia-crimea,RU-TUL,Tula,579.9,570.9
+russia-crimea,RU-TOM,Tomsk,699.2,549.1
+russia-crimea,RU-TA,Tatarstan,615.3,563.9
+russia-crimea,RU-TAM,Tambov,591.1,576.3
+russia-crimea,RU-SVE,Sverdlovsk,644.6,545.4
+russia-crimea,RU-STA,Stavropol,595.4,607.7
+russia-crimea,RU-SMO,Smolensk,568.2,567.0
+russia-crimea,RU-SAR,Saratov,604.5,582.1
+russia-crimea,RU-SAM,Samara,614.1,573.7
+russia-crimea,RU-SAK,Sakhalin,877.0,591.0
+russia-crimea,RU-SA,Sakha,837.7,488.4
+russia-crimea,RU-RYA,Ryazan,588.5,568.9
+russia-crimea,RU-ROS,Rostov,590.1,595.4
+russia-crimea,RU-PSK,Pskov,558.5,554.6
+russia-crimea,RU-PRI,Primorsky,839.3,605.8
+russia-crimea,RU-PER,Perm,628.4,546.1
+russia-crimea,RU-PNZ,Penza,598.8,574.2
+russia-crimea,RU-ORE,Orenburg,630.0,577.1
+russia-crimea,RU-ORL,Oryol,577.1,575.8
+russia-crimea,RU-OMS,Omsk,675.6,560.7
+russia-crimea,RU-NVS,Novosibirsk,693.6,564.3
+russia-crimea,RU-NGR,Novgorod,568.2,550.5
+russia-crimea,RU-SE,North Ossetia-Alania,597.9,614.3
+russia-crimea,RU-NIZ,Nizhegorod,599.4,559.6
+russia-crimea,RU-NEN,Nenets,625.3,490.1
+russia-crimea,RU-MUR,Murmansk,573.1,491.3
+russia-crimea,RU-MOS,Moskva,580.5,563.0
+russia-crimea,RU-MOW,Moscow City,580.2,562.3
+russia-crimea,RU-MO,Mordovia,598.5,568.5
+russia-crimea,RU-ME,Mariy-El,607.8,558.2
+russia-crimea,RU-MAG,Magadan,891.1,525.3
+russia-crimea,RU-LIP,Lipetsk,584.7,576.0
+russia-crimea,RU-LEN,Leningrad,563.5,541.4
+russia-crimea,RU-KRS,Kursk,577.0,580.5
+russia-crimea,RU-KGN,Kurgan,654.2,563.2
+russia-crimea,RU-KYA,Krasnoyarsk,733.4,464.6
+russia-crimea,RU-KDA,Krasnodar,584.6,606.9
+russia-crimea,RU-KOS,Kostroma,597.4,549.0
+russia-crimea,RU-KO,Komi,628.9,517.0
+russia-crimea,RU-KIR,Kirov,613.6,547.9
+russia-crimea,RU-KHM,Khanty-Mansiysk,673.6,528.0
+russia-crimea,RU-KK,Khakassia,719.7,573.1
+russia-crimea,RU-KHA,Khabarovsk,850.2,564.2
+russia-crimea,RU-KEM,Kemerovo,711.9,567.7
+russia-crimea,RU-KR,Karelia,569.7,519.4
+russia-crimea,RU-KC,Karachay-Cherkess,591.5,611.9
+russia-crimea,RU-KAM,Kamchatka,920.0,548.4
+russia-crimea,RU-KLU,Kaluga,574.3,569.0
+russia-crimea,RU-KL,Kalmykia,599.0,601.7
+russia-crimea,RU-KGD,Kaliningrad,536.7,566.7
+russia-crimea,RU-KB,Kabardino-Balkar,596.1,613.4
+russia-crimea,RU-IVA,Ivanovo,591.0,556.1
+russia-crimea,RU-IRK,Irkutsk,766.3,549.8
+russia-crimea,RU-IN,Ingushetia,599.9,614.6
+russia-crimea,RU-AL,Altay,711.8,584.0
+russia-crimea,RU-DA,Dagestan,604.9,614.4
+russia-crimea,RU-SPE,St. Petersburg,560.2,541.3
+russia-crimea,RU-CU,Chuvash,605.9,563.5
+russia-crimea,RU-CHU,Chukotka,480.0,497.6
+russia-crimea,RU-CHE,Chelyabinsk,640.7,569.2
+russia-crimea,RU-CE,Chechnya,602.1,614.1
+russia-crimea,RU-BU,Buryatiya,767.4,571.5
+russia-crimea,RU-BRY,Bryansk,568.7,575.1
+russia-crimea,RU-BEL,Belgorod,579.6,585.1
+russia-crimea,RU-BA,Bashkortostan,630.8,569.8
+russia-crimea,RU-AST,Astrakhan,605.7,599.2
+russia-crimea,RU-ARK,Arkhangelsk,619.4,438.0
+russia-crimea,RU-AMU,Amur,819.4,574.2
+russia-crimea,RU-ALT,Altay Kray,700.0,576.8
+russia-crimea,RU-AD,Adygeya,585.9,609.4
+saudi-arabia,SA-01,Ar Riyāḑ,367.2,342.4
+saudi-arabia,SA-02,Makkah,230.0,430.9
+saudi-arabia,SA-03,Al Madīnah,170.5,285.6
+saudi-arabia,SA-04,Ash Sharqīyah,545.0,350.8
+saudi-arabia,SA-05,Al Qaşīm,297.7,247.3
+saudi-arabia,SA-06,Ḩā'il,255.5,203.9
+saudi-arabia,SA-07,Tabūk,98.1,216.6
+saudi-arabia,SA-08,Al Ḩudūd ash Shamālīyah,260.1,95.4
+saudi-arabia,SA-09,Jīzān,274.5,565.4
+saudi-arabia,SA-10,Najrān,386.0,533.4
+saudi-arabia,SA-11,Al Bāḩah,238.8,467.5
+saudi-arabia,SA-12,Al Jawf,133.8,93.0
+saudi-arabia,SA-14,'Asir,291.6,498.8
+singapore,SG-01,Central Singapore,389.5,211.6
+singapore,SG-02,North East,524.2,169.1
+singapore,SG-03,North West,326.5,143.2
+singapore,SG-04,South East,602.8,194.8
+singapore,SG-05,South West,205.8,265.5
+south-korea,KR-11,Seoul,152.4,126.9
+south-korea,KR-26,Busan,345.0,401.8
+south-korea,KR-27,Daegu,300.4,335.7
+south-korea,KR-28,Incheon,110.8,135.7
+south-korea,KR-29,Gwangju,140.3,408.2
+south-korea,KR-30,Daejeon,192.0,273.7
+south-korea,KR-31,Ulsan,363.5,367.4
+south-korea,KR-41,Gyeonggi,149.1,123.7
+south-korea,KR-42,Gangwon,269.8,96.8
+south-korea,KR-43,North Chungcheong,243.3,239.4
+south-korea,KR-44,South Chungcheong,141.9,250.3
+south-korea,KR-45,North Jeolla,169.9,342.8
+south-korea,KR-46,South Jeolla,115.3,449.5
+south-korea,KR-47,North Gyeongsang,375.4,246.0
+south-korea,KR-48,South Gyeongsang,286.4,396.2
+south-korea,KR-49,Jeju,112.1,609.4
+south-korea,KR-50,Sejong,177.4,251.9
+sri-lanka,LK-11,Colombo,77.3,605.1
+sri-lanka,LK-12,Gampaha,73.3,550.4
+sri-lanka,LK-13,Kaḷutara,97.8,660.0
+sri-lanka,LK-21,Mahanuvara,215.7,531.1
+sri-lanka,LK-22,Matale,220.8,433.4
+sri-lanka,LK-23,Nuwara Eliya,211.7,571.8
+sri-lanka,LK-31,Galle,119.6,735.1
+sri-lanka,LK-32,Matara,181.8,744.0
+sri-lanka,LK-33,Hambantota,304.0,720.4
+sri-lanka,LK-41,Jaffna,98.0,38.6
+sri-lanka,LK-42,Kilinochchi,129.9,78.6
+sri-lanka,LK-43,Mannar,80.2,194.3
+sri-lanka,LK-44,Vavuniya,167.3,203.1
+sri-lanka,LK-45,Mullaitivu,185.5,129.9
+sri-lanka,LK-51,Batticaloa,376.6,406.0
+sri-lanka,LK-52,Ampara,358.7,548.8
+sri-lanka,LK-53,Trincomalee,288.2,257.0
+sri-lanka,LK-61,Kurunegala,118.8,427.6
+sri-lanka,LK-62,Puttalam,55.3,389.2
+sri-lanka,LK-71,Anuradhapura,165.8,297.9
+sri-lanka,LK-72,Polonnaruwa,281.4,373.2
+sri-lanka,LK-81,Badulla,277.3,557.4
+sri-lanka,LK-82,Moneragala,319.2,599.1
+sri-lanka,LK-91,Ratnapura,184.6,659.1
+sri-lanka,LK-92,Kegalle,140.7,551.5
+syria,SY-HA,Al Ḩasakah,513.4,108.3
+syria,SY-DY,Dayr az Zawr,451.8,251.1
+syria,SY-ID,Idlib,95.8,183.0
+syria,SY-RD,Rīf Dimashq,136.6,465.8
+syria,SY-HL,Ḩalab,187.6,140.7
+syria,SY-RA,Ar Raqqah,316.1,159.6
+syria,SY-LA,Al Lādhiqīyah,28.7,212.9
+syria,SY-HM,Ḩamāh,148.9,246.3
+syria,SY-HI,Ḩimş,240.9,370.7
+syria,SY-TA,Ţarţūs,36.7,289.1
+syria,SY-DI,Dimashq,62.5,455.1
+syria,SY-QU,Al Qunayţirah,21.0,507.9
+syria,SY-DR,Darٰā,47.0,540.0
+syria,SY-SU,As Suwaydā',119.1,546.7
+taiwan,TW-TP,Taipei,381.2,169.6
+taiwan,TW-TW,Taiwan,284.5,345.4
+taiwan,TW-KH,Kaohsiung,241.2,459.9
+taiwan,TW-FK,Fukien,133.9,125.5
+taiwan-alt,TW-NWT,New Taipei,785.2,302.4
+taiwan-alt,TW-HUA,Hualien,733.4,571.0
+taiwan-alt,TW-PEN,Penghu,370.5,623.5
+taiwan-alt,TW-LIE,Lienchiang,505.1,48.2
+taiwan-alt,TW-KIN,Kinmen,232.8,366.7
+taiwan-alt,TW-KEE,Keelung,799.9,275.4
+taiwan-alt,TW-TPE,Taipei,768.2,281.9
+taiwan-alt,TW-TAO,Taoyuan,704.1,331.0
+taiwan-alt,TW-HSZ,Hsinchu County,650.4,346.8
+taiwan-alt,TW-HSQ,Hsinchu City,692.3,367.1
+taiwan-alt,TW-MIA,Miaoli,647.9,404.5
+taiwan-alt,TW-ILA,Yilan,783.6,375.2
+taiwan-alt,TW-TXG,Taichung,650.9,467.1
+taiwan-alt,TW-CHA,Changhua,554.8,515.9
+taiwan-alt,TW-YUN,Yunlin,549.0,584.6
+taiwan-alt,TW-CYI,Chiayi City,551.8,625.5
+taiwan-alt,TW-CYQ,Chiayi County,569.2,636.1
+taiwan-alt,TW-TNN,Tainan,531.3,694.6
+taiwan-alt,TW-PIF,Pingtung,586.9,856.0
+taiwan-alt,TW-KHH,Kaohsiung,583.7,732.9
+taiwan-alt,TW-TTT,Taitung,692.5,786.1
+taiwan-alt,TW-NAN,Nantou,656.0,548.2
+tajikistan,TJ-GB,Gorno-Badakhshan,543.9,391.0
+tajikistan,TJ-KT,Khatlon,179.9,422.4
+tajikistan,TJ-RR,Region of Republican Subordination,281.9,308.0
+tajikistan,TJ-SU,Sughd,184.0,144.7
+tajikistan-updated,TJ-DU,Dushanbe,175.2,534.6
+tajikistan-updated,TJ-KT,Khatlon,214.5,647.0
+tajikistan-updated,TJ-RA,nohiyahoi tobei jumhurí,342.8,504.4
+tajikistan-updated,TJ-SU,Sughd,222.8,305.5
+tajikistan-updated,TJ-GB,Gorno-Badakhshan,658.9,607.7
+thailand,TH-10,Krung Thep Maha Nakhon (Bangkok),221.6,473.0
+thailand,TH-11,Samut Prakan,226.7,481.7
+thailand,TH-12,Nonthaburi,207.2,456.4
+thailand,TH-13,Pathum Thani,222.5,447.4
+thailand,TH-14,Phra Nakhon Si Ayutthaya,215.2,426.8
+thailand,TH-15,Ang Thong,203.2,411.2
+thailand,TH-16,Lop Buri,241.1,376.7
+thailand,TH-17,Sing Buri,201.9,390.8
+thailand,TH-18,Chai Nat,181.6,373.7
+thailand,TH-19,Saraburi,247.7,409.4
+thailand,TH-20,Chon Buri,265.3,516.1
+thailand,TH-21,Rayong,274.2,531.5
+thailand,TH-22,Chanthaburi,321.6,535.1
+thailand,TH-23,Trat,353.2,580.5
+thailand,TH-24,Chachoengsao,274.9,483.1
+thailand,TH-25,Prachin Buri,288.6,452.4
+thailand,TH-26,Nakhon Nayok,260.8,437.7
+thailand,TH-27,Sa Kaeo,341.1,473.5
+thailand,TH-30,Nakhon Ratchasima,320.7,387.2
+thailand,TH-31,Buri Ram,379.4,387.3
+thailand,TH-32,Surin,421.4,391.4
+thailand,TH-33,Si Sa Ket,476.3,387.8
+thailand,TH-34,Ubon Ratchathani,516.7,374.0
+thailand,TH-35,Yasothon,476.7,327.8
+thailand,TH-36,Chaiyaphum,306.6,313.6
+thailand,TH-37,Amnat Charoen,498.8,321.5
+thailand,TH-38,Bueng Kan,430.0,167.5
+thailand,TH-39,Nong Bua Lam Phu,336.5,229.8
+thailand,TH-40,Khon Kaen,345.6,290.1
+thailand,TH-41,Udon Thani,370.9,214.3
+thailand,TH-42,Loei,279.9,211.3
+thailand,TH-43,Nong Khai,363.7,179.0
+thailand,TH-44,Maha Sarakham,393.3,313.5
+thailand,TH-45,Roi Et,436.3,319.5
+thailand,TH-46,Kalasin,426.7,270.5
+thailand,TH-47,Sakon Nakhon,438.4,215.1
+thailand,TH-48,Nakhon Phanom,475.5,216.9
+thailand,TH-49,Mukdahan,484.3,277.2
+thailand,TH-50,Chiang Mai,97.8,124.6
+thailand,TH-51,Lamphun,111.4,170.4
+thailand,TH-52,Lampang,145.8,153.0
+thailand,TH-53,Uttaradit,216.0,191.2
+thailand,TH-54,Phrae,176.5,156.1
+thailand,TH-55,Nan,236.4,110.4
+thailand,TH-56,Phayao,190.4,85.3
+thailand,TH-57,Chiang Rai,173.8,52.4
+thailand,TH-58,Mae Hong Son,44.3,123.8
+thailand,TH-60,Nakhon Sawan,177.1,341.2
+thailand,TH-61,Uthai Thani,148.5,359.3
+thailand,TH-62,Kamphaeng Phet,147.0,288.5
+thailand,TH-63,Tak,84.6,278.3
+thailand,TH-64,Sukhothai,159.7,227.7
+thailand,TH-65,Phitsanulok,211.8,243.5
+thailand,TH-66,Phichit,204.7,295.8
+thailand,TH-67,Phetchabun,261.0,299.4
+thailand,TH-70,Ratchaburi,153.5,485.1
+thailand,TH-71,Kanchanaburi,113.9,405.9
+thailand,TH-72,Suphan Buri,164.6,414.5
+thailand,TH-73,Nakhon Pathom,184.7,458.8
+thailand,TH-74,Samut Sakhon,194.4,483.0
+thailand,TH-75,Samut Songkhram,176.9,496.7
+thailand,TH-76,Phetchaburi,152.2,526.8
+thailand,TH-77,Prachuap Khiri Khan,151.1,604.7
+thailand,TH-80,Nakhon Si Thammarat,164.7,824.2
+thailand,TH-81,Krabi,113.2,858.7
+thailand,TH-82,Phangnga,75.2,821.5
+thailand,TH-83,Phuket,68.1,864.9
+thailand,TH-84,Surat Thani,129.7,781.2
+thailand,TH-85,Ranong,89.7,724.8
+thailand,TH-86,Chumphon,116.8,706.3
+thailand,TH-90,Songkhla,218.6,923.4
+thailand,TH-91,Satun,158.5,946.7
+thailand,TH-92,Trang,153.8,894.5
+thailand,TH-93,Phatthalung,184.6,897.8
+thailand,TH-94,Pattani,271.7,947.8
+thailand,TH-95,Yala,261.6,988.3
+thailand,TH-96,Narathiwat,296.0,985.9
+thailand,TH-LKSG,Lake Songkhla,199.0,895.8
+thailand-updated,TH-S,Phatthaya,444.2,497.1
+thailand-updated,TH-10,Bangkok Metropolis,425.8,443.1
+thailand-updated,TH-11,Samut Prakan,430.5,451.2
+thailand-updated,TH-12,Nonthaburi,412.4,427.5
+thailand-updated,TH-13,Pathum Thani,426.7,419.1
+thailand-updated,TH-14,Phra Nakhon Si Ayutthaya,419.8,399.8
+thailand-updated,TH-15,Ang Thong,408.5,385.1
+thailand-updated,TH-16,Lop Buri,444.0,352.8
+thailand-updated,TH-17,Sing Buri,407.4,366.0
+thailand-updated,TH-18,Chai Nat,388.3,349.9
+thailand-updated,TH-19,Saraburi,450.1,383.5
+thailand-updated,TH-20,Chon Buri,466.5,483.5
+thailand-updated,TH-21,Rayong,474.8,497.9
+thailand-updated,TH-22,Chanthaburi,519.0,501.3
+thailand-updated,TH-23,Trat,548.4,543.9
+thailand-updated,TH-24,Chachoengsao,475.5,452.5
+thailand-updated,TH-25,Prachin Buri,488.2,423.8
+thailand-updated,TH-26,Nakhon Nayok,462.3,410.0
+thailand-updated,TH-27,Sa Kaeo,537.1,443.6
+thailand-updated,TH-30,Nakhon Ratchasima,518.0,362.6
+thailand-updated,TH-31,Buri Ram,572.6,362.7
+thailand-updated,TH-32,Surin,611.9,366.6
+thailand-updated,TH-33,Si Sa Ket,663.0,363.2
+thailand-updated,TH-34,Ubon Ratchathani,700.7,350.3
+thailand-updated,TH-35,Yasothon,663.4,307.0
+thailand-updated,TH-36,Chaiyaphum,505.0,293.5
+thailand-updated,TH-37,Amnat Charoen,684.1,301.2
+thailand-updated,TH-38,Bueng Kan,620.0,156.6
+thailand-updated,TH-39,Nong Bua Lam Phu,532.8,215.1
+thailand-updated,TH-40,Khon Kaen,541.3,271.6
+thailand-updated,TH-41,Udon Thani,564.9,200.6
+thailand-updated,TH-42,Loei,480.2,197.8
+thailand-updated,TH-43,Nong Khai,558.2,167.5
+thailand-updated,TH-44,Maha Sarakham,585.7,293.6
+thailand-updated,TH-45,Roi Et,625.8,299.2
+thailand-updated,TH-46,Kalasin,616.9,253.2
+thailand-updated,TH-47,Sakon Nakhon,627.8,201.8
+thailand-updated,TH-48,Nakhon Phanom,662.3,203.1
+thailand-updated,TH-49,Mukdahan,670.6,259.4
+thailand-updated,TH-50,Chiang Mai,310.4,116.5
+thailand-updated,TH-51,Lamphun,323.1,159.4
+thailand-updated,TH-52,Lampang,355.2,143.1
+thailand-updated,TH-53,Uttaradit,420.6,178.9
+thailand-updated,TH-54,Phrae,383.8,146.0
+thailand-updated,TH-55,Nan,439.6,103.2
+thailand-updated,TH-56,Phayao,396.8,79.7
+thailand-updated,TH-57,Chiang Rai,381.3,48.9
+thailand-updated,TH-58,Mae Hong Son,260.6,115.7
+thailand-updated,TH-60,Nakhon Sawan,384.3,319.6
+thailand-updated,TH-61,Uthai Thani,357.7,336.5
+thailand-updated,TH-62,Kamphaeng Phet,356.3,270.1
+thailand-updated,TH-63,Tak,298.2,260.6
+thailand-updated,TH-64,Sukhothai,368.2,213.1
+thailand-updated,TH-65,Phitsanulok,416.7,228.0
+thailand-updated,TH-66,Phichit,410.0,276.7
+thailand-updated,TH-67,Phetchabun,462.7,280.3
+thailand-updated,TH-70,Ratchaburi,362.3,454.4
+thailand-updated,TH-71,Kanchanaburi,325.4,380.1
+thailand-updated,TH-72,Suphan Buri,372.6,388.2
+thailand-updated,TH-73,Nakhon Pathom,391.4,429.8
+thailand-updated,TH-74,Samut Sakhon,400.4,452.4
+thailand-updated,TH-75,Samut Songkhram,384.2,465.3
+thailand-updated,TH-76,Phetchaburi,361.2,493.5
+thailand-updated,TH-77,Prachuap Khiri Khan,360.1,566.6
+thailand-updated,TH-80,Nakhon Si Thammarat,372.8,772.4
+thailand-updated,TH-81,Krabi,324.8,804.7
+thailand-updated,TH-82,Phangnga,289.3,769.4
+thailand-updated,TH-83,Phuket,282.8,810.2
+thailand-updated,TH-84,Surat Thani,340.2,732.1
+thailand-updated,TH-85,Ranong,302.9,679.1
+thailand-updated,TH-86,Chumphon,328.1,661.8
+thailand-updated,TH-90,Songkhla,423.0,865.5
+thailand-updated,TH-91,Satun,367.2,887.3
+thailand-updated,TH-92,Trang,362.7,838.3
+thailand-updated,TH-93,Phatthalung,391.3,841.0
+thailand-updated,TH-94,Pattani,472.4,889.1
+thailand-updated,TH-95,Yala,463.0,926.6
+thailand-updated,TH-96,Narathiwat,495.1,924.0
+thailand-updated,TH-LK,Songkhla Lake,404.7,839.5
+timor-leste,ID-NT,Nusa Tenggara Timur,221.8,580.4
+timor-leste,TL-AL,Aileu,553.4,347.2
+timor-leste,TL-ER,Ermera,487.3,373.9
+timor-leste,TL-LI,Liquiça,478.5,335.5
+timor-leste,TL-DI,Dili,565.0,267.3
+timor-leste,TL-BA,Baucau,759.0,311.4
+timor-leste,TL-LA,Lautém,885.0,304.7
+timor-leste,TL-VI,Viqueque,737.5,369.9
+timor-leste,TL-MT,Manatuto,637.1,361.5
+timor-leste,TL-MF,Manufahi,599.9,410.9
+timor-leste,TL-AN,Ainaro,537.0,418.7
+timor-leste,TL-CO,Cova Lima,460.5,480.8
+timor-leste,TL-BO,Bobonaro,443.2,412.5
+timor-leste,TL-OE,Oecusse,222.4,500.2
+turkmenistan,TM-S,Aşgabat,399.3,586.3
+turkmenistan,TM-B,Balkan,159.7,409.0
+turkmenistan,TM-D,Daşoguz,427.8,295.9
+turkmenistan,TM-A,Ahal,449.8,584.1
+turkmenistan,TM-M,Mary,686.2,625.5
+turkmenistan,TM-L,Lebap,743.8,476.5
+united-arab-emirates,AE-AJ,'Ajmān,655.4,120.9
+united-arab-emirates,AE-AZ,Abū Z̧aby,352.1,340.4
+united-arab-emirates,AE-DU,Dubayy,637.5,194.5
+united-arab-emirates,AE-FU,Al Fujayrah,726.7,142.0
+united-arab-emirates,AE-RK,Ra’s al Khaymah,702.3,108.8
+united-arab-emirates,AE-SH,Ash Shāriqah,677.8,169.1
+united-arab-emirates,AE-UQ,Umm al Qaywayn,616.9,85.2
+united-arab-emirates,OM-MU,"Musandam, Oman",741.6,134.2
+united-arab-emirates,AE-NZ1,Neutral Zone,706.9,217.3
+united-arab-emirates,AE-NZ2,Neutral Zone,744.9,195.6
+uzbekistan,UZ-AS,Aral Sea,158.0,52.0
+uzbekistan,TJ-SU,"Sarvan (Sughd Province, Tajikistan)",676.2,292.4
+uzbekistan,UZ-AN,Andijon,756.2,306.0
+uzbekistan,UZ-BU,Buxoro,360.1,337.1
+uzbekistan,UZ-FA,Farg‘ona,706.6,322.5
+uzbekistan,UZ-JI,Jizzax,546.3,328.0
+uzbekistan,UZ-NG,Namangan,708.1,284.6
+uzbekistan,UZ-NW,Navoiy,382.4,250.0
+uzbekistan,UZ-QA,Qashqadaryo,464.2,424.9
+uzbekistan,UZ-QR,Qoraqalpog‘iston Respublikasi,150.1,145.7
+uzbekistan,UZ-SA,Samarqand,477.4,352.9
+uzbekistan,UZ-SI,Sirdaryo,583.0,314.7
+uzbekistan,UZ-SU,Surxondaryo,530.1,462.3
+uzbekistan,UZ-TK,Toshkent City,614.0,270.6
+uzbekistan,UZ-TO,Toshkent,645.5,274.5
+uzbekistan,UZ-XO,Xorazm,243.3,274.0
+vietnam,VN-01,Lai Châu,52.9,64.3
+vietnam,VN-02,Lào Cai,100.9,58.3
+vietnam,VN-03,Hà Giang,146.9,34.8
+vietnam,VN-04,Cao Bằng,203.6,37.1
+vietnam,VN-05,Sơn La,103.0,117.3
+vietnam,VN-06,Yên Bái,122.4,89.1
+vietnam,VN-07,Tuyên Quang,160.4,73.0
+vietnam,VN-09,Lạng Sơn,238.7,84.3
+vietnam,VN-13,Quảng Ninh,266.2,122.0
+vietnam,VN-14,Hòa Bình,166.9,150.1
+vietnam,VN-15,Hà Tây,182.4,137.4
+vietnam,VN-18,Ninh Bình,193.2,179.1
+vietnam,VN-20,Thái Bình,220.6,162.2
+vietnam,VN-21,Thanh Hóa,160.6,190.4
+vietnam,VN-22,Nghệ An,140.5,229.0
+vietnam,VN-23,Hà Tĩnh,190.8,280.2
+vietnam,VN-24,Quảng Bình,216.5,325.4
+vietnam,VN-25,Quảng Trị,250.2,367.2
+vietnam,VN-26,Thừa Thiên–Huế,284.4,387.0
+vietnam,VN-27,Quảng Nam,303.6,433.0
+vietnam,VN-28,Kon Tum,305.2,470.5
+vietnam,VN-29,Quảng Ngãi,339.1,461.6
+vietnam,VN-30,Gia Lai,310.2,524.3
+vietnam,VN-31,Bình Định,354.3,507.9
+vietnam,VN-32,Phú Yên,360.4,556.3
+vietnam,VN-33,Đắk Lắk,317.3,578.1
+vietnam,VN-34,Khánh Hòa,360.3,602.1
+vietnam,VN-35,Lâm Đồng,304.8,632.2
+vietnam,VN-36,Ninh Thuận,351.3,633.7
+vietnam,VN-37,Tây Ninh,208.6,653.0
+vietnam,VN-39,Đồng Nai,261.5,668.3
+vietnam,VN-40,Bình Thuận,314.3,671.0
+vietnam,VN-41,Long An,207.2,687.7
+vietnam,VN-43,Bà Rịa–Vũng Tàu,256.0,740.0
+vietnam,VN-44,An Giang,158.0,695.1
+vietnam,VN-45,Đồng Tháp,178.2,696.0
+vietnam,VN-46,Tiền Giang,216.5,704.5
+vietnam,VN-47,Kiên Giang,132.5,727.2
+vietnam,VN-49,Vĩnh Long,200.1,719.5
+vietnam,VN-50,Bến Tre,222.1,721.4
+vietnam,VN-51,Trà Vinh,214.7,735.3
+vietnam,VN-52,Sóc Trăng,196.6,746.6
+vietnam,VN-53,Bắc Kạn,192.4,63.2
+vietnam,VN-54,Bắc Giang,224.5,113.3
+vietnam,VN-55,Bạc Liêu,177.1,760.4
+vietnam,VN-56,Bắc Ninh,206.4,127.5
+vietnam,VN-57,Bình Dương,234.4,663.0
+vietnam,VN-58,Bình Phước,248.8,630.6
+vietnam,VN-59,Cà Mau,152.2,774.2
+vietnam,VN-61,Hải Dương,219.9,136.2
+vietnam,VN-63,Hà Nam,199.5,159.8
+vietnam,VN-66,Hưng Yên,205.0,144.8
+vietnam,VN-67,Nam Định,214.1,178.0
+vietnam,VN-68,Phú Thọ,155.8,116.4
+vietnam,VN-69,Thái Nguyên,193.4,95.8
+vietnam,VN-70,Vĩnh Phúc,177.7,114.7
+vietnam,VN-71,Điện Biên,38.1,93.6
+vietnam,VN-72,Đắk Nông,287.2,605.0
+vietnam,VN-73,Hậu Giang,180.6,736.2
+vietnam,VN-CT,Cần Thơ,176.6,718.7
+vietnam,VN-DN,Đà Nẵng,308.9,403.1
+vietnam,VN-HN,Hà Nội,193.9,126.2
+vietnam,VN-HP,Hải Phòng,240.1,144.6
+vietnam,VN-SG,Hồ Chí Minh,236.8,684.8
+vietnam-with-islands,VN-PG,Spratly Islands,596.2,758.7
+vietnam-with-islands,VN-01,Lai Châu,52.6,64.0
+vietnam-with-islands,VN-02,Lào Cai,100.6,57.9
+vietnam-with-islands,VN-03,Hà Giang,146.6,34.4
+vietnam-with-islands,VN-04,Cao Bằng,203.4,36.8
+vietnam-with-islands,VN-05,Sơn La,102.7,116.9
+vietnam-with-islands,VN-06,Yên Bái,122.1,88.7
+vietnam-with-islands,VN-07,Tuyên Quang,160.1,72.6
+vietnam-with-islands,VN-09,Lạng Sơn,238.4,84.0
+vietnam-with-islands,VN-13,Quảng Ninh,265.9,121.6
+vietnam-with-islands,VN-14,Hòa Bình,166.6,149.8
+vietnam-with-islands,VN-15,Hà Tây,182.1,137.0
+vietnam-with-islands,VN-18,Ninh Bình,193.0,178.7
+vietnam-with-islands,VN-20,Thái Bình,220.3,161.8
+vietnam-with-islands,VN-21,Thanh Hóa,160.3,190.0
+vietnam-with-islands,VN-22,Nghệ An,140.2,228.6
+vietnam-with-islands,VN-23,Hà Tĩnh,190.5,279.8
+vietnam-with-islands,VN-24,Quảng Bình,216.2,325.1
+vietnam-with-islands,VN-25,Quảng Trị,250.0,366.9
+vietnam-with-islands,VN-26,Thừa Thiên–Huế,284.1,386.6
+vietnam-with-islands,VN-27,Quảng Nam,303.3,432.7
+vietnam-with-islands,VN-28,Kon Tum,304.9,470.2
+vietnam-with-islands,VN-29,Quảng Ngãi,338.8,461.3
+vietnam-with-islands,VN-30,Gia Lai,309.9,524.0
+vietnam-with-islands,VN-31,Bình Định,354.0,507.5
+vietnam-with-islands,VN-32,Phú Yên,360.1,555.9
+vietnam-with-islands,VN-33,Đắk Lắk,317.0,577.7
+vietnam-with-islands,VN-34,Khánh Hòa,360.1,601.7
+vietnam-with-islands,VN-35,Lâm Đồng,304.5,631.8
+vietnam-with-islands,VN-36,Ninh Thuận,351.0,633.4
+vietnam-with-islands,VN-37,Tây Ninh,208.4,652.7
+vietnam-with-islands,VN-39,Đồng Nai,261.2,668.0
+vietnam-with-islands,VN-40,Bình Thuận,314.0,670.7
+vietnam-with-islands,VN-41,Long An,206.9,687.3
+vietnam-with-islands,VN-43,Bà Rịa–Vũng Tàu,255.7,739.6
+vietnam-with-islands,VN-44,An Giang,157.7,694.7
+vietnam-with-islands,VN-45,Đồng Tháp,177.9,695.7
+vietnam-with-islands,VN-46,Tiền Giang,216.2,704.1
+vietnam-with-islands,VN-47,Kiên Giang,132.2,726.8
+vietnam-with-islands,VN-49,Vĩnh Long,199.8,719.2
+vietnam-with-islands,VN-50,Bến Tre,221.8,721.0
+vietnam-with-islands,VN-51,Trà Vinh,214.4,735.0
+vietnam-with-islands,VN-52,Sóc Trăng,196.3,746.2
+vietnam-with-islands,VN-53,Bắc Kạn,192.1,62.9
+vietnam-with-islands,VN-54,Bắc Giang,224.3,112.9
+vietnam-with-islands,VN-55,Bạc Liêu,176.9,760.0
+vietnam-with-islands,VN-56,Bắc Ninh,206.1,127.2
+vietnam-with-islands,VN-57,Bình Dương,234.1,662.6
+vietnam-with-islands,VN-58,Bình Phước,248.5,630.2
+vietnam-with-islands,VN-59,Cà Mau,151.9,773.9
+vietnam-with-islands,VN-61,Hải Dương,219.6,135.8
+vietnam-with-islands,VN-63,Hà Nam,199.2,159.4
+vietnam-with-islands,VN-66,Hưng Yên,204.8,144.4
+vietnam-with-islands,VN-67,Nam Định,213.8,177.6
+vietnam-with-islands,VN-68,Phú Thọ,155.5,116.0
+vietnam-with-islands,VN-69,Thái Nguyên,193.1,95.5
+vietnam-with-islands,VN-70,Vĩnh Phúc,177.4,114.4
+vietnam-with-islands,VN-71,Điện Biên,37.8,93.2
+vietnam-with-islands,VN-72,Đắk Nông,286.9,604.6
+vietnam-with-islands,VN-73,Hậu Giang,180.3,735.9
+vietnam-with-islands,VN-CT,Cần Thơ,176.3,718.4
+vietnam-with-islands,VN-DN,Đà Nẵng,308.6,402.8
+vietnam-with-islands,VN-HN,Hà Nội,193.6,125.9
+vietnam-with-islands,VN-HP,Hải Phòng,239.8,144.2
+vietnam-with-islands,VN-SG,Hồ Chí Minh,236.5,684.4

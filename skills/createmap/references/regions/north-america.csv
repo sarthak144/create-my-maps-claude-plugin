@@ -1,48 +1,65 @@
-id,name,center_x,center_y
-AG,Antigua and Barbuda,301.5,413.8
-AI,Anguilla,297.9,411.2
-AW,Aruba,278.5,427.7
-BB,Barbados,307.8,425.8
-BL,Saint Barthelemy,298.5,412.2
-BM,Bermuda,293.1,367.5
-BQ,"Bonaire,  Saint Eustachius and Saba",290.6,421.0
-BS,Bahamas,262.0,394.0
-BZ,Belize,226.5,414.3
-CA,Canada,205.5,173.2
-CR,Costa Rica,238.5,435.9
-CU,Cuba,251.7,401.4
-CW,Curaçao,281.4,428.6
-DM,Dominica,302.7,419.4
-DO,Dominican Republic,276.7,409.0
-GD,Grenada,301.8,428.9
-GL,Greenland,357.1,124.7
-GP,Guadeloupe,302.3,417.1
-GT,Guatemala,221.7,418.3
-HN,Honduras,232.8,421.3
-HT,Haiti,269.8,408.7
-JM,Jamaica,258.0,411.5
-KN,Saint Kitts and Nevis,299.0,414.1
-KY,Cayman Islands,248.7,407.4
-LC,Saint Lucia,303.8,423.8
-MF,Saint Martin,297.9,411.6
-MQ,Martinique,303.6,421.6
-MS,Montserrat,300.4,415.6
-MX,Mexico,187.1,394.1
-NI,Nicaragua,235.2,426.7
-PA,Panama,250.1,439.4
-PM,Saint Pierre and Miquelon,317.0,314.2
-PR,Puerto Rico,287.9,411.2
-SV,El Salvador,225.4,424.1
-SX,Sint Maarten,297.9,411.8
-TC,Turks and Caicos Islands,272.9,400.5
-TT,Trinidad and Tobago,303.1,432.9
-UM-DQ,Jarvis Island,25.8,464.0
-UM-FQ,Baker Island,990.0,462.3
-UM-HQ,Howland Island,989.5,460.7
-UM-JQ,Johnston Atoll,1009.4,415.6
-UM-MQ,Midway Islands,987.4,380.9
-UM-WQ,Wake Island,942.6,408.1
-US,United States,141.9,298.4
-VC,Saint Vincent and the Grenadines,303.0,426.3
-VG,British Virgin Islands,293.9,410.2
-VI,US Virgin Islands,293.0,411.8
+map_id,id,name,center_x,center_y
+bermuda,BM-SG,St. George's Town,840.9,179.4
+bermuda,BM-SM,Smiths,633.2,498.3
+bermuda,BM-DE,Devonshire,517.5,551.7
+bermuda,BM-HC,City of Hamilton,418.3,594.3
+bermuda,BM-SC,St. George's,821.0,288.6
+bermuda,BM-HA,Hamilton,668.2,390.3
+bermuda,BM-PE,Pembroke,370.7,574.2
+bermuda,BM-PA,Paget,426.9,648.4
+bermuda,BM-WA,Warwick,310.4,705.6
+bermuda,BM-SO,Southampton,163.8,763.7
+bermuda,BM-SA,Sandys,110.9,578.4
+canada,CA-AB,Alberta,233.3,852.6
+canada,CA-BC,British Columbia,129.8,857.1
+canada,CA-MB,Manitoba,408.4,852.6
+canada,CA-NB,New Brunswick,668.6,972.8
+canada,CA-NL,Newfoundland and Labrador,724.5,865.5
+canada,CA-NS,Nova Scotia,699.3,986.7
+canada,CA-NT,Northwest Territories,195.5,510.2
+canada,CA-NU,Nunavut,449.0,448.4
+canada,CA-ON,Ontario,504.4,925.8
+canada,CA-PE,Prince Edward Island,697.6,970.9
+canada,CA-QC,Quebec,651.0,854.8
+canada,CA-SK,Saskatchewan,316.9,852.6
+canada,CA-YT,Yukon,77.3,664.4
+greenland,GL-NP,Northeast Greenland National Park,541.0,334.5
+greenland,GL-QE,Qeqqata,407.9,808.5
+greenland,GL-SM,Sermersooq,537.0,785.3
+greenland,GL-KU,Kujalleq,448.1,927.0
+greenland,GL-QT,Qeqertalik,402.3,732.5
+greenland,GL-AV,Avannaata,306.6,467.2
+mexico,MX-AGU,Aguascalientes,400.3,300.8
+mexico,MX-BCN,Baja California,73.2,70.1
+mexico,MX-BCS,Baja California Sur,151.7,268.2
+mexico,MX-CAM,Campeche,691.7,372.8
+mexico,MX-CHP,Chiapas,653.3,452.6
+mexico,MX-CHH,Chihuahua,304.6,115.8
+mexico,MX-COA,Coahuila,411.5,158.1
+mexico,MX-COL,Colima,357.5,377.7
+mexico,MX-DIF,Distrito Federal,482.8,373.6
+mexico,MX-DUR,Durango,337.2,231.2
+mexico,MX-GUA,Guanajuato,436.9,331.2
+mexico,MX-GRO,Guerrero,457.5,415.3
+mexico,MX-HID,Hidalgo,487.5,341.9
+mexico,MX-JAL,Jalisco,369.3,332.9
+mexico,MX-MEX,México,472.1,372.6
+mexico,MX-MIC,Michoacán,411.9,377.3
+mexico,MX-MOR,Morelos,484.8,388.7
+mexico,MX-NAY,Nayarit,328.7,306.3
+mexico,MX-NEL,Nuevo León,464.1,206.4
+mexico,MX-OAX,Oaxaca,554.7,429.5
+mexico,MX-PUE,Puebla,514.8,370.9
+mexico,MX-QUE,Querétaro,464.7,333.1
+mexico,MX-ROO,Quintana Roo,758.5,361.6
+mexico,MX-SLP,San Luis Potosí,452.2,277.8
+mexico,MX-SIN,Sinaloa,274.2,226.1
+mexico,MX-SON,Sonora,167.5,95.5
+mexico,MX-TAB,Tabasco,646.3,408.6
+mexico,MX-TAM,Tamaulipas,494.2,221.0
+mexico,MX-TLA,Tlaxcala,507.3,369.2
+mexico,MX-VER,Veracruz,556.1,359.3
+mexico,MX-YUC,Yucatán,736.1,337.7
+mexico,MX-ZAC,Zacatecas,395.0,272.1
+st-pierre-miquelon,PM-ML,Miquelon-Langlade,388.5,439.3
+st-pierre-miquelon,PM-SP,Saint-Pierre,615.7,868.4

@@ -37,10 +37,11 @@ def load_catalog():
         return {r["map_id"]: r for r in csv.DictReader(f)}
 
 
-def load_regions(map_id):
-    p = os.path.join(REF, "regions", map_id + ".csv")
-    with open(p, newline="", encoding="utf-8") as f:
-        return list(csv.DictReader(f))
+def load_regions(map_id, catalog=None):
+    """Regions for one map, from the category file named in catalog.csv's regions_file column."""
+    info = (catalog or load_catalog())[map_id]
+    with open(os.path.join(REF, info["regions_file"]), newline="", encoding="utf-8") as f:
+        return [r for r in csv.DictReader(f) if r["map_id"] == map_id]
 
 
 class Matcher:
@@ -91,7 +92,7 @@ def build(spec, via="claude"):
         hint = difflib.get_close_matches(str(map_id), list(catalog), n=5)
         die(f"unknown map {map_id!r}. Run find_map.py. Close: {', '.join(hint) or 'none'}")
     info = catalog[map_id]
-    regions = load_regions(map_id)
+    regions = load_regions(map_id, catalog)
     m = Matcher(regions)
     mode = MODES.get(str(spec.get("mode", "flat")).lower())
     if not mode:

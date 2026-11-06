@@ -25,9 +25,14 @@ def main(argv):
         print(__doc__)
         return
     if argv[0] == "--regions":
-        with open(os.path.join(REF, "regions", argv[1] + ".csv"), newline="", encoding="utf-8") as f:
+        info = {r["map_id"]: r for r in rows()}.get(argv[1])
+        if not info:
+            print(f"Unknown map id: {argv[1]}")
+            return
+        with open(os.path.join(REF, info["regions_file"]), newline="", encoding="utf-8") as f:
             for r in csv.DictReader(f):
-                print(f"{r['id']}\t{r['name']}")
+                if r["map_id"] == argv[1]:
+                    print(f"{r['id']}\t{r['name']}")
         return
     cat = rows()
     if argv[0] == "--list":

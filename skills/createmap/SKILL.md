@@ -26,7 +26,7 @@ The scripts are in this skill's folder: `${CLAUDE_SKILL_DIR}` in Claude, or the 
    - `number` (gradient) for continuous quantities: population, GDP, rates, percentages.
    - `logic` (threshold rules) for fixed bands or tiers, such as "above 50% = green".
    - `flat` when the user picks each region's color themselves.
-5. **Write the spec** to a file such as `spec.json`, following `references/spec.md`. In `regions`, key each entry by region name or region id. The script matches names fuzzily, so you don't need to look up ids for well-known regions. For dense maps (hundreds of districts or constituencies), check the exact names first with `find_map.py --regions <map_id>` or by reading `references/regions/<map_id>.csv`.
+5. **Write the spec** to a file such as `spec.json`, following `references/spec.md`. In `regions`, key each entry by region name or region id. The script matches names fuzzily, so you don't need to look up ids for well-known regions. For dense maps (hundreds of districts or constituencies), check the exact names first with `find_map.py --regions <map_id>` or by reading the rows for that map in its regions file (the `regions_file` column of `references/catalog.csv`).
 6. **Build it:** `python3 ${CLAUDE_SKILL_DIR}/scripts/make_map.py spec.json`. Read the report it prints. If any names show up as unmatched or wrongly fuzzy-matched, fix those keys in the spec and run the script again.
 7. **Deliver:**
    - The script prints a line starting `[Open the map](`. Copy that whole line into your reply exactly as printed, character for character. Don't retype the link, don't reorder its parameters, and don't add spaces or line breaks inside it: one wrong character breaks the map. Never show the link as a bare URL; it must stay a clickable "Open the map" link.
@@ -57,4 +57,4 @@ If the script reports that the link is too long (very large maps with every regi
 - `scripts/make_map.py`: validate a spec and build the link, plus an optional `--csv` import file.
 - `references/spec.md`: full spec format with an example for each mode. Read it before writing your first spec.
 - `references/catalog.csv`: every map with its id, label, category, region count and canvas size.
-- `references/regions/<map_id>.csv`: the valid regions for each map (id, name, and center point in map units).
+- `references/regions/<category>.csv`: the valid regions for every map, grouped by category (map_id, id, name, and center point in map units). `catalog.csv` says which file holds each map.
