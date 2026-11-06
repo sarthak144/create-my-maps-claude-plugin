@@ -1,0 +1,111 @@
+{
+"american-samoa": [
+["AS-WT","Western"],
+["AS-SW","Swains Island"],
+["AS-RI","Rose Atoll"],
+["AS-MA","Manu'a"],
+["AS-ET","Eatern"]
+],
+"australia": [
+["AU-NT","Northern Territory"],
+["AU-WA","Western Australia"],
+["AU-ACT","Australian Capital Territory"],
+["AU-NSW","New South Wales"],
+["AU-SA","South Australia"],
+["AU-VIC","Victoria"],
+["AU-QLD","Queensland"],
+["AU-TAS","Tasmania"]
+],
+"cocos-keeling": [
+["CC","Cocos (Keeling) Islands"]
+],
+"fiji-east": [
+["FJ-N","Northern"],
+["FJ-E","Eastern"]
+],
+"fiji-west": [
+["FJ-N","Northern"],
+["FJ-E","Eastern"],
+["FJ-R","Rotuma"],
+["FJ-W","Western"],
+["FJ-C","Central"]
+],
+"french-polynesia": [
+["PF-WI","Windward Islands"],
+["PF-MI","Marquesas Islands"],
+["PF-AI","Austral Islands"],
+["PF-LI","Leeward Islands"],
+["PF-TG","Tuāmotu-Gambier"]
+],
+"guam": [
+["6601004650","Agana Heights"],
+["6601007250","Agat"],
+["6601013100","Asan"],
+["6601017650","Barrigada"],
+["6601026100","Chalan Pago-Ordot"],
+["6601028050","Dededo"],
+["6601034800","Hagåtña"],
+["6601036500","Inarajan"],
+["6601046250","Mangilao"],
+["6601050150","Merizo"],
+["6601051450","Mongmong-Toto-Maite"],
+["6601059250","Piti"],
+["6601062500","Santa Rita"],
+["6601065750","Sinajana"],
+["6601069650","Talofofo"],
+["6601071600","Tamuning"],
+["6601078750","Umatac"],
+["6601083300","Yigo"],
+["6601084600","Yona"]
+],
+"new-zealand": [
+["NZ-AUK","Auckland"],
+["NZ-BOP","Bay of Plenty"],
+["NZ-CAN","Canterbury"],
+["NZ-CIT","Chatham Islands Territory"],
+["NZ-GIS","Gisborne District"],
+["NZ-HKB","Hawke's Bay"],
+["NZ-MBH","Marlborough District"],
+["NZ-MWT","Manawatu-Wanganui"],
+["NZ-NSN","Nelson City"],
+["NZ-NTL","Northland"],
+["NZ-OTA","Otago"],
+["NZ-STL","Southland"],
+["NZ-TAS","Tasman District"],
+["NZ-TKI","Taranaki"],
+["NZ-WKO","Waikato"],
+["NZ-WGN","Wellington"],
+["NZ-WTC","West Coast"]
+],
+"northern-mariana": [
+["69100","Rota"],
+["69110","Saipan"],
+["69120","Tinian"],
+["69085","Northern Islands"]
+],
+"samoa": [
+["WS-AA","A'ana"],
+["WS-AL","Aiga-i-le-Tai"],
+["WS-AT","Atua"],
+["WS-FA","Fa'asaleleaga"],
+["WS-GE","Gaga'emauga"],
+["WS-GI","Gagaifomauga"],
+["WS-PA","Palauli"],
+["WS-SA","Satupa'itea"],
+["WS-TU","Tuamasaga"],
+["WS-VF","Va'a-o-Fonoti"],
+["WS-VS","Vaisigano"]
+],
+"solomon-islands": [
+["SB-CE","Central"],
+["SB-CH","Choiseul"],
+["SB-GU","Guadalcanal"],
+["SB-CT","Capital Territory"],
+["SB-IS","Isabel"],
+["SB-MK","Makira-Ulawa"],
+["SB-ML","Malaita"],
+["SB-RB","Rennell and Bellona"],
+["SB-TE","Temotu"],
+["SB-WE","Western"]
+]
+}

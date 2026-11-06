@@ -5,15 +5,15 @@ description: Make colored maps (choropleths, election maps, category maps, heat 
 
 # Create My Maps
 
-You turn a request like "map India's population by state" or "color the 2024 US election results" into a link that opens the finished map on createmymaps.com, where the user can tweak and export it as PNG, SVG or PDF.
+You turn a request like "map India's population by state" or "color the 2024 US election results" into a link that opens the finished map on createmymaps.com, where the user can tweak it and export it as PNG, SVG or PDF.
 
-The skill ships with the full map catalog: 458 maps and the exact region ids for each. You never draw a map yourself. You produce a small JSON spec, and `scripts/make_map.py` validates it and builds the link.
+You never draw a map yourself. You write one link that names the map, the coloring and each region's value, following `references/link-format.md`. When the link opens, the app matches the region names and builds the map. No code is needed.
 
-The scripts are in this skill's folder: `${CLAUDE_SKILL_DIR}` in Claude, or the folder that contains this SKILL.md elsewhere. They need Python 3 and nothing else. If you are not Claude, add `--via <your name>` (for example `--via chatgpt`) when you run `make_map.py`.
+This skill ships with the full map catalog in this skill's folder: 458 maps and the exact regions of each.
 
 ## Workflow
 
-1. **Find the candidate maps.** Run `python3 ${CLAUDE_SKILL_DIR}/scripts/find_map.py <words>` (for example `india states`, `usa counties`, `world`, `bihar assembly`). Keep the maps whose region level matches the data. State data goes on a states map, not on a districts map. If a label says "(Old)", the "(New)" or "(updated)" version is the default for current data, for example `india-new` over `india`.
+1. **Find the candidate maps.** Search `references/catalog.json` by keyword (for example "India", "Counties", "Assembly", "World"). Each line is one map: its id, label, category, region count and the regions file that lists its regions. Keep the maps whose region level matches the data. State data goes on a states map, not on a districts map. If a label says "(Old)", the "(New)" or "(updated)" version is the default for current data, for example `india-new` over `india`.
 2. **Ask before building, in one message.** Unless the user has already settled these points or said "just make it", ask up to three short questions, each with numbered options and your recommended default marked. Ask only the questions whose answer would change the map:
    - **Which map**, when the search found real alternatives. Examples: for the world, the standard view or a country-specific view (India-, China-, Russia- or Morocco-centric borders, or the Great Lakes variant). For India, current or older state boundaries, or states vs constituencies. For the USA, with or without territories, states or counties.
    - **Style**: color bands (clear, readable classes) or a smooth gradient, or the categories to use. Also the color scheme or theme if it matters.
@@ -21,40 +21,35 @@ The scripts are in this skill's folder: `${CLAUDE_SKILL_DIR}` in Claude, or the 
 
    End with "Reply with numbers, or say **go** for the defaults." If a tool for asking multiple-choice questions is available, use it instead of plain text. Ask only once: after the reply, build without further questions. Never ask about spelling or name matching.
 3. **Get the data.** Use the user's data if they gave any. Otherwise research it or use your knowledge, and say which values are estimates and from roughly which year.
-4. **Choose the coloring mode** (details in `references/spec.md`):
+4. **Choose the coloring mode** (details in `references/link-format.md`):
    - `tag` (categories) for distinct classes: party, winner, status, yes/no, membership.
    - `number` (gradient) for continuous quantities: population, GDP, rates, percentages.
    - `logic` (threshold rules) for fixed bands or tiers, such as "above 50% = green".
    - `flat` when the user picks each region's color themselves.
-5. **Write the spec** to a file such as `spec.json`, following `references/spec.md`. In `regions`, key each entry by region name or region id. The script matches names fuzzily, so you don't need to look up ids for well-known regions. For dense maps (hundreds of districts or constituencies), check the exact names first with `find_map.py --regions <map_id>` or by reading the rows for that map in its regions file (the `regions_file` column of `references/catalog.csv`).
-6. **Build it:** `python3 ${CLAUDE_SKILL_DIR}/scripts/make_map.py spec.json`. Read the report it prints. If any names show up as unmatched or wrongly fuzzy-matched, fix those keys in the spec and run the script again.
+5. **Check the region names.** For well-known regions (countries, US states, Indian states) use their usual names. For dense or unfamiliar maps (counties, districts, constituencies), look up the map's regions in its regions file (named in `catalog.json`) and use those exact names. Use the region's id instead when its name contains a comma (all US county names do, such as "North Slope, AK") or when two regions share a name.
+6. **Write the link** following `references/link-format.md`.
 7. **Deliver:**
-   - The script prints a line starting `[Open the map](`. Copy that whole line into your reply exactly as printed, character for character. Don't retype the link, don't reorder its parameters, and don't add spaces or line breaks inside it: one wrong character breaks the map. Never show the link as a bare URL; it must stay a clickable "Open the map" link.
+   - Give the link as a clickable markdown link, `[Open the map](https://createmymaps.com/app?…#p=1&…)`. Never show it as a bare URL, and keep it on one line with no spaces inside.
    - Add one or two lines on what the map shows and the data source or year.
    - Briefly list any regions left blank and any values you estimated.
-   - Don't paste the spec into the reply.
 
-If the script reports that the link is too long (very large maps with every region filled), it writes a CSV instead. Give the user that CSV and tell them to open createmymaps.com/app, create a project on the same map, and use **Import → Import Excel/CSV**.
-
-**If you can't run code**, don't stop and don't refuse: write a plain link by hand instead, following "Plain links" in `references/spec.md`. For example: `[Open the map](https://createmymaps.com/app#p=1&map=usa-mt&mode=number&title=Schools+by+county&data=Yellowstone:120,Missoula:85)`. The app matches the region names when the link opens. Never try to hand-encode the `#z=` format.
+**If the map has hundreds of regions with data**, a link gets too long to paste reliably. Past about 300 regions, give the user an import file instead, as described under "Very large maps" in `references/link-format.md`.
 
 **If exact figures would need heavy processing** (for example, adding up hundreds of records by county) and you can't do it, still make the map. Use the best figures you can reasonably get, label them clearly as estimates in your reply, and offer to rebuild the map from exact data. A clearly labeled estimated map is more useful than no map.
 
 ## Design defaults
 
-- **Title:** always set a short `title`. Put the metric and its unit in `legend_title` (for example "Population (millions)"), not in the values.
+- **Title, description and source:** always set a short `title`. Add a one-sentence `desc` and the data `source` when you have them. Put the metric and its unit in `legend` (for example "Population (millions)"), not in the values.
 - **Missing data:** in `number` and `logic` modes the app colors a region with no value as if it were 0. On a world map, that would color every unlisted country with the lowest color. So either fill every region (research the full list), or switch to `tag` mode with value bands plus a grey "No data" category. Don't leave regions blank in these modes unless the lowest color is honest for them.
+- **Unlisted regions in `tag` mode** keep the map's default fill (light blue in the default theme). Don't give a category a similar light blue, or add a grey "No data" category for the rest.
 - **Values:** plain numbers only. No `%`, no units, no thousands separators.
-- **Categories:** keep to about 8. Use the conventional colors where they exist, such as US parties (Republican `#CC3433`, Democratic `#1F5AA6`) and Indian parties (BJP saffron `#FF9933`, INC `#19AAED`).
+- **Categories:** keep to about 8. Use the conventional colors where they exist, such as US parties (Republican `CC3433`, Democratic `1F5AA6`) and Indian parties (BJP saffron `FF9933`, INC `19AAED`).
 - **Gradients:** run light to dark. For values that diverge around a midpoint, use a three-stop scale (red, white, blue).
 - **Colors:** use 6-digit hex and colorblind-safe palettes. Dark themes (`midnight`, `neon`, `dusk`, `ocean`, `blueprint`, `sandstone`, `forest`) need bright fills.
-- **Labels:** use `labels: "full"` or `"abbr"` only when there are fewer than about 30 regions. Keep `"none"` for dense maps.
-- **Annotations:** add a `source` line at the bottom (`annotations` with `position: "bottom"`) when the data has a source. Use pins sparingly, for example to mark the highest and lowest regions. A pin can name a `region` and it will be placed automatically.
+- **Labels:** use `labels=full` or `labels=abbr` only when there are fewer than about 30 regions. Leave labels off for dense maps.
 
 ## Files
 
-- `scripts/find_map.py`: search the catalog, list a category, or print one map's regions.
-- `scripts/make_map.py`: validate a spec and build the link, plus an optional `--csv` import file.
-- `references/spec.md`: full spec format with an example for each mode. Read it before writing your first spec.
-- `references/catalog.csv`: every map with its id, label, category, region count and canvas size.
-- `references/regions/<category>.csv`: the valid regions for every map, grouped by category (map_id, id, name, and center point in map units). `catalog.csv` says which file holds each map.
+- `references/link-format.md`: the link format, with an example for each mode and the import-file format for very large maps. Read it before writing your first link.
+- `references/catalog.json`: every map, one per line, with its id, label, category, region count and regions file.
+- `references/regions/*.json`: the regions of every map as `[id, name]` pairs, one per line, grouped by category. India is split over three files.
