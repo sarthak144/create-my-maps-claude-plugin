@@ -23,7 +23,8 @@ https://createmymaps.com/app?utm_source=claude&utm_medium=plugin&utm_campaign=cr
 | `title` | The map title. |
 | `legend` | The legend heading: the metric and its unit, for example `Population+(millions)`. |
 | `desc` | One sentence describing the map. |
-| `source` | Where the data comes from, for example `World+Bank+2023`. |
+| `source` | The main source: plain text such as `World+Bank+2023`, a link, or both as `Name+—+https://…`. |
+| `source2`, `source3`… | Further sources in the same format (up to `source9`). The frame prints the main one and "+N sources". |
 | `theme` | `default`, `midnight`, `parchment`, `neon`, `arctic`, `dusk`, `moss`, `sandstone`, `coral`, `slate`, `sunrise`, `ocean`, `forest`, `rose`, `lavender` or `blueprint`. |
 | `labels` | `abbr` or `full` to print region names on the map. Leave it out for no labels. |
 
