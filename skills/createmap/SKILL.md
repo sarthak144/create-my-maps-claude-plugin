@@ -1,6 +1,6 @@
 ---
 name: createmap
-description: Make colored maps (choropleths, election maps, category maps, heat maps) of countries, states, provinces, districts, constituencies or world regions, and return a link that opens the finished, editable map on createmymaps.com. Use when the user asks to map, color, shade or visualize data by country/state/region, wants an election or results map, a "map of X by Y", or a blank map to color in.
+description: Make colored maps (choropleths, election maps, category maps, heat maps) of countries, states, provinces, districts, constituencies, world regions or fictional worlds, and return a link that opens the finished, editable map on createmymaps.com. Use when the user asks to map, color, shade or visualize data by country/state/region, wants an election or results map, a "map of X by Y", or a blank map to color in.
 ---
 
 # Create My Maps
@@ -9,7 +9,7 @@ You turn a request like "map India's population by state" or "color the 2024 US 
 
 You never draw a map yourself. You write one link that names the map, the coloring and each region's value, following `references/link-format.md`. When the link opens, the app matches the region names and builds the map. No code is needed.
 
-This skill ships with the full map catalog in this skill's folder: 458 maps and the exact regions of each.
+This skill ships with the full map catalog in this skill's folder: 463 maps and the exact regions of each. Besides real geography, it includes a few fictional worlds (category "Fictional Worlds") for fan and story maps.
 
 ## Workflow
 
@@ -39,13 +39,14 @@ This skill ships with the full map catalog in this skill's folder: 458 maps and 
 
 ## Design defaults
 
-- **Title, description and source:** always set a short `title`. Add a one-sentence `desc` and the data `source` when you have them. Put the metric and its unit in `legend` (for example "Population (millions)"), not in the values.
+- **Title, description and sources:** always set a short `title`. Add a one-sentence `desc` and the data `source` when you have them. When the data comes from several places, cite each one: `source`, then `source2`, `source3` and so on. Put the metric and its unit in `legend` (for example "Population (millions)"), not in the values.
 - **Missing data:** in `number` and `logic` modes the app colors a region with no value as if it were 0. On a world map, that would color every unlisted country with the lowest color. So either fill every region (research the full list), or switch to `tag` mode with value bands plus a grey "No data" category. Don't leave regions blank in these modes unless the lowest color is honest for them.
 - **Unlisted regions in `tag` mode** keep the map's default fill (light blue in the default theme). Don't give a category a similar light blue, or add a grey "No data" category for the rest.
 - **Values:** plain numbers only. No `%`, no units, no thousands separators.
 - **Categories:** keep to about 8. Use the conventional colors where they exist, such as US parties (Republican `CC3433`, Democratic `1F5AA6`) and Indian parties (BJP saffron `FF9933`, INC `19AAED`).
 - **Gradients:** run light to dark. For values that diverge around a midpoint, use a three-stop scale (red, white, blue).
-- **Colors:** use 6-digit hex and colorblind-safe palettes. Dark themes (`midnight`, `neon`, `dusk`, `ocean`, `blueprint`, `sandstone`, `forest`) need bright fills.
+- **Colors:** use 6-digit hex and colorblind-safe palettes.
+- **Contrast:** every fill must stand out from the map background, including both ends of a gradient. Dark themes (`midnight`, `neon`, `dusk`, `ocean`, `blueprint`, `sandstone`, `forest`) need bright fills. On light themes, start a gradient at a visible tint rather than near-white. Make the two ends of a gradient clearly different, and keep neighboring categories easy to tell apart.
 - **Labels:** use `labels=full` or `labels=abbr` only when there are fewer than about 30 regions. Leave labels off for dense maps.
 
 ## Files

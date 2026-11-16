@@ -1,22 +1,45 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "create-my-maps",
-  "version": "0.5.0",
-  "description": "Turn data into colored maps of 458 countries, states, districts and constituencies, and get a link that opens the finished, editable map on createmymaps.com.",
-  "author": { "name": "Sarthak Arora", "url": "https://createmymaps.com" },
+  "version": "0.6.0",
+  "description": "Turn data into colored maps of 463 countries, states, districts and constituencies, and get a link that opens the finished, editable map on createmymaps.com.",
+  "author": {
+    "name": "Sarthak Arora",
+    "url": "https://createmymaps.com"
+  },
   "homepage": "https://createmymaps.com",
   "repository": "https://github.com/sarthak144/create-my-maps-claude-plugin",
   "license": "MIT",
-  "keywords": ["maps", "choropleth", "election map", "data visualization", "geography"],
+  "keywords": [
+    "maps",
+    "choropleth",
+    "election map",
+    "data visualization",
+    "geography"
+  ],
   "extensions": {
     "com.openai": {
       "interface": {
         "displayName": "Create My Maps",
-        "shortDescription": "Turn data into colored maps of countries, states and districts",
-        "longDescription": "Ask for a map in plain words, such as \"map India's population by state\" or \"color the 2024 US election by winner\". The assistant picks the right map from 458 (the world, continents, countries, US states and counties, Indian states and constituencies, and more), matches your data to the exact regions, and returns a link that opens the finished map on createmymaps.com, ready to edit and export as PNG, SVG or PDF.",
+        "shortDescription": "Turn data into colored maps",
+        "longDescription": "Ask for a map in plain words, such as \"map India's population by state\" or \"color the 2024 US election by winner\". The assistant picks the right map from 463 (the world, continents, countries, US states and counties, Indian states and constituencies, and more), matches your data to the exact regions, and returns a link that opens the finished map on createmymaps.com, ready to edit and export as PNG, SVG or PDF.",
         "developerName": "Sarthak Arora",
         "category": "Data and Analytics",
+        "capabilities": [
+          "Color a map of the world, a continent, a country, US states or counties, or Indian states and constituencies",
+          "Match your region names or ids to the exact regions of one of 463 maps",
+          "Shade regions by a numeric value with a light-to-dark gradient and a legend",
+          "Color regions by category, such as election winner, party or status",
+          "Apply threshold rules, such as above 50 percent is green and below is red",
+          "Set a title, legend heading, description, data source line and region labels",
+          "Return a link that opens the finished map on createmymaps.com, ready to edit",
+          "Export the finished map as PNG, SVG or PDF from createmymaps.com",
+          "Produce an import file for very large maps with hundreds of regions"
+        ],
         "websiteURL": "https://createmymaps.com",
+        "supportURL": "https://createmymaps.com/contact",
+        "privacyPolicyURL": "https://createmymaps.com/privacy",
+        "termsOfServiceURL": "https://createmymaps.com/terms",
         "defaultPrompt": [
           "Map India's population by state",
           "Color a world map by GDP per capita",
@@ -25,6 +48,9 @@
         "brandColor": "#2563EB",
         "composerIcon": "./assets/icon.png",
         "logo": "./assets/logo.png"
+      },
+      "publication": {
+        "release_notes": "First public release: 463 maps (the world, continents, countries, US states and counties, Indian states and constituencies, and a few fictional worlds), four coloring styles, several cited sources per map, and a sharper icon."
       }
     }
   }
