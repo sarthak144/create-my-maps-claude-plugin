@@ -7,6 +7,7 @@ Ask Claude for a map and get a link that opens it finished on [createmymaps.com]
 - 463 maps, including the world, continents, countries, US states and counties, Indian states, assembly and parliamentary constituencies, and a few fictional worlds for fan maps.
 - Four coloring styles: categories (for example election winners), gradients (for example population), threshold rules (for example percentage bands) and flat colors.
 - Titles, legends, descriptions, region labels, 16 color themes, and one or more cited sources.
+- Up to three insight callouts printed on the map beside the regions they describe, and marker pins.
 
 ## Use it
 

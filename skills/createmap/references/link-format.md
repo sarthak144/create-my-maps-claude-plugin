@@ -27,6 +27,8 @@ https://createmymaps.com/app?utm_source=claude&utm_medium=plugin&utm_campaign=cr
 | `source2`, `source3`… | Further sources in the same format (up to `source9`). The frame prints the main one and "+N sources". |
 | `theme` | `default`, `midnight`, `parchment`, `neon`, `arctic`, `dusk`, `moss`, `sandstone`, `coral`, `slate`, `sunrise`, `ocean`, `forest`, `rose`, `lavender` or `blueprint`. |
 | `labels` | `abbr` or `full` to print region names on the map. Leave it out for no labels. |
+| `notes` | 1–3 insight callouts shown on the map as small cards, each pointing at its region: `Region:Text\|Region:Text`. Separate callouts with `\|`; the first `:` separates the region from the text. The text may contain commas. Start an entry with `:` for a note that points at nothing. The app places each card in empty space near its region and sizes it to the map. |
+| `pins` | Marker pins on regions, `Region:Label\|Region:Label`, placed at each region's centre. |
 
 ## Writing rules
 
@@ -35,6 +37,7 @@ https://createmymaps.com/app?utm_source=claude&utm_medium=plugin&utm_campaign=cr
 - **Region names:** use the region's usual name or its exact name from the regions file. Small spelling slips are fine, because the app matches names leniently. If a name contains a comma, or two regions share a name, use the region's id from the regions file instead.
 - **Colors** are 6-digit hex without `#`: `CC3433`.
 - **Numbers** are plain: `52.3`, not `52.3%` or `1,200`.
+- **Notes and pins** use `|` between entries and `:` after the region name. Their text may contain commas but never `|`, `#`, `%`, `&` or `=`. Keep each note to one short sentence.
 - Regions you leave out of `data` stay uncolored. When the map opens, the app lists any names it couldn't match.
 - Deliver the link as `[Open the map](…)`, never as a bare URL, with no spaces or line breaks inside it.
 
@@ -62,6 +65,12 @@ A color per region (`flat`):
 
 ```
 [Open the map](https://createmymaps.com/app?utm_source=claude&utm_medium=plugin&utm_campaign=createmap#p=1&map=europe&mode=flat&title=Countries+I+have+visited&data=France:10B981,Italy:10B981,Spain:10B981)
+```
+
+Gradient with insight callouts (`notes`) and a pin (`pins`):
+
+```
+[Open the map](https://createmymaps.com/app?utm_source=claude&utm_medium=plugin&utm_campaign=createmap#p=1&map=united-kingdom-counties&mode=number&title=Licensed+cars+by+UK+county&legend=Cars+(thousands)&colors=FFF5EB,7F2704&data=Lancashire:2720,Greater+London:2631,Scotland:2600,Rutland:26&notes=Lancashire:Most+cars,+about+2.7m+including+Greater+Manchester|Rutland:Fewest+cars,+about+26k&pins=Greater+London:London&source=DfT+vehicle+licensing+statistics)
 ```
 
 US counties need their ids, because every county name contains a comma:

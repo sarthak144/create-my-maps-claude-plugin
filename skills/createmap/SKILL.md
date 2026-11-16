@@ -7,7 +7,7 @@ description: Make colored maps (choropleths, election maps, category maps, heat 
 
 You turn a request like "map India's population by state" or "color the 2024 US election results" into a link that opens the finished map on createmymaps.com, where the user can tweak it and export it as PNG, SVG or PDF.
 
-You never draw a map yourself. You write one link that names the map, the coloring and each region's value, following `references/link-format.md`. When the link opens, the app matches the region names and builds the map. No code is needed.
+You never draw a map yourself. You write one link that names the map, the coloring, each region's value and the insight callouts to print on the map, following `references/link-format.md`. When the link opens, the app matches the region names and builds the map. No code is needed.
 
 This skill ships with the full map catalog in this skill's folder: 463 maps and the exact regions of each. Besides real geography, it includes a few fictional worlds (category "Fictional Worlds") for fan and story maps.
 
@@ -28,7 +28,8 @@ This skill ships with the full map catalog in this skill's folder: 463 maps and 
    - `flat` when the user picks each region's color themselves.
 5. **Check the region names.** For well-known regions (countries, US states, Indian states) use their usual names. For dense or unfamiliar maps (counties, districts, constituencies), look up the map's regions in its regions file (named in `catalog.json`) and use those exact names. Use the region's id instead when its name contains a comma (all US county names do, such as "North Slope, AK") or when two regions share a name.
 6. **Write the link** following `references/link-format.md`.
-7. **Deliver:**
+7. **Add the insights.** Put the one to three headline findings on the map as `notes` callouts, each tied to its region: the largest, the smallest, a surprise, or whatever the user asked about. One short sentence each, with the figure. The title, description and sources have their own parameters and print in the frame around the map, so never repeat them in a note. Use `pins` only when the user asks to mark places.
+8. **Deliver:**
    - Give the link as a clickable markdown link, `[Open the map](https://createmymaps.com/app?…#p=1&…)`. Never show it as a bare URL, and keep it on one line with no spaces inside.
    - Add one or two lines on what the map shows and the data source or year.
    - Briefly list any regions left blank and any values you estimated.
@@ -47,6 +48,7 @@ This skill ships with the full map catalog in this skill's folder: 463 maps and 
 - **Gradients:** run light to dark. For values that diverge around a midpoint, use a three-stop scale (red, white, blue).
 - **Colors:** use 6-digit hex and colorblind-safe palettes.
 - **Contrast:** every fill must stand out from the map background, including both ends of a gradient. Dark themes (`midnight`, `neon`, `dusk`, `ocean`, `blueprint`, `sandstone`, `forest`) need bright fills. On light themes, start a gradient at a visible tint rather than near-white. Make the two ends of a gradient clearly different, and keep neighboring categories easy to tell apart.
+- **Insights:** 1–3 `notes` callouts, never more. Each names its region (`Lancashire:Most cars, about 2.7m`) so the app can place it in empty space beside that region and draw a pointer to it. Don't give coordinates; the app lays the cards out.
 - **Labels:** use `labels=full` or `labels=abbr` only when there are fewer than about 30 regions. Leave labels off for dense maps.
 
 ## Files

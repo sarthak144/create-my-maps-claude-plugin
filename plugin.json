@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "create-my-maps",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "description": "Turn data into colored maps of 463 countries, states, districts and constituencies, and get a link that opens the finished, editable map on createmymaps.com.",
   "author": {
     "name": "Sarthak Arora",
@@ -24,7 +24,7 @@
         "shortDescription": "Turn data into colored maps",
         "longDescription": "Ask for a map in plain words, such as \"map India's population by state\" or \"color the 2024 US election by winner\". The assistant picks the right map from 463 (the world, continents, countries, US states and counties, Indian states and constituencies, and more), matches your data to the exact regions, and returns a link that opens the finished map on createmymaps.com, ready to edit and export as PNG, SVG or PDF.",
         "developerName": "Sarthak Arora",
-        "category": "Data and Analytics",
+        "category": "Data & Analytics",
         "capabilities": [
           "Color a map of the world, a continent, a country, US states or counties, or Indian states and constituencies",
           "Match your region names or ids to the exact regions of one of 463 maps",
@@ -32,6 +32,7 @@
           "Color regions by category, such as election winner, party or status",
           "Apply threshold rules, such as above 50 percent is green and below is red",
           "Set a title, legend heading, description, data source line and region labels",
+          "Print up to three insight callouts on the map, each pointing at its region, plus marker pins",
           "Return a link that opens the finished map on createmymaps.com, ready to edit",
           "Export the finished map as PNG, SVG or PDF from createmymaps.com",
           "Produce an import file for very large maps with hundreds of regions"
@@ -50,7 +51,7 @@
         "logo": "./assets/logo.png"
       },
       "publication": {
-        "release_notes": "First public release: 463 maps (the world, continents, countries, US states and counties, Indian states and constituencies, and a few fictional worlds), four coloring styles, several cited sources per map, and a sharper icon."
+        "release_notes": "Insight callouts and pins on the map (notes= and pins= in the link), placed by the app beside the region they describe. 463 maps, four coloring styles, several cited sources per map."
       }
     }
   }
